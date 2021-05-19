@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Sevi documentation',
-  tagline: 'Finance made simple',
+  tagline: 'understanding our platform',
   url: 'https://sevi.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
