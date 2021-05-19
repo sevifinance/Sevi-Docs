@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # About Sevi
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Sevi is about fair finance
 
 ## Getting Started
 
