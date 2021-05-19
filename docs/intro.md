@@ -4,7 +4,8 @@ sidebar_position: 1
 
 # About Sevi
 
-Sevi is about fair finance
+Sevi is about fair finance.
+stuff here will go to the website
 
 ## Getting Started
 
