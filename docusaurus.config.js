@@ -6,15 +6,15 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/seviS.svg',
   organizationName: 'Sevi', // Usually your GitHub org/user name.
   projectName: 'Sevi', // Usually your repo name.
   themeConfig: {
     navbar: {
-      // title: 'Sevi',
+      title: 'Sevi',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/sevi.svg',
+        alt: 'Sevi Logo',
+        src: 'img/seviS.svg',
       },
       items: [
         {
