@@ -2,6 +2,9 @@
 sidebar_position: 1
 ---
 
-# This is the first page
+
+# Mobile
+
+## describe the mobile app
 
 Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
