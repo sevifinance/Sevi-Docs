@@ -1,10 +1,4 @@
----
-sidebar_position: 110
----
-
-
 # Terms & Conditions
-
 
 
 ## Pay in instalments

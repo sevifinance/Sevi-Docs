@@ -1,8 +1,3 @@
----
-sidebar_position: 100
----
-
-
 # Privacy Policy 
 Sevi built the Sevi app as a Free app. This SERVICE is provided by Sevi at no cost to the Borrower and is intended for use as is.
 

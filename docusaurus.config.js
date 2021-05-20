@@ -23,12 +23,17 @@ module.exports = {
           position: 'left',
           label: 'Documentation',
         },
-        // {to: '/blog', label: 'Blog', position: 'left'},
-        // {
-        //   href: 'https://github.com/facebook/docusaurus',
-        //   label: 'GitHub',
-        //   position: 'right',
-        // },
+        // { to: '/blog', label: 'Blog', position: 'left' },
+        {
+          to: "/privacy",
+          label: 'Privacy',
+          position: 'right',
+        },
+        {
+          to: "/termsConditions",
+          label: 'Terms & Conditions',
+          position: 'right',
+        },
       ],
     },
     // footer: {
