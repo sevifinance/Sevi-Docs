@@ -85,7 +85,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/sevifinance/Sevi-Docs',
+            'https://github.com/sevifinance/Sevi-Docs/blob/main',
         },
         // blog: {
         //   showReadingTime: true,
