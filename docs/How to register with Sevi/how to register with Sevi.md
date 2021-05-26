@@ -14,13 +14,11 @@ You can choose to start the registration process right away by clicking `SKIP` o
 
 <img src="Images/firstlaunch.png" width="350">
 
-
 With this done, you will be directed to begin the registration process. Follow the onscreen instructions and provide us with the necessary information.
 
 ## Step 1: Enter your phone number
 
 <img src="Images/Phonenumber.png" width="350">
-
 
 **NOTE:** Kindly confirm your country code before proceeding
 
@@ -29,19 +27,16 @@ With this done, you will be directed to begin the registration process. Follow t
 
 <img src="Images/Verificationcode.png" width="350">
 
-
 ## Step 3: Enter your full legal name
 You will then be required to enter your Full legal names as they appear on your Identity Card (ID)
 
 <img src="Images/KYCname.png" width="350">
-
 
 **NOTE:** Ensure that the name you type is the same as the one on your ID card. If the document uses abbreviations or initials, please use your full names instead. Make sure there are no spelling mistakes
 
 ## Step4:	Provide your ID number 
 
 <img src="Images/KYCIDNumber.png" width="350">
-
 
 ## Step 5: Take a Selfie Picture.
 
@@ -50,7 +45,6 @@ You will then be required to enter your Full legal names as they appear on your 
 ## Step 6: 	Take a picture of your ID card: both front and back
 
 <img src="Images/KYCID.png" width="350">
-
 
 **NOTE:** Take a picture of the ID in a well-lit environment.  Ensure all four corners of the document are visible, and there are no reflections (if your phone’s flashlight is on, be sure to switch it off). Clean the lens, hold the phone steady, and align the camera for your ID to fit the frame. Proceed to take the picture and ensure that the information on it is legible. If you’re not sure of the quality, you can retake the photo.
 
