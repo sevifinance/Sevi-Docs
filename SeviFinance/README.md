@@ -1,2 +1,0 @@
-# SeviFinance
- SeviFinancefirstcommit
