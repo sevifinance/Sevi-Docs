@@ -2,8 +2,7 @@
 sidebar_position: 1
 ---
 
-# About Sevi
-
+# About Sevi 
 
 ## Introduction
 Reach a bigger target market and sell more products by providing a ‘Pay in Installment’ option to your
@@ -32,3 +31,4 @@ technologies can unleash the full potential of this model.
 
 ## Mission
 We empower entrepreneurs with access to ethical and affordable credit to grow their business.
+
