@@ -12,14 +12,14 @@ To get the app, proceed to **Play store**, and search for Sevi. Tap `INSTAll`, a
 The first time you launch the Sevi App you will be provided with a few introductory details about SEVI.
 You can choose to start the registration process right away by clicking `SKIP` or you could start with a brief intro by clicking `NEXT`
 
-![fisrlaunch](images/firstlaunch.png)
+<img src="Images/firstlaunch.png" width="350">
 
 
 With this done, you will be directed to begin the registration process. Follow the onscreen instructions and provide us with the necessary information.
 
 ## Step 1: Enter your phone number
 
-![phonenumber](images/Phonenumber.png)
+<img src="Images/Phonenumber.png" width="350">
 
 
 **NOTE:** Kindly confirm your country code before proceeding
@@ -27,20 +27,20 @@ With this done, you will be directed to begin the registration process. Follow t
 ## STep 2: Phone Number Verification
  A text message containing a One-Time-Password (OTP) will be sent to your text inbox. Enter the OTP as the verification code and verify your confirmation code.
 
-![phonenumberverification](images/Verificationcode.png)
+<img src="Images/Verificationcode.png" width="350">
 
 
 ## Step 3: Enter your full legal name
 You will then be required to enter your Full legal names as they appear on your Identity Card (ID)
 
-![fulllegalname](images/KYCname.png)
+<img src="Images/KYCname.png" width="350">
 
 
 **NOTE:** Ensure that the name you type is the same as the one on your ID card and there are no spelling mistakes
 
 ## Step4:	Provide your ID number 
 
-![idnumber](images/KYCIDNumber.png)
+<img src="Images/KYCIDNumber.png" width="350">
 
 
 ## Step 5: Take a Selfie Picture.
@@ -49,7 +49,7 @@ You will then be required to enter your Full legal names as they appear on your 
 
 ## Step 6: 	Take a picture of your ID card: Both front and back
 
-![kycid](images/KYCID.png)
+<img src="Images/KYCID.png" width="350">
 
 
 **NOTE:** Take a picture of the ID in a well-lit environment.  Ensure all four corners of the document are visible, and there are no reflections (if your phone’s flashlight is 
@@ -64,7 +64,7 @@ After successfully going through the KYC process, the last step is to create a f
 ## ALL DONE!!
 You should now be logged into your Sevi App and you can start interacting with the App. Congratulations!!
 
-![seviapphomepage](images/Personalwallet2.png)
+<img src="Images/Personalwallet2.png" width="350">
 
 
 
