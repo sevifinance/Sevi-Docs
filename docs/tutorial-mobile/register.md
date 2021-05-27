@@ -25,7 +25,7 @@ With this done, you will be directed to begin the registration process. Follow t
 **NOTE:** Kindly confirm your country code before proceeding
 
 ## STep 2: Phone Number Verification
- A text message containing a One-Time-Password will be sent to your text inbox. Enter the OTP as the verification code and verify your confirmation code.
+ A text message containing a One-Time-Password will be sent to your text inbox. Enter the OTP as the verification code and verify your confirmation code by tapping `VERIFY CONFIRMATION CODE`.
 
 
 ## Step 3: Enter your full legal name
@@ -35,7 +35,7 @@ You will then be required to enter your Full legal names as they appear on your 
 ![alt text](register/KYCname.png "Logo Title Text 1")
 
 
-**NOTE:** Ensure that the name you type is the same as the one on your ID card. If the document uses abbreviations or initials, please use your full names instead. Make sure there are no spelling mistakes
+**NOTE:** Ensure that the name you type is the same as the one on your ID card and Make sure there are no spelling mistakes
 
 ## Step4:	Provide your ID number 
 Kindly enter you ID number and tap `NEXT`
