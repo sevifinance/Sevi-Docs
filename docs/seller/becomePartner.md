@@ -4,7 +4,15 @@ sidebar_position: 1
 
 # Better together
 
-Save on operational cost and improve your PAR. SEVI enables micro lenders like MFIs, suppliers, banks and e-commerce platforms to provide group loans to their clients at low cost and low risk.
+
+Integrate Sevi as a payment option at check out of your webshop. Let your customers pay for the products they want now, but pay later. It is hassle free as Sevi does the KYC and follows up on payments. 
+
+Your customer gets a clear overview of the Payments to be paid and when. We hope you help you saving operational cost and improve your PAR. Sevi enables micro lenders like MFIs, suppliers, banks and e-commerce platforms to provide group loans to their clients at low cost and low risk.
+
+Furthermore the deposit is put in escrow and released on successful delivery, giving assurance to you and your customer.
+
+A loan is money from someone else, which you borrow for a specific period. So not repaying a loan is basically the same as stealing money. It is of utmost importance to realize repayment is a moral obligation. Sevi assists you to meet this obligation by sending you reminders to repay and making repayment very easy.
+
 
 ## Automated KYC
 
@@ -30,10 +38,3 @@ Learn how to build your business, use loans wisely and build a better future for
 
 API integrations and dashboards to integrate with your processes and core banking
 
-# Become a business partners
-
-If you want to start selling your products in credit. We need some information.
-
-fill out the following form to
-
-https://docs.google.com/forms/d/1mUztnf8nKTFpK0t-ZOGYM4WG9tqK_jGTbZij1aRGUyE/edit

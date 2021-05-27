@@ -2,15 +2,7 @@
 sidebar_position: 1
 ---
 
-# Pay in instalments
-
-Integrate Sevi as a payment option at check out of your webshop. Let you customers pay for the products they want now, but pay later. It is hassle free as Sevi does the KYC and follows up on loan repayment. 
-
-Your customer gets a clear overview of instalments to be paid and when. 
-
-Furthermore the deposit is put in escrow and released on successful delivery, giving assurance to you and your customer.
-
-A loan is money from someone else, which you borrow for a specific period. So not repaying a loan is basically the same as stealing money. It is of utmost importance to realize repayment is a moral obligation. Sevi assists you to meet this obligation by sending you reminders to repay and making repayment very easy.
+# Pay in installments
 
 From SmartPhone
 You receive reminders to pay your instalments
@@ -24,9 +16,9 @@ Go to M-Pesa and fill out the payment details from the SMS, before the due date
 On the due date the instalment is auto collected from your Sevi account
 
 
-## What if i can't repay on time?
+## What if i can't pay on time?
 
-When you do not repay on time the following actions are taken:
+When you do not pay on time the following actions are taken:
 
 - Each day you pay late you loose Sevi Trust points, which also effects the Trust Score of your group.
 - There is a seven day grace period.
@@ -39,7 +31,7 @@ If through some unforeseen event outside of your sphere of influence you are not
 
 
 
-## How do I qualify for payment in instalments?
+## How do I qualify for payment in installments?
 
 Whether you qualifies for payment in instalments is decided by your merchant. Merchants use different criteria such as:
 

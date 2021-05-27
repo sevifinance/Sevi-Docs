@@ -1,16 +1,22 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
-# Provide credit or provide your products/services on credit. 
+# Pay later
+
+Give your customers the options to Pay later. 
+
+Depending on the type of business your are running. We agree to one or multiple payment configurations.
 
 
-## Sevi’s loan management system exists of: 
+## Sevi’s management system exists of: 
 
-- Loan application
-- Loan approval
-- Loan reminders
-- Loan repayment
+- payment application
+- payment approval, by delivery
+- reminders
+- weekly or monthly payments
 - Debt recovery
 - Portfolio management
+- selling statistics
+- API for bookkeeping integrations
 
