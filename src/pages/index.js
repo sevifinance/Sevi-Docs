@@ -4,8 +4,6 @@ import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
-import HomepageFeatures from '../components/HomepageFeatures';
-// import { Helmet } from "react-helmet";
 import Head from '@docusaurus/Head';
 
 function HomepageHeader() {
@@ -34,7 +32,7 @@ export default function Home() {
     <Layout
       title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
-      <Head>
+      {/* <Head>
         <script>
           {(function (d, t) {
             var BASE_URL = "https://app.chatwoot.com";
@@ -49,7 +47,7 @@ export default function Home() {
             }
           })(document, "script")}
         </script>
-      </Head>
+      </Head> */}
       <HomepageHeader />
       <main>
         {/* <HomepageFeatures /> */}
