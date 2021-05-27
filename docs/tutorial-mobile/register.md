@@ -28,8 +28,6 @@ With this done, you will be directed to begin the registration process. Follow t
  A text message containing a One-Time-Password will be sent to your text inbox. Enter the OTP as the verification code and verify your confirmation code.
 
 
-![alt text](register/Verificationcode.png "Logo Title Text 1")
-
 ## Step 3: Enter your full legal name
 You will then be required to enter your Full legal names as they appear on your Identity Card (ID)
 
@@ -40,9 +38,7 @@ You will then be required to enter your Full legal names as they appear on your 
 **NOTE:** Ensure that the name you type is the same as the one on your ID card. If the document uses abbreviations or initials, please use your full names instead. Make sure there are no spelling mistakes
 
 ## Step4:	Provide your ID number 
-
-
-![alt text](register/KYCIDNumber.png "Logo Title Text 1")
+Kindly enter you ID number and tap `NEXT`
 
 
 ## Step 5: Take a Selfie Picture.
