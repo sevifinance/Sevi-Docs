@@ -20,7 +20,7 @@ With this done, you will be directed to begin the registration process. Follow t
 
 ## Step 1: Enter your phone number
 
-![alt text](register/Phone verification.png "Logo Title Text 1")
+![alt text](register/Phone&verification.png "Logo Title Text 1")
 
 **NOTE:** Kindly confirm your country code before proceeding
 
