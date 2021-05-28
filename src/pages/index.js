@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import clsx from 'clsx';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
@@ -27,27 +27,55 @@ function HomepageHeader() {
 
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
+
+  useEffect(() => {
+    // alert('Finished loading');
+  }, []);
+
+
+  const RunHeadScript = () => {
+
+    function Chatwoot(d, t) {
+      var BASE_URL = "https://app.chatwoot.com";
+      var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+      g.src = BASE_URL + "/packs/js/sdk.js";
+      s.parentNode.insertBefore(g, s);
+      g.onload = function () {
+        window.chatwootSDK.run({
+          websiteToken: 'GMuxr6usUmx4gsGyzaZoSQVG',
+          baseUrl: BASE_URL
+        })
+      }
+    }
+
+    Chatwoot(document, "script")
+
+  }
+
   return (
 
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
-      {/* <Head>
+      description="Learn about our platform">
+      <Head>
         <script>
-          {(function (d, t) {
-            var BASE_URL = "https://app.chatwoot.com";
-            var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-            g.src = BASE_URL + "/packs/js/sdk.js";
-            s.parentNode.insertBefore(g, s);
-            g.onload = function () {
+          {
+            /* {RunHeadScript()}*/
+            `(function(d,t) {
+            var BASE_URL="https://app.chatwoot.com";
+            var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+            g.src=BASE_URL+"/packs/js/sdk.js";
+            s.parentNode.insertBefore(g,s);
+            g.onload=function(){
               window.chatwootSDK.run({
                 websiteToken: 'GMuxr6usUmx4gsGyzaZoSQVG',
                 baseUrl: BASE_URL
               })
             }
-          })(document, "script")}
+          })(document,"script");`
+          }
         </script>
-      </Head> */}
+      </Head>
       <HomepageHeader />
       <main>
         {/* <HomepageFeatures /> */}

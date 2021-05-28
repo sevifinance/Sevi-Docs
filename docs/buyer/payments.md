@@ -16,7 +16,13 @@ This options is always available. It's generally, from financial standpoint also
 
 
 ### Pay later proposals
-Depending our whom you buy the product from you get one or multiple pay later proposals.
+Depending on whom you buy the product from. You get a one or more suitable pay later proposals.
+
+
+**They can vary from**
+- Single payment of full amount in the future
+- Deposits can be a part of any proposal.
+- The payments can be sliced per month or per week
 
 
 #### What if i you do not see any pay later proposals?
@@ -27,4 +33,4 @@ There can be multiple reasons:
 - Your credit score is negative
 - We are missing some of your details.
 
-The best way to finding the correct awnser to this questions is contacting support.
+The best way to finding the correct answer to this questions is contacting support.
