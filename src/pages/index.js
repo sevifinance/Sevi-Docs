@@ -5,6 +5,10 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import Head from '@docusaurus/Head';
+import { Client as Styletron } from 'styletron-engine-atomic';
+import { Provider as StyletronProvider } from 'styletron-react';
+import { LightTheme, BaseProvider, styled } from 'baseui';
+// import { StatefulInput } from 'baseui/input';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -27,40 +31,17 @@ function HomepageHeader() {
 
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
-
-  useEffect(() => {
-    // alert('Finished loading');
-  }, []);
-
-
-  const RunHeadScript = () => {
-
-    function Chatwoot(d, t) {
-      var BASE_URL = "https://app.chatwoot.com";
-      var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-      g.src = BASE_URL + "/packs/js/sdk.js";
-      s.parentNode.insertBefore(g, s);
-      g.onload = function () {
-        window.chatwootSDK.run({
-          websiteToken: 'GMuxr6usUmx4gsGyzaZoSQVG',
-          baseUrl: BASE_URL
-        })
-      }
-    }
-
-    Chatwoot(document, "script")
-
-  }
+  const engine = new Styletron();
 
   return (
-
+    // <StyletronProvider value={engine}>
+    //   <BaseProvider theme={LightTheme}>
     <Layout
       title={`Hello from ${siteConfig.title}`}
       description="Learn about our platform">
       <Head>
         <script>
           {
-            /* {RunHeadScript()}*/
             `(function(d,t) {
             var BASE_URL="https://app.chatwoot.com";
             var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
@@ -81,6 +62,7 @@ export default function Home() {
         {/* <HomepageFeatures /> */}
       </main>
     </Layout>
-
+    //   </BaseProvider>
+    // </StyletronProvider >
   );
 }

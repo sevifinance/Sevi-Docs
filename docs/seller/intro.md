@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Better together
+# Introduction
 
 
 Integrate Sevi as a payment option at check out of your webshop. Let your customers pay for the products they want now, but pay later. It is hassle free as Sevi does the KYC and follows up on payments. 
@@ -36,5 +36,5 @@ Learn how to build your business, use loans wisely and build a better future for
 
 ## Custom builds
 
-API integrations and dashboards to integrate with your processes and core banking
+API integrations and dashboards to integrate with your processes, like banking, accounting or other platform
 
