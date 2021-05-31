@@ -5,7 +5,7 @@ sidebar_position: 1
 # Payment options
 To see the available payment proposals. Make sure you
 - [Downloaded the app](https://sevi.io/app)
-- [Register your account](/docs/tutorial-mobile/register) 
+- [Register your account](/docs/mobile/register) 
 - Created an order at your favorite store or webshop. 
 
 Once the above is completed go to the Sevi app and click on purchases. Here you will see a list of all your purchases. Click a purchase that it still pending for delivery. Once done you will find a list of the payment methods.

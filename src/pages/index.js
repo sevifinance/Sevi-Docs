@@ -1,14 +1,10 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import clsx from 'clsx';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import Head from '@docusaurus/Head';
-import { Client as Styletron } from 'styletron-engine-atomic';
-import { Provider as StyletronProvider } from 'styletron-react';
-import { LightTheme, BaseProvider, styled } from 'baseui';
-// import { StatefulInput } from 'baseui/input';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -31,11 +27,8 @@ function HomepageHeader() {
 
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
-  const engine = new Styletron();
 
   return (
-    // <StyletronProvider value={engine}>
-    //   <BaseProvider theme={LightTheme}>
     <Layout
       title={`Hello from ${siteConfig.title}`}
       description="Learn about our platform">
@@ -62,7 +55,5 @@ export default function Home() {
         {/* <HomepageFeatures /> */}
       </main>
     </Layout>
-    //   </BaseProvider>
-    // </StyletronProvider >
   );
 }
