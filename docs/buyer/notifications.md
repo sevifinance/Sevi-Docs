@@ -4,7 +4,7 @@ sidebar_position: 20
 
 # Notifications
 
-We help you remind be sending SMS or Pushnotification. To make sure you do not forget any intermediate payments.
+We help you by reminding you of important actions and payments be sending SMS or Push notifications. 
 
 ## From SmartPhone
 You receive reminders to pay your instalments
