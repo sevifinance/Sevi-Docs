@@ -3,9 +3,7 @@ sidebar_position: 5
 ---
 
 
-
 # Free direct payments
-
 
 If you have a smartphone why not pay with an app. Create clear payment requests to your customers. No wrong phone number or paybill typing. No charges.
  

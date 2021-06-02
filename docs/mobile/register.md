@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 
-# How to register with Sevi?
+# How to register
 Opening an account with Sevi is very easy. Please follow the following to create your Sevi account within a few minutes:
 
 > **NOTE:** Sevi Registration is exclusively through the Android APP.
