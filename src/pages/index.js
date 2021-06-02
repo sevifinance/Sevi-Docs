@@ -4,8 +4,6 @@ import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
-import HomepageFeatures from '../components/HomepageFeatures';
-// import { Helmet } from "react-helmet";
 import Head from '@docusaurus/Head';
 
 function HomepageHeader() {
@@ -29,25 +27,27 @@ function HomepageHeader() {
 
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
-  return (
 
+  return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Learn about our platform">
       <Head>
         <script>
-          {(function (d, t) {
-            var BASE_URL = "https://app.chatwoot.com";
-            var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-            g.src = BASE_URL + "/packs/js/sdk.js";
-            s.parentNode.insertBefore(g, s);
-            g.onload = function () {
+          {
+            `(function(d,t) {
+            var BASE_URL="https://app.chatwoot.com";
+            var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+            g.src=BASE_URL+"/packs/js/sdk.js";
+            s.parentNode.insertBefore(g,s);
+            g.onload=function(){
               window.chatwootSDK.run({
                 websiteToken: 'GMuxr6usUmx4gsGyzaZoSQVG',
                 baseUrl: BASE_URL
               })
             }
-          })(document, "script")}
+          })(document,"script");`
+          }
         </script>
       </Head>
       <HomepageHeader />
@@ -55,6 +55,5 @@ export default function Home() {
         {/* <HomepageFeatures /> */}
       </main>
     </Layout>
-
   );
 }

@@ -1,16 +1,20 @@
 ---
-sidebar_position: 1
+sidebar_position: 30
 ---
 
-# Pay in instalments
+# FAQ
 
-Integrate Sevi as a payment option at check out of your webshop. Let you customers pay for the products they want now, but pay later. It is hassle free as Sevi does the KYC and follows up on loan repayment. 
 
-Your customer gets a clear overview of instalments to be paid and when. 
+### What if i you do not see any pay later option?
+There can be multiple reasons: 
 
-Furthermore the deposit is put in escrow and released on successful delivery, giving assurance to you and your customer.
+- Your seller reached his maximum outstanding credit
+- You have an other active credit
+- Your credit score is negative
+- We are missing some of your details.
 
-A loan is money from someone else, which you borrow for a specific period. So not repaying a loan is basically the same as stealing money. It is of utmost importance to realize repayment is a moral obligation. Sevi assists you to meet this obligation by sending you reminders to repay and making repayment very easy.
+The best way to finding the correct answer to this questions is contacting support.
+
 
 From SmartPhone
 You receive reminders to pay your instalments
@@ -24,9 +28,9 @@ Go to M-Pesa and fill out the payment details from the SMS, before the due date
 On the due date the instalment is auto collected from your Sevi account
 
 
-## What if i can't repay on time?
+### What if i can't pay on time?
 
-When you do not repay on time the following actions are taken:
+When you do not pay on time the following actions are taken:
 
 - Each day you pay late you loose Sevi Trust points, which also effects the Trust Score of your group.
 - There is a seven day grace period.
@@ -39,13 +43,17 @@ If through some unforeseen event outside of your sphere of influence you are not
 
 
 
-## How do I qualify for payment in instalments?
+### How do I qualify for payment in installments?
 
-Whether you qualifies for payment in instalments is decided by your merchant. Merchants use different criteria such as:
+Whether you qualifies for payment in installments is decided by your merchant. Merchants use different criteria such as:
 
     Trust Score (e.g. the max amount is determined by the Trust Score )
     Being part of a group
     Size of the loan group (e.g. some set a minimum of 10 members)
     CRB rating (e.g. some require no members have a negative CRB rating)
 
-Whether you qualify for an idividual loan to your loan group is decided by your loan group. When a loan request is not approved by your loan group you will receive feedback on why it is not approved.
+Whether you qualify for an individual loan to your loan group is decided by your loan group. When a loan request is not approved by your loan group you will receive feedback on why it is not approved.
+
+<!-- 
+## 
+Sevi doesn’t dictate any payment conditions. You agree with your group or any other credit provider on the conditions of the credit. These conditions are communicated to you on check-out. -->
