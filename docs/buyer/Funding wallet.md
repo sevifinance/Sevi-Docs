@@ -22,8 +22,6 @@ Before you make any purchases or order products on Sevi, you will first need to 
 
 ## Step 4: Enter the number you wish to use to Top Up your wallet
 
-(Screenshot)
-
 ![alt text](/static/topup/topupnumber.png "Logo Title Text 1")
 
 You can either chose:
