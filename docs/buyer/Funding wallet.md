@@ -13,7 +13,7 @@ Before you make any purchases or order products on Sevi, you will first need to 
 
 ## Step 2: Enter the amount you wish to deposit into your Sevi wallet
 
-![alt text](/topup/topupamount.png "Logo Title Text 1")
+![alt text](/static/topup/topupamount.png "Logo Title Text 1")
 
 ## Step 3:	Select the Top Up method you wish to use
 
@@ -24,7 +24,7 @@ Before you make any purchases or order products on Sevi, you will first need to 
 
 (Screenshot)
 
-![alt text](/topup/topupnumber.png "Logo Title Text 1")
+![alt text](/static/topup/topupnumber.png "Logo Title Text 1")
 
 You can either chose:
 
