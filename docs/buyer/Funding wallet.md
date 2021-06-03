@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Funding Wallet
+# Funding Your Sevi Wallet
 
 Before you make any purchases or order products on Sevi, you will first need to top-up your wallet.
 
