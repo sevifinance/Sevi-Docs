@@ -9,7 +9,7 @@ Before you make any purchases or order products on Sevi, you will first need to 
 
 ## Step 1: Tap on the top up icon 
 
-![alt text](/topup/topupicon.png "Logo Title Text 1")
+![alt text](/static/topup/topupicon.png "Logo Title Text 1")
 
 ## Step 2: Enter the amount you wish to deposit into your Sevi wallet
 
