@@ -14,13 +14,13 @@ The first time you launch the Sevi App you will be provided with a few introduct
 You can choose to start the registration process right away by clicking `SKIP` or you could start with a brief intro by clicking `NEXT`
 
 
-![alt text](/static/register/firstlaunch.png "Logo Title Text 1")
+![alt text](/register/firstlaunch.png "Logo Title Text 1")
 
 With this done, you will be directed to begin the registration process. Follow the onscreen instructions and provide us with the necessary information.
 
 ## Step 1: Enter your phone number
 
-![alt text](/static/register/phoneverification.png "Logo Title Text 1")
+![alt text](/register/phoneverification.png "Logo Title Text 1")
 
 **NOTE:** Kindly confirm your country code before proceeding
 
@@ -32,7 +32,7 @@ With this done, you will be directed to begin the registration process. Follow t
 You will then be required to enter your Full legal names as they appear on your Identity Card (ID)
 
 
-![alt text](/static/register/KYCname.png "Logo Title Text 1")
+![alt text](/register/KYCname.png "Logo Title Text 1")
 
 
 **NOTE:** Ensure that the name you type is the same as the one on your ID card and Make sure there are no spelling mistakes
@@ -48,7 +48,7 @@ Kindly enter you ID number and tap `NEXT`
 ## Step 6: 	Take a picture of your ID card: both front and back
 
 
-![alt text](/static/register/KYCID.png "Logo Title Text 1")
+![alt text](/register/KYCID.png "Logo Title Text 1")
 
 
 **NOTE:** Take a picture of the ID in a well-lit environment.  Ensure all four corners of the document are visible, and there are no reflections (if your phone’s flashlight is on, be sure to switch it off). Clean the lens, hold the phone steady, and align the camera for your ID to fit the frame. Proceed to take the picture and ensure that the information on it is legible. If you’re not sure of the quality, you can retake the photo.
@@ -62,4 +62,4 @@ After successfully going through the KYC process, the last step is to create a f
 You should now be logged into your Sevi App. Congratulations
 
 
-![alt text](/static/register/Personalwallet2.png "Logo Title Text 1")
+![alt text](/register/Personalwallet2.png "Logo Title Text 1")
