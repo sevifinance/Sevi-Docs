@@ -17,8 +17,8 @@ The app and platform are fully operational in Kenya. We are now in the process o
 ▪	Preferably experience with Nest.js
 ▪	Loves the nitty-gritty, eye for detail
 ▪	Preferably experience with FinTech or financial services
-▪	Strong set of ownership for every deliverable  
-▪	Can work in a team as well as individually 
+▪	Strong set of ownership for every deliverable 
+▪	Can work in a team as well as individually
 ▪	Good communicative skills in Dutch and preferably English 
 ▪	Based in the Netherlands
 
