@@ -24,3 +24,15 @@ We enable a Woocommerce integrations via the Sevi Woocommerce plugin.
 
 3. Place your [Sevi API token](/docs/admin/API) into the Sevi Token field.
 
+
+
+
+4. When clicking "save" the setup process will initiate. You can check if the configs are set correctly by going to woocommerce > settings > advances > webhooks.
+   if you see items with the delivery adress starting with https://exodus.sevi.io then you are all setup correctly.
+
+
+### testing the service
+The most easy test, after the above setup is creating an order. Then going to the admin page and see if that order is listed as it should. 
+
+
+
