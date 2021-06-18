@@ -27,6 +27,9 @@ The proposals have multiple variables based on which the total cost per proposal
 - Late pay fees
 - Defaulting fees
 
+![alt text](/ordering/Checkout.png "Logo Title Text 1")
+
+
 
 ## Pay later proposals
 This options gives you the possibility to pay the full order amount somewhere in the future. The variables to calculate the cost from above list, apply for this proposal as well.
