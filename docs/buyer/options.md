@@ -27,7 +27,8 @@ The proposals have multiple variables based on which the total cost per proposal
 - Late pay fees
 - Defaulting fees
 
-![alt text](/ordering/Checkout.png "Logo Title Text 1")
+In the following example you see a loan of 3000, with late pay fees 
+![alt text](/ordering/Penalty fee structure (1).png "Logo Title Text 1")
 
 
 
