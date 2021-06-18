@@ -24,8 +24,13 @@ The proposals have multiple variables based on which the total cost per proposal
 - Deposits can be a part of this proposal.
 - The instalments can be paid per month or per week.
 - The risk fees, low risk generally means low fees.
-- Late pay fees
+- Late pay fees ( for the installment or for the total loan)
 - Defaulting fees
+
+Take for example a loan of 3000 with no deposit and 300 risk fees.
+The installments can be paid in 3 months / 12 weeks. 
+When the last payment is not made in time, the late pay fees are 500.
+After 90 days the loanee is reported to the CRB and has to pay an extra fee for retreiving the loan.
 
 ![alt text](/ordering/structure.png "Logo Title Text 1")
 
