@@ -27,6 +27,8 @@ The proposals have multiple variables based on which the total cost per proposal
 - Late pay fees
 - Defaulting fees
 
+![alt text](/ordering/Checkout.png "Logo Title Text 1")
+
 
 
 ## Pay later proposals
