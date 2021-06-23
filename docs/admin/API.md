@@ -2,6 +2,8 @@
 sidebar_position: 100
 ---
 
+# token
+
 Click settings and copy the token (JWT) from the admin portal in the token field at the plugin location.
 In the plugin settings grap your token from the admin portal and place it into the Sevi Token field.
 
