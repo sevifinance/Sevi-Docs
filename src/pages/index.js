@@ -33,7 +33,7 @@ export default function Home() {
       title={`Hello from ${siteConfig.title}`}
       description="Learn about our platform">
       <Head>
-        <script>
+        {/* <script>
           {
             `(function(d,t) {
             var BASE_URL="https://app.chatwoot.com";
@@ -46,21 +46,21 @@ export default function Home() {
                 baseUrl: BASE_URL
               })
             }
-          })(document,"script");`
+          })(document,"script")`
           }
         </script>
 <script>
-`window.addEventListener('chatwoot:ready', function () {
+{`window.addEventListener('chatwoot:ready', function () {
+  console.log("hi")
 window.chatwootSettings = {
   hideMessageBubble: false,
   position: 'left', // This can be left or right
   locale: 'en', // Language to be set
   type: 'standard', // [standard, expanded_bubble]
-};  
-});
-`
-
-<\script>
+} 
+})
+`}
+    </script> */}
       </Head>
       <HomepageHeader />
       <main>
