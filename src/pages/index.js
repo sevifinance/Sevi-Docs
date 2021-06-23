@@ -49,6 +49,18 @@ export default function Home() {
           })(document,"script");`
           }
         </script>
+<script>
+`window.addEventListener('chatwoot:ready', function () {
+window.chatwootSettings = {
+  hideMessageBubble: false,
+  position: 'left', // This can be left or right
+  locale: 'en', // Language to be set
+  type: 'standard', // [standard, expanded_bubble]
+};  
+});
+`
+
+<\script>
       </Head>
       <HomepageHeader />
       <main>
