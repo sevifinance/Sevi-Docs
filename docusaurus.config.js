@@ -21,7 +21,13 @@ module.exports = {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Documentation',
+          label: 'Buyer',
+        },
+        {
+          type: 'doc',
+          docId: 'intro',
+          position: 'left',
+          label: 'Developer',
         },
         // { to: '/blog', label: 'Blog', position: 'left' },
         {
