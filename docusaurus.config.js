@@ -21,9 +21,9 @@ module.exports = {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Buyer',
+          label: 'Documentation',
         },
-        {
+/*        {
           type: 'doc',
           docId: 'intro',
           position: 'left',
@@ -35,6 +35,8 @@ module.exports = {
           position: 'left',
           label: 'Developer',
         },
+*/        
+
         // { to: '/blog', label: 'Blog', position: 'left' },
         {
           to: "/privacy",
