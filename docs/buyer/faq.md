@@ -5,8 +5,8 @@ sidebar_position: 30
 # FAQ
 
 
-### What if i you do not see any pay later option? 
-There can be multiple reasons: 
+### What if i you do not see any pay later option?  
+There can be multiple reasons:  
 
 - Your seller reached his maximum outstanding credit
 - You have an other active credit
