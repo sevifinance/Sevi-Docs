@@ -25,17 +25,17 @@ module.exports = {
 };
 
 /**module.exports = {
-  Buyer: [
-    'introduction',
+  buyer: [
+    'intro',
     {
       type: 'category',
       label: 'Buyer',
       collapsed: false,
       items: [
-        'Buyer protection',
-        'FAQ',
-        'Funding wallet',
-        'Notifications',
+        'buyer/Funding wallet',
+        'buyer/buyerProtection',
+        'buyer/faq',
+        'buyer/groups',
       ],
     },
     {
@@ -43,15 +43,16 @@ module.exports = {
       label: 'Mobile app',
       collapsed: false,
       items: [
-          'Group',
-          'Register',
-          'Technical',
+          'mobile/group',
+          'mobile/register',
+          'mobile/technical',
           ],
         },
       ],
-  Seller: [
-    'customers',
-    'intro',
-    'transactions',
+  seller: [
+    'seller/customers',
+    'seller/intro',
+    'seller/transactions',
   ],
 };
+*/
