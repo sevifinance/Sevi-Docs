@@ -4,55 +4,48 @@ sidebar_position: 30
 
 # FAQ
 
-
-### What if i you do not see any pay later option?
-There can be multiple reasons: 
+### What if I you do not see any payment plan options?  
+There can be multiple reasons:  
 
 - Your seller reached his maximum outstanding credit
 - You have an other active credit
 - Your credit score is negative
 - We are missing some of your details.
 
-The best way to finding the correct answer to this questions is contacting support.
+The best way to finding the correct answer to this questions is contacting Sevi [support](/docs/support/).
 
 
-From SmartPhone
-You receive reminders to pay your instalments
-Click on a notification
-Follow the prompts to top-up your Sevi account before the due date
-On the due date the instalment is auto collected from your Sevi account
-
-From a feature phone
-You receive SMS reminders to pay your instalments
-Go to M-Pesa and fill out the payment details from the SMS, before the due date
-On the due date the instalment is auto collected from your Sevi account
-
-
-### What if i can't pay on time?
+### What if I can't pay on time?
 
 When you do not pay on time the following actions are taken:
 
-- Each day you pay late you loose Sevi Trust points, which also effects the Trust Score of your group.
-- There is a seven day grace period.
-- After seven days we will hand over your account to debt collection.
-- After ninety days you are officially at default and will be listed as such.
+- There is a seven day grace period per instalment payment.
+- During these seven days we send frequent reminders.
+- After seven days we charge a late fee and inform your supplier, who will follow up with you.
+we will hand over your account to debt collection.
+- After ninety days you are officially at default and we will hand over your account to debt collection and you will be listed as such. An additional late fee is charged to cover the recovery cost.
 
-See terms & conditions for more information.
+See ['Terms & Conditions'](/termsConditions) for more information.
 
-If through some unforeseen event outside of your sphere of influence you are not able to repay, we suggest you inform your group so they can step up for you and repay on your behalf. This way the group doesn’t loose Trust points and credibility at the your loan provider.
-
-
+If through some unforeseen event outside of your sphere of influence you are not able to repay, we suggest you inform your family, friends or saving group, so they can step up for you and repay on your behalf. They can pay into your Sevi account by the same details as provided in the [Top-up](/docs/buyer/topup) section of your app. 
 
 ### How do I qualify for payment in installments?
 
-Whether you qualifies for payment in installments is decided by your merchant. Merchants use different criteria such as:
+Whether you qualifies for payment in installments is decided by your supplier. Suppliers use different criteria such as:
 
-    Trust Score (e.g. the max amount is determined by the Trust Score )
-    Being part of a group
-    Size of the loan group (e.g. some set a minimum of 10 members)
-    CRB rating (e.g. some require no members have a negative CRB rating)
+- Trust Score (e.g. the max amount is determined by the Trust Score )
+- Being part of a group
+- Size of the loan group (e.g. some set a minimum of 10 members)
+- CRB rating (e.g. some require no members have a negative CRB rating)
 
-Whether you qualify for an individual loan to your loan group is decided by your loan group. When a loan request is not approved by your loan group you will receive feedback on why it is not approved.
+### I don't get a verification SMS 
+Please check if you entered your phone number correctly and try again. Click the `Resend OTP` button to receive a new code. Check if you have not blocked SMS from Sevi or its SMS provider AfricasTalking. If you still don’t receive an SMS please contact the Sevi [support](/docs/support/).
+
+### I forgot my PIN
+Please contact the Sevi helpdesk to restore your PIN. Contact Sevi [support](/docs/support/). 
+
+### My device is not supported 
+The Sevi app is currently available for Android vs. 5 and higher. The app will soon become availble for iPhone and Windows as well. If you do not have a smart phone you can still join through your agent. Please contact your agent and he/she is able to perform all actions on your behalf. 
 
 <!-- 
 ## 

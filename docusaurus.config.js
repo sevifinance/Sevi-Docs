@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Sevi documentation',
-  tagline: 'understanding your benefit',
+  title: 'User Guides',
+  tagline: 'All you need to know about how to use Sevi',
   url: 'https://sevi.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -11,7 +11,7 @@ module.exports = {
   projectName: 'Sevi', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Sevi',
+      title: 'Sevi', 
       logo: {
         alt: 'Sevi Logo',
         src: 'img/seviS.svg',
@@ -21,8 +21,23 @@ module.exports = {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Documentation',
+          label: 'About',
         },
+        {
+          to: "docs/buyer/introbuyer",
+          position: 'left',
+          label: 'Buyer',
+        },
+        {
+          to: "docs/seller/start",
+          position: 'left',
+          label: 'Seller',
+        },
+        {
+          to: "docs/developer/APItoken",
+          position: 'left',
+          label: 'Developer',
+        },     
         // { to: '/blog', label: 'Blog', position: 'left' },
         {
           to: "/privacy",

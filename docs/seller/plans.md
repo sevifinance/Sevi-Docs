@@ -2,20 +2,30 @@
 sidebar_position: 1
 ---
 
-# Payment options
-To see the available payment proposals. Make sure you
-- [Download the app](https://sevi.io/app)
-- [Register your account](/docs/mobile/register) 
-- Create an order at your favorite store or webshop. 
+# Payment plans
 
-Once the above is completed go to the Sevi app and click on purchases. Here you will see a list of all your purchases. Click a purchase that it still pending for delivery. Once done you will find a list of the payment methods.
+## Options
 
+**Option 1:** `DIRECT PAY` is a payment in full from your Sevi account to your supplier, this equals to a cash payment. 
+
+**Option 2:** `WEEKLY PAY`is a payment plan with weekly instalments. 
+
+**Option 3:** `MONTHLY PAY`is a payment plan with monthly instalments.
+
+**Option 4:** `AT ONCE`is a payment plan with one instalment at the end.
 
 ## Direct payment
 This options is always available. It's generally, from a financial standpoint, also the most attractive option. 
 
 ## Pay in installments
-Depending on whom you buy the product from. You get a one or more appropriate proposals. 
+Depending on e.g. the order size, your company and your customers personal track record you will be presented with different payment plan options. Each payment plan shows:
+- number of instalments to be made
+- instalment interval (weekly or monthly)
+- fees for using the payment plan
+- amount per instalment
+- deposit amount
+
+<img src="/ordering/agentpaymentoption1.png" alt="orders" width="400"/>
 
 **The variables**
 
@@ -27,6 +37,7 @@ The proposals have multiple variables based on which the total cost per proposal
 - Late pay fees ( for the installment or for the total loan)
 - Defaulting fees
 
+**Example**
 Take for example a loan of 3000 with no deposit and 300 risk fees.
 The installments can be paid in 3 months / 12 weeks. 
 When the last payment is not made in time, the late pay fees are 500.
@@ -34,9 +45,5 @@ After 90 days the loanee is reported to the CRB and has to pay an extra fee for 
 
 ![alt text](/ordering/structure.png "Logo Title Text 1")
 
-
-
-## Pay later proposals
-This options gives you the possibility to pay the full order amount somewhere in the future. The variables to calculate the cost from above list, apply for this proposal as well.
 
 

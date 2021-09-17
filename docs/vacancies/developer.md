@@ -7,10 +7,10 @@ sidebar_position: 8
 ## Introduction
 Small and medium enterprises are the backbone of stable economies, in terms of job creation and GDP. However, in many low-income countries these SMEs are missing. Access to affordable finance is one of the main hurdles for micro entrepreneurs and farmers to grow their business. 
 
-Sevi provides value chain financing in Kenya. Through our smartphone app sellers (e.g. producer, wholesaler) can sell their products on credit to their customers (e.g. small kiosk, vendors). The Sevi fund provides 80% upfront financing to the seller and the buyer pays through instalments. https://www.sevi.io
+Sevi provides 'Order Now, Pay Later' infrastructure in Kenya. Through our smartphone app sellers (e.g. producer, wholesaler) can sell their products on credit to their customers (e.g. small kiosk, vendors). The Sevi fund provides 80% upfront financing to the seller and the buyer pays through instalments. https://www.sevi.io
 
 ## Assignment
-The app and platform are fully operational in Kenya. We are now in the process of stabilizing the IT infrastructure, building tests, adding security, incorporating learnings from the market and scaling the infrastructure to other countries. You will be working with our development team to enhance our IT infrastructure and make it bullet proof. 
+The app and platform are fully operational in Kenya and  Uganda. We are now in the process of optimizing the IT infrastructure, building tests, adding security, incorporating learnings from the market and scaling the infrastructure to other countries. You will be working with our development team to enhance our IT infrastructure and make it bullet proof. 
 
 ## Whom are we looking for?
 ▪	Back-end developer experienced with Typescript 
