@@ -14,4 +14,4 @@ To run queries or mutation set an header with
 
 { Authorization: "token", account: "account"}
 
-[get your API token](/docs/admin/API)
+[get your API token](/docs/developer/API)
