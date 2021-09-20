@@ -12,7 +12,7 @@ Even though you are selling on credit, you get paid X% of the order value on del
 
 Sevi facilitates the payment option of Order now, Pay later. You remain in control of your products, pricing and customer relations. You are also able to [configure the credit conditions](/docs/seller/creditconfiguration), like duration and max amount, for your customers.
 
-<img src="/register/infographic.png" alt="infographic" width="500"/>
+<img src="/register/infographics.png" alt="infographic" width="500"/>
 
 ## What we offer
 
