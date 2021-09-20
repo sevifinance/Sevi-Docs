@@ -15,14 +15,14 @@ Go to the `Company account`, by swiping your personal account to the left. This 
 
 Click `CUSTOMERS` to go the customer section.
 
-<img src="/register/customersection.png" alt="verification" width="200"/>
+<img src="/register/customerssection.png" alt="verification" width="200"/>
 
 ## Invite a new customer
 Click `+`
 
 Add your customers phone number. The number can be entered manually or by selecting an existing contact from your phone's contactlist.
 
-<img src="/register/invite.png" alt="verification" width="420"/>
+<img src="/register/invites.png" alt="verification" width="420"/>
 
 ## Create a customer account on Sevi
 Since we offer a financial product we are obliged by law to KYC (Know your customer) a new customer. Don't worry, it doesn't take long. Your customers personal data is stored savely and will not be shared or sold. For more information see our [Privacy Policy](/privacy)

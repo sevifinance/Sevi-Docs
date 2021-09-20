@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Your customer management and performing tasks on behalf of your customers all happens from the Customers section. To go to your Customers section, go to your Company account and click `CUSTOMERS`. 
 
-<img src="/register/customersection.png" alt="verification" width="200"/>
+<img src="/register/customerssection.png" alt="verification" width="200"/>
 
 ## Customer section
 
