@@ -8,7 +8,7 @@ Are  you paying in cash and tying up your capital in stock? Ask your supplier to
 
 To start ordering now and pay later, your supplier needs to be a verified partner on the Sevi platform. If your supplier is not on the Sevi platform, please invite them by sending them a message on WhatsApp or Email. 
 
-Download this digital poster and share it with your supplier.
+[Download](./static/downloads/postersupplier.pdf) this digital poster and share it with your supplier.
 <img src="/register/postertosupplier.png" alt="launch" width="400"/>
 
 ## Verified supplier
