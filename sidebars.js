@@ -51,6 +51,8 @@ module.exports = {
           ],
         },
       'buyer/topup',
+      'buyer/refresh',
+      'buyer/version',
       'buyer/plans',
       'buyer/notifications',
       'buyer/faq',
@@ -75,6 +77,8 @@ module.exports = {
       'seller/plans',
       'seller/creditconfiguration',
       'seller/customersection',
+      'seller/refresh',
+      'seller/version',
       'seller/faq',
     ],
   developer: [
