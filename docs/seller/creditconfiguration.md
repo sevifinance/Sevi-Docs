@@ -16,4 +16,4 @@ You are able to set a credit configuration for your customers. You can set the f
 
 Please fill out this form and send it to: support@sevi.io
 
-Download form
+[Download](/assets/creditconfigurations.docx) form
