@@ -10,9 +10,9 @@ Sell more products by providing an ‘Order now, Pay later’ option to your cus
 
 Even though you are selling on credit, you get paid X% of the order value on delivery. The remaining balance is settled when your customer pays the final instalment. 
 
-As a Sevi partner you share in the profit, making this an additional business model for your company. Since you take X% part of the risk you'll also share in the upside and get X% of the earned interest.
+As a Sevi partner you share in the profit, making this an additional business model for your company. Since you take X% part of the risk you'll also share in the upside and get X% of the interest earned.
 
-    "Get 20% of the earned interest"
+    "Get 20% of the interest earned"
 
 Sevi facilitates the payment option of Order now, Pay later. You remain in control of your products, pricing and customer relations. You are also able to [configure the credit conditions](/docs/seller/creditconfiguration), like duration and max amount, for your customers.
 
