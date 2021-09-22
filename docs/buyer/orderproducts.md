@@ -15,7 +15,9 @@ At checkout of the web shop, select Sevi as your preferred Payment Option.
 
 <img src="/ordering/Checkout.png" alt="checkout" width="200"/>
 
-> **NOTE**: Make sure the phone number you fill out at check-out is the same number you registered your Sevi account with. 
+:::caution
+Make sure the phone number you fill out at check-out is the same number you registered your Sevi account with. 
+:::
 
 <img src="/ordering/Checkout1.png" alt="checkout" width="200"/>
 

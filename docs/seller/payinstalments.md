@@ -16,8 +16,9 @@ The SMS reminders are send three days before the instalment is due, one day befo
 ## Late payment
 We charge a late fee on late payments. Each instalment has a grace period of seven days, if the instalment is not paid within those seven days, a late fee is charged. The height of the late fee is communicated when accepting the payment plan. After a certain period a late payer gets a default status and is excluded from using Sevi. This will also affect the amount of customers you company can service through Sevi. For an  overview of our legal terms, [`Click here`](/termsConditions)
 
-    NOTE: Make sure you follow up with clients who are late, so 
-    they are not charged a late fee.
+:::caution
+Make sure you follow up with clients who are late, so they are not charged a late fee.
+:::
 
 ## Monitoring
 You can monitor the repayment of your customers through the dashboard we provide you. This dashboard shows a list of customers who are late, including name and phone number, so you can easily follow-up with them. 

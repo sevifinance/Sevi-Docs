@@ -6,7 +6,9 @@ sidebar_position: 1
 # Step 1: Invite customer
 Inviting a new customer onto Sevi and creating a Sevi account on behalf of your customer is very easy. Please follow the next steps to onboard your customer within a two minutes:
 
-> **NOTE**: Onboarding new customers is exclusively for agents of verified companies. [Read here](/docs/seller/registeragent) how to create an agent account.
+:::info
+Onboarding new customers is exclusively for agents of verified companies. [Read here](/docs/seller/registeragent) how to create an agent account.
+:::
 
 ## Go to Customer section
 The customer secion is where you can get information on your customers and perform all actions on their behalf. 

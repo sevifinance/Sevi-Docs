@@ -15,10 +15,11 @@ When you or your customer created the order through your companies webshop, you 
 <img src="/ordering/setdelivered.png" alt="orders" width="200"/>
 
 Go to the `Customers` section and click the relevant customer. Click `Set as Delivered` to change the status. 
-    > Changing the status to delivered is crucial, since the new 
-    status triggers:
-    - Payment plan to start running
-    - Advance payment to your companies wallet
+:::caution
+Changing the status to delivered is crucial, since the new status triggers:
+- Payment plan to start running
+- Advance payment to your companies wallet
+:::
 
 #### Only deliver when status is *'Purchased order'*
 When the order status is *'Pending order'*, you should NOT deliver the order, as the deposit has not been paid yet.

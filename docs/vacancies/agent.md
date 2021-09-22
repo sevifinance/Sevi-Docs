@@ -10,7 +10,9 @@ Sevi provides 'Order Now, Pay Later' infrastructure in Kenya. Through our smartp
 ## Become a sales agent
 Introduce Sevi to producers, wholesalers or distributors and sell our proposition to earn a commission. When you onboard a new client you get KES 6,500. On top of that, when this client is doing more then KES 200,000 sales through Sevi, within the first two months you receive an additional bonus of KES 3,500. 
 
-    Earn KES 10,000 for every new Sevi client!
+:::tip
+Earn KES 10,000 for every new Sevi client!
+:::
 
 ## Whom are we looking for?
 - Sales experience

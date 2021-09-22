@@ -36,7 +36,9 @@ Because Sevi provides a financial service we are obliged by law to perform a 'kn
 
  <img src="/register/KYCname.png" alt="KYCname" width="200"/>
 
-**NOTE:** Ensure that the name you enter is the same as the one on your ID card and make sure there are no spelling mistakes.
+:::caution
+Ensure that the name you enter is the same as the one on your ID card and make sure there are no spelling mistakes.
+:::
 
 ## Provide your ID number 
 Kindly enter you ID number and tap `Next`
@@ -59,9 +61,13 @@ Please take a photo of your ID card, both front and back.
 ## Create your Sevi App PIN
 After successfully going through the KYC process, the last step is to create a four-digit PIN for your Sevi App. 
 
-> **NOTE:** This PIN will be used to log in to your Sevi App. Kindly memorize it or write it down on a piece of paper or save it on your mobile device.
+:::tip
+This PIN will be used to log in to your Sevi App. Kindly memorize it or write it down on a piece of paper or save it on your mobile device.
+:::
 
-> **NOTE** Never share your PIN with others, this will give them access to your Sevi account. Sevi and our support team will never ask for your PIN. 
+:::caution
+Never share your PIN with others, this will give them access to your Sevi account. Sevi and our support team will never ask for your PIN. 
+:::
 
 ## ALL DONE!!
 You have now created your Sevi account which you can use to Order now, Pay later at all suppliers verified by Sevi. Congratulations!

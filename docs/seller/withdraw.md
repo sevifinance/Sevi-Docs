@@ -5,8 +5,11 @@ sidebar_position: 1
 # Withdraw
 
 Select the account from which you want to withdraw by swiping to the left or right.
-> **NOTE:** this option is only available for Company accounts, not for personal accounts.
-> **NOTE:** only an *'admin'*  of a Company account can use this feature.
+:::note
+This option is only available for Company accounts, not for personal accounts.
+
+Only an *'admin'*  of a Company account can use this feature.
+:::
 
 ## Step 1: Tap on the Send icon
 

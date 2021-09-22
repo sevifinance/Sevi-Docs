@@ -18,15 +18,18 @@ On your Sevi App tap on `Instalments` to see an overview of your instalments. Th
 ## Check details
 For further details, click `Instalments` to see details of your instalments per order. This overview shows the status whether an instalment has been paid, the amount and the date of the auto collection per instalment (data of withdrawal).
 
-    NOTE: Make sure you have sufficient balance in your Sevi 
-    account before the 'date of withdrawal'.
+:::caution
+Make sure you have sufficient balance in your Sevi account before the 'date of withdrawal'.
+:::
 
 <img src="/ordering/payearly.png" alt="payearly" width="200"/>
 
 ## Pay early
 You can always pay an instalment early. To pay an instalment early, simply click ‘PAY’ in the instalment overview.
 
-> **NOTE:** Make sure you have sufficient balance in your Sevi account to Pay early.
+:::tip
+Make sure you have sufficient balance in your Sevi account to Pay early.
+:::
 
 ## Late payment
 We charge a late fee on late payments. Also you can be excluded from using Sevi in the future and ordering from your supplier. For an  overview of our legal terms, [`Click here`](/termsConditions)
