@@ -74,7 +74,6 @@ module.exports = {
       'seller/topup',
       'seller/withdraw',
       'seller/registeragent',
-      'seller/plans',
       'seller/creditconfiguration',
       'seller/customersection',
       'seller/refresh',
