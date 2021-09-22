@@ -6,9 +6,13 @@ sidebar_position: 2
 
 Sell more products by providing an ‘Order now, Pay later’ option to your customers. Let your customers order the products they want now, but pay later. It is hassle free as Sevi provides the credit line, does the KYC and follows up on payments. [Apply now!](https://docs.google.com/forms/d/1mUztnf8nKTFpK0t-ZOGYM4WG9tqK_jGTbZij1aRGUyE/edit)
 
-    “Sell on credit, get paid on delivery”
+    “Sell on credit, get paid 80% on delivery”
 
-Even though you are selling on credit, you get paid X% of the order value on delivery. The remaining balance is settled when your customer pays the final instalment. In other words, when a customer defaults Sevi bares all or most of the risk.
+Even though you are selling on credit, you get paid X% of the order value on delivery. The remaining balance is settled when your customer pays the final instalment. 
+
+As a Sevi partner you share in the profit, making this an additional business model for your company. Since you take X% part of the risk you'll also share in the upside and get X% of the earned interest.
+
+    "Get 20% of the earned interest"
 
 Sevi facilitates the payment option of Order now, Pay later. You remain in control of your products, pricing and customer relations. You are also able to [configure the credit conditions](/docs/seller/creditconfiguration), like duration and max amount, for your customers.
 
@@ -18,6 +22,7 @@ Sevi facilitates the payment option of Order now, Pay later. You remain in contr
 
 - Credit line to your customers
 - Pay on delivery
+- Additional business model (earn interest)
 - Automated KYC
 - Reminders to your customers
 - Smartphone app for your agents and customers

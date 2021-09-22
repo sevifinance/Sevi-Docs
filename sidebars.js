@@ -85,6 +85,7 @@ module.exports = {
     'developer/APItoken',
     'developer/API',
     'developer/WooCommerce',
-    'developer/changelog'
+    'developer/training',
+    'developer/changelog',
   ],
 };
