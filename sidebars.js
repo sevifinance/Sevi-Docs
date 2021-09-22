@@ -78,13 +78,13 @@ module.exports = {
       'seller/customersection',
       'seller/refresh',
       'seller/version',
+      'seller/training',
       'seller/faq',
     ],
   developer: [
     'developer/APItoken',
     'developer/API',
     'developer/WooCommerce',
-    'developer/training',
     'developer/changelog',
   ],
 };
