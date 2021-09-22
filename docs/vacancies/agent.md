@@ -8,9 +8,9 @@ sidebar_position: 8
 Sevi provides 'Order Now, Pay Later' infrastructure in Kenya. Through our smartphone app sellers (e.g. producer, wholesaler) can sell their products on credit to their customers (e.g. small kiosk, vendors). The Sevi fund provides upfront financing to the seller and the buyer pays through instalments. Check our [seller](/docs/seller/start) and [buyer](/docs/buyer/introbuyer) proposition.
 
 ## Become a sales agent
-Introduce Sevi to producers, wholesalers or distributors and sell our proposition to earn a commission. When you onboard a new client you get KES 5,000. On top of that, when this client is doing more then KES 200,000 sales throuhg Sevi, within the first two months you receive an additional bonus of KES 2,500. 
+Introduce Sevi to producers, wholesalers or distributors and sell our proposition to earn a commission. When you onboard a new client you get KES 6,500. On top of that, when this client is doing more then KES 200,000 sales throuhg Sevi, within the first two months you receive an additional bonus of KES 3,500. 
 
-    Earn KES 7,500 for every new Sevi client!
+    Earn KES 10,000 for every new Sevi client!
 
 ## Whom are we looking for?
 - Sales experience
