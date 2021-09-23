@@ -10,6 +10,11 @@ Opening an account with Sevi is very easy. Please follow the following to create
 
 To get the app, proceed to [download the app](https://sevi.io/app) from  the Play store, and search for Sevi. Tap `Install`, and you’ll have the App installed on your phone.
 
+:::tip
+Watch this demo video to see the account creation process.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6EMhYQO7ZVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::
+
 The first time you launch the Sevi App you will be provided with a few introductory details about SEVI. Click `Next` 
 
 <img src="/register/firstlaunch.png" alt="launch" width="200"/>
