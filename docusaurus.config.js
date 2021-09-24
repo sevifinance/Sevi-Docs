@@ -12,7 +12,7 @@ module.exports = {
   plugins: ['@docusaurus/plugin-google-analytics'],
   themeConfig: {
     googleAnalytics: {     
-       trackingID: 'UA-141789564-1', 
+       trackingID: 'UA-208502643-1', 
        anonymizeIP: false, 
   },
     navbar: {
