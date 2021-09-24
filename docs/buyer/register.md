@@ -12,7 +12,7 @@ To get the app, proceed to [download the app](https://sevi.io/app) from  the Pla
 
 :::tip
 Watch this demo video to see the account creation process.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3z29hbI6JkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VFd6nFjVGoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 :::
 
 The first time you launch the Sevi App you will be provided with a few introductory details about SEVI. Click `Next` 
