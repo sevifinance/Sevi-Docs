@@ -15,6 +15,18 @@ Click ‘CREATE ORDER’
 
 <img src="/ordering/createorder.png" alt="create order" width="420"/>
 
+## Existing product
+
+You can select an previously created product from the list. These products are synced from your companies webshop, or have been created in the app before. Click on the product you'd like to add. Then set the quantity.  
+
+To finalize the process click `Create order`
+
+<img src="/ordering/selectproduct.png" alt="create order" width="200"/>
+
+:::tip
+Use the `Search bar` at the bottom of the screen to search for an existing product
+:::
+
 ## New product
 
 Take a photo of the product you are selling. You can also take a photo of the invoice or delivery note, which has been prepared in advance.
@@ -23,9 +35,9 @@ Enter a `Description`, `Price` and `Quantity` to add the new product to the orde
 
 You can add extra items by clicking `+`
 
-To finalize the process click `CREATE ORDER`
+To finalize the process click `Create order`
 
-<img src="/ordering/createitem.png" alt="create order" width="200"/>
+<img src="/ordering/createproduct.png" alt="create order" width="200"/>
 
 ## Check order
 
