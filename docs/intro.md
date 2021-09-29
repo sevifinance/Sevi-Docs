@@ -11,7 +11,7 @@ We provide a plugin (WooCommerce) to integrate the Sevi ‘Order now, Pay later'
 
 No webshop yet? No worries, your sales agents can create orders in the Sevi app on behalf of your customers. Sevi also provide an easy pre-set eCommerce template to upload the products you want to sell.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bUwsRPjcb6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sk-Qy-vjbDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
 
 ## Vision
 Providing affordable finance to entrepreneurs is a crucial condition for further growth of micro and small companies, contributing to economic growth and a ignified life for entrepreneurs, their employees and families. We believe merchant finance based on real orders and delivery is the best way to loan to low-income clients because it limits default risks. We believe using new digital technologies can unleash the full potential of this model.
