@@ -37,7 +37,7 @@ module.exports = {
           'vacancies/agent',
           ],
     }, 
-    'developer/changelog',
+    'changelog',
   ], 
   buyer: [
     'buyer/introbuyer',
