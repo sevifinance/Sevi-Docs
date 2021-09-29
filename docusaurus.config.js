@@ -9,7 +9,6 @@ module.exports = {
   favicon: 'img/seviS.svg',
   organizationName: 'Sevi', // Usually your GitHub org/user name.
   projectName: 'Sevi', // Usually your repo name.
-  plugins: ['@docusaurus/plugin-google-analytics'],
   themeConfig: {
     googleAnalytics: {     
        trackingID: 'UA-208502643-1', 
