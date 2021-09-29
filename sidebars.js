@@ -54,6 +54,7 @@ module.exports = {
       'buyer/topup',
       'buyer/refresh',
       'buyer/version',
+      'buyer/groups',
       'buyer/plans',
       'buyer/notifications',
       'buyer/faq',
