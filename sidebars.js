@@ -37,6 +37,7 @@ module.exports = {
           'vacancies/agent',
           ],
     }, 
+    'developer/changelog',
   ], 
   buyer: [
     'buyer/introbuyer',
@@ -86,6 +87,5 @@ module.exports = {
     'developer/APItoken',
     'developer/API',
     'developer/WooCommerce',
-    'developer/changelog',
   ],
 };
