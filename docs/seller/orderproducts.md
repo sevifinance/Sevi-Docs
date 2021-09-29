@@ -11,9 +11,21 @@ Go to your `Company account`, then click `Customers` to go the customer section.
 
 Click on the customers name, for whom you want to create an order.
 
-Click ‘CREATE ORDER’
+Click ‘Create order’
 
 <img src="/ordering/createorder.png" alt="create order" width="420"/>
+
+## Existing product
+
+You can select a previously created product from the list. These products are synced from your companies webshop, or have been created in the app before. Click on the product you'd like to add. Then set the quantity.  
+
+To finalize the process click `Create order`
+
+<img src="/ordering/selectproduct.png" alt="create order" width="200"/>
+
+:::tip
+Use the `Search bar` at the bottom of the screen to search for an existing product, as only a few products are shown on the screen to save data.
+:::
 
 ## New product
 
@@ -23,9 +35,9 @@ Enter a `Description`, `Price` and `Quantity` to add the new product to the orde
 
 You can add extra items by clicking `+`
 
-To finalize the process click `CREATE ORDER`
+To finalize the process click `Create order`
 
-<img src="/ordering/createitem.png" alt="create order" width="200"/>
+<img src="/ordering/createproduct.png" alt="create order" width="200"/>
 
 ## Check order
 

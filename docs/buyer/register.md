@@ -45,10 +45,6 @@ Because Sevi provides a financial service we are obliged by law to perform a 'kn
 Ensure that the name you enter is the same as the one on your ID card and make sure there are no spelling mistakes.
 :::
 
-## Provide your ID number 
-Kindly enter you ID number and tap `Next`
-
-
 ## Take a Selfie Picture.
 Please take a profile picture of yourself. Your photo will be used as your profile photo in the Sevi app, as well as for KYC purposes and to protect your account against ID fraud by others. 
 
