@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # Become a partner
 
+<center><button onclick="https://forms.gle/ZaCk9M8qunv17abU6">apply now</button></center>
+
 Sell more products by providing an ‘Order now, Pay later’ option to your customers. Let your customers order the products they want now, but pay later. It is hassle free as Sevi provides the credit line, does the KYC and follows up on payments. [Apply now!](https://forms.gle/ZaCk9M8qunv17abU6)
 
 :::tip
@@ -46,4 +48,4 @@ If you want to start offering the 'Order now, Pay later' option to your customer
 Fill out this [application form](https://forms.gle/ZaCk9M8qunv17abU6) and we will get back to you, with our commercial offering.
 
 
-
+<center><button onclick="https://forms.gle/ZaCk9M8qunv17abU6">apply now</button></center>
