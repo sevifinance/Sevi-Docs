@@ -1,5 +1,5 @@
 All notable changes to this project will be documented in this file.
-## [0.4.0](https://github.com/sevifinance/Sevi-Mobile/compare/v0.3.65...v0.4.0) (2021-09-24)
+## 0.4.0 (2021-09-24)
 
 
 ### Bug Fixes
@@ -13,7 +13,7 @@ All notable changes to this project will be documented in this file.
 * Show correct name on order ([45207d5](https://github.com/sevifinance/Sevi-Mobile/commit/45207d5499e9d82abb4ff63644d43130a8958129))
 * Simplifying order process adding on orderCreate page ([4f2f1fb](https://github.com/sevifinance/Sevi-Mobile/commit/4f2f1fba9993a0a4003881c981706793a77c3fb4))
 
-### [0.3.65](https://github.com/sevifinance/Sevi-Mobile/compare/v0.3.64...v0.3.65) (2021-09-20)
+### 0.3.65 (2021-09-20)
 
 
 ### Features
@@ -25,6 +25,6 @@ All notable changes to this project will be documented in this file.
 
 * getting customer details instead of selected wallet details when creating an order ([ee86ab0](https://github.com/sevifinance/Sevi-Mobile/commit/ee86ab0aed599f60fe08ee5245438cc118481e3f))
 
-### [0.3.64](https://github.com/sevifinance/Sevi-Mobile/compare/v0.3.62...v0.3.64) (2021-09-20)
+### 0.3.64(2021-09-20)
 
-### [0.3.63](https://github.com/sevifinance/Sevi-Mobile/compare/v0.3.62...v0.3.63) (2021-09-20)
+### 0.3.63 (2021-09-20)
