@@ -13,5 +13,4 @@ The steps to realize this are.
 - Navigate to add wallet
 - select group wallet
 
-once you complated the steps above, you will 
 

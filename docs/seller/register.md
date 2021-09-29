@@ -10,7 +10,7 @@ Inviting a new customer onto Sevi and creating a Sevi account on behalf of your 
 Onboarding new customers is exclusively for agents of verified companies. [Read here](/docs/seller/registeragent) how to create an agent account.
 :::
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KCMucz0lchY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KCMucz0lchY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
 
 ## Go to Customer section
 The customer secion is where you can get information on your customers and perform all actions on their behalf. 

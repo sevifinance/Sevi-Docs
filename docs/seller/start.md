@@ -41,6 +41,8 @@ When your customer does not have a Smartphone, your sales agents are able to per
 - [Customers with a Smartphone](/docs/buyer/register/)
 - [Agents](/docs/seller/register/) (when the customer does not have a Smartphone)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bUwsRPjcb6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
+
 ## Apply
 If you want to start offering the 'Order now, Pay later' option to your customers, please apply here.
 Fill out this [application form](https://forms.gle/ZaCk9M8qunv17abU6) and we will get back to you, with our commercial offering.

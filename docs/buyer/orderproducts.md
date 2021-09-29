@@ -5,7 +5,7 @@ sidebar_position: 1
 # Step 2: Order products
 As a buyer you have the chance to order from your supplier web shope and pay using Sevi's Order now, Pay later. However, you have to ensure that your supplier is a verified partner of Sevi. In some cases your supplier might not have a web shop, but they will create an order for you, which then shows up in the 'order' section of your Sevi account.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yjHHHhWUR2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yjHHHhWUR2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
 
 ## Making Purchases
 
