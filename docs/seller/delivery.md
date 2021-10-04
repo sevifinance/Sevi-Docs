@@ -12,6 +12,8 @@ Changing the status to delivered is crucial, since the new status triggers:
 - Advance payment to your companies wallet
 :::
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SU5nQATfhvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
+
 ## Set to delivered
 On delivery you need to manual set the status of the order from *'Purchased order'* to *'Delivered order'*. 
 

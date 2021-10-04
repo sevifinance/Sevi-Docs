@@ -6,6 +6,8 @@ sidebar_position: 1
 
 As a agent you can create an order for your customer. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V8yC4mpr_A4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
+
 ## Go to customer section
 Go to your `Company account`, then click `Customers` to go the customer section. Here you find an overview of all registered customers. If your customer is not yet registered please go to [step 1](/docs/seller/register) first.
 
