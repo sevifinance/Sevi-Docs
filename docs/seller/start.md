@@ -4,7 +4,11 @@ sidebar_position: 2
 
 # Become a partner
 
-Sell more products by providing an ‘Order now, Pay later’ option to your customers. Let your customers order the products they want now, but pay later. It is hassle free as Sevi provides the credit line, does the KYC and follows up on payments. [Apply now!](https://forms.gle/ZaCk9M8qunv17abU6)
+Sell more products by providing an ‘Order now, Pay later’ option to your customers. Let your customers order the products they want now, but pay later. It is hassle free as Sevi provides the credit line, does the KYC and follows up on payments. 
+
+1. Downloading the [Sevi App](https://sevi.io/app)
+2. Create a company account
+3. [Apply now!](https://forms.gle/ZaCk9M8qunv17abU6)
 
 :::tip
 “Sell on credit, get paid 80% on delivery”
