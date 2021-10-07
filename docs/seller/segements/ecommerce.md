@@ -8,8 +8,9 @@ sidebar_position: 20
 
 Unlock your customer's purchasing power. Offer more payment options so they can decide when and how to pay. Use Sevi as an payment option in your webshop. 
 
-
-## Nearly one out of three consumers prefer to pay in installments. 
+:::tip
+Nearly one out of three consumers prefer to pay in installments. 
+:::
 
 This allows your customer to first judge at home whether they are pleased with the purchased articles and return them if needed. Payment in installments give your consumers a sense of security. 
 
