@@ -3,7 +3,8 @@ sidebar_position: 20
 ---
 
 
-# The Payment methods that increase sales.
+# E-commerce 
+## The Payment methods that increase sales.
 
 Unlock your customer's purchasing power. Offer more payment options so they can decide when and how to pay. Use Sevi as an payment option in your webshop. 
 
@@ -12,7 +13,7 @@ Unlock your customer's purchasing power. Offer more payment options so they can 
 
 This allows your customer to first judge at home whether they are pleased with the purchased articles and return them if needed. Payment in installments give your consumers a sense of security. 
 
-## easy checkout
+## Easy checkout
 
 Let your customers easy checkout with "buy now, pay later" payment option. You customers selects how they prefer to pay your product. You on the other hand get your money after delivery directly in your Sevi company wallet account. 
 
