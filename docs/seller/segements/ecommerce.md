@@ -4,7 +4,7 @@ sidebar_position: 20
 
 
 # E-commerce 
-## The Payment methods that increase sales.
+## The Payment method that increase sales.
 
 Unlock your customer's purchasing power. Offer more payment options so they can decide when and how to pay. Use Sevi as an payment option in your webshop. 
 
@@ -28,12 +28,5 @@ Sync your online orders with Sevi with:
 - Magento
 - BigCommerce
 - custom API intergration
-
-## Dashboard
-Your dashboard gives overview into 
-- all your Sevi sells
-- Transactions
-- Account balance
-
 
 
