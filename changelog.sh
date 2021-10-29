@@ -1,3 +1,4 @@
+cd /Users/bartel/Documents/development/Sevi-Docs/ &&
 cp '/Users/bartel/Documents/development/Sevi-Mobile/CHANGELOG.md' ./docs/changelog.md &&
 echo "---
 sidebar_position: 10
