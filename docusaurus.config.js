@@ -10,12 +10,12 @@ module.exports = {
   organizationName: 'Sevi', // Usually your GitHub org/user name.
   projectName: 'Sevi', // Usually your repo name.
   themeConfig: {
-    googleAnalytics: {     
-       trackingID: 'UA-208502643-1', 
-       anonymizeIP: false, 
-  },
+    googleAnalytics: {
+      trackingID: 'UA-208502643-1',
+      anonymizeIP: false,
+    },
     navbar: {
-      title: 'Sevi', 
+      title: 'Sevi',
       logo: {
         alt: 'Sevi Logo',
         src: 'img/seviS.svg',
@@ -41,8 +41,8 @@ module.exports = {
           to: "docs/developer/APItoken",
           position: 'left',
           label: 'Developer',
-        },     
-        // { to: '/blog', label: 'Blog', position: 'left' },
+        },
+        { to: '/blog', label: 'Blog', position: 'left' },
         {
           to: "/privacy",
           label: 'Privacy',
@@ -111,12 +111,12 @@ module.exports = {
           editUrl:
             'https://github.com/sevifinance/Sevi-Docs/blob/main',
         },
-        // blog: {
-        //   showReadingTime: true,
-        //   // Please change this to your repo.
-        //   editUrl:
-        //     'https://github.com/facebook/docusaurus/edit/master/website/blog/',
-        // },
+        blog: {
+          showReadingTime: true,
+          // Please change this to your repo.
+          editUrl:
+            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
