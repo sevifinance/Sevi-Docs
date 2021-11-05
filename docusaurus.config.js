@@ -42,7 +42,7 @@ module.exports = {
           position: 'left',
           label: 'Developer',
         },
-        // { to: '/blog', label: 'Blog', position: 'left' },
+        { to: '/blog', label: 'Blog', position: 'left' },
         {
           to: "/privacy",
           label: 'Privacy',
@@ -111,12 +111,12 @@ module.exports = {
           editUrl:
             'https://github.com/sevifinance/Sevi-Docs/blob/main',
         },
-        // blog: {
-        //   showReadingTime: true,
-        //   // Please change this to your repo.
-        //   editUrl:
-        //     'https://github.com/facebook/docusaurus/edit/master/website/blog/',
-        // },
+        blog: {
+          showReadingTime: true,
+          // Please change this to your repo.
+          editUrl:
+            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
