@@ -1,4 +1,3 @@
-/** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'User Guides',
   tagline: 'All you need to know about how to use Sevi',
@@ -111,12 +110,12 @@ module.exports = {
           editUrl:
             'https://github.com/sevifinance/Sevi-Docs/blob/main',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
-        },
+        // blog: {
+        //   showReadingTime: true,
+        //   // Please change this to your repo.
+        //   editUrl:
+        //     'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+        // },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },

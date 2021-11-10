@@ -61,8 +61,8 @@ module.exports = {
       'buyer/faq',
           ],
   seller: [
-    'seller/start',
-    {
+      'seller/start',
+      {
       type: 'category',
       label: 'Step-by-step agent process',
       collapsed: false,
@@ -73,7 +73,8 @@ module.exports = {
           'seller/delivery',
           'seller/payinstalments',
           ],
-        },
+      },
+      'seller/segements/ecommerce',
       'seller/topup',
       'seller/withdraw',
       'seller/registeragent',
