@@ -3,6 +3,13 @@ sidebar_position: 10
 ---
 
 All notable changes to this project will be documented in this file.
+## [0.11.0](https://github.com/sevifinance/Sevi-Mobile/compare/v0.10.0...v0.11.0) (2021-11-12)
+
+
+### Features
+
+* Customers list updated ([4e34b02](https://github.com/sevifinance/Sevi-Mobile/commit/4e34b02ee015006d51069a7741015f20f2d483d7))
+
 ## [0.10.0](https://github.com/sevifinance/Sevi-Mobile/compare/v0.9.4...v0.10.0) (2021-11-12)
 
 
