@@ -4,11 +4,7 @@ sidebar_position: 2
 
 # Become a partner
 
-Sell more products by providing an ‘Order now, Pay later’ option to your customers. Let your customers order the products they want now, but pay later. It is hassle free as Sevi provides the credit line, does the KYC and follows up on payments. 
-
-1. Downloading the [Sevi App](https://sevi.io/app)
-2. Create a company account
-3. [Apply now!](https://forms.gle/ZaCk9M8qunv17abU6)
+Sell more products by providing an ‘Order now, Pay later’ option to your customers. Let your customers order the products they want now, but pay later. It is hassle free as Sevi provides the credit line, does the KYC and follows up on payments. [Apply now!](https://forms.gle/KvNxBHaUQKEQe5zNA)
 
 :::tip
 Example: “Sell on credit, get paid 80% on delivery”
@@ -45,9 +41,9 @@ When your customer does not have a Smartphone, your sales agents are able to per
 - [Customers with a Smartphone](/docs/buyer/register/)
 - [Agents](/docs/seller/register/) (when the customer does not have a Smartphone)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NV5Z1A_M-Fo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bbF-tMpLY60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
 
 ## Apply
 If you want to start offering the 'Order now, Pay later' option to your customers, please apply here.
-Fill out this [application form](https://forms.gle/ZaCk9M8qunv17abU6) and we will get back to you, with our commercial offering.
+Fill out this [application form](https://forms.gle/KvNxBHaUQKEQe5zNA) and we will get back to you, with our commercial offering.
 
