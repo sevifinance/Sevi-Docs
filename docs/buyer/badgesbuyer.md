@@ -5,6 +5,7 @@ sidebar_position: 1
 # Badges
 
 Click on your account to see the badges you've earned. Each badge will give you points, which overtime will give access to an increased credit line. 
+<img src="/ordering/badgepersonal.jpeg" alt="badge" width="200"/>
 
 ## Completed registration
 
