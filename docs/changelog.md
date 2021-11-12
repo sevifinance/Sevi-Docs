@@ -3,6 +3,38 @@ sidebar_position: 10
 ---
 
 All notable changes to this project will be documented in this file.
+## [0.10.0](https://github.com/sevifinance/Sevi-Mobile/compare/v0.9.4...v0.10.0) (2021-11-12)
+
+
+### Features
+
+* Earn badges on wallet ([9ff14a0](https://github.com/sevifinance/Sevi-Mobile/commit/9ff14a0de493aef0e47594a64dbbf7015c4e1004))
+* expand loading screen ([ca60ee9](https://github.com/sevifinance/Sevi-Mobile/commit/ca60ee9e5f088df402db21b359e09090fb30a16b))
+
+
+### Bug Fixes
+
+* creating new wallet, show in overview ([2f49e7d](https://github.com/sevifinance/Sevi-Mobile/commit/2f49e7d46fdfed75593a9de514f016acbc8af9dd))
+* show error message instead of to many renders if server can not be found. ([61f5328](https://github.com/sevifinance/Sevi-Mobile/commit/61f53288c3c036a1760813c8369ccbcaad591feb))
+
+### [0.9.1](https://github.com/sevifinance/Sevi-Mobile/compare/v0.9.0...v0.9.1) (2021-11-01)
+
+
+### Features
+
+* Display customer profile picture ([5276d70](https://github.com/sevifinance/Sevi-Mobile/commit/5276d702ba1d15908a17a028af59663c18706caa))
+
+
+### Bug Fixes
+
+* adding mpesa send api ([597d9bb](https://github.com/sevifinance/Sevi-Mobile/commit/597d9bb559228c2134ad52248c3b9566af8be838))
+* initial who am i routing screen ([17260e1](https://github.com/sevifinance/Sevi-Mobile/commit/17260e19435a56db891af38bd4eeb8f90f58f2d3))
+* invite phonenumber from other country ([bddcab4](https://github.com/sevifinance/Sevi-Mobile/commit/bddcab422b71f09ef6485409ccbd7c7a52ffa779))
+* remove customer calling and chat support from profile page ([86cd2b4](https://github.com/sevifinance/Sevi-Mobile/commit/86cd2b4533cfdce8a150310b1b09eb4e33acceee))
+* update phonenumber ([88f234c](https://github.com/sevifinance/Sevi-Mobile/commit/88f234c6dae4c7e6debc69dc1e7512dfb16a9b63))
+
+### [0.8.3](https://github.com/sevifinance/Sevi-Mobile/compare/v0.8.2...v0.8.3) (2021-10-27)
+
 ## [0.9.0](https://github.com/sevifinance/Sevi-Mobile/compare/v0.8.2...v0.9.0) (2021-10-29)
 
 
