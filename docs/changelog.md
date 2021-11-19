@@ -1,9 +1,36 @@
 All notable changes to this project will be documented in this file.
+## [0.13.0](https://github.com/sevifinance/Sevi-Mobile/compare/v0.12.1...v0.13.0) (2021-11-19)
+
+### Features
+
+* Customer company contact selection screen ([c229317](https://github.com/sevifinance/Sevi-Mobile/commit/c229317416c153b50e5e7faf4dbfb8216b532063))
+* implement FACE ID ([daec9e8](https://github.com/sevifinance/Sevi-Mobile/commit/daec9e87cc5ed04d0a034a02fb0d7bff4cabc975))
+* Invite customer introduction added ([90a098d](https://github.com/sevifinance/Sevi-Mobile/commit/90a098daa1da80450b3c5adbf8b1a7da090acdee))
+* Transaction details updated ([79aa574](https://github.com/sevifinance/Sevi-Mobile/commit/79aa5741341fa4cafcd3b792c4bd3b3bea3b689d))
+
+
+### Bug Fixes
+
+* finalize FACE id ([fcb2a75](https://github.com/sevifinance/Sevi-Mobile/commit/fcb2a75a1f5bbcf915ed068282ead83cd2f07acf))
+* Transaction details issue (1tk0mwb) ([0eb4c20](https://github.com/sevifinance/Sevi-Mobile/commit/0eb4c207b3800b702b48e5dd2c26e63d7a3a2cdf))
+* update whatsapp phonenumber ([85cff69](https://github.com/sevifinance/Sevi-Mobile/commit/85cff6910c423f654344785a41583c2dc1e522c6))
+
 ## [0.12.0](https://github.com/sevifinance/Sevi-Mobile/compare/v0.11.0...v0.12.0) (2021-11-12)
+
+## [0.10.0](https://github.com/sevifinance/Sevi-Mobile/compare/v0.11.0...v0.10.0) (2021-11-12)
+
+## [0.11.0](https://github.com/sevifinance/Sevi-Mobile/compare/v0.10.0...v0.11.0) (2021-11-12)
+
 
 ### Features
 
 * Customers list updated ([4e34b02](https://github.com/sevifinance/Sevi-Mobile/commit/4e34b02ee015006d51069a7741015f20f2d483d7))
+
+## [0.10.0](https://github.com/sevifinance/Sevi-Mobile/compare/v0.9.4...v0.10.0) (2021-11-12)
+
+
+### Features
+
 * Earn badges on wallet ([9ff14a0](https://github.com/sevifinance/Sevi-Mobile/commit/9ff14a0de493aef0e47594a64dbbf7015c4e1004))
 * expand loading screen ([ca60ee9](https://github.com/sevifinance/Sevi-Mobile/commit/ca60ee9e5f088df402db21b359e09090fb30a16b))
 
@@ -28,6 +55,8 @@ All notable changes to this project will be documented in this file.
 * invite phonenumber from other country ([bddcab4](https://github.com/sevifinance/Sevi-Mobile/commit/bddcab422b71f09ef6485409ccbd7c7a52ffa779))
 * remove customer calling and chat support from profile page ([86cd2b4](https://github.com/sevifinance/Sevi-Mobile/commit/86cd2b4533cfdce8a150310b1b09eb4e33acceee))
 * update phonenumber ([88f234c](https://github.com/sevifinance/Sevi-Mobile/commit/88f234c6dae4c7e6debc69dc1e7512dfb16a9b63))
+
+### [0.8.3](https://github.com/sevifinance/Sevi-Mobile/compare/v0.8.2...v0.8.3) (2021-10-27)
 
 ## [0.9.0](https://github.com/sevifinance/Sevi-Mobile/compare/v0.8.2...v0.9.0) (2021-10-29)
 
