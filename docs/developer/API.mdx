@@ -1,0 +1,287 @@
+---
+sidebar_position: 3
+---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+
+# API
+
+Currently Sevi provides an Graphql API. Any action done on the Admin portal or Mobile can be initiated by a mutation or query as well. 
+
+As we are in active development, we have only internal API documentation. Please write us an email to retrieve this. We also have a postman examples so you can try them out.
+
+[Find here the production graphql API playground](https://exodus.sevi.io/graphql)
+
+To run queries or mutation set an header with 
+
+{ Authorization: "token", account: "account"}
+
+[get your API token](/docs/developer/APItoken)
+
+
+
+General integrations have two parts, 
+
+- Create an order via the createOrder API 
+- Getting back the order status to AWAITING SHIPMENT via the configured webhooks. Meaning payment for the order is finished.
+
+
+## Create order 
+### example
+
+
+
+GraphQl mutation
+
+```graphql
+mutation(
+  $affiliate: String
+  $OrderPaymentMethodsEnum: OrderPaymentMethodsEnum
+  $items: [OrderItemInput!]!
+  $billing: BillingInput!
+  $shipping: ShippingInput!
+) {
+  
+  createOrder(
+    input: {
+      affiliateId: $affiliate
+      paymentMethod: $OrderPaymentMethodsEnum
+      items: $items
+      shipping: $shipping
+      billing: $billing
+    }
+  ) {
+    id
+    items {
+      id
+      price
+      quantity
+    }
+    amount
+  }
+}
+
+```
+
+
+variables: 
+
+```json
+{
+  "OrderPaymentMethodsEnum": "INSTALLMENTS",
+  "affiliate": "",
+  "billing": {
+    "address1": "",
+    "city": "nairobi",
+    "country": "KE",
+    "email": "test@sevi.io",
+    "firstName": "John",
+    "lastName": "Bishop",
+    "phoneNumber": "+254455758678"
+  },
+  "items":  [
+     {
+      "currency": "KES",
+      "quantityUnit": "PIECES",
+      "description": "Cooking oil",
+      "gallery":  [
+         {
+          "url": "https://sevi-products.s3.eu-central-1.amazonaws.com/5ef5a8523c4a0829ed31b0e0/30965f4f-2ead-49ae-b41b-d2d6fc86dece/org.jpg"
+        }
+      ],
+      "id": "d9bdb86a-2d70-406b-ae69-41e9e2b8a6a5",
+      "name": "Some order",
+      "quantity": 1,
+      "unitPrice": 588
+    }
+  ],
+  "shipping": {
+    "address1": "",
+    "city": "nairobi",
+    "country": "KE",
+    "email": "test@sevi.io",
+    "firstName": "John",
+    "lastName": "Bishop",
+    "phoneNumber": "+254455758678"
+  }
+}
+
+```
+
+
+
+There are multiple ways we can implement the above query.
+
+
+
+
+<Tabs>
+<TabItem value="js" label="Nodejs">
+
+```js
+const axios = require("axios")
+
+axios({
+  url: 'https://exodus.sevio/graphql',
+  method: 'post',
+  headers:{ Authorization: "YOUR SEVI TOKEN"}
+  data: {
+    query: `
+        mutation(
+          $affiliate: String
+          $OrderPaymentMethodsEnum: OrderPaymentMethodsEnum
+          $items: [OrderItemInput!]!
+          $billing: BillingInput!
+          $shipping: ShippingInput!
+        ) {
+          
+          createOrder(
+            input: {
+              affiliateId: $affiliate
+              paymentMethod: $OrderPaymentMethodsEnum
+              items: $items
+              shipping: $shipping
+              billing: $billing
+            }
+          ) {
+            id
+            items {
+              id
+              price
+              quantity
+            }
+            amount
+          }
+        }
+      `,
+     variables: {
+        "OrderPaymentMethodsEnum": "INSTALLMENTS",
+        "affiliate": "",
+        "billing": {
+          "address1": "",
+          "city": "nairobi",
+          "country": "KE",
+          "email": "test@sevi.io",
+          "firstName": "John",
+          "lastName": "Bishop",
+          "phoneNumber": "+254455758678"
+        },
+        "items":  [
+           {
+            "currency": "KES",
+            "quantityUnit": "PIECES",
+            "description": "Cooking oil",
+            "gallery":  [
+               {
+                "url": "https://sevi-products.s3.eu-central-1.amazonaws.com/someproductphoto.jpg"
+              }
+            ],
+            "id": "d9bdb86a-2d70-406b-ae69-41e9e2b8a6a5",
+            "name": "Some order",
+            "quantity": 1,
+            "unitPrice": 588
+          }
+        ],
+        "shipping": {
+          "address1": "",
+          "city": "nairobi",
+          "country": "KE",
+          "email": "test@sevi.io",
+          "firstName": "John",
+          "lastName": "Bishop",
+          "phoneNumber": "+254455758678"
+        }
+    }
+  }
+}).then((result) => {
+  console.log(result.data)
+});
+```
+
+</TabItem>
+
+
+
+<TabItem value="php" label="PHP">
+
+```
+<?php
+$accessToken = "Your Token";
+
+$endpoint = "https://exodus.sevi.io/graphql";
+
+$query = 'query {
+   mutation() {
+          createOrder(
+            input: {
+              paymentMethod: "INSTALLMENTS",
+              items: [
+              {
+                "currency": "KES",
+                "quantityUnit": "PIECES",
+                "description": "Cooking oil",
+                "gallery":  [
+                  {
+                    "url": "https://sevi-products.s3.eu-central-1.amazonaws.com/someproductphoto.jpg"
+                  }
+                ],
+                "id": "d9bdb86a-2d70-406b-ae69-41e9e2b8a6a5",
+                "name": "Some order",
+                "quantity": 1,
+                "unitPrice": 588
+              }
+            ],
+               "shipping": {
+          "address1": "",
+          "city": "nairobi",
+          "country": "KE",
+          "email": "test@sevi.io",
+          "firstName": "John",
+          "lastName": "Bishop",
+          "phoneNumber": "+254455758678"
+        },
+               "billing": {
+          "address1": "",
+          "city": "nairobi",
+          "country": "KE",
+          "email": "test@sevi.io",
+          "firstName": "John",
+          "lastName": "Bishop",
+          "phoneNumber": "+254455758678"
+        }
+            }
+          ) {
+            id
+            items {
+              id
+              price
+              quantity
+            }
+            amount
+          }
+        }
+}';
+
+$data = array ('query' => $query);
+$data = http_build_query($data);
+
+$options = array(
+  'http' => array(
+    'header'  => sprintf("Authorization: Bearer %s",$accessToken),
+    'method'  => 'POST',
+    'content' => $data
+  )
+);
+
+$context  = stream_context_create($options);
+$result = file_get_contents(sprintf($endpoint), false, $context);
+
+if ($result === FALSE) { /* Handle error */ }
+```
+
+</TabItem>
+
+</Tabs>
+
