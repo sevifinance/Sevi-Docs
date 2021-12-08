@@ -1,4 +1,28 @@
 All notable changes to this project will be documented in this file.
+### [0.15.2](https://github.com/sevifinance/Sevi-Mobile/compare/v0.15.1...v0.15.2) (2021-12-08)
+
+
+### Features
+
+* Change profile picture ([5a1a597](https://github.com/sevifinance/Sevi-Mobile/commit/5a1a597218e6905978db2c1b8de526a855743e25))
+* Payback rate added to profile ([87dfc82](https://github.com/sevifinance/Sevi-Mobile/commit/87dfc823cd92f3d622612749a970190799467a88))
+
+### [0.15.1](https://github.com/sevifinance/Sevi-Mobile/compare/v0.14.1...v0.15.1) (2021-12-03)
+
+
+### Features
+
+* Live automatic updates ([4116dc0](https://github.com/sevifinance/Sevi-Mobile/commit/4116dc0c0ee1e67a08ab04b615645c25c6401531))
+
+
+### Bug Fixes
+
+* Invite Customer return to customers after invitation ([7062248](https://github.com/sevifinance/Sevi-Mobile/commit/7062248556aa37cd37b1e9acedb990f807050aea))
+* mapping orders on new server infra ([7f6a147](https://github.com/sevifinance/Sevi-Mobile/commit/7f6a1476990d0b4f8a0e38a06acd4b2e7ac54a27))
+* Profile completion is now required ([ac716b6](https://github.com/sevifinance/Sevi-Mobile/commit/ac716b6b635d5f9932818f1d4cdf5ff34e44d31c))
+* set as delivered font to white ([e1c9d90](https://github.com/sevifinance/Sevi-Mobile/commit/e1c9d90c38265ceace92a8e4442c6a63d3746c8c))
+* update order mutations ([0272286](https://github.com/sevifinance/Sevi-Mobile/commit/027228624e4cac23184f6f4f220b2eb8e3313669))
+
 ## [0.15.0](https://github.com/sevifinance/Sevi-Mobile/compare/v0.14.3...v0.15.0) (2021-12-03)
 
 
@@ -7,6 +31,8 @@ All notable changes to this project will be documented in this file.
 * Invite Customer return to customers after invitation ([7062248](https://github.com/sevifinance/Sevi-Mobile/commit/7062248556aa37cd37b1e9acedb990f807050aea))
 * Profile completion is now required ([ac716b6](https://github.com/sevifinance/Sevi-Mobile/commit/ac716b6b635d5f9932818f1d4cdf5ff34e44d31c))
 * set as delivered font to white ([e1c9d90](https://github.com/sevifinance/Sevi-Mobile/commit/e1c9d90c38265ceace92a8e4442c6a63d3746c8c))
+
+### [0.14.3](https://github.com/sevifinance/Sevi-Mobile/compare/v0.14.2...v0.14.3) (2021-12-01)
 
 ### [0.14.2](https://github.com/sevifinance/Sevi-Mobile/compare/v0.14.0...v0.14.2) (2021-12-01)
 
