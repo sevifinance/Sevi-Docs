@@ -1,9 +1,153 @@
 All notable changes to this project will be documented in this file.
+### [0.15.2](https://github.com/sevifinance/Sevi-Mobile/compare/v0.15.1...v0.15.2) (2021-12-08)
+
+
+### Features
+
+* Change profile picture ([5a1a597](https://github.com/sevifinance/Sevi-Mobile/commit/5a1a597218e6905978db2c1b8de526a855743e25))
+* Payback rate added to profile ([87dfc82](https://github.com/sevifinance/Sevi-Mobile/commit/87dfc823cd92f3d622612749a970190799467a88))
+
+### [0.15.1](https://github.com/sevifinance/Sevi-Mobile/compare/v0.14.1...v0.15.1) (2021-12-03)
+
+
+### Features
+
+* Live automatic updates ([4116dc0](https://github.com/sevifinance/Sevi-Mobile/commit/4116dc0c0ee1e67a08ab04b615645c25c6401531))
+
+
+### Bug Fixes
+
+* Invite Customer return to customers after invitation ([7062248](https://github.com/sevifinance/Sevi-Mobile/commit/7062248556aa37cd37b1e9acedb990f807050aea))
+* mapping orders on new server infra ([7f6a147](https://github.com/sevifinance/Sevi-Mobile/commit/7f6a1476990d0b4f8a0e38a06acd4b2e7ac54a27))
+* Profile completion is now required ([ac716b6](https://github.com/sevifinance/Sevi-Mobile/commit/ac716b6b635d5f9932818f1d4cdf5ff34e44d31c))
+* set as delivered font to white ([e1c9d90](https://github.com/sevifinance/Sevi-Mobile/commit/e1c9d90c38265ceace92a8e4442c6a63d3746c8c))
+* update order mutations ([0272286](https://github.com/sevifinance/Sevi-Mobile/commit/027228624e4cac23184f6f4f220b2eb8e3313669))
+
+## [0.15.0](https://github.com/sevifinance/Sevi-Mobile/compare/v0.14.3...v0.15.0) (2021-12-03)
+
+
+### Bug Fixes
+
+* Invite Customer return to customers after invitation ([7062248](https://github.com/sevifinance/Sevi-Mobile/commit/7062248556aa37cd37b1e9acedb990f807050aea))
+* Profile completion is now required ([ac716b6](https://github.com/sevifinance/Sevi-Mobile/commit/ac716b6b635d5f9932818f1d4cdf5ff34e44d31c))
+* set as delivered font to white ([e1c9d90](https://github.com/sevifinance/Sevi-Mobile/commit/e1c9d90c38265ceace92a8e4442c6a63d3746c8c))
+
+### [0.14.3](https://github.com/sevifinance/Sevi-Mobile/compare/v0.14.2...v0.14.3) (2021-12-01)
+
+### [0.14.2](https://github.com/sevifinance/Sevi-Mobile/compare/v0.14.0...v0.14.2) (2021-12-01)
+
+
+### Features
+
+* Confirmation screen for sending money (1uv3g1a) ([80f5a3f](https://github.com/sevifinance/Sevi-Mobile/commit/80f5a3fc79267547b40517139e4bc5e3bb25e252))
+* Create order screen updated ([7f79df1](https://github.com/sevifinance/Sevi-Mobile/commit/7f79df1c5b3b1ca00ed7d86586da07d929f23e03))
+* Send money with M-Pesa now has a description ([eecf847](https://github.com/sevifinance/Sevi-Mobile/commit/eecf8474fd34560f230cbfa13b6c34bc1bd6dfea))
+
+
+### Bug Fixes
+
+* mapping orders on new server infra ([7f6a147](https://github.com/sevifinance/Sevi-Mobile/commit/7f6a1476990d0b4f8a0e38a06acd4b2e7ac54a27))
+* PIN Creation ([7dfac29](https://github.com/sevifinance/Sevi-Mobile/commit/7dfac291a115f40a82145d9a1aebf0f83181e3df))
+* update order mutations ([0272286](https://github.com/sevifinance/Sevi-Mobile/commit/027228624e4cac23184f6f4f220b2eb8e3313669))
+
+### [0.13.2](https://github.com/sevifinance/Sevi-Mobile/compare/v0.13.1...v0.13.2) (2021-11-22)
+
+### [0.14.1](https://github.com/sevifinance/Sevi-Mobile/compare/v0.12.1...v0.14.1) (2021-11-29)
+
+
+### Features
+
+* Confirmation screen for sending money (1uv3g1a) ([80f5a3f](https://github.com/sevifinance/Sevi-Mobile/commit/80f5a3fc79267547b40517139e4bc5e3bb25e252))
+* Create order screen updated ([7f79df1](https://github.com/sevifinance/Sevi-Mobile/commit/7f79df1c5b3b1ca00ed7d86586da07d929f23e03))
+* Membership badges (month, year) ([8910b9b](https://github.com/sevifinance/Sevi-Mobile/commit/8910b9b5f94d7ad6fcfc4c4000014afdeb21ab46))
+* Money formatting (thousands separator) ([3fe56f7](https://github.com/sevifinance/Sevi-Mobile/commit/3fe56f724e30a5caf8eb081ff7329da0a67f9fba))
+* Send money with M-Pesa now has a description ([eecf847](https://github.com/sevifinance/Sevi-Mobile/commit/eecf8474fd34560f230cbfa13b6c34bc1bd6dfea))
+
+
+### Bug Fixes
+
+* Create company for Uganda (1tydqm2) ([1488147](https://github.com/sevifinance/Sevi-Mobile/commit/1488147f14211f89bba833a5a9a3df9cef0cc181))
+* KES + UGX fetch issue ([14df303](https://github.com/sevifinance/Sevi-Mobile/commit/14df303eedc4f6f0cf80b427259e6bc9baf37dc4))
+* PIN Creation ([7dfac29](https://github.com/sevifinance/Sevi-Mobile/commit/7dfac291a115f40a82145d9a1aebf0f83181e3df))
+
+## [0.14.0](https://github.com/sevifinance/Sevi-Mobile/compare/v0.13.1...v0.14.0) (2021-11-26)
+
+
+### Features
+
+* Membership badges (month, year) ([8910b9b](https://github.com/sevifinance/Sevi-Mobile/commit/8910b9b5f94d7ad6fcfc4c4000014afdeb21ab46))
+* Money formatting (thousands separator) ([3fe56f7](https://github.com/sevifinance/Sevi-Mobile/commit/3fe56f724e30a5caf8eb081ff7329da0a67f9fba))
+
+
+### Bug Fixes
+
+* Change member roles as administrator (1qe52xe) ([c47f14e](https://github.com/sevifinance/Sevi-Mobile/commit/c47f14e5f09c9323110136dd7fa046c3fc07f861))
+* Create company for Uganda (1tydqm2) ([1488147](https://github.com/sevifinance/Sevi-Mobile/commit/1488147f14211f89bba833a5a9a3df9cef0cc181))
+* KES + UGX fetch issue ([14df303](https://github.com/sevifinance/Sevi-Mobile/commit/14df303eedc4f6f0cf80b427259e6bc9baf37dc4))
+
+### [0.13.1](https://github.com/sevifinance/Sevi-Mobile/compare/v0.12.0...v0.13.1) (2021-11-19)
+
+
+### Features
+
+* Customer company contact selection screen ([c229317](https://github.com/sevifinance/Sevi-Mobile/commit/c229317416c153b50e5e7faf4dbfb8216b532063))
+* implement FACE ID ([daec9e8](https://github.com/sevifinance/Sevi-Mobile/commit/daec9e87cc5ed04d0a034a02fb0d7bff4cabc975))
+* Invite customer introduction added ([90a098d](https://github.com/sevifinance/Sevi-Mobile/commit/90a098daa1da80450b3c5adbf8b1a7da090acdee))
+* Transaction details updated ([79aa574](https://github.com/sevifinance/Sevi-Mobile/commit/79aa5741341fa4cafcd3b792c4bd3b3bea3b689d))
+
+
+### Bug Fixes
+
+* finalize FACE id ([fcb2a75](https://github.com/sevifinance/Sevi-Mobile/commit/fcb2a75a1f5bbcf915ed068282ead83cd2f07acf))
+* Send money issue (1t7gphj) ([cc6aeb4](https://github.com/sevifinance/Sevi-Mobile/commit/cc6aeb45f308ba067bfa1b835ea58432a1114b4c))
+* Transaction details issue (1tk0mwb) ([0eb4c20](https://github.com/sevifinance/Sevi-Mobile/commit/0eb4c207b3800b702b48e5dd2c26e63d7a3a2cdf))
+* update whatsapp phonenumber ([85cff69](https://github.com/sevifinance/Sevi-Mobile/commit/85cff6910c423f654344785a41583c2dc1e522c6))
+
+### [0.12.1](https://github.com/sevifinance/Sevi-Mobile/compare/v0.12.0...v0.12.1) (2021-11-19)
+
+
+### Features
+
+* Customer company contact selection screen ([c229317](https://github.com/sevifinance/Sevi-Mobile/commit/c229317416c153b50e5e7faf4dbfb8216b532063))
+* implement FACE ID ([daec9e8](https://github.com/sevifinance/Sevi-Mobile/commit/daec9e87cc5ed04d0a034a02fb0d7bff4cabc975))
+* Invite customer introduction added ([90a098d](https://github.com/sevifinance/Sevi-Mobile/commit/90a098daa1da80450b3c5adbf8b1a7da090acdee))
+* Transaction details updated ([79aa574](https://github.com/sevifinance/Sevi-Mobile/commit/79aa5741341fa4cafcd3b792c4bd3b3bea3b689d))
+
+
+### Bug Fixes
+
+* finalize FACE id ([fcb2a75](https://github.com/sevifinance/Sevi-Mobile/commit/fcb2a75a1f5bbcf915ed068282ead83cd2f07acf))
+* Send money issue (1t7gphj) ([cc6aeb4](https://github.com/sevifinance/Sevi-Mobile/commit/cc6aeb45f308ba067bfa1b835ea58432a1114b4c))
+* Transaction details issue (1tk0mwb) ([0eb4c20](https://github.com/sevifinance/Sevi-Mobile/commit/0eb4c207b3800b702b48e5dd2c26e63d7a3a2cdf))
+* update whatsapp phonenumber ([85cff69](https://github.com/sevifinance/Sevi-Mobile/commit/85cff6910c423f654344785a41583c2dc1e522c6))
+
+## [0.13.0](https://github.com/sevifinance/Sevi-Mobile/compare/v0.12.1...v0.13.0) (2021-11-19)
+
+### Features
+
+* Customer company contact selection screen ([c229317](https://github.com/sevifinance/Sevi-Mobile/commit/c229317416c153b50e5e7faf4dbfb8216b532063))
+* implement FACE ID ([daec9e8](https://github.com/sevifinance/Sevi-Mobile/commit/daec9e87cc5ed04d0a034a02fb0d7bff4cabc975))
+* Invite customer introduction added ([90a098d](https://github.com/sevifinance/Sevi-Mobile/commit/90a098daa1da80450b3c5adbf8b1a7da090acdee))
+* Transaction details updated ([79aa574](https://github.com/sevifinance/Sevi-Mobile/commit/79aa5741341fa4cafcd3b792c4bd3b3bea3b689d))
+
+
+### Bug Fixes
+
+* finalize FACE id ([fcb2a75](https://github.com/sevifinance/Sevi-Mobile/commit/fcb2a75a1f5bbcf915ed068282ead83cd2f07acf))
+* Transaction details issue (1tk0mwb) ([0eb4c20](https://github.com/sevifinance/Sevi-Mobile/commit/0eb4c207b3800b702b48e5dd2c26e63d7a3a2cdf))
+* update whatsapp phonenumber ([85cff69](https://github.com/sevifinance/Sevi-Mobile/commit/85cff6910c423f654344785a41583c2dc1e522c6))
+
 ## [0.12.0](https://github.com/sevifinance/Sevi-Mobile/compare/v0.11.0...v0.12.0) (2021-11-12)
 
 ### Features
 
 * Customers list updated ([4e34b02](https://github.com/sevifinance/Sevi-Mobile/commit/4e34b02ee015006d51069a7741015f20f2d483d7))
+
+## [0.10.0](https://github.com/sevifinance/Sevi-Mobile/compare/v0.9.4...v0.10.0) (2021-11-12)
+
+
+### Features
+
 * Earn badges on wallet ([9ff14a0](https://github.com/sevifinance/Sevi-Mobile/commit/9ff14a0de493aef0e47594a64dbbf7015c4e1004))
 * expand loading screen ([ca60ee9](https://github.com/sevifinance/Sevi-Mobile/commit/ca60ee9e5f088df402db21b359e09090fb30a16b))
 
@@ -28,6 +172,8 @@ All notable changes to this project will be documented in this file.
 * invite phonenumber from other country ([bddcab4](https://github.com/sevifinance/Sevi-Mobile/commit/bddcab422b71f09ef6485409ccbd7c7a52ffa779))
 * remove customer calling and chat support from profile page ([86cd2b4](https://github.com/sevifinance/Sevi-Mobile/commit/86cd2b4533cfdce8a150310b1b09eb4e33acceee))
 * update phonenumber ([88f234c](https://github.com/sevifinance/Sevi-Mobile/commit/88f234c6dae4c7e6debc69dc1e7512dfb16a9b63))
+
+### [0.8.3](https://github.com/sevifinance/Sevi-Mobile/compare/v0.8.2...v0.8.3) (2021-10-27)
 
 ## [0.9.0](https://github.com/sevifinance/Sevi-Mobile/compare/v0.8.2...v0.9.0) (2021-10-29)
 
