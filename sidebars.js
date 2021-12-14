@@ -34,7 +34,6 @@ module.exports = {
       collapsed: true,
       items: [
           'vacancies/developer',
-          'vacancies/agent',
           ],
     }, 
     'changelog',
