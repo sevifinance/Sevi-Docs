@@ -1,4 +1,29 @@
 All notable changes to this project will be documented in this file.
+### [0.16.1](https://github.com/sevifinance/Sevi-Mobile/compare/v0.15.2...v0.16.1) (2021-12-20)
+
+
+### Features
+
+* add editing ID record information ([04a0afd](https://github.com/sevifinance/Sevi-Mobile/commit/04a0afde419acd92540c61d6a2fe960e2293c4bd))
+* adding badge action button ([4f55eae](https://github.com/sevifinance/Sevi-Mobile/commit/4f55eae02b7edd109505cc683c1f429db607fa74))
+* adding badge completion bar ([509337d](https://github.com/sevifinance/Sevi-Mobile/commit/509337ddd36b09d9b8036805cb433ca0263b43fc))
+* Automatically reload badges when earned ([235bfb3](https://github.com/sevifinance/Sevi-Mobile/commit/235bfb315e1793ff0142c70fbf296ad1e82bd404))
+* Installments count badge ([341a290](https://github.com/sevifinance/Sevi-Mobile/commit/341a290c969e81151ce98ad623832bd03a46bea3))
+* Remove pending order button added ([7d3dcd9](https://github.com/sevifinance/Sevi-Mobile/commit/7d3dcd9cdd350600f8ba393e27616bbdb68ecf31))
+* Update screen updated ([991e8b9](https://github.com/sevifinance/Sevi-Mobile/commit/991e8b9dbda26892e50258725d7501166ac98cf7))
+
+
+### Bug Fixes
+
+* adding idCardQuery query ([ed8f519](https://github.com/sevifinance/Sevi-Mobile/commit/ed8f5192c476b37c3be16ac529e2b0a354395924))
+* Adding userId to customer KYC ([a703c9c](https://github.com/sevifinance/Sevi-Mobile/commit/a703c9c204392fb9b0727a93a589ab512cf38285))
+* bank transfer issue ([813cc5d](https://github.com/sevifinance/Sevi-Mobile/commit/813cc5dc0b687392d69b847da0c5e857d8f61a7b))
+* Pay installment with insufficient balance ([f66b9e9](https://github.com/sevifinance/Sevi-Mobile/commit/f66b9e9e41d03175bacfd84700e2b9a45aaf8446))
+* provide URL from image uploading ([d842566](https://github.com/sevifinance/Sevi-Mobile/commit/d8425664791c7cac3470dd0de6df04ee62a12d49))
+* registration to check details ([9894f87](https://github.com/sevifinance/Sevi-Mobile/commit/9894f87d39ba6bb5b3e1c838b79511418825fd92))
+* reperate phone and ID upload ([f484de8](https://github.com/sevifinance/Sevi-Mobile/commit/f484de83ffb76cbddb8b0bc361d1426b1df1da41))
+* Verify document ID ([af1a46a](https://github.com/sevifinance/Sevi-Mobile/commit/af1a46a42b2dd0e24b7cd90e064554a08d011f4d))
+
 ## [0.16.0](https://github.com/sevifinance/Sevi-Mobile/compare/v0.15.3...v0.16.0) (2021-12-17)
 
 
