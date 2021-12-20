@@ -34,7 +34,6 @@ module.exports = {
       collapsed: true,
       items: [
           'vacancies/developer',
-          'vacancies/agent',
           ],
     }, 
     'changelog',
@@ -54,6 +53,7 @@ module.exports = {
         },
       'buyer/topup',
       'buyer/badgesbuyer',
+      'buyer/creditlimit',
       'buyer/refresh',
       'buyer/version',
       'buyer/groups',
@@ -80,6 +80,7 @@ module.exports = {
       'seller/badges',
       'seller/withdraw',
       'seller/registeragent',
+      'seller/creditlimit',
       'seller/creditconfiguration',
       'seller/customersection',
       'seller/refresh',
