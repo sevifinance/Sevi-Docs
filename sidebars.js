@@ -33,6 +33,7 @@ module.exports = {
       label: 'Vacancies',
       collapsed: true,
       items: [
+          'vacancies/countrymanager',
           'vacancies/developer',
           ],
     }, 
