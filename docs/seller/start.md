@@ -41,3 +41,4 @@ When your customer does not have a Smartphone, your sales agents are able to per
 If you want to start offering the 'Order now, Pay later' option to your customers, please apply here.
 Fill out this [application form](https://forms.gle/KvNxBHaUQKEQe5zNA) and we will get back to you, with our commercial offering.
 
+
