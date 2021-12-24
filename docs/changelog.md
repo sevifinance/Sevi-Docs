@@ -1,4 +1,30 @@
 All notable changes to this project will be documented in this file.
+## [0.17.0](https://github.com/sevifinance/Sevi-Mobile/compare/v0.16.2...v0.17.0) (2021-12-24)
+
+
+### Features
+
+* Verify company form added ([8587ec4](https://github.com/sevifinance/Sevi-Mobile/commit/8587ec4f9327c2832237e541583dba74d0bcdb61))
+
+
+### Bug Fixes
+
+* Changed order delete icon to trash can ([a724e09](https://github.com/sevifinance/Sevi-Mobile/commit/a724e095e5a89403ec5a22e5df6e7406577aa92e))
+* Payment options alignment correction ([169e545](https://github.com/sevifinance/Sevi-Mobile/commit/169e5451b194875bacabe2716bb54aec7ff14297))
+
+### [0.16.2](https://github.com/sevifinance/Sevi-Mobile/compare/v0.16.1...v0.16.2) (2021-12-22)
+
+
+### Features
+
+* Installments overview style update ([3065e83](https://github.com/sevifinance/Sevi-Mobile/commit/3065e83bc66938a4aa079d96fa69fc1a0d7c0eb5))
+
+
+### Bug Fixes
+
+* documentId upload issue ([90d4fc7](https://github.com/sevifinance/Sevi-Mobile/commit/90d4fc79c7b5cf5e96ce4785d35a30a935709b15))
+* Payment option functionality changes ([7d39a3e](https://github.com/sevifinance/Sevi-Mobile/commit/7d39a3e714c1c284bd501685c1f3999e5ad7b551))
+
 ### [0.16.1](https://github.com/sevifinance/Sevi-Mobile/compare/v0.15.2...v0.16.1) (2021-12-20)
 
 
