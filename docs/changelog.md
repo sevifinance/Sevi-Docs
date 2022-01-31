@@ -1,4 +1,88 @@
 All notable changes to this project will be documented in this file.
+### [0.20.2](https://github.com/sevifinance/Sevi-Mobile/compare/v0.20.1...v0.20.2) (2022-01-26)
+
+
+### Bug Fixes
+
+* walletOverview Issue ([3c09d09](https://github.com/sevifinance/Sevi-Mobile/commit/3c09d09c1f2a5be03948f0c218c38b1d1d22dc35))
+
+### [0.20.1](https://github.com/sevifinance/Sevi-Mobile/compare/v0.19.0...v0.20.1) (2022-01-25)
+
+
+### Features
+
+* Become a seller when creating company account ([e0c7def](https://github.com/sevifinance/Sevi-Mobile/commit/e0c7deff51ed388993f429da2c6d07c48cc14ee3))
+* Change Company Picture ([1db584a](https://github.com/sevifinance/Sevi-Mobile/commit/1db584a8ce2370c1797e47204caa9821909d1c6d))
+* Earning badges will not navigate to notifications screen anymore ([a95f943](https://github.com/sevifinance/Sevi-Mobile/commit/a95f9434a71c56436e4262fd0ceed0466313d76a))
+* graphql types ([2f13104](https://github.com/sevifinance/Sevi-Mobile/commit/2f13104eb1fb726e0d6356bd05a04fa22b4ff1f2))
+* Status page scroll to refresh ([e9a8ab1](https://github.com/sevifinance/Sevi-Mobile/commit/e9a8ab1c5e420ad247d88239cec49862e60cd627))
+
+
+### Bug Fixes
+
+* Changed Status page labels ([af3079f](https://github.com/sevifinance/Sevi-Mobile/commit/af3079ff6a703f34f4c2124802028771b4ba1d31))
+* data ([f52a961](https://github.com/sevifinance/Sevi-Mobile/commit/f52a961523aa3698e499b678b231ffe7d50275db))
+* Groups are now shown in customers ([749722a](https://github.com/sevifinance/Sevi-Mobile/commit/749722a64fa68f77a6e887d4fe46f0ef473aec53))
+* Registration navigation ([bcebdb8](https://github.com/sevifinance/Sevi-Mobile/commit/bcebdb84c766286968a8a346702c31b2660011fb))
+* Updated status page terms ([bf4b858](https://github.com/sevifinance/Sevi-Mobile/commit/bf4b85829145dcf7d9456b9266dfd71e81f73c73))
+
+## [0.20.0](https://github.com/sevifinance/Sevi-Mobile/compare/v0.19.2...v0.20.0) (2022-01-21)
+
+
+### Features
+
+* Become a seller when creating company account ([e0c7def](https://github.com/sevifinance/Sevi-Mobile/commit/e0c7deff51ed388993f429da2c6d07c48cc14ee3))
+* Earning badges will not navigate to notifications screen anymore ([a95f943](https://github.com/sevifinance/Sevi-Mobile/commit/a95f9434a71c56436e4262fd0ceed0466313d76a))
+* graphql types ([2f13104](https://github.com/sevifinance/Sevi-Mobile/commit/2f13104eb1fb726e0d6356bd05a04fa22b4ff1f2))
+
+
+### Bug Fixes
+
+* Updated status page terms ([bf4b858](https://github.com/sevifinance/Sevi-Mobile/commit/bf4b85829145dcf7d9456b9266dfd71e81f73c73))
+
+### [0.19.2](https://github.com/sevifinance/Sevi-Mobile/compare/v0.19.1...v0.19.2) (2022-01-19)
+
+
+### Features
+
+* Status page scroll to refresh ([e9a8ab1](https://github.com/sevifinance/Sevi-Mobile/commit/e9a8ab1c5e420ad247d88239cec49862e60cd627))
+
+### [0.19.1](https://github.com/sevifinance/Sevi-Mobile/compare/v0.17.1...v0.19.1) (2022-01-19)
+
+
+### Features
+
+* adding 1-KES_BANK 2-KES_MPESA badge ([a5700c9](https://github.com/sevifinance/Sevi-Mobile/commit/a5700c93d562dc958afa56985b131aa1453fb8b7))
+* adding faceId unique to customer ([e8d7121](https://github.com/sevifinance/Sevi-Mobile/commit/e8d7121c1cb5ab29a1640db48357af90bd6642a9))
+* adding sellers doc upload ([37cebb3](https://github.com/sevifinance/Sevi-Mobile/commit/37cebb3e011ec8cc7c99abc21200e7994055d107))
+* adding unique face id and check ([0ea42fc](https://github.com/sevifinance/Sevi-Mobile/commit/0ea42fc8f8cc9cb09527008b02dc6bcebbdedd42))
+* Change Personal Tax ID with Badge ([0cd800b](https://github.com/sevifinance/Sevi-Mobile/commit/0cd800b38acfe6c19139e97b1880df5184ebecf6))
+* Display badges on customer profile ([9414960](https://github.com/sevifinance/Sevi-Mobile/commit/941496031fe0950ffc0ae9085d82b020b808adc9))
+* Installment overview now shows progress ([9ef751a](https://github.com/sevifinance/Sevi-Mobile/commit/9ef751a1818c47a0fac61de4d3df5735830bdba1))
+* Installments counts updated ([35657ed](https://github.com/sevifinance/Sevi-Mobile/commit/35657edfdafa530331ee7f64c9a16e33d9d406c4))
+* Late fees are now shown for installments ([3e7549b](https://github.com/sevifinance/Sevi-Mobile/commit/3e7549b80a8d6303bbaeb7117543281b8d231d46))
+* link document date to profile ([a2ce545](https://github.com/sevifinance/Sevi-Mobile/commit/a2ce545843e2e5546e3418db37a40c98efbb1f71))
+* Navigatability from orders to installments ([334cdde](https://github.com/sevifinance/Sevi-Mobile/commit/334cdde89bdf3c7810dfcba70b2f44d85d42428b))
+* new date picker component ([09cad0b](https://github.com/sevifinance/Sevi-Mobile/commit/09cad0b6b9f37e6af4316e241a6c16bc625d70c8))
+* On-time Pay Percentage ([335545d](https://github.com/sevifinance/Sevi-Mobile/commit/335545dbf5cb1f591444a4f2e763bba5daa98d5d))
+* Order create delivery location (1wtu7qp) ([80fbb5c](https://github.com/sevifinance/Sevi-Mobile/commit/80fbb5cda8a7d46874da9487eea98fb3980c351e))
+* Sales button added ([d450a56](https://github.com/sevifinance/Sevi-Mobile/commit/d450a5669c1025186b868de91f6e47cea24ec987))
+* Shipping Location can now be added ([e90e53c](https://github.com/sevifinance/Sevi-Mobile/commit/e90e53cc65ff92e9055ab63b595256d8cf33fb7d))
+* Stability update ([a524f7f](https://github.com/sevifinance/Sevi-Mobile/commit/a524f7f79c97ddce1c41343b2c718453e2539efd))
+* Updated company menu ([69b21a3](https://github.com/sevifinance/Sevi-Mobile/commit/69b21a35aae101b7d138f9d01de87d7a4a399ed5))
+
+
+### Bug Fixes
+
+* agent KYC document data ([34b5585](https://github.com/sevifinance/Sevi-Mobile/commit/34b5585bc190157699267387b36475dd44b8d44e))
+* Automatically start typing on text input ([c5f0042](https://github.com/sevifinance/Sevi-Mobile/commit/c5f00424052f74c5719449c90f6550a7cce979f0))
+* Changed Status page labels ([af3079f](https://github.com/sevifinance/Sevi-Mobile/commit/af3079ff6a703f34f4c2124802028771b4ba1d31))
+* documentID to documentId ([2e61a19](https://github.com/sevifinance/Sevi-Mobile/commit/2e61a19fe1ce26618c7aa85e7f7d701dfaca2a39))
+* Groups are now shown in customers ([749722a](https://github.com/sevifinance/Sevi-Mobile/commit/749722a64fa68f77a6e887d4fe46f0ef473aec53))
+* remove nod and blink from the liveness detection ([8a03998](https://github.com/sevifinance/Sevi-Mobile/commit/8a03998a63d3320ac22faaabad7d17ba2939842c))
+* remove non existing mutation ([877e80e](https://github.com/sevifinance/Sevi-Mobile/commit/877e80e980cbb68f1f64ad735f515d450be4aaee))
+* Updated profile completion percentage ([df18c63](https://github.com/sevifinance/Sevi-Mobile/commit/df18c634a53c9d71fa79a682c9d1411e73b7adbe))
+
 ## [0.19.0](https://github.com/sevifinance/Sevi-Mobile/compare/v0.18.2...v0.19.0) (2022-01-18)
 
 
