@@ -1,4 +1,33 @@
 All notable changes to this project will be documented in this file.
+### [0.21.1](https://github.com/sevifinance/Sevi-Mobile/compare/v0.21.0...v0.21.1) (2022-02-02)
+
+
+### Features
+
+* Updated default company image ([79c25c3](https://github.com/sevifinance/Sevi-Mobile/commit/79c25c31c3893ddb804d347edea41fdd28f39d92))
+
+## [0.21.0](https://github.com/sevifinance/Sevi-Mobile/compare/v0.20.0...v0.21.0) (2022-02-02)
+
+
+### Features
+
+* Change Company Picture ([1db584a](https://github.com/sevifinance/Sevi-Mobile/commit/1db584a8ce2370c1797e47204caa9821909d1c6d))
+* Connection issues screen updated ([92f3fbd](https://github.com/sevifinance/Sevi-Mobile/commit/92f3fbd8aa86a42f5209ad4ca40831711807c37a))
+* Loading animation style updated ([1e2ffd4](https://github.com/sevifinance/Sevi-Mobile/commit/1e2ffd4081302b470966ed8dfc5a3f9e1d5ff669))
+* Transactions minor style update ([62ee5b9](https://github.com/sevifinance/Sevi-Mobile/commit/62ee5b90f55be5e1331746487ed944ed74247010))
+
+
+### Bug Fixes
+
+* data ([f52a961](https://github.com/sevifinance/Sevi-Mobile/commit/f52a961523aa3698e499b678b231ffe7d50275db))
+* emty account section ([5d8373e](https://github.com/sevifinance/Sevi-Mobile/commit/5d8373e3e8b5980ed1b3efebbe77233bdcdc8331))
+* Registration navigation ([bcebdb8](https://github.com/sevifinance/Sevi-Mobile/commit/bcebdb84c766286968a8a346702c31b2660011fb))
+* Registration process completed ([daa233c](https://github.com/sevifinance/Sevi-Mobile/commit/daa233cac997279fd7b07b471e49bebb83da22f1))
+* remove logs ([4120024](https://github.com/sevifinance/Sevi-Mobile/commit/4120024a9b0c7e9e7ba8881055998e07e663fecf))
+* Shipping location without location access ([e013a6e](https://github.com/sevifinance/Sevi-Mobile/commit/e013a6ea23ad30c08108df2d41076e74b29f20cc))
+* Verify seller verification started notification at the right time ([68da4ee](https://github.com/sevifinance/Sevi-Mobile/commit/68da4ee0da2bbfc81004d6763f8d247aed83b5d5))
+* walletOverview Issue ([3c09d09](https://github.com/sevifinance/Sevi-Mobile/commit/3c09d09c1f2a5be03948f0c218c38b1d1d22dc35))
+
 ### [0.20.2](https://github.com/sevifinance/Sevi-Mobile/compare/v0.20.1...v0.20.2) (2022-01-26)
 
 
