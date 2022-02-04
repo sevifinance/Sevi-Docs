@@ -1,4 +1,24 @@
 All notable changes to this project will be documented in this file.
+### [0.21.3](https://github.com/sevifinance/Sevi-Mobile/compare/v0.21.2...v0.21.3) (2022-02-04)
+
+
+### Bug Fixes
+
+* Customer maximum order amount order creation ([f8fd64d](https://github.com/sevifinance/Sevi-Mobile/commit/f8fd64daf66adc1bee2f24ecfb84e082c8907985))
+
+### [0.21.2](https://github.com/sevifinance/Sevi-Mobile/compare/v0.21.1...v0.21.2) (2022-02-04)
+
+
+### Features
+
+* Customer Profile Maximum Order Amount ([a6b10bb](https://github.com/sevifinance/Sevi-Mobile/commit/a6b10bb33c86cd1d5858274a9aec4189f7cf7238))
+
+
+### Bug Fixes
+
+* Delivery location loading screen for orders ([c962067](https://github.com/sevifinance/Sevi-Mobile/commit/c962067790a95db529a1da6b4b480f44fb7f8bc3))
+* Loading screens to fullscreen ([c5e2bd2](https://github.com/sevifinance/Sevi-Mobile/commit/c5e2bd2ba8d1e8ccb68a5014653d5b602fd71fa0))
+
 ### [0.21.1](https://github.com/sevifinance/Sevi-Mobile/compare/v0.21.0...v0.21.1) (2022-02-02)
 
 
