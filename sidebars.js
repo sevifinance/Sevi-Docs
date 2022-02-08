@@ -81,6 +81,7 @@ module.exports = {
       'seller/topup',
       'seller/badges',
       'seller/withdraw',
+      'seller/addagent',
       'seller/registeragent',
       'seller/creditlimit',
       'seller/creditconfiguration',
