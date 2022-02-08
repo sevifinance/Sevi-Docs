@@ -76,6 +76,7 @@ module.exports = {
           'seller/payinstalments',
           ],
       },
+      'seller/apply',
       'seller/segements/ecommerce',
       'seller/topup',
       'seller/badges',
