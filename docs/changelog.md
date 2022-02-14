@@ -1,4 +1,11 @@
 All notable changes to this project will be documented in this file.
+### [0.22.2](https://github.com/sevifinance/Sevi-Mobile/compare/v0.22.1...v0.22.2) (2022-02-14)
+
+
+### Bug Fixes
+
+* Settlement bank fields reordered ([498c88a](https://github.com/sevifinance/Sevi-Mobile/commit/498c88a6da2fb317b29f54bd8bc4d3a96536bb1d))
+
 ### [0.22.1](https://github.com/sevifinance/Sevi-Mobile/compare/v0.22.0...v0.22.1) (2022-02-14)
 
 
