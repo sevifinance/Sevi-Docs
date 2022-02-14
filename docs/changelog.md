@@ -1,4 +1,41 @@
 All notable changes to this project will be documented in this file.
+### [0.22.1](https://github.com/sevifinance/Sevi-Mobile/compare/v0.22.0...v0.22.1) (2022-02-14)
+
+
+### Bug Fixes
+
+* Registration process steps small fixes ([aae1294](https://github.com/sevifinance/Sevi-Mobile/commit/aae129470e3cad77c5f81ab8a58032e35c302039))
+
+## [0.22.0](https://github.com/sevifinance/Sevi-Mobile/compare/v0.21.3...v0.22.0) (2022-02-11)
+
+
+### Features
+
+* adding mpesa statement infoscreen ([415099c](https://github.com/sevifinance/Sevi-Mobile/commit/415099cbf69cd774249911c32d8911abc30bb8d6))
+* Show your Sevi ID ([c78e1b3](https://github.com/sevifinance/Sevi-Mobile/commit/c78e1b33294484cda8159f5893bba265c8198166))
+* Status payback rate updated ([83f197f](https://github.com/sevifinance/Sevi-Mobile/commit/83f197fd7f98c9d7062ea51770203237578f66e2))
+* Update Screen style update ([69b35f9](https://github.com/sevifinance/Sevi-Mobile/commit/69b35f9d3c40cb6a6f10c5c989bc5c5df996fb02))
+
+### [0.21.3](https://github.com/sevifinance/Sevi-Mobile/compare/v0.21.2...v0.21.3) (2022-02-04)
+
+
+### Bug Fixes
+
+* Customer maximum order amount order creation ([f8fd64d](https://github.com/sevifinance/Sevi-Mobile/commit/f8fd64daf66adc1bee2f24ecfb84e082c8907985))
+
+### [0.21.2](https://github.com/sevifinance/Sevi-Mobile/compare/v0.21.1...v0.21.2) (2022-02-04)
+
+
+### Features
+
+* Customer Profile Maximum Order Amount ([a6b10bb](https://github.com/sevifinance/Sevi-Mobile/commit/a6b10bb33c86cd1d5858274a9aec4189f7cf7238))
+
+
+### Bug Fixes
+
+* Delivery location loading screen for orders ([c962067](https://github.com/sevifinance/Sevi-Mobile/commit/c962067790a95db529a1da6b4b480f44fb7f8bc3))
+* Loading screens to fullscreen ([c5e2bd2](https://github.com/sevifinance/Sevi-Mobile/commit/c5e2bd2ba8d1e8ccb68a5014653d5b602fd71fa0))
+
 ### [0.21.1](https://github.com/sevifinance/Sevi-Mobile/compare/v0.21.0...v0.21.1) (2022-02-02)
 
 
