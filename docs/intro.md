@@ -5,7 +5,7 @@ sidebar_position: 1
 # About Sevi 
 
 ## Introduction
-Sell more products by providing an ‘Order now, Pay later’ option to your customers. Let your customers order the products they want now, but pay later. It is hassle free as Sevi provides the credit line, does the KYC and follows up on payments. Even though you are selling on credit, you get paid upfront. [Apply now!](https://forms.gle/KvNxBHaUQKEQe5zNA)
+Sell more products by providing an ‘Order now, Pay later’ option to your customers. Let your customers order the products they want now, but pay later. It is hassle free as Sevi provides the credit line, does the KYC and follows up on payments. Even though you are selling on credit, you get paid upfront. [Apply now!](/docs/seller/apply)
 
 Sevi offers a simple-to-use smartphone app for your sales agents and your customers, to easily sell your products on Sevi’s credit.
 
