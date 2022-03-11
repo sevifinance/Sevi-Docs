@@ -1,4 +1,28 @@
 All notable changes to this project will be documented in this file.
+### [0.22.2](https://github.com/sevifinance/Sevi-Mobile/compare/v0.22.1...v0.22.2) (2022-02-14)
+
+
+### Bug Fixes
+
+* Settlement bank fields reordered ([498c88a](https://github.com/sevifinance/Sevi-Mobile/commit/498c88a6da2fb317b29f54bd8bc4d3a96536bb1d))
+
+### [0.22.1](https://github.com/sevifinance/Sevi-Mobile/compare/v0.22.0...v0.22.1) (2022-02-14)
+
+
+### Bug Fixes
+
+* Registration process steps small fixes ([aae1294](https://github.com/sevifinance/Sevi-Mobile/commit/aae129470e3cad77c5f81ab8a58032e35c302039))
+
+## [0.22.0](https://github.com/sevifinance/Sevi-Mobile/compare/v0.21.3...v0.22.0) (2022-02-11)
+
+
+### Features
+
+* adding mpesa statement infoscreen ([415099c](https://github.com/sevifinance/Sevi-Mobile/commit/415099cbf69cd774249911c32d8911abc30bb8d6))
+* Show your Sevi ID ([c78e1b3](https://github.com/sevifinance/Sevi-Mobile/commit/c78e1b33294484cda8159f5893bba265c8198166))
+* Status payback rate updated ([83f197f](https://github.com/sevifinance/Sevi-Mobile/commit/83f197fd7f98c9d7062ea51770203237578f66e2))
+* Update Screen style update ([69b35f9](https://github.com/sevifinance/Sevi-Mobile/commit/69b35f9d3c40cb6a6f10c5c989bc5c5df996fb02))
+
 ### [0.21.3](https://github.com/sevifinance/Sevi-Mobile/compare/v0.21.2...v0.21.3) (2022-02-04)
 
 
