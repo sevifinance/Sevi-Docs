@@ -62,7 +62,7 @@ We will conduct a maximum of two (2) retries in order to try to collect the fund
 
 If you fail to make a payment and have a Late status, you may be unable to use the service in the future. We continue to attempt to collect overdue and currently due payments on subsequent due dates, or invoice you separately for the unpaid total. You can pay any defaulted instalment at any time during the Period.
 
-If you fail to pay any or all instalments for over 50 days, your account will get a Default status and a default fee of 10% is added to the total credit amount. When you are in default Sevi will engage with an external debt collection agency to collect the outstanding amount. The cost for collection will be charged to you.
+If you fail to pay any or all instalments for over 21 days, your account will get a Default status and a default fee of 10% is added to the total credit amount. When you are in default Sevi will engage with an external debt collection agency to collect the outstanding amount. The cost for collection will be charged to you.
 
 Title to the purchase using the Pay-in-Instalment option shall pass to you only upon payment in full of all instalments, including any additional fees and interest charged by us.
 

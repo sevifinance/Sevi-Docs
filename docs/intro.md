@@ -11,7 +11,7 @@ Sevi offers a simple-to-use smartphone app for your sales agents and your custom
 
 We provide an open API to integrate the Sevi ‘Order now, Pay later' option in your ERP system and/or eCommerce website and a dashboard to manage your orders and credits. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dWeqTfxqN1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/phyvPw_jyIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
 
 ## Vision
 Providing affordable finance to entrepreneurs is a crucial condition for further growth of micro and small companies, contributing to economic growth and a ignified life for entrepreneurs, their employees and families. We believe merchant finance based on real orders and delivery is the best way to loan to low-income clients because it limits default risks. We believe using new digital technologies can unleash the full potential of this model.

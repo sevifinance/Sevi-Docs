@@ -25,5 +25,5 @@ Your buyer is making an order from his/her personal Sevi account or as a Sole Pr
     Order amount exceeds allowed buyer company limit
 Your buyer is making an order from a Limited Company. This company is not able to pay for this order in instalments, because the sum of all the companies orders combined is too high. These orders can also be at another Sellers on Sevi. Ask your buyer to pay instalments of other orders first, to be able to 'Order now, Pay later'. 
 
-    Seller exceeds more than 10% late installments
-The sum of all instalments that are overdue of all your buyers combined is more than 10% of the sum of all open instalments of all your buyers combined. Please remind your buyer to first pay these overdue instalments, to be able to 'Order now, Pay later'. More information on [how to pay instalments](/docs/buyer/payinstalments). 
+    Seller exceeds more than 25% late installments
+The sum of all instalments that are overdue of all your buyers combined is more than 25% of the sum of all open instalments of all your buyers combined. Please remind your buyer to first pay these overdue instalments, to be able to 'Order now, Pay later'. More information on [how to pay instalments](/docs/buyer/payinstalments). 

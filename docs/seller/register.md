@@ -36,8 +36,6 @@ Non registered customers can be recognized by the `yellow card` behind their pho
 <img src="/register/KYCcustomer.png" alt="verification" width="200"/>
 
 To start the KYC process, click the non registered customer's phone number. Follow the prompts on the screen to fill-out to following details:
-- Enter full name (as on ID card)
-- Enter ID number
 - Take a photo of ID card of customer
 - Take a portrait photo of customer
 
