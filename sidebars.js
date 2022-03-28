@@ -83,7 +83,6 @@ module.exports = {
       'seller/addagent',
       'seller/registeragent',
       'seller/creditlimit',
-      'seller/creditconfiguration',
       'seller/customersection',
       'seller/refresh',
       'seller/version',

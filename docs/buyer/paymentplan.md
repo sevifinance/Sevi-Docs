@@ -28,11 +28,11 @@ Depending on e.g. your order size, your supplier and your personal track record 
 
 **Option 1:** `DIRECT PAY` is a payment in full from your Sevi account to your supplier, this equals to a cash payment. 
 
-**Option 2:** `WEEKLY PAY`is a payment plan with weekly instalments. 
+**Option 2:** `DAILY PAY`is a payment plan with daily instalments. 
 
-**Option 3:** `MONTHLY PAY`is a payment plan with monthly instalments.
+**Option 3:** `WEEKLY PAY`is a payment plan with weekly instalments. 
 
-**Option 4:** `AT ONCE`is a payment plan with one instalment at the end.
+**Option 4:** `MONTHLY PAY`is a payment plan with monthly instalments.
 
 To find out more about Payment Plans, [`Click here`](/docs/buyer/plans)
 
