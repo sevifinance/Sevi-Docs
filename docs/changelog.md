@@ -1,4 +1,52 @@
 All notable changes to this project will be documented in this file.
+### [0.26.4](https://github.com/sevifinance/Sevi-Mobile/compare/v0.26.3...v0.26.4) (2022-04-11)
+
+
+### Features
+
+* Removed location from order creation ([4d7c2f1](https://github.com/sevifinance/Sevi-Mobile/commit/4d7c2f159aed98e41d16ce70e42a17a75ad4a408))
+
+
+### Bug Fixes
+
+* Display 'no products found' when needed ([305498a](https://github.com/sevifinance/Sevi-Mobile/commit/305498a0a81a102a9b929afbb0116a457bf69165))
+* Photo process updated ([30e0ec0](https://github.com/sevifinance/Sevi-Mobile/commit/30e0ec0f0514b6b747c9e7355bea5603dd81719a))
+* Update quantity on add existing item ([c30d627](https://github.com/sevifinance/Sevi-Mobile/commit/c30d62706b066da3a40854046f270309ee67ebdb))
+
+### [0.26.3](https://github.com/sevifinance/Sevi-Mobile/compare/v0.26.2...v0.26.3) (2022-04-04)
+
+
+### Features
+
+* Add products screen updated ([2cec7f2](https://github.com/sevifinance/Sevi-Mobile/commit/2cec7f235e422052417c1ab12dd61791759b56e4))
+* Show trusted buyer levels ([e912602](https://github.com/sevifinance/Sevi-Mobile/commit/e91260242125feaed862477ce4b8555b1b7c601e))
+
+
+### Bug Fixes
+
+<<<<<<< HEAD
+* Create order navigation fixes ([0cb0848](https://github.com/sevifinance/Sevi-Mobile/commit/0cb08480844ac66c2e7d85df075c7ae6ab70feab))
+=======
+* Create items for orders b7fc815
+* Create product several fixes 69988d7
+* remove variables from product mutation 70b509b
+
+### [0.25.1](///compare/v0.25.0...v0.25.1) (2022-03-11)
+## [0.25.0](///compare/v0.24.8...v0.25.0) (2022-03-11)
+
+### Bug Fixes
+
+* Create product several fixes ([69988d7](https://github.com/sevifinance/Sevi-Mobile/commit/69988d787ac48a57490c2b4ce5b9a159cb915425))
+* Member photos are now visible ([eca2b6b](https://github.com/sevifinance/Sevi-Mobile/commit/eca2b6bc93d3183a8fa3bbea7e852085982cf369))
+* remove variables from product mutation ([70b509b](https://github.com/sevifinance/Sevi-Mobile/commit/70b509b8cc01b898ef2f34038d578630b51784e2))
+
+### [0.26.1](https://github.com/sevifinance/Sevi-Mobile/compare/v0.26.0...v0.26.1) (2022-03-29)
+
+
+### Bug Fixes
+
+* Create items for orders ([b7fc815](https://github.com/sevifinance/Sevi-Mobile/commit/b7fc815e5741e4f7bb01b678c955051fd996bac5))
+
 ## [0.26.0](https://github.com/sevifinance/Sevi-Mobile/compare/v0.25.4...v0.26.0) (2022-03-28)
 
 
