@@ -8,11 +8,11 @@ sidebar_position: 1
 
 **Option 1:** `DIRECT PAY` is a payment in full from your Sevi account to your supplier, this equals to a cash payment. 
 
-**Option 2:** `WEEKLY PAY`is a payment plan with weekly instalments. 
+**Option 2:** `DAILY PAY`is a payment plan with daily instalments. 
 
-**Option 3:** `MONTHLY PAY`is a payment plan with monthly instalments.
+**Option 3:** `WEEKLY PAY`is a payment plan with weekly instalments. 
 
-**Option 4:** `AT ONCE`is a payment plan with one instalment at the end.
+**Option 4:** `MONTHLY PAY`is a payment plan with monthly instalments.
 
 ## Direct payment
 This options is always available. It's generally, from a financial standpoint, also the most attractive option. 

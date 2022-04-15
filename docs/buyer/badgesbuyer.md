@@ -11,6 +11,9 @@ Click on your account to see the badges you've earned. Each badge will give you 
 
 You completed your registration process on Sevi and you have a verified Sevi account now. 
 
+## M-Pesa statement
+Upload your M-Pesa statement to increase your max credit limits. 
+
 ## First order
 
 Place your first order through Sevi and you earn this badge. 
