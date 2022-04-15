@@ -34,6 +34,7 @@ module.exports = {
       collapsed: true,
       items: [
           'vacancies/developer',
+          'vacancies/machinelearning',
           ],
     }, 
     'changelog',
