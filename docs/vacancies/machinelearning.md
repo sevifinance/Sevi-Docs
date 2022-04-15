@@ -2,7 +2,7 @@
 sidebar_position: 8
 ---
 
-# Machine learning developer
+# Machine learning engineer
 
 ## Introduction
 Small and medium enterprises are the backbone of stable economies, in terms of job creation and GDP. However, in many low-income countries these SMEs are missing. Access to affordable finance is one of the main hurdles for micro entrepreneurs and farmers to grow their business. 
