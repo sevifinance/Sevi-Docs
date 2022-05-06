@@ -1,44 +1,85 @@
 All notable changes to this project will be documented in this file.
-### [0.26.4](https://github.com/sevifinance/Sevi-Mobile/compare/v0.26.3...v0.26.4) (2022-04-11)
+## [0.29.0](https://github.com/sevifinance/Sevi-Mobile/compare/v0.28.0...v0.29.0) (2022-05-06)
 
 
 ### Features
 
-* Removed location from order creation ([4d7c2f1](https://github.com/sevifinance/Sevi-Mobile/commit/4d7c2f159aed98e41d16ce70e42a17a75ad4a408))
+* Performance update ([75943cc](https://github.com/sevifinance/Sevi-Mobile/commit/75943cc30c34f569d7cfab64305535cffd3e0126))
+* Simplified order creation for customers ([be1ef4d](https://github.com/sevifinance/Sevi-Mobile/commit/be1ef4d5cb3c9b9527ed7f3fdc5295704aeab9ab))
+* Take a product picture or choose from galery ([2b79a21](https://github.com/sevifinance/Sevi-Mobile/commit/2b79a215dfeb9a32a8a4921efe9147db3081a418))
 
 
 ### Bug Fixes
 
-* Display 'no products found' when needed ([305498a](https://github.com/sevifinance/Sevi-Mobile/commit/305498a0a81a102a9b929afbb0116a457bf69165))
-* Photo process updated ([30e0ec0](https://github.com/sevifinance/Sevi-Mobile/commit/30e0ec0f0514b6b747c9e7355bea5603dd81719a))
-* Update quantity on add existing item ([c30d627](https://github.com/sevifinance/Sevi-Mobile/commit/c30d62706b066da3a40854046f270309ee67ebdb))
+* Order creation several fixes ([d827a8d](https://github.com/sevifinance/Sevi-Mobile/commit/d827a8d22cf04476d1187275355cba708b7222a4))
+* Reload customers per account ([e1686e3](https://github.com/sevifinance/Sevi-Mobile/commit/e1686e3af5ff02db12ee2aa8aedbdc349fca33ae))
 
-### [0.26.3](https://github.com/sevifinance/Sevi-Mobile/compare/v0.26.2...v0.26.3) (2022-04-04)
+## [0.28.0](https://github.com/sevifinance/Sevi-Mobile/compare/v0.27.5...v0.28.0) (2022-04-22)
 
 
 ### Features
 
-* Add products screen updated ([2cec7f2](https://github.com/sevifinance/Sevi-Mobile/commit/2cec7f235e422052417c1ab12dd61791759b56e4))
-* Show trusted buyer levels ([e912602](https://github.com/sevifinance/Sevi-Mobile/commit/e91260242125feaed862477ce4b8555b1b7c601e))
+* Simplified create order items ([04625e6](https://github.com/sevifinance/Sevi-Mobile/commit/04625e6ade7e7cd58325e8096135813e3521faec))
 
 
 ### Bug Fixes
 
-<<<<<<< HEAD
-* Create order navigation fixes ([0cb0848](https://github.com/sevifinance/Sevi-Mobile/commit/0cb08480844ac66c2e7d85df075c7ae6ab70feab))
-=======
+* enable sentry in development ([ecb06c4](https://github.com/sevifinance/Sevi-Mobile/commit/ecb06c4cc9c8200ae69837003bf694247002f9f8))
+* pushnotification token ([a4759df](https://github.com/sevifinance/Sevi-Mobile/commit/a4759df1da01abe9ebb72a9bbc007daab2587227))
+
+### [0.27.5](https://github.com/sevifinance/Sevi-Mobile/compare/v0.27.4...v0.27.5) (2022-04-22)
+
+### [0.27.4](https://github.com/sevifinance/Sevi-Mobile/compare/v0.27.3...v0.27.4) (2022-04-22)
+
+
+### Bug Fixes
+
+* Testing new update process ([f91b91a](https://github.com/sevifinance/Sevi-Mobile/commit/f91b91a83d4af8281a3c1d9f73c8279af423ec15))
+
+### [0.27.3](https://github.com/sevifinance/Sevi-Mobile/compare/v0.27.2...v0.27.3) (2022-04-22)
+
+
+### Bug Fixes
+
+* Automatic updates process updated ([0f3143d](https://github.com/sevifinance/Sevi-Mobile/commit/0f3143d4023edef36c12e9a604f65b43021e95cc))
+
+### [0.27.2](https://github.com/sevifinance/Sevi-Mobile/compare/v0.27.1...v0.27.2) (2022-04-22)
+
+
+### Bug Fixes
+
+* Sales page data ([5f7b127](https://github.com/sevifinance/Sevi-Mobile/commit/5f7b1278eab52e098a83f164fa66c567ba56e04b))
+
+### [0.27.1](https://github.com/sevifinance/Sevi-Mobile/compare/v0.27.0...v0.27.1) (2022-04-22)
+
+
+### Bug Fixes
+
+* Main buttons shown again ([c9fb409](https://github.com/sevifinance/Sevi-Mobile/commit/c9fb40910ea87d31aa8a7a2056bba168869ccb57))
+* Send money earn badge process simplified ([4a61793](https://github.com/sevifinance/Sevi-Mobile/commit/4a617931be151b36bd16b779d65a6cffe271d765))
+
+## [0.27.0](https://github.com/sevifinance/Sevi-Mobile/compare/v0.26.4...v0.27.0) (2022-04-15)
+
+
+### Features
+
+* Countdown of verify company button ([7a096a1](https://github.com/sevifinance/Sevi-Mobile/commit/7a096a14d35c3734f36bc74191031f07196eb902))
+* sentry Track screen location on erros ([d6abba4](https://github.com/sevifinance/Sevi-Mobile/commit/d6abba48908be4ad541a6282e5c686340ab26686))
+* Settlement is now used for sending money ([0f7e498](https://github.com/sevifinance/Sevi-Mobile/commit/0f7e498aad3d0448316ef18faf8602196411b5be))
+* Updated 'Direct Pay' label to 'Pay now' ([f6b083f](https://github.com/sevifinance/Sevi-Mobile/commit/f6b083f90fef3ff49ba6b9ebb2e2b66b9dc0ed53))
+
+### [0.26.2](///compare/v0.25.6...v0.26.2) (2022-03-30)
+
+
+### Bug Fixes
+
 * Create items for orders b7fc815
 * Create product several fixes 69988d7
 * remove variables from product mutation 70b509b
 
 ### [0.25.1](///compare/v0.25.0...v0.25.1) (2022-03-11)
+
 ## [0.25.0](///compare/v0.24.8...v0.25.0) (2022-03-11)
-
-### Bug Fixes
-
-* Create product several fixes ([69988d7](https://github.com/sevifinance/Sevi-Mobile/commit/69988d787ac48a57490c2b4ce5b9a159cb915425))
-* Member photos are now visible ([eca2b6b](https://github.com/sevifinance/Sevi-Mobile/commit/eca2b6bc93d3183a8fa3bbea7e852085982cf369))
-* remove variables from product mutation ([70b509b](https://github.com/sevifinance/Sevi-Mobile/commit/70b509b8cc01b898ef2f34038d578630b51784e2))
 
 ### [0.26.1](https://github.com/sevifinance/Sevi-Mobile/compare/v0.26.0...v0.26.1) (2022-03-29)
 
