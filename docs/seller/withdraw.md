@@ -20,10 +20,8 @@ Select whether you want to withdraw your balance to M-Pesa or to the company ban
 
 > **NOTE:** Depending on your location, Sevi offers different withdrawal options.
 
-<img src="/topup/bank.png" alt="send" width="420"/>
-
 ## Step 2b: Set settlment account
-If you haven't set a fixed settlement account to which you want to withdraw, you will be asked to set this settlement account first. 
+If you haven't set a fixed settlement account to which you want to withdraw, you will be asked to set this settlement account first and get your badge.
 This is a one-time process and cannot be changed afterwards. 
 
 :::caution
