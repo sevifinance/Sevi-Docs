@@ -37,7 +37,7 @@ module.exports = {
           'vacancies/machinelearning',
           ],
     }, 
-    'changelog',
+    // 'changelog',
   ], 
   buyer: [
     'buyer/introbuyer',
