@@ -42,7 +42,7 @@ module.exports = {
           position: 'left',
           label: 'Developer',
         },
-        { to: '/blog', label: 'Blog', position: 'left' },
+        // { to: '/blog', label: 'Blog', position: 'left' },
         {
           to: "/privacy",
           label: 'Privacy',
