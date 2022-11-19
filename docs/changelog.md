@@ -1,4 +1,63 @@
 All notable changes to this project will be documented in this file.
+## [0.29.0](https://github.com/sevifinance/Sevi-Mobile/compare/v0.28.0...v0.29.0) (2022-05-06)
+
+
+### Features
+
+* Performance update ([75943cc](https://github.com/sevifinance/Sevi-Mobile/commit/75943cc30c34f569d7cfab64305535cffd3e0126))
+* Simplified order creation for customers ([be1ef4d](https://github.com/sevifinance/Sevi-Mobile/commit/be1ef4d5cb3c9b9527ed7f3fdc5295704aeab9ab))
+* Take a product picture or choose from galery ([2b79a21](https://github.com/sevifinance/Sevi-Mobile/commit/2b79a215dfeb9a32a8a4921efe9147db3081a418))
+
+
+### Bug Fixes
+
+* Order creation several fixes ([d827a8d](https://github.com/sevifinance/Sevi-Mobile/commit/d827a8d22cf04476d1187275355cba708b7222a4))
+* Reload customers per account ([e1686e3](https://github.com/sevifinance/Sevi-Mobile/commit/e1686e3af5ff02db12ee2aa8aedbdc349fca33ae))
+
+## [0.28.0](https://github.com/sevifinance/Sevi-Mobile/compare/v0.27.5...v0.28.0) (2022-04-22)
+
+
+### Features
+
+* Simplified create order items ([04625e6](https://github.com/sevifinance/Sevi-Mobile/commit/04625e6ade7e7cd58325e8096135813e3521faec))
+
+
+### Bug Fixes
+
+* enable sentry in development ([ecb06c4](https://github.com/sevifinance/Sevi-Mobile/commit/ecb06c4cc9c8200ae69837003bf694247002f9f8))
+* pushnotification token ([a4759df](https://github.com/sevifinance/Sevi-Mobile/commit/a4759df1da01abe9ebb72a9bbc007daab2587227))
+
+### [0.27.5](https://github.com/sevifinance/Sevi-Mobile/compare/v0.27.4...v0.27.5) (2022-04-22)
+
+### [0.27.4](https://github.com/sevifinance/Sevi-Mobile/compare/v0.27.3...v0.27.4) (2022-04-22)
+
+
+### Bug Fixes
+
+* Testing new update process ([f91b91a](https://github.com/sevifinance/Sevi-Mobile/commit/f91b91a83d4af8281a3c1d9f73c8279af423ec15))
+
+### [0.27.3](https://github.com/sevifinance/Sevi-Mobile/compare/v0.27.2...v0.27.3) (2022-04-22)
+
+
+### Bug Fixes
+
+* Automatic updates process updated ([0f3143d](https://github.com/sevifinance/Sevi-Mobile/commit/0f3143d4023edef36c12e9a604f65b43021e95cc))
+
+### [0.27.2](https://github.com/sevifinance/Sevi-Mobile/compare/v0.27.1...v0.27.2) (2022-04-22)
+
+
+### Bug Fixes
+
+* Sales page data ([5f7b127](https://github.com/sevifinance/Sevi-Mobile/commit/5f7b1278eab52e098a83f164fa66c567ba56e04b))
+
+### [0.27.1](https://github.com/sevifinance/Sevi-Mobile/compare/v0.27.0...v0.27.1) (2022-04-22)
+
+
+### Bug Fixes
+
+* Main buttons shown again ([c9fb409](https://github.com/sevifinance/Sevi-Mobile/commit/c9fb40910ea87d31aa8a7a2056bba168869ccb57))
+* Send money earn badge process simplified ([4a61793](https://github.com/sevifinance/Sevi-Mobile/commit/4a617931be151b36bd16b779d65a6cffe271d765))
+
 ## [0.27.0](https://github.com/sevifinance/Sevi-Mobile/compare/v0.26.4...v0.27.0) (2022-04-15)
 
 
