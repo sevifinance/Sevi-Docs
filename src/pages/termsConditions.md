@@ -18,7 +18,7 @@ You give us the authority to take the remaining instalment payments from your Se
 
 In the event the Seller or Sellers do not charge you for your entire order at the same time, we will create a different Pay-In-Instalments plan for each order part. This situation may be common where a Seller does not ship all the items from your order at the same time.
 
-You will maintain an adequate credit balance on your Sevi account to allow for payments to be taken on the due dates, if you choose not to use the provided payment link. It is important you ensure enough funds are available to complete your payment on the due date.
+You will maintain an adequate credit balance on your Sevi account to allow for payments to be taken on the due dates, if you choose not to use the provided payment link. **It is important you ensure enough funds are available to complete your payment on the due date.**
  
 
 What do I agree to?
