@@ -3,27 +3,30 @@
 
 ## Pay in instalments
 
-
-These terms apply between Sevi Innovation Ltd. including its foreign subsidiaries and branches (“Sevi”, “we” or “us”) and you who makes a purchase. If you choose the Sevi payment option (“Pay-in Instalments”) you agree to these terms (“Terms”). You can at any time access these terms via our website.
+These terms apply between Sevi Innovation Ltd. including its foreign subsidiaries and branches (“Sevi”, “we” or “us”) and the person or legal entity or institution ("you") who makes a purchase. If you choose the Sevi payment option (“Pay-in Instalments”) you agree to these terms (“Terms”). You can at any time access these terms via our website.
 
 This is a payment option you can choose to part pay your purchases by dividing the cost into multiple payments.
 
 How do I Pay in instalments?
 ----------------------------
 
-Create a Sevi account by downloading the Sevi app and filling out your personal data for verification purposes. Top-up your Sevi account from your mobile money or bank account. The first payment (“deposit”) is taken from your Sevi account on agreeing to these Terms. The remaining payments will also be taken from your Sevi account on the due date of each instalment. We will tell you the due dates via electronic communication (e.g. SMS/push notification) and they are viewable in the Sevi application.
+Create a Sevi account by downloading the Sevi app and filling out your personal data for verification purposes. Once a personal account is created you can create a company account. Top-up your Sevi account from your mobile money or bank account. 
 
-You give us the authority to take the remaining instalment payments from your Sevi account on and after the due dates. 
+By paying the first payment (“deposit”) either from your Sevi account or from M-Pesa implies you agree to these Terms. The remaining payments can be debited from your Sevi account on the due date of each instalment, or you can pay an instalment directly through the payment link. We will send you this payment link and tell you the due dates via electronic communication (e.g. SMS/push notification) and they are viewable in the Sevi application.
+
+You give us the authority to take the remaining instalment payments from your Sevi account on and after the due dates. 
 
 In the event the Seller or Sellers do not charge you for your entire order at the same time, we will create a different Pay-In-Instalments plan for each order part. This situation may be common where a Seller does not ship all the items from your order at the same time.
 
-You will maintain an adequate credit balance on your Sevi account to allow for payments to be taken on the due dates. **It is important you ensure enough funds are available to complete your payment on the due date.**
+You will maintain an adequate credit balance on your Sevi account to allow for payments to be taken on the due dates, if you choose not to use the provided payment link. It is important you ensure enough funds are available to complete your payment on the due date.
  
 
 What do I agree to?
 -------------------
 
 You must be over 18 years old.
+
+You are authorised to make a purchase on credit on behalf of the entity you represent. 
 
 Your ID card needs to be valid and will be verified to prevent ID fraud.
 
@@ -85,7 +88,7 @@ Before we enter into this agreement with you, we may require your obligations un
 Our use of your personal data
 -----------------------------
 
-Sevi processes your personal data in order to carry out our obligations in these Terms and for the additional purposes set out in our Privacy Notice. The Privacy Notice is available [here](https://www.sevi.io/privacy/), and by using Sevi’s services you confirm that you have read this Notice. 
+Sevi processes your personal data in order to carry out our obligations in these Terms and for the additional purposes set out in our Privacy Notice. The Privacy Notice is available [here](https://docs.sevi.io/privacy), and by using Sevi’s services you confirm that you have read this Notice. 
 
 We process your personal data for example to identify you and perform customer analysis, credit assessments, marketing, and business development. We may also transfer your data to selected partners (such as credit reference bureaus). In the Privacy Notice there is more information about our data sharing, your rights with regards to your data, or how you may contact us with questions.
 
@@ -150,6 +153,6 @@ Sevi reserves the right to amend these terms and conditions from time to time. A
 Sevi
 ----
 
-Sevi Innovation Ltd is incorporated under Kenyan law and is registered with the Kenya Business Registrar. Its registration number is PVT-AJUVZRA. For further information about Sevi, go to: [www.sevi.io](http://www.sevi.io/).
+Sevi is licensed and regulated by [Central Bank of Kenya](https://www.centralbank.go.ke/wp-content/uploads/2023/01/Directory-of-Digital-Credit-Providers-January-30-2023.pdf). Sevi Innovation Ltd is incorporated under Kenyan law and is registered with the Kenya Business Registrar. Its registration number is PVT-AJUVZRA. For further information about Sevi, go to: www.sevi.io.
 
-Edited in Kenya on 21th of July 2021.
+Edited in Kenya on 31th of Jan 2023.
