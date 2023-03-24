@@ -10,10 +10,6 @@ module.exports = {
   organizationName: 'Sevi', // Usually your GitHub org/user name.
   projectName: 'Sevi', // Usually your repo name.
   themeConfig: {
-    googleAnalytics: {
-      trackingID: 'UA-208502643-1',
-      anonymizeIP: false,
-    },
     navbar: {
       title: 'Sevi',
       logo: {
@@ -105,6 +101,10 @@ module.exports = {
     [
       '@docusaurus/preset-classic',
       {
+        googleAnalytics: {
+          trackingID: 'UA-208502643-1',
+          anonymizeIP: false,
+        },
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
