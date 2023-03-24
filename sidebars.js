@@ -94,5 +94,6 @@ module.exports = {
     'developer/APItoken',
     'developer/API',
     'developer/WooCommerce',
+    'developer/webhooks',
   ],
 };
