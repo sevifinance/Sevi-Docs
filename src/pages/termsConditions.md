@@ -3,27 +3,33 @@
 
 ## Pay in instalments
 
-
-These terms apply between Sevi Innovation Ltd. including its foreign subsidiaries and branches (“Sevi”, “we” or “us”) and you who makes a purchase. If you choose the Sevi payment option (“Pay-in Instalments”) you agree to these terms (“Terms”). You can at any time access these terms via our website.
+These terms apply between Sevi Innovation Ltd. including its foreign subsidiaries and branches (“Sevi”, “we” or “us”) and the person or legal entity or institution ("you") who makes a purchase. If you choose the Sevi payment option (“Pay-in Instalments”) you agree to these terms (“Terms”). You can at any time access these terms via our website.
 
 This is a payment option you can choose to part pay your purchases by dividing the cost into multiple payments.
 
 How do I Pay in instalments?
 ----------------------------
 
-Create a Sevi account by downloading the Sevi app and filling out your personal data for verification purposes. Top-up your Sevi account from your mobile money or bank account. The first payment (“deposit”) is taken from your Sevi account on agreeing to these Terms. The remaining payments will also be taken from your Sevi account on the due date of each instalment. We will tell you the due dates via electronic communication (e.g. SMS/push notification) and they are viewable in the Sevi application.
+Create a Sevi account by downloading the Sevi app and filling out your personal data for verification purposes. Once a personal account is created you can create a company account. Top-up your Sevi account from your mobile money or bank account. 
 
-You give us the authority to take the remaining instalment payments from your Sevi account on and after the due dates. 
+By paying the first payment (“deposit”) either from your Sevi account or from M-Pesa implies you agree to these Terms. The remaining payments can be debited from your Sevi account on the due date of each instalment, or you can pay an instalment directly through the payment link. We will send you this payment link and tell you the due dates via electronic communication (e.g. SMS/push notification) and they are viewable in the Sevi application.
+
+Deposit is defined as the sum of money that you as a Buyer pay at the start of the purchase. The deposit represents a portion of the total purchase price. In the Sevi app this deposit is defined as the "Pay now" amount. 
+Credit is defined as the sum of money that you as the Buyer pay at a later time then the purchase time, to finance the remainder of the purchase prize. In the Sevi app this is defined as the "Pay later" amount. This Pay later amount is lower or equal to the Credit Limit which is set at the sole discretion of Sevi.
+
+You give us the authority to take the remaining instalment payments from your Sevi account on and after the due dates. 
 
 In the event the Seller or Sellers do not charge you for your entire order at the same time, we will create a different Pay-In-Instalments plan for each order part. This situation may be common where a Seller does not ship all the items from your order at the same time.
 
-You will maintain an adequate credit balance on your Sevi account to allow for payments to be taken on the due dates. **It is important you ensure enough funds are available to complete your payment on the due date.**
+You will maintain an adequate credit balance on your Sevi account to allow for payments to be taken on the due dates, if you choose not to use the provided payment link. **It is important you ensure enough funds are available to complete your payment on the due date.**
  
 
 What do I agree to?
 -------------------
 
 You must be over 18 years old.
+
+You are authorised to make a purchase on credit on behalf of the entity you represent. 
 
 Your ID card needs to be valid and will be verified to prevent ID fraud.
 
@@ -85,7 +91,7 @@ Before we enter into this agreement with you, we may require your obligations un
 Our use of your personal data
 -----------------------------
 
-Sevi processes your personal data in order to carry out our obligations in these Terms and for the additional purposes set out in our Privacy Notice. The Privacy Notice is available [here](https://www.sevi.io/privacy/), and by using Sevi’s services you confirm that you have read this Notice. 
+Sevi processes your personal data in order to carry out our obligations in these Terms and for the additional purposes set out in our Privacy Notice. The Privacy Notice is available [here](https://docs.sevi.io/privacy), and by using Sevi’s services you confirm that you have read this Notice. 
 
 We process your personal data for example to identify you and perform customer analysis, credit assessments, marketing, and business development. We may also transfer your data to selected partners (such as credit reference bureaus). In the Privacy Notice there is more information about our data sharing, your rights with regards to your data, or how you may contact us with questions.
 
@@ -125,22 +131,22 @@ Assignment
 
 You may not transfer or assign any rights or obligations you have under these Terms without our prior written consent. We have the right to transfer or assign these terms or any right or obligation under these Terms at any time without your consent, provided that such transfer does not alter your rights and obligations under these Terms to your detriment.
 
-How Sevi will resolve disputes
-------------------------------
+How Sevi will resolve disputes and complaints
+---------------------------------------------
 
-If a dispute arises between you and Sevi, our goal is to provide you with a neutral and cost-effective means of resolving the dispute quickly. In the event of a dispute, we encourage you first to contact Sevi at support@sevi.io to try resolving your problem directly with our team.
+If a dispute arises between you and Sevi, our goal is to provide you with a neutral and cost-effective means of resolving the dispute quickly. In the event of a dispute or complaint, we encourage you first to contact Sevi at support@sevi.io to try resolving your problem directly with our team.
 
-Any dispute or claim relating in any way to your use of the Sevi Services, or otherwise arising out of or relating to these Terms or the Services that cannot be resolved directly between you and Sevi shall be resolved solely by arbitration. This includes any claims based in contract, statute, tort, fraud, misrepresentation or any other cause of action. 
+Any dispute or claim relating in any way to your use of the Sevi Services, or otherwise arising out of or relating to these Terms or the Services that cannot be resolved directly between you and Sevi shall be resolved as per the provisions below which shall be the exclusive mechanism for resolving any dispute that may arise from time to time and are express condition(s) precedent to litigation of the dispute. This includes any claims based in contract, statute, tort, fraud, misrepresentation or any other cause of action.
 
-The Arbitration Act, No. 4 of 1995, Laws of Kenya, shall apply to this Agreement. There is no judge or jury in arbitration and court review of an arbitration award is limited, but an arbitrator can award an individual the same damages and relief as a court and must apply and follow the terms of these Terms as a court would. 
+Negotiations: 
+A party shall send a written notice to the other party of any dispute (“Dispute Notice”) by negotiating and consultation between themselves, including not fewer than 2 negotiation sessions.
+If the dispute cannot be resolved within 21 days from the date of the dispute notice, either party may initiate mediation within 14 days.
 
-Either you or we can initiate arbitration through the alternative dispute resolution provider the Chartered Institute of Arbitrators Kenya Chapter (the “Institute”). Your arbitration fees and your share of arbitrator compensation shall be governed by the Institute rules.
+Mediation:
+The parties shall seek an amicable settlement of the dispute (s) by mediation, which shall take place according to the Nairobi Centre for International Arbitration – Mediation Rules as at present in force.
 
-The arbitration shall be conducted by telephone or electronic means and/or shall be solely based on written submissions, the specific manner of which shall be chosen by the party initiating the arbitration. 
-
-The arbitration shall not involve any personal appearance by the parties or witnesses unless the arbitrator determines that an in-person hearing is necessary based on the request of one of the parties and any judgment on the award rendered by the arbitrator shall be final and may be entered in any court of competent jurisdiction. 
-
-You and Sevi each agree that any dispute resolution proceedings will be conducted only on an individual basis and not in a class, consolidated or representative action. The parties hereby appoint the arbitrator the exclusive power to rule on any challenges to the requirement for the use of alternative dispute resolution process in these Terms. 
+Litigation as a final resort: 
+If the parties cannot resolve any dispute for any reason following negotiations and mediation, either party may file suit in a court of competent jurisdiction.
 
 Amendments
 ----------
@@ -150,6 +156,6 @@ Sevi reserves the right to amend these terms and conditions from time to time. A
 Sevi
 ----
 
-Sevi Innovation Ltd is incorporated under Kenyan law and is registered with the Kenya Business Registrar. Its registration number is PVT-AJUVZRA. For further information about Sevi, go to: [www.sevi.io](http://www.sevi.io/).
+Sevi is licensed and regulated by [Central Bank of Kenya](https://www.centralbank.go.ke/wp-content/uploads/2023/01/Directory-of-Digital-Credit-Providers-January-30-2023.pdf). Sevi Innovation Ltd is incorporated under Kenyan law and is registered with the Kenya Business Registrar. Its registration number is PVT-AJUVZRA. For further information about Sevi, go to: [sevi.io](https://sevi.io).
 
-Edited in Kenya on 21th of July 2021.
+Edited in Kenya on 31th of Jan 2023.
