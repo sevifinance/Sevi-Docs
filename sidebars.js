@@ -94,7 +94,7 @@ module.exports = {
     // 'developer/introduction',
     {
       type: 'category',
-      label: 'Endpoint',
+      label: 'API',
       collapsed: false,
       items: [
           'developer/API/intro',
@@ -105,12 +105,12 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Webhook',
+      label: 'Webhooks',
       collapsed: false,
       items: [
           'developer/webhook/intro',
-          // 'developer/API/paymentProposal',
-          // 'developer/API/createOrder', 
+          'developer/webhook/paymentReceived',
+          'developer/webhook/orderCreate', 
           ],
     },
     'developer/APItoken',
