@@ -9,7 +9,20 @@ module.exports = {
   favicon: 'img/seviS.svg',
   organizationName: 'Sevi', // Usually your GitHub org/user name.
   projectName: 'Sevi', // Usually your repo name.
+  plugins: [
+    require.resolve('docusaurus-plugin-image-zoom')
+  ],
   themeConfig: {
+    zoom: {
+      selector: '.markdown :not(em) > img',
+      background: {
+        light: 'rgb(255, 255, 255)',
+        dark: 'rgb(50, 50, 50)'
+      },
+      config: {
+        // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
+      }
+    },
     navbar: {
       title: 'Sevi',
       logo: {

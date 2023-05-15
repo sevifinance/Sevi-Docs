@@ -26,7 +26,7 @@
 
 module.exports = {
   about: [
-    'intro', 
+    // 'intro', 
     'support',
     {
       type: 'category',
@@ -91,19 +91,30 @@ module.exports = {
       'seller/faq',
     ],
   developer: [
-    'developer/intro',
+    // 'developer/introduction',
     {
       type: 'category',
-      label: 'Endpoints',
+      label: 'Endpoint',
       collapsed: false,
       items: [
+          'developer/API/intro',
           'developer/API/customerStatus',
           'developer/API/paymentProposal',
           'developer/API/createOrder', 
           ],
-        },
+    },
+    {
+      type: 'category',
+      label: 'Webhook',
+      collapsed: false,
+      items: [
+          'developer/webhook/intro',
+          // 'developer/API/paymentProposal',
+          // 'developer/API/createOrder', 
+          ],
+    },
     'developer/APItoken',
     'developer/WooCommerce',
-    'developer/webhooks',
+
   ],
 };

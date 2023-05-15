@@ -8,6 +8,13 @@ import TabItem from '@theme/TabItem';
 
 Sevi currently offers a Graphql API, while the partner API's only expose a portion of the available API's. If your organization requires a different integration, please inform us, as we may have an API suitable for your needs. The Graphql can be queried using your standard REST client query tools.
 
+
+:::caution
+
+All old API's on exodus.sevi.io/graphql will keep working, but as we exposed up to 60 API's we disabled inspection for security concerns. Launching partner.sevi.io in the coming weeks.
+
+:::
+
 The production partner Graphql API playground can be found at [Find here the production partner graphql API playground](https://partner.sevi.io/graphql)
 
 To execute queries or mutations, an authentication header should be set with a JSON formatted as follows:

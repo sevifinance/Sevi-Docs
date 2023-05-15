@@ -11,10 +11,10 @@ The response body will be in the following format
 
 ```graphql
 type CustomerStatusType {
-message: String!
-payLaterAmount: Float!
-status: CustomerStatus!
-url: String!
+	message: String!
+	payLaterAmount: Float!
+	status: CustomerStatus!
+	url: String!
 }
 ```
 
@@ -28,7 +28,6 @@ Example reponse payload:
         url: "http://sevi.io"
       } 
 ```
-
 
 The above example can be concluded from the graphql schema
 

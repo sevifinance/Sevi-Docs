@@ -1,7 +1,7 @@
 ---
-sidebar_position: 4
+sidebar_position: 1
 ---
-# Webhooks
+# Introduction
 
 Webhooks are a way to communicate to your backend real-time by sending data to a predefined URL when a specific event occurs.
 This will allow your applications to work together with Sevi seamlessly without manual intervention. They can be used web development and popular APIs provide webhook functionality.
@@ -12,7 +12,7 @@ Currently Sevi Support webhooks for the following Events
 - Order Updated (delivered)
 - Payment received
 
-![1679655871790](image/webhooks/1679655871790.png)
+![1679655871790](../image/webhooks/1679655871790.png)
 
 Please setup webhooks from withing the admin portal > setting
 
