@@ -91,8 +91,18 @@ module.exports = {
       'seller/faq',
     ],
   developer: [
+    'developer/intro',
+    {
+      type: 'category',
+      label: 'Endpoints',
+      collapsed: false,
+      items: [
+          'developer/API/customerStatus',
+          'developer/API/paymentProposal',
+          'developer/API/createOrder', 
+          ],
+        },
     'developer/APItoken',
-    'developer/API',
     'developer/WooCommerce',
     'developer/webhooks',
   ],
