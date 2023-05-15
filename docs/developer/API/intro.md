@@ -11,7 +11,7 @@ Sevi currently offers a Graphql API, while the partner API's only expose a porti
 
 :::caution
 
-All old API's on exodus.sevi.io/graphql will keep working, but as we exposed up to 60 API's we disabled inspection for security concerns. Launching partner.sevi.io in the coming weeks.
+All old API's on exodus.sevi.io/graphql will keep working, but as we exposed up to 60 API's we disabled inspection for security concerns. We will be launching partner.sevi.io in the coming weeks.
 
 :::
 
