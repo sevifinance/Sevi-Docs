@@ -5,9 +5,10 @@ sidebar_position: 1
 
 ***type: query***
 
-This api query can be used to check if your customer is registerd in the Sevi system. It will also return the pay later amount and availabilirty in the region.
+This API query can be used to check if your customer is registered in the Sevi system. It will also return the pay later amount and availability in the region.
 
-The response body will be in the following format
+This API is not manditory. In general creating an order will initiate the onboarding and payment process.
+
 
 ```graphql
 type CustomerStatusType {

@@ -1,22 +1,19 @@
 ---
 sidebar_position: 1
 ---
-# Create Order
+# Payment
 
 ***type: mutation***
 
-the Create order mutation api initiates a order in the Sevi system. This order can after creation be paid by multiple methods.
+the Create order mutation api initiates a payment in the Sevi system. This order can after creation be paid by multiple methods.
 
-
-
-
-
-General integrations have two parts, 
+General integrations have two parts,
 
 - Create an order via the createOrder API
-- Getting back the updated order status to via the configured webhooks. ( Write us an email to setup your webhook ) 
+- Getting back the updated order status to via the configured webhooks. ( Write us an email to setup your webhook )
 
-## Create order 
+## Create order
+
 ### example
 
 GraphQl mutation
@@ -51,8 +48,7 @@ mutation(
 
 ```
 
-
-variables: 
+variables:
 
 ```json
 {
@@ -96,12 +92,7 @@ variables:
 
 ```
 
-
-
 There are multiple ways we can implement the above query.
-
-
-
 
 <Tabs>
 <TabItem value="js" label="Nodejs">
@@ -121,7 +112,7 @@ axios({
           $billing: BillingInput!
           $shipping: ShippingInput!
         ) {
-          
+        
           createOrder(
             input: {
               paymentMethod: $OrderPaymentMethodsEnum
@@ -184,8 +175,6 @@ axios({
 ```
 
 </TabItem>
-
-
 
 <TabItem value="php" label="PHP">
 
@@ -252,7 +241,7 @@ axios({
 
     $ch = curl_init();
     curl_setopt( $ch, CURLOPT_URL, 'https://exodus.sevi.io/graphql' );
-    curl_setopt( $ch, CURLOPT_RETURNTRANSFER, true );    
+    curl_setopt( $ch, CURLOPT_RETURNTRANSFER, true );  
     curl_setopt( $ch, CURLOPT_CUSTOMREQUEST, 'POST' );
     curl_setopt( $ch, CURLOPT_HEADER, true );
     curl_setopt( $ch, CURLOPT_VERBOSE, true );

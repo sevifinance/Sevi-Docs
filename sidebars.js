@@ -92,6 +92,7 @@ module.exports = {
     ],
   developer: [
     // 'developer/introduction',
+    'developer/authentication',
     {
       type: 'category',
       label: 'API',
@@ -110,10 +111,10 @@ module.exports = {
       items: [
           'developer/webhook/intro',
           'developer/webhook/paymentReceived',
-          'developer/webhook/orderCreate', 
+          // 'developer/webhook/orderCreate', 
           ],
     },
-    'developer/APItoken',
+
     'developer/WooCommerce',
 
   ],

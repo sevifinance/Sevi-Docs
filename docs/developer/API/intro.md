@@ -6,9 +6,15 @@ import TabItem from '@theme/TabItem';
 
 # Introduction
 
-Sevi currently offers a Graphql API, while the partner API's only expose a portion of the available API's. If your organization requires a different integration, please inform us, as we may have an API suitable for your needs. The Graphql can be queried using your standard REST client query tools.
+The partner API's are used to offer Sevi payment method as part of your payment / order process.
+
+We currently offers a Graphql API, while the partner API's only expose a portion of the available API's. If your organization requires a different integration, please inform us, as we may have an API suitable for your needs. The Graphql can be queried using your standard REST client query tools.
 
 The production partner Graphql API playground can be found at [Find here the production partner graphql API playground](https://partner.sevi.io/graphql)
+
+```
+https://partner.sevi.io/graphql
+```
 
 To execute queries or mutations, an authentication header should be set with a JSON formatted as follows:
 
