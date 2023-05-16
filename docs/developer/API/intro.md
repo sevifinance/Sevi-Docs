@@ -20,7 +20,7 @@ To execute queries or mutations, an authentication header should be set with a J
 
 { Authorization: "token"}
 
-To obtain your API token, please visit the following link: [get your API token](/docs/developer/APItoken)
+To obtain your API token, please visit the following link: [get your API token](/docs/developer/authentication)
 
 # Flow
 

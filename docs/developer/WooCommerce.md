@@ -21,7 +21,7 @@ We enable a Woocommerce integrations via the Sevi Woocommerce plugin.
 
 ![alt text](/img/woocommerce/pluginSettings.png "Settings")
 
-3. Place your [Sevi API token](/docs/developer/intro) into the Sevi Token field.
+3. Place your [Sevi API token](/docs/developer/authentication.md) into the Sevi Token field.
 
 
 4. When clicking "save" the setup process will initiate. You can check if the configs are set correctly by going to woocommerce > settings > advances > webhooks.
