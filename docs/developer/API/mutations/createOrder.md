@@ -1,11 +1,13 @@
 ---
 sidebar_position: 1
 ---
-# Payment
+# Order Create
 
 ***type: mutation***
 
-the Create order mutation api initiates a payment in the Sevi system. This order can after creation be paid by multiple methods.
+To Create a payment we process this based on the order details between you and your customers.  We need the information for better assessment and credit risk.
+
+Create order mutation api initiates a payment in the Sevi system. This order can after creation be paid by multiple methods.
 
 General integrations have two parts,
 
@@ -112,7 +114,7 @@ axios({
           $billing: BillingInput!
           $shipping: ShippingInput!
         ) {
-        
+    
           createOrder(
             input: {
               paymentMethod: $OrderPaymentMethodsEnum

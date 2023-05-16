@@ -32,4 +32,4 @@ Example reponse payload:
 
 The above example can be concluded from the graphql schema
 
-![1684154631421](image/customerStatus/1684154631421.png)
+![1684154631421](../image/customerStatus/1684154631421.png)

@@ -47,7 +47,7 @@ module.exports = {
           label: 'Seller',
         },
         {
-          to: "docs/developer/APItoken",
+          to: "docs/developer/authentication",
           position: 'left',
           label: 'Developer',
         },

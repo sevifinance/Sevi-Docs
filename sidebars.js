@@ -91,7 +91,6 @@ module.exports = {
       'seller/faq',
     ],
   developer: [
-    // 'developer/introduction',
     'developer/authentication',
     {
       type: 'category',
@@ -99,9 +98,25 @@ module.exports = {
       collapsed: false,
       items: [
           'developer/API/intro',
-          'developer/API/customerStatus',
-          'developer/API/paymentProposal',
-          'developer/API/createOrder', 
+          {
+            type: 'category',
+            label: 'Queries',
+            collapsed: false,
+            items: [
+                'developer/API/queries/transaction',
+                'developer/API/queries/customerStatus',
+                'developer/API/queries/paymentProposal',
+                ],
+          },
+          {
+            type: 'category',
+            label: 'Mutations',
+            collapsed: false,
+            items: [
+              'developer/API/mutations/createOrder', 
+                ],
+          },
+       
           ],
     },
     {
