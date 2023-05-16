@@ -1,8 +1,8 @@
 # Transactions
 
-type: query
+***type: query***
 
-After you customer agrees the credit, Sevi will send the order money to your Sevi Wallet. This qeury list the transactions you recieved. These can be used to confirm order payments. 
+After you customer agrees the credit, Sevi will send the order money to your Sevi Wallet. This qeury list the transactions you recieved. These can be used to confirm order payments.
 
 example query:
 

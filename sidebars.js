@@ -103,9 +103,9 @@ module.exports = {
             label: 'Queries',
             collapsed: false,
             items: [
-                'developer/API/queries/transaction',
                 'developer/API/queries/customerStatus',
                 'developer/API/queries/paymentProposal',
+                'developer/API/queries/transaction',
                 ],
           },
           {
