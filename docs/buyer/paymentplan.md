@@ -6,7 +6,7 @@ sidebar_position: 1
 
 With your order(s) placed on your suppliers’ web-shop, you will be prompted to go to your Sevi App. Open the Sevi app and login with your PIN. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ikeo8BVRJ6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=iT3Y0VxYELQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
 
 ## Go to orders
 On your Sevi App tap on `Orders` to view the orders you placed. This section will give you an overview of orders and their status. A new order has status *pending* which means you still have to select your payment plan.
