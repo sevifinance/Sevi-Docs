@@ -1,6 +1,3 @@
----
-sidebar_position: 1
----
 # Order Create
 
 ***type: mutation***
@@ -14,7 +11,24 @@ General integrations have two parts,
 - Create an order via the createOrder API
 - Getting back the updated order status to via the configured webhooks. ( Write us an email to setup your webhook )
 
-## Create order
+### Response Body
+
+More detailed information about the response body and types  can be found the in the graphql documentation.
+
+here generic
+
+*Order*
+
+General order information can be found here
+
+*PaymentOptions*
+Information about what payment methods can be used like, mpesa, airtel bank etc.
+
+*PaymentProposals*
+
+This will return the credit proposal details related to the just created order.
+
+### Create order
 
 ### example
 
@@ -114,7 +128,7 @@ axios({
           $billing: BillingInput!
           $shipping: ShippingInput!
         ) {
-    
+  
           createOrder(
             input: {
               paymentMethod: $OrderPaymentMethodsEnum

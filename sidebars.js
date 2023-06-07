@@ -101,7 +101,7 @@ module.exports = {
           {
             type: 'category',
             label: 'Queries',
-            collapsed: false,
+            collapsed: true,
             items: [
                 'developer/API/queries/customerStatus',
                 'developer/API/queries/paymentProposal',
@@ -111,9 +111,9 @@ module.exports = {
           {
             type: 'category',
             label: 'Mutations',
-            collapsed: false,
+            collapsed: true,
             items: [
-              'developer/API/mutations/createOrder', 
+              'developer/API/mutations/orderCreate', 
                 ],
           },
        
@@ -122,7 +122,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Webhooks',
-      collapsed: false,
+      collapsed: true,
       items: [
           'developer/webhook/intro',
           'developer/webhook/paymentReceived',
