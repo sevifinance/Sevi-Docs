@@ -6,7 +6,7 @@ sidebar_position: 1
 # Step 1: Register Sevi account
 Opening an account with Sevi is very easy. Please follow the following to create your Sevi account within a few minutes:
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/yjHHHhWUR2M](https://youtu.be/QC7xzUM708I)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
+<iframe width="560" height="315" src="https://youtu.be/QC7xzUM708I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
 
 > **NOTE**: Sevi Registration is exclusively through the Android App.
 
