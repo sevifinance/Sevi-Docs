@@ -61,6 +61,6 @@ Never share your PIN with others, this will give them access to your Sevi accoun
 ## ALL DONE!!
 You have now created your Sevi account which you can use to Order now, Pay later at all suppliers verified by Sevi. Congratulations!
 
- <img src="/register/Personalwallet2.png" alt="account" width="200"/>
+ <img src="../../static/img/newbeginscreen.png" alt="account" width="200"/>
 
 
