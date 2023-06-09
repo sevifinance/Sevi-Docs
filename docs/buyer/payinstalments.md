@@ -35,4 +35,4 @@ Make sure you have sufficient balance in your Sevi account to Pay early.
 We charge a late fee on late payments. Also you can be excluded from using Sevi in the future and ordering from your supplier. For an  overview of our legal terms, [`Click here`](/termsConditions)
 :::
 
-<img src="/img/latepayment.png" alt="instalment" width="200"/>
+<img src="/img/latepayment2.png" alt="instalment" width="200"/>
