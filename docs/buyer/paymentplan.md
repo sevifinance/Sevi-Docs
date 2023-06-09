@@ -10,11 +10,11 @@ With your order(s) placed on your suppliers’ web-shop, you will be prompted to
 
 ## Go to orders
 On your Sevi App tap on `Orders` to view the orders you placed. This section will give you an overview of orders and their status. A new order has status *pending* which means you still have to select your payment plan.
-<img src="/ordering/orders.png" alt="orders" width="200"/>
+<img src="/img/gotorders.png" alt="orders" width="200"/>
 
 ## Tap Payment Option
 To select a payment plan for a specific order, click on `Payment Options`
-<img src="/ordering/pendingorder.png" alt="orders" width="200"/>
+<img src="/img/tappaymentoptions.png" alt="orders" width="200"/>
 
 ## Choose the payment plan you wish to use
 Depending on e.g. your order size, your supplier and your personal track record you will be presented with different payment plan options. Each payment plan shows:
