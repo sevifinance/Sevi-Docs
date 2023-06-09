@@ -13,7 +13,7 @@ How to Top-up your Sevi account, [`Click here`](/docs/buyer/topup)
 
 ## Instalment overview
 On your Sevi App tap on `Instalments` to see an overview of your instalments. This section will give you an overview of the status of your instalments per order. It shows how much you have already paid, and how much you still need to pay.
-<img src="/ordering/instalmentoverview.png" alt="instalment" width="200"/>
+<img src="/img/Installmentsoverview.png" alt="instalment" width="200"/>
 
 ## Check details
 For further details, click `Instalments` to see details of your instalments per order. This overview shows the status whether an instalment has been paid, the amount and the date of the auto collection per instalment (data of withdrawal).
@@ -22,7 +22,7 @@ For further details, click `Instalments` to see details of your instalments per 
 Make sure you have sufficient balance in your Sevi account before the 'date of withdrawal'.
 :::
 
-<img src="/ordering/payearly.png" alt="payearly" width="200"/>
+<img src="/img/checkdetails.png" alt="payearly" width="200"/>
 
 ## Pay early
 You can always pay an instalment early. To pay an instalment early, simply click ‘PAY’ in the instalment overview.
@@ -33,3 +33,6 @@ Make sure you have sufficient balance in your Sevi account to Pay early.
 
 ## Late payment
 We charge a late fee on late payments. Also you can be excluded from using Sevi in the future and ordering from your supplier. For an  overview of our legal terms, [`Click here`](/termsConditions)
+:::
+
+<img src="/img/latepayment.png" alt="instalment" width="200"/>
