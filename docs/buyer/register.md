@@ -21,7 +21,7 @@ With this done, you will be directed to begin the registration process. Follow t
 ## Enter your phone number
 Select your country from the dropdown menu, by clicking the flag. Then fill out your phone number.
 
-<img src="../../static/img/PhonenumberverificationSTEP1.png" alt="verification" width="200"/>
+<img src="/img/PhonenumberverificationSTEP1.png" alt="verification" width="200"/>
 
 
 > **NOTE**: Kindly confirm your country code before proceeding
