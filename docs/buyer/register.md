@@ -36,7 +36,7 @@ Because Sevi provides a financial service we are obliged by law to perform a 'kn
 
 Please take a photo of your ID card, both front and back.
 
- <img src="../../static/img/IDSTEP1WEBSITE.png" alt="KYCID" width="200"/>
+ <img src="/img/IDSTEP1WEBSITE.png" alt="KYCID" width="200"/>
 
 > **NOTE:** Take a picture of the ID in a well-lit environment.  Ensure all four corners of the document are visible, and there are no reflections (if your phone’s flashlight is on, be sure to switch it off). Clean the lens, hold the phone steady, and align the camera for your ID to fit the frame. Proceed to take the picture and ensure that the information on it is legible. If you’re not sure of the quality, you can retake the photo.
 
@@ -61,6 +61,6 @@ Never share your PIN with others, this will give them access to your Sevi accoun
 ## ALL DONE!!
 You have now created your Sevi account which you can use to Order now, Pay later at all suppliers verified by Sevi. Congratulations!
 
- <img src="../../static/img/newbeginscreen.png" alt="account" width="200"/>
+ <img src="/img/newbeginscreen.png" alt="account" width="200"/>
 
 
