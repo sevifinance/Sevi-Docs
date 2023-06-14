@@ -1,7 +1,4 @@
----
-sidebar_position: 1
----
-# Payment Completed
+# Transactions
 
 The payment recieved webhook will send a payload corresponding to the transactionSearch API, the response will have the the following payload:
 
