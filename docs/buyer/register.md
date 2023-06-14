@@ -21,7 +21,8 @@ With this done, you will be directed to begin the registration process. Follow t
 ## Enter your phone number
 Select your country from the dropdown menu, by clicking the flag. Then fill out your phone number.
 
-<img src="/register/phoneverification.png" alt="verification" width="200"/>
+<img src="/img/PhonenumberverificationSTEP1.png" alt="verification" width="200"/>
+
 
 > **NOTE**: Kindly confirm your country code before proceeding
 
@@ -35,7 +36,7 @@ Because Sevi provides a financial service we are obliged by law to perform a 'kn
 
 Please take a photo of your ID card, both front and back.
 
- <img src="/register/KYCID.png" alt="KYCID" width="200"/>
+ <img src="/img/IDSTEP1WEBSITE.png" alt="KYCID" width="200"/>
 
 > **NOTE:** Take a picture of the ID in a well-lit environment.  Ensure all four corners of the document are visible, and there are no reflections (if your phone’s flashlight is on, be sure to switch it off). Clean the lens, hold the phone steady, and align the camera for your ID to fit the frame. Proceed to take the picture and ensure that the information on it is legible. If you’re not sure of the quality, you can retake the photo.
 
@@ -60,6 +61,6 @@ Never share your PIN with others, this will give them access to your Sevi accoun
 ## ALL DONE!!
 You have now created your Sevi account which you can use to Order now, Pay later at all suppliers verified by Sevi. Congratulations!
 
- <img src="/register/Personalwallet2.png" alt="account" width="200"/>
+ <img src="/img/newbeginscreen.png" alt="account" width="200"/>
 
 

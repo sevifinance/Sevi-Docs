@@ -9,11 +9,11 @@ Before you make any purchases or order products using Sevi, you first need to To
 
 ## Step 1: Tap on the Top-up icon 
 
-<img src="/topup/topupicon.png" alt="topup" width="200"/>
+<img src="/img/taptotopup.png" alt="topup" width="200"/>
 
 ## Step 2: Enter the amount you wish to deposit into your Sevi account
 
-<img src="/topup/topupamount.png" alt="topup" width="200"/>
+<img src="/img/despositamount.png" alt="topup" width="200"/>
 
 ## Step 3:	Select the Top-up method you wish to use
 
@@ -35,3 +35,5 @@ When you chose manual payment, you need to follow the steps provided to manually
 After making payments from your mobile money or bank, your funds will reflect on your Sevi account. Depending on the payment method you used this balance is up date near instant. You can refresh the data by pulling down your screen.
 
 Congratulations! With your funds deposited in your wallet, you can proceed to order products, or make (early) instalment payments.
+
+<img src="/img/balanceamount.png" alt="topup" width="200"/>
