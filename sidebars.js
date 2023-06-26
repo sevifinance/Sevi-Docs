@@ -91,13 +91,13 @@ module.exports = {
       'seller/faq',
     ],
   developer: [
+    'developer/intro',
     'developer/authentication',
     {
       type: 'category',
       label: 'API',
       collapsed: false,
       items: [
-          'developer/API/intro',
           {
             type: 'category',
             label: 'Queries',
