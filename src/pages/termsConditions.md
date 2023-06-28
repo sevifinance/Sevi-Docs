@@ -68,13 +68,13 @@ We will conduct a maximum of two (2) retries in order to try to collect the fund
 
 If you fail to make a payment and have a Late status, you may be unable to use the service in the future. We continue to attempt to collect overdue and currently due payments on subsequent due dates, or invoice you separately for the unpaid total. You can pay any defaulted instalment at any time during the Period.
 
-If you fail to pay any or all instalments for over 21 days, your account will get a Default status and a default fee of 10% is added to the total credit amount. When you are in default Sevi will engage with an external debt collection agency to collect the outstanding amount. The cost for collection will be charged to you.
+If you fail to pay any or all instalments for over 21 days, your account will get a Default status and a default fee of 10% is added to the total credit amount. When you are in default Sevi will engage internal debt collector, external debt collection agency or auctioneers to collect the outstanding amount. The cost for collection will be charged to you.
 
 Title to the purchase using the Pay-in-Instalment option shall pass to you only upon payment in full of all instalments, including any additional fees and interest charged by us.
 
-If you fail to pay, the Seller, Sevi and/or our debt collection agency are able to retrieve the purchase you made. Therefore, use the purchase properly and do not modify or alter them. You shall not remove or alter identification or registration numbers on the purchase. You are responsible for loss of, or damage to the purchase. In such case you need to notify us. You are responsible for insurance of the purchase, insurance is applicable to items purchased above a certain amount and this option will be presented as a checkbox prior to agreeing to these Terms.
+If you fail to pay, the Seller,Sevi debt collector, debt collection agency and our auctioneer are able to retrieve the purchase you made Therefore, use the purchase properly and do not modify or alter them. You shall not remove or alter identification or registration numbers on the purchase. You are responsible for loss of, or damage to the purchase. In such case you need to notify us. You are responsible for insurance of the purchase, insurance is applicable to items purchased above a certain amount and this option will be presented as a checkbox prior to agreeing to these Terms.
 
-Please note that Sevi will notify you prior to; any withdrawals being made from your Sevi account; if a payment fails; if an instalment amount is in default; and if the debt is handed over to an external debt collection agency.
+Please note that Sevi will notify you prior to; any withdrawals being made from your Sevi account; if a payment fails; if an instalment amount is in default; and if the debt is handed over to an external debt collection agency and auctioneer.
 
 Missing payments can have serious consequences for you. Your Sevi score will be affected which will make it more difficult or more expensive for you to obtain credit in the future. Legal action may be taken against you to recover the debt, an application may be made to have you declared bankrupt, and it is possible that a charging order and order for sale of your property may be obtained as a means of enforcing any judgment.
 
