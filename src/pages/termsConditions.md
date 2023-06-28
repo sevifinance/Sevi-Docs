@@ -72,7 +72,7 @@ If you fail to pay any or all instalments for over 21 days, your account will ge
 
 Title to the purchase using the Pay-in-Instalment option shall pass to you only upon payment in full of all instalments, including any additional fees and interest charged by us.
 
-If you fail to pay, the Seller,Sevi debt collector, debt collection agency and our auctioneer are able to retrieve the purchase you made Therefore, use the purchase properly and do not modify or alter them. You shall not remove or alter identification or registration numbers on the purchase. You are responsible for loss of, or damage to the purchase. In such case you need to notify us. You are responsible for insurance of the purchase, insurance is applicable to items purchased above a certain amount and this option will be presented as a checkbox prior to agreeing to these Terms.
+If you fail to pay, the Seller, Sevi debt collector, debt collection agency and our auctioneer are able to retrieve the purchase you made Therefore, use the purchase properly and do not modify or alter them. You shall not remove or alter identification or registration numbers on the purchase. You are responsible for loss of, or damage to the purchase. In such case you need to notify us. You are responsible for insurance of the purchase, insurance is applicable to items purchased above a certain amount and this option will be presented as a checkbox prior to agreeing to these Terms.
 
 Please note that Sevi will notify you prior to; any withdrawals being made from your Sevi account; if a payment fails; if an instalment amount is in default; and if the debt is handed over to an external debt collection agency and auctioneer.
 
