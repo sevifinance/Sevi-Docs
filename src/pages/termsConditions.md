@@ -59,12 +59,9 @@ You are entitled, to pay any instalment earlier then the due date. In the Sevi a
 
 Consequences of default and missed payments
 -------------------------------------------
+If we are not able to take an instalment from your Sevi account on the due date we might provide you a courtesy slack period of 24 hours, so that you can top-up your Sevi account. After 24 hours, **you will be charged a late fee of 1% per day**, up to a cumulative 6% by day 6. Paying late might also influence future decisions regarding future payment products that will be made available to you. 
 
-If we are not able to take an instalment from your Sevi account on the due date we might provide you a courtesy slack period so that you can top-up your Sevi account. Paying late might also influence future decisions regarding future payment products that will be made available to you. 
-
-You will be notified in good time via electronic communication to your verified phone number, about the payment failure and when the retries will be scheduled so you’ll have enough time to make sure that you have sufficient funds in your Sevi account. 
-
-We will conduct a maximum of two (2) retries in order to try to collect the funds. **If we were unable to withdraw funds after this, the missed instalment will get a Late status and a late fee of 6% is added to the instalment amount.**
+You will be notified in good time via electronic communication to your verified phone number, about the payment failure so you’ll have enough time to make sure that you have sufficient funds in your Sevi account. 
 
 If you fail to make a payment and have a Late status, you may be unable to use the service in the future. We continue to attempt to collect overdue and currently due payments on subsequent due dates, or invoice you separately for the unpaid total. You can pay any defaulted instalment at any time during the Period.
 
