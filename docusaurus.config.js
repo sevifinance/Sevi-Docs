@@ -28,6 +28,9 @@ module.exports = {
       logo: {
         alt: 'Sevi Logo',
         src: 'img/seviS.svg',
+        href: '/docs/intro',
+
+        
       },
       items: [
         {
