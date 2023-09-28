@@ -10,9 +10,24 @@ module.exports = {
   organizationName: 'Sevi', // Usually your GitHub org/user name.
   projectName: 'Sevi', // Usually your repo name.
   plugins: [
-    require.resolve('docusaurus-plugin-image-zoom')
+    require.resolve('docusaurus-plugin-image-zoom'),
+    "@chatwoot/docusaurus-plugin"
   ],
   themeConfig: {
+    chatwoot: {
+      websiteToken: "aj8k4EbQGjCi3wBqcQvzubRQ",
+      baseURL: "https://chat.sevi.io",  // optional
+      enableInDevelopment: true,  // optional
+      chatwootSettings: {
+        hideMessageBubble: false,
+        position: "right", // This can be left or right
+        locale: "en", // Language to be set
+        useBrowserLanguage: false, // Set widget language from user's browser
+        darkMode: "auto", // [light, auto]
+        type: "expanded_bubble",
+        launcherTitle: "Chat with us",
+      }
+    },
     zoom: {
       selector: '.markdown :not(em) > img',
       background: {
@@ -139,5 +154,5 @@ module.exports = {
         },
       },
     ],
-  ],
+  ]
 };
