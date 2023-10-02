@@ -18,3 +18,7 @@ Providing affordable finance to entrepreneurs is a crucial condition for further
 ## Mission
 
 We empower entrepreneurs with access to ethical and affordable credit to grow their business.
+
+## Structure
+
+Sevi BV is an IT development company, based in the Netherlands. Sevi BV has developed the Order now, Pay later IT infrastructure. Its current sole execution partner is Sevi Innovation Limited, a Kenyan company, licensed by Central Bank of Kenya as a Digital Credit Provider. Sevi Innovation uses the IT platform offered by Sevi BV to provide Order now, Pay later services to B2B Buyers and Sellers in Kenya. 
