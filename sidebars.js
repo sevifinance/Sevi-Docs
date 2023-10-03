@@ -61,6 +61,7 @@ module.exports = {
       'buyer/plans',
       'buyer/notifications',
       'buyer/faq',
+      'buyer/cashback',
           ],
   seller: [
       'seller/start',
