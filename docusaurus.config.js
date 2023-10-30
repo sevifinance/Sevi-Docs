@@ -15,7 +15,7 @@ module.exports = {
   ],
   themeConfig: {
     chatwoot: {
-      websiteToken: "aj8k4EbQGjCi3wBqcQvzubRQ",
+      websiteToken: "Y9FefHJwed7PcDVbzZDzy1nD",
       baseURL: "https://chat.sevi.io",  // optional
       enableInDevelopment: true,  // optional
       chatwootSettings: {
