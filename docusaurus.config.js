@@ -134,7 +134,7 @@ module.exports = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       {
             googleAnalytics: {
-      trackingID: 'UA-208502643-1',
+      trackingID: 'G-ZM57SQP4ZY',
       anonymizeIP: false,
     },
         docs: {
