@@ -1,12 +1,12 @@
 # Terms & Conditions
 
-## Pay in instalments
+## Order now, Pay later
 
-These terms apply between Sevi Innovation Ltd. including its foreign subsidiaries and branches (“Sevi”, “we” or “us”) and the person or legal entity or institution ("you") who makes a purchase. If you choose the Sevi payment option (“Pay-in Instalments”) you agree to these terms (“Terms”). You can at any time access these terms via our website.
+These terms apply between Sevi Innovation Ltd. including its foreign subsidiaries and branches (“Sevi”, “we” or “us”) and the person or legal entity or institution ("you") who makes a purchase. If you choose the Sevi payment option (“Order now, Pay later”) you agree to these terms (“Terms”). You can at any time access these terms via our website.
 
-This is a payment option you can choose to part pay your purchases by dividing the cost into multiple payments.
+This is a payment option you can choose to part pay your purchases on credit by dividing the cost into multiple payments.
 
-How do I Pay in instalments?
+How do I Order now, Pay later?
 ----------------------------
 
 Create a Sevi account by downloading the Sevi app and filling out your personal data for verification purposes. Once a personal account is created you can create a company account. Top-up your Sevi account from your mobile money or bank account.
@@ -17,9 +17,9 @@ Deposit is defined as the sum of money that you as a Buyer pay at the start of t
 Credit is defined as the sum of money that you as the Buyer pay at a later time then the purchase time, to finance the remainder of the purchase prize. In the Sevi app this is defined as the "Pay later" amount. This Pay later amount is lower or equal to the Credit Limit which is set at the sole discretion of Sevi.
 
 You give us the authority to take the remaining instalment payments from your Sevi account on and after the due dates.
-When you switch on the function to sweep any wallet top-up to any open credit, you give us the authority to take the remaining instalment payments from your Sevi account even before the due dates.
+When you switch on the function to sweep any wallet top-up to any open credit, you give us the authority to take the remaining instalment payments from your Sevi account also before the due dates.
 
-In the event the Seller or Sellers do not charge you for your entire order at the same time, we will create a different Pay-In-Instalments plan for each order part. This situation may be common where a Seller does not ship all the items from your order at the same time.
+In the event the Seller or Sellers do not charge you for your entire order at the same time, we will create a different Order now, Pay later plan for each order part. This situation may be common where a Seller does not ship all the items from your order at the same time.
 
 You will maintain an adequate credit balance on your Sevi account to allow for payments to be taken on the due dates, if you choose not to use the provided payment link. **It is important you ensure enough funds are available to complete your payment on the due date.**
 
@@ -34,11 +34,11 @@ Your ID card needs to be valid and will be verified to prevent ID fraud.
 
 Your phone number needs to be valid and will be verified by a one-time password (“OTP”) you receive per SMS.
 
-It is at our discretion whether we offer you Pay-in-Instalments. We may limit the types of Top-up options we accept at our discretion.
+It is at our discretion whether we offer you Order now, Pay later. We may limit the types of Top-up options we accept at our discretion.
 
-We may carry out a limited credit search on you at a credit reference bureau. This search will not affect your credit score or your chances of obtaining a credit in future.
+We may carry out a limited credit search on you at a credit reference bureau. 
 
-The number of instalments, fees and amount per instalment will be clearly communicated before entering into any payment option and can be reviewed in the Sevi app at any time. The period starts on confirmation by the Seller of delivery and ends on the due date of the final instalment (“Period”).
+The number of instalments, fees and amount per instalment will be clearly communicated before entering into any payment option and can be reviewed in the Sevi app at any time. The period starts on confirmation by the you and/or the Seller of delivery and ends on the due date of the final instalment (“Period”).
 
 When you confirm to agree with these Terms, the first payment (“Deposit”) is taken from your Sevi account. If we, for any reason, are unable to charge the deposit from your Sevi account, the merchant will not hand over the product to you.
 
@@ -53,12 +53,12 @@ You are responsible for being able to receive SMS messages send by Sevi through 
 Right to repay early
 --------------------
 
-You are entitled, to pay any instalment earlier then the due date. In the Sevi app you go to you Instalment overview and per instalment you can click “Pay”. Clicking this button pays that specific instalment, provided the balance in your Sevi account is enough, if not you are asked to first top-up your Sevi account.
+You are entitled, to pay any instalment earlier then the due date. In the Sevi app you go to you Instalment overview and per instalment you can click “Pay”. Clicking this button pays that specific instalment, provided the balance in your Sevi account is enough, if not you are asked to first top-up your Sevi account. You may also choose to switch on the option to automatically sweep any wallet top-up to any open credit even before due date.
 
 Consequences of default and missed payments
 -------------------------------------------
 
-If we are not able to take an instalment from your Sevi account on the due date we might provide you a courtesy slack period of 24 hours, so that you can top-up your Sevi account. After 24 hours, **you will be charged a late fee of 1% per day**, up to a cumulative 6% by day 6. Paying late might also influence future decisions regarding future payment products that will be made available to you. 
+If we are not able to take an instalment from your Sevi account on the due date we might provide you a courtesy slack period of 24 hours, so that you can top-up your Sevi account. After 3 days, **you will be charged a late fee of 2% per day**, up to a cumulative 6% by day 6. Paying late might also influence future decisions regarding future payment products that will be made available to you. 
 
 You will be notified in good time via electronic communication to your verified phone number, about the payment failure so you’ll have enough time to make sure that you have sufficient funds in your Sevi account. 
 
@@ -66,7 +66,7 @@ If you fail to make a payment and have a Late status, you may be unable to use t
 
 If you fail to pay any or all instalments for over 21 days, your account will get a Default status and a default fee of 10% is added to the total credit amount. When you are in default Sevi will engage internal debt collector, external debt collection agency or auctioneers to collect the outstanding amount. The cost for collection will be charged to you.
 
-Title to the purchase using the Pay-in-Instalment option shall pass to you only upon payment in full of all instalments, including any additional fees and interest charged by us.
+Title to the purchase using the Order now, Pay later option shall pass to you only upon payment in full of all instalments, including any additional fees and interest charged by us. We may ask for additional security.
 
 If you fail to pay, the Seller, Sevi debt collector, debt collection agency and our auctioneer are able to retrieve the purchase you made Therefore, use the purchase properly and do not modify or alter them. You shall not remove or alter identification or registration numbers on the purchase. You are responsible for loss of, or damage to the purchase. In such case you need to notify us. You are responsible for insurance of the purchase, insurance is applicable to items purchased above a certain amount and this option will be presented as a checkbox prior to agreeing to these Terms.
 
@@ -100,11 +100,11 @@ We may give information about you and your payment record under this agreement t
 Our right to refuse transactions and suspend your Sevi account
 --------------------------------------------------------------
 
-We may refuse to authorize a purchase using Pay-in-Instalments or suspend your right to make purchases with your Sevi account for any of the following reasons:
+We may refuse to authorize a purchase using Order now, Pay later or suspend your right to make purchases with your Sevi account for any of the following reasons:
 
 1. Your purchasing behaviour seems unusual compared with the way you normally use your Sevi account;
 2. We suspect that unauthorized or fraudulent use is being made of your Sevi account;
-3. There is any legal or technical restriction which prevents us from lawfully providing you with Payments in instalments at the time when you attempt to make a purchase using your Sevi account;
+3. There is any legal or technical restriction which prevents us from lawfully providing you with Order now, Pay later at the time when you attempt to make a purchase using your Sevi account;
 4. You fail to make any payment which falls due to us;
 5. We believe that there is a significantly increased risk that you may not be able to fulfil your duty to pay the instalments (this includes situations such as you going bankrupt or having similar proceedings taken against you);
 6. We reasonably believe the transaction would damage our reputation;
@@ -116,7 +116,7 @@ If we decide to refuse a transaction or suspend your right to use your Sevi acco
 Consent to electronic communication, correspondence and change of details
 -------------------------------------------------------------------------
 
-When you agree with these Terms you give consent to us sending electronic communications to the e-mail address or telephone number you have provided, you agree that we may send monthly statements, notices and other communications under or in relation to these Pay-in-Instalments and these Terms via the Sevi app to your Sevi account or via text message to this mobile phone number.
+When you agree with these Terms you give consent to us sending electronic communications to the e-mail address or telephone number you have provided, you agree that we may send monthly statements, notices and other communications under or in relation to these Order now, Pay later and these Terms via the Sevi app to your Sevi account or via text message to this mobile phone number.
 
 You must promptly inform us of any changes to your name, address, email or telephone number. You must provide any evidence of such changes that we may reasonably require.
 
@@ -154,4 +154,4 @@ Sevi
 
 Sevi is licensed and regulated by [Central Bank of Kenya](https://www.centralbank.go.ke/wp-content/uploads/2023/01/Directory-of-Digital-Credit-Providers-January-30-2023.pdf). Sevi Innovation Ltd is incorporated under Kenyan law and is registered with the Kenya Business Registrar. Its registration number is PVT-AJUVZRA. For further information about Sevi, go to: [sevi.io](https://sevi.io).
 
-Edited in Kenya on 31th of Jan 2023.
+Edited in Kenya on 3rd of November 2023.
