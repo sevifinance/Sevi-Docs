@@ -134,8 +134,8 @@ module.exports = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       {
             googleAnalytics: {
-      trackingID: 'G-ZM57SQP4ZY',
-      anonymizeIP: false,
+            trackingID: 'G-ZM57SQP4ZY',
+            anonymizeIP: false,
     },
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
