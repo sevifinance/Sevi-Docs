@@ -22,7 +22,7 @@ https://partner.sevi.io/graphql
 
 To execute queries or mutations, an authentication header should be set with a JSON formatted as follows:
 
-{ Authorization: "token"}
+Authorization: "token"
 
 To obtain your API token, please visit the following link: [get your API token](/docs/developer/authentication)
 
