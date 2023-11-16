@@ -6,6 +6,9 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import Head from '@docusaurus/Head';
 
+
+// import './style.css'
+
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
@@ -13,15 +16,34 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <p className={styles.heroDescription}>
+          Sell more products with the 'Order now, Pay later' option. Hassle-free credit line and payment follow-ups by Sevi. Get paid upfront while selling on credit.
+        </p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            start reading
+            Learn More
+          </Link>
+          <Link
+            className="button button--primary button--lg"
+            to="https://sevi.io/app">
+            Apply Now
           </Link>
         </div>
       </div>
     </header>
+  );
+}
+
+function SeviIntegrationSection() {
+  return (
+    <section className={styles.seviIntegration}>
+      <div className="container">
+        <h2>Sevi Integration</h2>
+        <p>Sevi offers a user-friendly app for sales agents and customers, simplifying credit-based sales. Our open API seamlessly integrates into your ERP system or eCommerce website, complemented by a comprehensive dashboard for order and credit management.</p>
+      </div>
+    </section>
   );
 }
 
@@ -30,41 +52,15 @@ export default function Home() {
 
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Learn about our platform">
+      title={`Welcome to ${siteConfig.title}`}
+      description="Explore our 'Order now, Pay later' options">
       <Head>
-        {/* <script>
-          {
-            `(function(d,t) {
-            var BASE_URL="https://app.chatwoot.com";
-            var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-            g.src=BASE_URL+"/packs/js/sdk.js";
-            s.parentNode.insertBefore(g,s);
-            g.onload=function(){
-              window.chatwootSDK.run({
-                websiteToken: 'GMuxr6usUmx4gsGyzaZoSQVG',
-                baseUrl: BASE_URL
-              })
-            }
-          })(document,"script")`
-          }
-        </script>
-<script>
-{`window.addEventListener('chatwoot:ready', function () {
-  console.log("hi")
-window.chatwootSettings = {
-  hideMessageBubble: false,
-  position: 'left', // This can be left or right
-  locale: 'en', // Language to be set
-  type: 'standard', // [standard, expanded_bubble]
-} 
-})
-`}
-    </script> */}
+        {/* Additional Head elements can be added here */}
       </Head>
       <HomepageHeader />
       <main>
-        {/* <HomepageFeatures /> */}
+        <SeviIntegrationSection />
+        {/* Additional sections can be added here */}
       </main>
     </Layout>
   );

@@ -1,0 +1,87 @@
+/* Main Hero Banner Styles */
+.heroBanner {
+    padding: 4rem 0;
+    text-align: center;
+    color: var(--ifm-font-color-base);
+    background-color: var(--ifm-color-primary);
+  }
+  
+  /* Hero Title and Subtitle */
+  .hero__title {
+    margin-bottom: 1rem;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #ffffff;
+  }
+  
+  .hero__subtitle {
+    margin-bottom: 1.5rem;
+    font-size: 1.25rem;
+    color: #eeeeee;
+  }
+  
+  /* Description Text in Hero Banner */
+  .heroDescription {
+    margin-bottom: 2rem;
+    font-size: 1rem;
+    color: #dddddd;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.5;
+  }
+  
+  /* Button Styles */
+  .buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .button {
+    padding: 1rem 2rem;
+    font-size: 1rem;
+    border-radius: 5px;
+    text-transform: uppercase;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  .button--primary {
+    background-color: #ffffff;
+    color: var(--ifm-color-primary);
+  }
+  
+  .button--primary:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .button--secondary {
+    background-color: transparent;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+  }
+  
+  .button--secondary:hover {
+    background-color: #ffffff;
+    color: var(--ifm-color-primary);
+  }
+  
+  /* Sevi Integration Section Styles */
+  .seviIntegration {
+    padding: 2rem 0;
+    text-align: center;
+  }
+  
+  .seviIntegration h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .seviIntegration p {
+    font-size: 1rem;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.6;
+  }
+  
