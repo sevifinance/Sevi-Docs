@@ -110,8 +110,6 @@ variables:
 
 There are multiple ways we can implement the above query.
 
-<Tabs>
-<TabItem value="js" label="Nodejs">
 
 ```js
 const axios = require("axios")
@@ -190,9 +188,6 @@ axios({
 });
 ```
 
-</TabItem>
-
-<TabItem value="php" label="PHP">
 
 ```PHP
 <?php
@@ -286,7 +281,3 @@ axios({
     echo '</pre>';
 ?>
 ```
-
-</TabItem>
-
-</Tabs>
