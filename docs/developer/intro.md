@@ -7,14 +7,29 @@ import Button from '/components/button';
 
 The partner API's are used to offer Sevi payment method as part of your payment / order process.
 
-
 <Button />
 
+The general steps taken
+
+
+- Partner will register a Sevi Company Account > [Register seller account](https://docs.sevi.io/docs/seller/start)
+- Partner selects Sevi as a payment option
+- Send invoice payment request to Sevi
+  - Via the createOrder API[ &gt;](https://docs.sevi.io/docs/developer/API/mutations/orderCreate)[orderCreate]([https://docs.sevi.io/docs/developer/API/mutations/orderCreate](https://docs.sevi.io/docs/developer/API/mutations/orderCreate))
+  - this orderCreate is linked to the Partner Sevi Account via auth token > [Authenticate]([https://docs.sevi.io/docs/developer/authentication](https://docs.sevi.io/docs/developer/authentication))
+
+3) Sevi sends a webhook request to the Partner informing that the order payment is successfully done > [Webhooks]([https://docs.sevi.io/docs/developer/webhook/intro](https://docs.sevi.io/docs/developer/webhook/intro))
+4) Partners sends an orderDeliver mutation when the items are delivered. >  [playground]([https://partner.sevi.io/graphql](https://partner.sevi.io/graphql)) > mutation > orderDeliver
+5) The Seller will receive the order amount in the Sevi wallet.
+6) Sevi will settle the balance to a bank account every 24 hours.
+
+
+
+## API
 
 We currently offers a Graphql API, while the partner API's only expose a portion of the available API's. If your organization requires a different integration, please inform us, as we may have an API suitable for your needs. The Graphql can be queried using your standard REST client query tools.
 
 The production partner Graphql API playground can be found at [Find here the production partner graphql API playground](https://partner.sevi.io/graphql)
-
 
 ```
 https://partner.sevi.io/graphql

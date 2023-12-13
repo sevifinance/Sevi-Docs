@@ -127,7 +127,7 @@ module.exports = {
       items: [
           'developer/webhook/intro',
           'developer/webhook/paymentReceived',
-          // 'developer/webhook/orderCreate', 
+          'developer/webhook/whitelist',
           ],
     },
 
