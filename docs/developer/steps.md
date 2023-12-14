@@ -1,30 +1,56 @@
 # Steps
 
-Below a breakdown of the general steps taken to realize a payment integration
+# API Integration Steps
 
-- Partner will register a Sevi Seller Account > [Register seller account](/docs/seller/start)
-- Send invoice to Sevi to handle the payment for that invoice.
+This document outlines the general steps for API integration. The process is designed to be straightforward and efficient.
 
-  - Send invoice details to the createOrder API[ order create](/docs/developer/API/mutations/orderCreate)
-  - This order create is linked to the Partner Sevi Account via auth token > [Authenticate](/docs/developer/authentication)
-- After payment is handled Sevi sends a webhook request to the Partner informing that the payment for that order is successfully done > [Webhooks](/docs/developer/webhook/intro)
+## Step 1: Register a Sevi Seller Account
 
-  - make sure to configure an endpoint on where we can send this order payment complete information to
-- After payment is delivered, inform Sevi via the orderDeliver mutation that the products have been shipped and deliverd to the buyer. This will trigger the payment to the Seller wallet and the buyer will start paying.
-- The Seller will receive the order amount in the Sevi wallet.
+First, you need to register as a Sevi Seller. This is an essential step to get started with the integration process.
 
-6) Sevi will settle the balance to a bank account every 24 hours.
+- **Action**: [Register seller account](/docs/seller/start)
 
-#### Simple
+## Step 2: Invoice Submission
 
-The above representation shows the simple flow.
+Once registered, you can start sending invoices to Sevi for payment processing.
 
-*Create Order > Webhook payment notification*
+- **Action**: Send invoice details to the `createOrder` API.
+  - [Order creation API](/docs/developer/API/mutations/orderCreate)
+  - Authentication is required for linking the order to your Sevi Account.
+    - [Authenticate](/docs/developer/authentication)
 
-#### Complete
+## Step 3: Payment Notification
 
-There are other implementation based on your desired workflow. If you need help to better understand please contact support.
+After processing the payment, Sevi will send a webhook notification to inform you of the successful transaction.
 
-*Customer Status > Payment Proposal > Order Create > webhook payment notification*
+- **Action**: Configure an endpoint for receiving order payment completion notifications.
+  - [Webhooks Introduction](/docs/developer/webhook/intro)
+
+## Step 4: Confirm Product Delivery
+
+Inform Sevi when the products are shipped and delivered to the buyer. This action triggers the payment to the Seller's wallet.
+
+- **Action**: Use the `orderDeliver` mutation to notify Sevi.
+  - [Order Deliver API](/docs/developer/API/mutations/orderDeliver)
+
+## Step 5: Receiving Payment
+
+The seller will receive the order amount in their Sevi wallet.
+
+- **Action**: [Withdraw funds](/docs/seller/withdraw)
+  - Note: Sevi optionally settles the balance to a bank account every 24 hours.
+
+## Overview
+
+### Simple Flow
+
+The steps above represent the simple workflow for integration with the Sevi API.
+
+### Complete Flow
+
+For more complex implementations or assistance, please contact our support team. We can guide you through different workflows based on your specific needs.
+
+- Typical Workflow: *Customer Status > Payment Proposal > Order Create > Webhook Payment Notification*
+
 
 ![alt text](/img/api/apiFlow.jpg "flow")

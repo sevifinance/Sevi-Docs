@@ -1,15 +1,17 @@
-# Order Deliver
+# Order Delivery
 
-***type: mutation***
+**Type**: Mutation
 
-This mutation will notify Sevi that the order is delivered to the Buyer. This is importent for two reasons.
+This mutation is crucial for notifying Sevi when an order is successfully delivered to the Buyer. Implementing this mutation is important for two key reasons:
 
-1. The payments for the buyer will start
-2. the seller will get
+1. **Initiating Buyer's Payments**: It triggers the start of payment processing for the buyer.
+2. **Seller's Payment Release**: It ensures that the seller receives their payment promptly.
 
-API body looks like >
+### API Body:
 
-```
+Use the following mutation structure to implement the Order Delivery Notification:
+
+```graphql
 mutation OrderDeliver($orderId: String!) {
   orderDeliver(orderId: $orderId) {
     order {
@@ -18,6 +20,7 @@ mutation OrderDeliver($orderId: String!) {
     }
   }
 }
-```
+
 
 Get a better grasp via the [Playground](https://partner.sevi.io)
+```

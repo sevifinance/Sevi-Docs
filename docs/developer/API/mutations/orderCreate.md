@@ -1,34 +1,54 @@
 # Order Create
 
-***type: mutation***
+**Type:** Mutation
 
-To Create a payment we process this based on the order details between you and your customers.  We need the information for better assessment and credit risk.
+## Overview
+The `Create Order` mutation API is a key component in initiating payments within the Sevi system. This API manages the intricate details of orders and payments between you and your customers, ensuring efficient processing and risk assessment. 
 
-Create order mutation api initiates a payment in the Sevi system. This order can after creation be paid by multiple methods.
+### Steps for Integration
+Integrating this API involves two primary steps:
 
-General integrations have two parts,
+1. **Creating an Order**: Use the `createOrder` API to initiate an order.
+2. **Webhooks for Order Status**: Receive updated order statuses via configured webhooks. Contact us by email to set up your webhook.
 
-- Create an order via the createOrder API
-- Getting back the updated order status to via the configured webhooks. ( Write us an email to setup your webhook )
+## Response Body
+The response body provides comprehensive details about the order. For more information, refer to our GraphQL documentation. Key components include:
 
-### Response Body
+- **Order**: Contains general order information.
+- **Payment Options**: Details available payment methods (e.g., Mpesa, Airtel Bank, etc.).
+- **Payment Proposals**: Returns credit proposal details related to the created order.
 
-More detailed information about the response body and types  can be found the in the graphql documentation.
+## Example Usage
 
-here generic
+### GraphQL Mutation
 
-*Order*
+```graphql
+mutation(
+  $affiliate: String
+  $OrderPaymentMethodsEnum: OrderPaymentMethodsEnum
+  $items: [OrderItemInput!]
+  $billing: BillingInput!
+  $shipping: ShippingInput!
+) {
+  createOrder(
+    input: {
+      affiliateId: $affiliate
+      paymentMethod: $OrderPaymentMethodsEnum
+      items: $items
+      shipping: $shipping
+      billing: $billing
+    }
+  ) {
+    id
+    items {
+      id
+      price
+      quantity
+    }
+    amount
+  }
+}
 
-General order information can be found here
-
-*PaymentOptions*
-Information about what payment methods can be used like, mpesa, airtel bank etc.
-
-*PaymentProposals*
-
-This will return the credit proposal details related to the just created order.
-
-### Create order
 
 ### example
 
