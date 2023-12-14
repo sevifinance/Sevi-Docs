@@ -65,11 +65,10 @@ module.exports = {
           label: 'Seller',
         },
         {
-          to: "docs/developer/authentication",
+          to: "docs/developer/intro",
           position: 'left',
           label: 'Developer',
         },
-        // { to: '/blog', label: 'Blog', position: 'left' },
         {
           to: "/privacy",
           label: 'Privacy',

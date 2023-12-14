@@ -110,7 +110,6 @@ variables:
 
 There are multiple ways we can implement the above query.
 
-
 ```js
 const axios = require("axios")
 
@@ -187,7 +186,6 @@ axios({
   console.log(result.data)
 });
 ```
-
 
 ```PHP
 <?php

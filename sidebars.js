@@ -24,6 +24,7 @@
    */
 //};
 
+
 module.exports = {
   about: [
     // 'intro', 
@@ -93,6 +94,7 @@ module.exports = {
     ],
   developer: [
     'developer/intro',
+    'developer/steps',
     'developer/authentication',
     {
       type: 'category',
@@ -115,6 +117,7 @@ module.exports = {
             collapsed: true,
             items: [
               'developer/API/mutations/orderCreate', 
+              'developer/API/mutations/orderDeliver', 
                 ],
           },
        
@@ -126,12 +129,13 @@ module.exports = {
       collapsed: true,
       items: [
           'developer/webhook/intro',
-          'developer/webhook/paymentReceived',
+          'developer/webhook/orderPayment',
+          'developer/webhook/transactions',
           'developer/webhook/whitelist',
           ],
     },
-
-    'developer/WooCommerce',
-
+    'developer/testing',
+    'developer/deeplink',
+    'developer/WooCommerce'
   ],
 };

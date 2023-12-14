@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import { FaPostman } from 'react-icons/fa';
@@ -5,27 +8,29 @@ import Button from '/components/button';
 
 # Introduction
 
-The partner API's are used to offer Sevi payment method as part of your payment / order process.
+Partner APIs provide a seamless way to incorporate payment methods into your business infrastructure, enhancing the customer checkout experience. By integrating these APIs, you can offer more flexible payment options that fit naturally into various platforms and workflows.
 
-<Button />
+### Examples of Partner API Integrations:
 
-The general steps taken
+#### ERP Systems
+
+- Custom Checkout Workflow** : Automate billing and invoicing by embedding payment processing within your Enterprise Resource Planning (ERP) system.
+- Real-Time Financial Reporting** : Gain insights into your financials with transactions logged directly in your ERP for accurate reporting.
+
+#### Payment Gateway Interfaces
+
+- Streamlined Payments** : Connect your existing payment gateway interface with our API for smooth transaction processing.
+- Enhanced Security** : Implement advanced security measures such as tokenization to safeguard customer data during transactions.
+
+#### E-commerce Platforms
+
+##### Adding a checkout option on CMS like WordPress, Joomla, shopify.
+
+By tapping into the flexibility of partner APIs, businesses can create a more intuitive and efficient purchasing process for both their operational needs and their customer's convenience. Whether you are managing an online store or handling complex enterprise-level transactions, there is an integration solution that can meet your specific requirements.
 
 
-- Partner will register a Sevi Company Account > [Register seller account](https://docs.sevi.io/docs/seller/start)
-- Partner selects Sevi as a payment option
-- Send invoice payment request to Sevi
-  - Via the createOrder API[ &gt;](https://docs.sevi.io/docs/developer/API/mutations/orderCreate)[orderCreate]([https://docs.sevi.io/docs/developer/API/mutations/orderCreate](https://docs.sevi.io/docs/developer/API/mutations/orderCreate))
-  - this orderCreate is linked to the Partner Sevi Account via auth token > [Authenticate]([https://docs.sevi.io/docs/developer/authentication](https://docs.sevi.io/docs/developer/authentication))
 
-3) Sevi sends a webhook request to the Partner informing that the order payment is successfully done > [Webhooks]([https://docs.sevi.io/docs/developer/webhook/intro](https://docs.sevi.io/docs/developer/webhook/intro))
-4) Partners sends an orderDeliver mutation when the items are delivered. >  [playground]([https://partner.sevi.io/graphql](https://partner.sevi.io/graphql)) > mutation > orderDeliver
-5) The Seller will receive the order amount in the Sevi wallet.
-6) Sevi will settle the balance to a bank account every 24 hours.
-
-
-
-## API
+# API
 
 We currently offers a Graphql API, while the partner API's only expose a portion of the available API's. If your organization requires a different integration, please inform us, as we may have an API suitable for your needs. The Graphql can be queried using your standard REST client query tools.
 
@@ -40,22 +45,6 @@ To execute queries or mutations, an authentication header should be set with a J
 Authorization: "token"
 
 To obtain your API token, please visit the following link: [get your API token](/docs/developer/authentication)
-
-# Flow
-
-You can use the API's how ever you seen fit, but to give you some general idea here the flow some flows
-
-<!-- [![1683877949551](/img/api/apiFlow.jpg)]() -->
-
-#### Simple
-
-*Create Order > Webhook payment notification*
-
-#### Complete
-
-*Customer Status > Payment Proposal > Order Create > webhook payment notification*
-
-![alt text](/img/api/apiFlow.jpg "flow")
 
 # GraphQL
 
