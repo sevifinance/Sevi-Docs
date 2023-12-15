@@ -1,17 +1,15 @@
-# Deeplink
+# Payment Link
 
-if you need to use the Sevi as payment option for customers directly on web or mobile it's possible to have a smooth integration between your system and Sevi via deeplinks.
+This link serves as a convenient means for your buyer to facilitate the payment for an order. The `createOrder` API can generate a unique payment link for you.
 
-To initate a payment for Sevi, use the following format
+Using this payment link ensures a seamless transaction process, whether your customers are on your website or mobile app.
 
+To initiate a payment for Sevi, utilize the following format:
+
+```markdown
+https://p.sevi.io/D223123?redirect={redirectURL}
 ```
-https://p.sevi.io/{orderReference}?redirect={redirectURL}
-```
-
-**Order Reference**
-
-Is the returned order Reference on the order create mutation API request
 
 **Redirect URL**
 
-This is the url where after payment completion should be navigated
+This is the url where after payment completion should be navigated. For example the checkout confirmation
