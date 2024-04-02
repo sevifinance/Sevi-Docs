@@ -81,7 +81,7 @@ module.exports = {
         },
         {
           to: "/termsConditionsSellers",
-          label: 'Terms & Conditions (Sellers)',
+          label: 'Terms of Service (Sellers)',
           position: 'right',
         },        
       ],
