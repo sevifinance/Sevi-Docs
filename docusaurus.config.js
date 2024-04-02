@@ -76,9 +76,14 @@ module.exports = {
         },
         {
           to: "/termsConditions",
-          label: 'Terms & Conditions',
+          label: 'Terms & Conditions (Buyers)',
           position: 'right',
         },
+        {
+          to: "/termsConditionsSellers",
+          label: 'Terms & Conditions (Sellers)',
+          position: 'right',
+        },        
       ],
     },
     // footer: {
