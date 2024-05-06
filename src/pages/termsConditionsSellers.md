@@ -137,35 +137,41 @@ A Buyer must follow these steps to pay for a Buyer Order using the Sevi Payment 
 
 10.1.1. you fail to comply with any provision of clauses 7 or 12 of these Seller Terms of Service;
 
-10.1.2. we have a reason to assume fraudulent use of the Sevi Payment Service by you and/or your Buyer;
+10.1.2. we have a reason to assume fraudulent use of the Sevi Payment Service by you;
 
 10.1.3. a Buyer pays the remaining balance of the Purchase Price to you and/or you pay money into a Buyer account;
 
-10.1.4. the sum of instalments that are late, of all your Buyers combined exceeds 25%;
+10.1.4. the sum of instalments that are past their due date, of all your Buyers combined exceeds 25%;
 
-10.1.5. the Defaults on the sum of Buyer Credits of all your Buyers combined exceeds 50%;
+10.1.5. such suspension is for the purpose of carrying out scheduled or emergency maintenance on our technology platform, provided that we give you prior reasonable notice;
 
-10.1.6. such suspension is for the purpose of carrying out scheduled or emergency maintenance on our technology platform, provided that we give you prior reasonable notice;
+10.1.6. such suspension is in accordance with an order, instruction or request of government, a court order, an emergency service organisation or other competent administrative authority or is a result of us otherwise losing our authorisation to provide the Sevi Payment Service(s);
 
-10.1.7. such suspension is in accordance with an order, instruction or request of government, a court order, an emergency service organisation or other competent administrative authority or is a result of us otherwise losing our authorisation to provide the Sevi Payment Service(s);
+10.1.7. we may, at our sole discretion, elect to suspend any or all the Sevi Payment Services to a specific Buyer forthwith if the Buyer is overdue on any instalment or Buyer Credit or the Buyer is in breach of the Buyer Credit Terms and Conditions; or
 
-10.1.8. we may, at our sole discretion, elect to suspend any or all the Sevi Payment Services to a specific Buyer forthwith if the Buyer is overdue on any instalment or Buyer Credit or the Buyer is in breach of the Buyer Credit Terms and Conditions; or
-
-10.1.9. in an event of you filing for insolvency, bankruptcy, reorganisation or any similar process or proceeding or you failing to discharge an involuntary petition therefor within 30 days after filing.
+10.1.8. in an event of you filing for insolvency, bankruptcy, reorganisation or any similar process or proceeding or you failing to discharge an involuntary petition therefor within 30 days after filing.
 
 Our exercise of our right of suspension under this clause shall not function as a waiver of any right of termination that we may have under these Seller Terms of Service or any individual Buyer Credit or any of your obligations under these Seller Terms of Service.
 
-10.2. **Effect of suspension**. Upon our suspension of any Sevi Payment Service to you under:
+10.2. **Notification:** We will notify you in the event of access suspension through the Sevi Platform or contact information you provide to us.
 
-10.2.1. any of the foregoing clauses except 10.1.6 and 10.1.7, we may, in addition to all other remedies that may be available to us at law or in equity, assess and collect from you any applicable termination charge;
+10.3. **Effect of suspension.** Upon our suspension of any Sevi Payment Service to you under:
 
-10.2.2. clause 10.1.4, we will no longer accept Buyer Credit to any of your Buyers;
+10.3.1. any of the foregoing clauses except 10.1.5 and 10.1.6 , we may, in addition to all other remedies that may be available to us at law or in equity, assess and collect from you any applicable termination charge;
 
-10.2.3. clause 10.1.2 and/or 10.1.5 as the case may be, you will become liable for the full defaulted amount of your Buyers; and/or
+10.3.2. clause 10.1.4, we will no longer accept Buyer Credit to any of your Buyers;
 
-10.2.4. any of the foregoing clauses except 10.1.6, you are not allowed to deliver any new Buyer Orders to the Buyer, using Sevi Payment Services.
+10.3.3. clause 10.1.2,  you will become liable for the full defaulted amount of your Buyers; and/or
 
-10.3. **Resumption of Service**. If a Sevi Payment Service has been suspended pursuant to clause 10.1.6, we shall re-establish such Sevi Payment Service as soon as reasonably possible.
+10.3.4. any of the foregoing clauses except 10.1.5 , you are not allowed to deliver any new Buyer Orders to the Buyer, using Sevi Payment Services.
+
+10.4. **Resumption of Service**. If a Sevi Payment Service has been suspended:
+
+10.4.1. pursuant to clause 10.1.5 , we shall re-establish such Sevi Payment Service as soon as reasonably possible; or.
+
+10.4.2. pursuant to any other clause in 10.1 above, your access to Sevi Payment Services may be reinstated upon ensuring compliance with the breached term under these Seller Terms of Service within fourteen (14) days of us notifying you of the breach.
+
+10.5. **Termination**. Failure to remedy breach that led to access suspension within fourteen (14) days of our notification to you entitles us to terminate the Sevi Payment Service in accordance with clause 18.2 without further reference to you.
 
 ## 11. FEES
 
@@ -261,6 +267,8 @@ in each case addressed to the most recent address or email address.
 
 14.4. All communication between you and us in relation to these Seller Terms of Service shall be in English.
 
+14.5. This clause 14 does not apply to the service of any proceedings or other documents in any legal action or, where applicable, any arbitration or other method of dispute resolution.
+
 ## 15. INTELLECTUAL PROPERTY
 
 15.1. All Intellectual Property Rights in and related to the Sevi Platform (including, but not limited to, any Updates) and any data, analytics, research or other information contained in, displayed on or generated by the Sevi Platform or otherwise prepared by us with data or information from your, or any other user’s, access to and/or use of the Sevi Platform (collectively the “Platform Information”) shall be, and shall remain our exclusive property, and you acknowledge that you shall not obtain any Intellectual Property Rights in or to the Platform or the Platform Information.
@@ -309,17 +317,13 @@ as a result of, or otherwise in connection with, your use of the Sevi Platform.
 
 17.4. No employee or representative of the Provider, other than a duly authorised officer, has any authority to bind us to any warranty or undertaking whatsoever.
 
-17.5. You are liable for the total Buyer Credit of the first Buyer Order in the case the Buyer does not have the ‘verified buyer’ status.
-
 ## 18. TERM AND TERMINATION
 
 18.1. Term. These Seller Terms of Service shall be for a term of 12 months commencing with the first date agreed by you and shall be automatically renewed every 12 months thereafter unless terminated by either party pursuant to these Seller Terms of Service, with a one-month notice.
 
 18.2. Termination. Both parties may immediately terminate these Seller Terms of Service only by written notice to the other Party if (i) any breach of a material provision of these Seller Terms of Service that if remediable is not remedied by the other Party within 14 days’ of the receipt of written notice from the other Party specifying the breach and requiring its remedy; (ii) any regulatory decision or governmental order requiring us to suspend the Sevi Payment Service(s), or you to suspend delivery of Goods or which is reasonably likely to result in the loss of our operating authority; or (iii) in an event of either Party files for bankruptcy, reorganisation (other than a solvent corporate reorganisation) or any similar proceeding or fails to discharge an involuntary petition therefor within 30 days after filing.
 
-18.3. Any termination under these Seller Terms of Service, except in accordance with clause 18.2 above, shall not relieve us of our obligation to pay to you any amount due already incurred prior to termination.
-
-18.4. Termination of these Seller Terms of Service shall not terminate any open Buyer Orders or any open Buyer Credit, prior to the issuance of a termination notice and such open Buyer Credits shall not relieve the Buyer from making instalment payments outstanding under the Buyer Credit. Where there are open Buyer Credits and a termination notice has been issued by you, these Seller Terms of Service shall only terminate at the completion of all full and final payments due by the Buyers to us.
+18.3. In addition to the continuing obligations set out in clause 19.7 that survive the termination of these Seller Terms of Service shall not terminate any open Buyer Orders or any open Buyer Credit, prior to the issuance of a termination notice and such open Buyer Credits shall not relieve the Buyer from making instalment payments outstanding under the Buyer Credit. Where there are open Buyer Credits and a termination notice has been issued by you, these Seller Terms of Service shall only terminate at the completion of all full and final payments due by the Buyers to us.
 
 ## 19. GENERAL TERMS
 
@@ -327,13 +331,16 @@ as a result of, or otherwise in connection with, your use of the Sevi Platform.
 
 19.2. **Marketing**. You agree that we may refer to you and may briefly describe your business in our marketing materials and on our website and app.
 
-19.3. **Indemnification by You**. You shall indemnify, defend and hold us harmless from claims, loss, damage, expense (including reasonable lawyer’s fees and court costs), or liability arising from: (a) any claims made against us by any person or entity in connection with the delivery or consumption of the Goods and/or Services; (b) the content of any communication transmitted via the Sevi Payment Service or maintained in connection with any Buyer Order or Buyer Credit.
+19.3. **Indemnification**. Each party shall indemnify, defend and hold the other party (the “Indemnified Party”) harmless from claims, loss, damage, expense (including reasonable lawyer’s fees and court costs), or liability arising
+from: (a) any claims made against the Indemnified Party by any person or entity in connection with the delivery or consumption of the Goods and/or Services; (b) the content of any communication transmitted via the Sevi Payment Service or maintained in connection with any Buyer Order or Buyer Credit.
 
 19.4. **Severability**. If any provision or part-provision of these Seller Terms of Service is or becomes invalid, illegal or unenforceable, it shall be deemed deleted, but that shall not affect the validity and enforceability of the rest of these Seller Terms of Service.
 
 19.5. **No Waiver**. A delay or failure to exercise, or the single or partial exercise of, any right or remedy shall not waive that or any other right or remedy, nor shall it prevent or restrict the further exercise of that or any other right or remedy.
 
 19.6. **Data Protection**. The parties undertake to comply with the provisions of the Data Protection Act (No. 24 of 2019 laws of Kenya) and any related legislation in so far as the same relates to the provisions and obligations of these Seller Terms of Service. We shall collect and process personal data required in connection with the provision of the Sevi Payment Services in accordance with our Privacy Policy which is incorporated into these Seller Terms of Service.
+
+19.7. **Continuing Obligations**. The provisions of these Seller Terms of Service relating to warranty claims (clause 16 ), limitation of liability (clause 17 ), indemnities (clause 19.3 ), confidentiality (clause 23 ), dispute resolution (clause 24 ), governing law (clause 25 ) and other provisions that expressly or by their nature are intended to continue to have effect, shall survive termination or expiration of these Seller Terms of Service.
 
 ## 20. NATURE OF RELATIONSHIP
 
@@ -349,7 +356,7 @@ You may not transfer or assign any rights or obligations you have under these Se
 
 ## 23. CONFIDENTIALITY
 
-Each party acknowledges that all material and information which has come or will come into its possession or knowledge by virtue of these Seller Terms of Service consists of confidential and proprietary information which if disclosed to third parties might be damaging to the proprietor thereof. Both parties therefore agree to hold any such information and material in the strictest of confidence unless express permission is obtained from either party. The parties agree that the a forestated provision will survive the termination of these Seller Terms of Service.
+Each party acknowledges that all material and information which has come or will come into its possession or knowledge by virtue of these Seller Terms of Service consists of confidential and proprietary information which if disclosed to third parties might be damaging to the proprietor thereof. Both parties therefore agree to hold any such information and material in the strictest of confidence unless express permission is obtained from either party. The parties agree that the aforestated provision will survive the termination of these Seller Terms of Service.
 
 ## 24. DISPUTE RESOLUTION
 
@@ -358,4 +365,7 @@ Each party acknowledges that all material and information which has come or will
     b. Mediation: If the dispute cannot be resolved within 21 days from the date of the dispute notice, either party may initiate mediation within 14 days. The parties shall seek an amicable settlement of the dispute (s) by mediation, which shall take place according to the Nairobi Centre for International Arbitration – Mediation Rules as at present in force.
     c. Litigation as a final resort: If the parties cannot resolve any dispute for any reason following negotiations and mediation, either party may file suit in a court of competent jurisdiction.
 
-Sevi Sevi Innovation Limited is licensed and regulated by Central Bank of Kenya. It is incorporated under Kenyan law and is registered with the Registrar of Companies under registration number PVT-AJUVZRA. For further information about Sevi, go to: sevi.io. Edited in Kenya on 25 March 2024.
+## 25. GOVERNING LAW
+These Seller Terms of Service and all contracts concluded by the parties under these seller Terms of Service are governed by the laws of Kenya.
+
+Sevi Sevi Innovation Limited is licensed and regulated by Central Bank of Kenya. It is incorporated under Kenyan law and is registered with the Registrar of Companies under registration number PVT-AJUVZRA. For further information about Sevi, go to: www.sevi.io. Edited in Kenya on 04 May 2024.
