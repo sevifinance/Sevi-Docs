@@ -368,4 +368,5 @@ Each party acknowledges that all material and information which has come or will
 ## 25. GOVERNING LAW
 These Seller Terms of Service and all contracts concluded by the parties under these seller Terms of Service are governed by the laws of Kenya.
 
+## Sevi
 Sevi Sevi Innovation Limited is licensed and regulated by Central Bank of Kenya. It is incorporated under Kenyan law and is registered with the Registrar of Companies under registration number PVT-AJUVZRA. For further information about Sevi, go to: www.sevi.io. Edited in Kenya on 04 May 2024.
