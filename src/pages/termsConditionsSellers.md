@@ -167,7 +167,7 @@ Our exercise of our right of suspension under this clause shall not function as 
 
 10.4. **Resumption of Service**. If a Sevi Payment Service has been suspended:
 
-10.4.1. pursuant to clause 10.1.5 , we shall re-establish such Sevi Payment Service as soon as reasonably possible; or.
+10.4.1. pursuant to clause 10.1.5 , we shall re-establish such Sevi Payment Service as soon as reasonably possible; or
 
 10.4.2. pursuant to any other clause in 10.1 above, your access to Sevi Payment Services may be reinstated upon ensuring compliance with the breached term under these Seller Terms of Service within fourteen (14) days of us notifying you of the breach.
 
