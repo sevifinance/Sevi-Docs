@@ -53,4 +53,4 @@ For more complex implementations or assistance, please contact our support team.
 - Typical Workflow: *Customer Status > Payment Proposal > Order Create > Webhook Payment Notification*
 
 
-![alt text](/img/api/apiFlow.jpg "flow")
+<!-- ![alt text](/img/modules/apiFlow.jpg "flow") -->
