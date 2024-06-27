@@ -2,7 +2,7 @@
 
 **What is a Return URL?**
 
-The return URL is the web address your customer will be redirected to after completing a payment on our platform. This allows you to display a confirmation message or take further actions based on the payment status.
+The return URL is the web address your customer will be redirected to after completing a payment on our platform. This allows you to display a confirmation message or take further actions based on the payment status. The returnURL is a per order URL that can be send on the orderCreate API.
 
 **Supported Return URL formats:**
 
