@@ -12,7 +12,7 @@ Click on your account to see the badges you've earned. Each badge will give you 
 A Verified Seller on Sevi is able to sell products on credit, through the Sevi platform. 
 To become a Verified Seller on Sevi please click `verify company` under your company account and follow the prompts on the screen. 
 
-For more information check the [step-by-step process](docs/seller/apply) to become a verified seller.  
+For more information check the [step-by-step process](apply) to become a verified seller.  
 
 Sevi performs the due dilligence and will plan a company visit, whereafter you get the badge Verified Seller and you can start selling credit. 
 
