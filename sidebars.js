@@ -135,7 +135,8 @@ module.exports = {
           ],
     },
     'developer/testing',
-    'developer/deeplink',
+    'developer/paymentLink',
+    'developer/returnURL',
     'developer/WooCommerce'
   ],
 };
