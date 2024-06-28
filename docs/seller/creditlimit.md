@@ -1,29 +1,45 @@
 ---
 sidebar_position: 1
 ---
-
 # Credit limits
 
-Based on the track record of both the Seller and the Buyer the specific credit limits are defined by the Sevi system.
+This document explains how credit limits work on Sevi for sellers.
 
-When you reach on of these limits you will not be able to provide products on credit. Only the 'direct pay' option shows when selecting a payment option. 
+#### **What are Credit Limits?**
 
-You will receive one of the following error messages when you or your buyer reaches a credit limit.
+Credit limits determine the amount a buyer can purchase on credit (Order Now, Pay Later) from your store. These limits are set by the Sevi system based on both the buyer's and your track record on the platform.
 
-    Seller reached max of outstanding instalments
-This means you have reached your max 'Order now, Pay later' limit. This is the sum of all open instalments of all your buyers combined. Once your buyers pay instalments, this will free up space and allow you to provide 'Order now, Pay later' again. By a positive track record on Sevi this limit will increase overtime.
+#### **How are Buyer Limits Set?**
 
-    Order amount exceeds allowed seller limit
-The order amount is to high. With your current track record on Sevi you are only able to sell smaller orders on credit. By a positive track record this order amount limit will increase overtime.
+Sevi uses various data points to determine buyer limits, including:
 
-    Buyer should first pay the open instalments
-Your buyer has open installments which are not paid before the due date. Please remind your buyer to first pay these overdue instalments, to be able to use 'Order now, Pay later'. This can also be overdue instalments on orders at another Seller. More information on [how to pay instalments](/docs/buyer/payinstalments). 
+* **Buyer's past purchase history:**  Your order history with a buyer can influence their credit limit. By providing complete and accurate order history, you can help Sevi set appropriate limits for your buyers.
 
-    Order amount exceeds allowed buyer personal limit
-Your buyer is making an order from his/her personal Sevi account or as a Sole Proprietorship. The buyer is not able to pay for this order in instalments, because the sum of all his/her orders combined is too high. These orders can also be at another Seller on Sevi. Ask your buyer to pay instalments of other orders first, to be able to 'Order now, Pay later'. Or ask your buyer to order from a Limited Company. 
+#### **How can I Provide Order History?**
 
-    Order amount exceeds allowed buyer company limit
-Your buyer is making an order from a Limited Company. This company is not able to pay for this order in instalments, because the sum of all the companies orders combined is too high. These orders can also be at another Sellers on Sevi. Ask your buyer to pay instalments of other orders first, to be able to 'Order now, Pay later'. 
+There are two ways to share your order history data with Sevi:
 
-    Seller exceeds more than 25% late installments
-The sum of all instalments that are overdue of all your buyers combined is more than 25% of the sum of all open instalments of all your buyers combined. Please remind your buyer to first pay these overdue instalments, to be able to 'Order now, Pay later'. More information on [how to pay instalments](/docs/buyer/payinstalments). 
+* **Excel Upload:** You can upload your order data using the provided: [Excel template](https://docs.google.com/spreadsheets/d/1BZK89VK8gNXYV0-RtY8sKykLYa8vEHpH/edit?gid=486363753#gid=486363753)
+* **API Integration:** For a more automated solution, consider integrating your system with Sevi's API. Check the[ development documentation ](../../docs/developer/intro).
+* **REST** end-point where you allows Sevi to access customer data for further analysis
+
+#### **What are Seller Limits?**
+
+There are three main types of seller limits that can prevent you from offering credit options:
+
+* **Max Outstanding Installments:** This limit restricts the total amount of outstanding installments owed by all your buyers combined. Once buyers pay their installments, your available credit increases.  Maintaining a positive track record can help raise this limit over time.
+* **Order Amount Exceeds Allowed Limit:** This limit restricts the size of individual orders you can offer on credit.  Your current track record determines the maximum order size you can support. Building a positive seller history on Sevi can help increase this limit.
+* **Buyer's Delinquency:**  If a buyer has past-due installments on your products or from other sellers on Sevi, they won't be able to use the 'Order Now, Pay Later' option until those installments are paid.
+
+**Error Messages and Troubleshooting:**
+
+When you or your buyer reaches a credit limit, you'll see one of the following error messages:
+
+* **Seller reached max of outstanding instalments:**  See above for explanation and solution.
+* **Order amount exceeds allowed seller limit:**  See above for explanation and solution.
+* **Buyer should first pay the open instalments:**  Remind your buyer to pay their outstanding installments (link included): [Link to Buyer Installment Payment Instructions (replace with a non-clickable version)].
+* **Order amount exceeds allowed buyer personal limit** or **Order amount exceeds allowed buyer company limit:**   These messages indicate the buyer has reached their overall credit limit on Sevi, possibly due to unpaid installments from other sellers.  Advise the buyer to settle outstanding installments or consider using a Limited Company account if available.
+
+**Maintaining Good Seller Standing:**
+
+By encouraging your buyers to pay installments on time and maintaining a positive track record on Sevi, you can benefit from increased credit limits, allowing you to offer your products on credit to a wider range of buyers.
