@@ -137,6 +137,7 @@ module.exports = {
     'developer/testing',
     'developer/paymentLink',
     'developer/returnURL',
-    'developer/WooCommerce'
+    'developer/WooCommerce',
+    'developer/mobile'
   ],
 };
