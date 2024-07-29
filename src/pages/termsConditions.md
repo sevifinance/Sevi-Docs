@@ -192,4 +192,4 @@ and/or
 **Sevi**
 Sevi is licensed and regulated by [Central Bank of Kenya](https://www.centralbank.go.ke/wp-content/uploads/2023/01/Directory-of-Digital-Credit-Providers-January-30-2023.pdf). Sevi Innovation Ltd is incorporated under Kenyan law and is registered with the Registrar of Companies under registration number PVT-AJUVZRA. For further information about Sevi, go to: [sevi.io](https://sevi.io).
 
-Edited in Kenya on 25 March 2024.
+Edited in Kenya on 29 July 2024.
