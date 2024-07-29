@@ -28,11 +28,15 @@ Partner APIs provide a seamless way to incorporate payment methods into your bus
 
 By tapping into the flexibility of partner APIs, businesses can create a more intuitive and efficient purchasing process for both their operational needs and their customer's convenience. Whether you are managing an online store or handling complex enterprise-level transactions, there is an integration solution that can meet your specific requirements.
 
-
-
 # API
 
 We currently offers a Graphql API, while the partner API's only expose a portion of the available API's. If your organization requires a different integration, please inform us, as we may have an API suitable for your needs. The Graphql can be queried using your standard REST client query tools.
+
+#### Postman collection
+
+[Visit the postman collection](https://www.postman.com/sevi-api) to view and test the GRAPHQL, REST and webhook details in postman. Both staging and production details are provided.
+
+#### Graphql Playground
 
 The production partner Graphql API playground can be found at [Find here the production partner graphql API playground](https://partner.sevi.io/graphql)
 
