@@ -1,6 +1,6 @@
 # Terms & Conditions (Buyers)
 
-## 1. Order now, Pay later​
+## 1. Order now, Pay later
 
 1.1 These terms constitute a legally binding agreement between Sevi Innovation Limited including its foreign subsidiaries and branches (“Sevi”, “we” or “us”) and the person or legal entity or institution (“you” or “Buyer”) who makes a purchase from our partner sellers (“Sellers”).
 
@@ -70,7 +70,7 @@
 
 ## 5. Consequences of default and missed payments
 
-5.1 If we are not able to debit an instalment amount from your Sevi Account on the due date, we might provide you a courtesy slack period of 24 hours, so that you can top-up your Sevi Account. After 3 days, you will be charged a late fee of 2% per day of the outstanding amount, up to a cumulative 6% by day 6. Paying late might also influence future decisions regarding future payment products that will be made available to you.
+5.1 If we are not able to debit an instalment amount from your Sevi Account on the due date, we might provide you a courtesy slack period of 24 hours, so that you can top-up your Sevi Account. After 1 day late, you will be charged a late fee of 2% per day of the outstanding amount, up to a cumulative 6% by day 6. Paying late might also influence future decisions regarding future payment products that will be made available to you.
 
 5.2 You will be notified in good time via electronic communication to your verified phone number, about the payment failure so you’ll have enough time to make sure that you have sufficient funds in your Sevi Account.
 
@@ -151,7 +151,6 @@ and/or
 (c) the accuracy, reliability, or completeness of any Content.
 
 12.2 The Sevi Platform (including any Content) is provided to you “as is” and on an “as available” basis and on the condition that you undertake all responsibility for assessing the suitability of accessing and using our Sevi Platform and services, and your use and access of our Sevi Platform, or the services is entirely at your own risk.
-
 
 ## 13. Limitation of Liability
 
