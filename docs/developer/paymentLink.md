@@ -10,6 +10,7 @@ The Sevi payment links offers a convenient way for your customers to complete or
 2. **Share the Payment Link:**  Provide the payment link to your customer. This can be done through email, SMS, or by displaying it directly within your website or app.
 3. **Customer Makes Payment:** Clicking the payment link directs the customer to a secure payment page where they can choose their preferred payment method and complete the transaction.
 4. **Payment Confirmation (Optional):**  You can include a custom URL in the payment link that directs the customer back to your website or app after payment. On this page, you can call the payment status API to confirm the payment server-side and update your order status accordingly.
+5. add your shop redirect after succesfull payment in the payment link like example below.
 
 **Benefits:**
 
@@ -20,5 +21,5 @@ The Sevi payment links offers a convenient way for your customers to complete or
 **Example Payment Link:**
 
 ```
-https://p.sevi.io/D223123
+https://p.sevi.io/D223123?redirectURL=https://nu.nl
 ```
