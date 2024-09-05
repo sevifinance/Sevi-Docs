@@ -60,7 +60,7 @@
 
 3.10 You authorize us to store your ID and phone number details on our systems. We will use this information to authorize future payments under these Terms. You may manage your profile and details through the Sevi app. Data that has already been verified cannot be altered unless the new data is verified again by Sevi.
 
-3.11 If you and the Seller cancel your purchase during the Period, we will cancel any remaining payments and pay back to your Sevi Account any amounts we have taken and are refunded to us by the Seller. Any part returns and refunded to us by the Seller will reduce your outstanding balance. Any cancellation or refunds after the Period is the responsibility of the Seller and therefore between you and the Seller. In this case no interest nor fees paid to Sevi are refunded.
+3.11 If you and the Seller cancel your purchase during the Period, we will cancel any remaining payments and pay back to your Sevi Account any amounts we have taken and are refunded to us by the Seller. Any part returns and refunded to us by the Seller will reduce your outstanding balance. Any cancellation or refunds after the Period is the responsibility of the Seller and therefore between you and the Seller. In this case no interest paid to Sevi are refunded.
 
 3.12 You are responsible for being able to receive SMS messages sent by Sevi through our SMS service provider Africa’s Talking or any replacement service provider. Missed messages can never be an excuse for paying late.
 
@@ -70,7 +70,7 @@
 
 ## 5. Consequences of default and missed payments
 
-5.1 If we are not able to debit an instalment amount from your Sevi Account on the due date, we might provide you a courtesy slack period of 24 hours, so that you can top-up your Sevi Account. After 1 day late, you will be charged a late fee of 2% per day of the outstanding amount, up to a cumulative 6% by day 6. Paying late might also influence future decisions regarding future payment products that will be made available to you.
+5.1 If we are not able to debit an instalment amount from your Sevi Account on the due date, we might provide you a courtesy slack period of 24 hours, so that you can top-up your Sevi Account. After 1 day, you will be charged an interest of 1% of the outstanding amount. After 3 days, you will be charged an additional interest of 2% per day of the outstanding amount, up to a cumulative 7% by day 6. Paying late might also influence future decisions regarding future payment products that will be made available to you.
 
 5.2 You will be notified in good time via electronic communication to your verified phone number, about the payment failure so you’ll have enough time to make sure that you have sufficient funds in your Sevi Account.
 
@@ -78,13 +78,13 @@
 
 5.4 If you fail to make a payment on a due date, you acknowledge that Sevi has the right to require you to pay the remaining total amount of all outstanding instalments immediately and exercise any of its rights in accordance with the law without any further reference to you. This may involve Sevi engaging internal debt collector, external debt collection agency, taking possession of and selling the financed goods or instructing auctioneers to collect the outstanding amount. The cost for collection will be charged to you.
 
-5.5 If you fail to pay any or all instalments for over 21 days, a default fee of 10% is added to the total credit amount.
+5.5 If you fail to pay any or all instalments for over 21 days, an additional interest of 10% is added to the total credit amount.
 
-5.6 Title to the goods purchased by you using the Order now, Pay later option shall pass to you only upon payment in full of all instalments, including any additional fees and interest charged by us. You acknowledge that the Seller has assigned to Sevi the entire Seller’s rights in the goods purchased by you by way of the Order now, Pay later payment option and that Sevi has the right to register a security right over such goods at the relevant public registry in Kenya at any given time until payment in full of all instalments, including any additional fees and interest charged by us. We may ask for additional security.
+5.6 Title to the goods purchased by you using the Order now, Pay later option shall pass to you only upon payment in full of all instalments, including any interest charged by us. You acknowledge that the Seller has assigned to Sevi the entire Seller’s rights in the goods purchased by you by way of the Order now, Pay later payment option and that Sevi has the right to register a security right over such goods at the relevant public registry in Kenya at any given time until payment in full of all instalments, including any interest charged by us. We may ask for additional security.
 
 5.7 If you fail to pay, the Seller, Sevi debt collector, debt collection agency and/or our auctioneer may enter your premises during reasonable hours to retrieve the goods purchased using Sevi’s services or any other collateral given by you as security under these Terms. Therefore, use the purchase properly and do not modify or alter them. You shall not remove or alter identification or registration numbers on the purchase. You are responsible for loss of, or damage to the purchase. In such case you need to notify us. You are responsible for insurance of the purchase, insurance is applicable to items purchased above a certain amount and this option will be presented as a checkbox or otherwise prior to agreeing to these Terms.
 
-5.8 You acknowledge that repossession of the financed goods shall not relieve you of your obligation to pay the outstanding amount, including any accrued interest and fees. Sevi may choose to resell the repossessed goods, and any proceeds from such resale will be applied towards the outstanding balance. You shall be liable for any deficiency between the outstanding balance and the proceeds from the resale.
+5.8 You acknowledge that repossession of the financed goods shall not relieve you of your obligation to pay the outstanding amount, including any accrued interest. Sevi may choose to resell the repossessed goods, and any proceeds from such resale will be applied towards the outstanding balance. You shall be liable for any deficiency between the outstanding balance and the proceeds from the resale.
 
 5.9 Missing payments can have serious consequences for you. Your Sevi Credit Limit will be affected which will make it more difficult or more expensive for you to obtain credit in the future. Legal action may be taken against you to recover the debt, an application may be made to have you declared bankrupt, and it is possible that a charging order and order for sale of your property may be obtained as a means of enforcing any judgment.
 
@@ -156,7 +156,7 @@ and/or
 
 13.1 Sevi shall not be held liable for any indirect or consequential loss or damage including, without limitation, any loss of business or profits in each case whether arising from negligence, breach of contract or otherwise.
 
-13.2 Subject to paragraph 13.1 above, you hereby agree that the total liability of Sevi for any breach of these Terms, whether for negligence, misrepresentation, breach of contract or otherwise for any direct loss or damage under or related to our services or these Terms shall be capped for the Period to the applicable interest and/or fees payable by you under the Order now, Pay later service.
+13.2 Subject to paragraph 13.1 above, you hereby agree that the total liability of Sevi for any breach of these Terms, whether for negligence, misrepresentation, breach of contract or otherwise for any direct loss or damage under or related to our services or these Terms shall be capped for the Period to the applicable interest payable by you under the Order now, Pay later service.
 
 13.3 When using Sevi’s Order now, Pay later services (including our Website/App) to purchase goods you hereby acknowledge and agree that:
 
@@ -191,4 +191,4 @@ and/or
 **Sevi**
 Sevi is licensed and regulated by [Central Bank of Kenya](https://www.centralbank.go.ke/wp-content/uploads/2023/01/Directory-of-Digital-Credit-Providers-January-30-2023.pdf). Sevi Innovation Ltd is incorporated under Kenyan law and is registered with the Registrar of Companies under registration number PVT-AJUVZRA. For further information about Sevi, go to: [sevi.io](https://sevi.io).
 
-Edited in Kenya on 29 July 2024.
+Edited in Kenya on 05 September 2024.
