@@ -66,6 +66,7 @@ module.exports = {
           ],
   seller: [
       'seller/start',
+      'seller/paid',
       {
       type: 'category',
       label: 'Step-by-step agent process',
