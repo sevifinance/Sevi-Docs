@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 # Getting paid
 
-In the below explenations we will guide you though the the different payment scenarios as a seller. 
+In the below explenations we will guide you though the the different payment scenarios as a seller.
 
 ### Buyer no limit
 
@@ -11,12 +11,13 @@ When creating an order for a buyer, if the buyer has no available Sevi pay later
 
 ![1726513943631](image/paid/1726513943631.png)
 
-
 ### **Buyer with limit**
 
-However, if the buyer does have an available limit, that amount will be reserved until the order is marked as delivered or moved to the archived status. The order can be archived by the seller, an agent, or the buyer. on the admin portal it will show > 
+However, if the buyer does have an available limit, that amount will be reserved until the order is marked as delivered or moved to the archived status. The order can be archived by the seller, an agent, or the buyer. on the admin portal it will show >
 
-![1726514040575](image/paid/1726514040575.png)
+
+![1726514715600](image/paid/1726514715600.png)
+
 
 ### **Delivery**
 
