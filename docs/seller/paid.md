@@ -1,25 +1,29 @@
 ---
 sidebar_position: 1
 ---
-# Getting paid
+# Secure payment before dispatch
 
-As a seller, you will encounter two payment scenarios: either the buyer can pay when placing the order, or they cannot. Below is a guide to help you navigate both scenarios.
+When uploading orders to Sevi before dispatch you as a seller, can encounter two scenarios: 
+1) the buyer has enough “Sevi Pay Later” limit.
+2) the buyer does not have enough “Sevi Pay Later” limit.
+Below is a guide to help you navigate both scenarios.
 
-### Buyer has no limit
+### **Buyer with “Sevi Pay Later” limit**
 
-When creating an order for a buyer who does not have an available “Sevi Pay Later” limit, the payment amount will not be reserved. In this case, while you can still proceed with the order, we cannot guarantee that the buyer will be able to pay upon delivery. The Admin Portal will notify you of this situation with a message like the one shown below:
-
-![1726513943631](image/paid/1726513943631.png)
-
-### **Buyer with limit**
-
-If the buyer has an available limit, the payment amount will be reserved for you until the order is marked as delivered or moved to the “Archived” status. The order can be archived by the seller, an agent, or the buyer, or it will automatically be archived. In the Admin Portal, buyers with a reserved payment limit will appear like this:
+When creating an order for a buyer who does have an available “Sevi Pay Later” limit, the order amount will be reserved on the account of your buyer for this specific order. Once the buyer has confirmed the order is "Delivered" the reserved balance is send to your seller account. In the case the order is “Archived”, the reserved balance is freed up to the Buyer account. An order can be archived by the seller, an agent, the buyer, or automatically after a set time. In the Admin Portal, buyers with an available “Sevi Pay Later” limit will appear like this:
 
 ![1726514715600](image/paid/1726514715600.png)
 
+### Buyer has no “Sevi Pay Later” limit
+
+When creating an order for a buyer who does not have an available “Sevi Pay Later” limit, the order amount will not be reserved. In this case, while you can still proceed with the order, we cannot guarantee that the buyer will be able to pay upon delivery. Only when the buyer has paid off any open credit to Sevi before delivery, this buyer is able to use the Sevi payment option on delivery. In the Admin Portal, buyers with no available “Sevi Pay Later” limit will appear like this:
+
+![1726513943631](image/paid/1726513943631.png)
+
+
 ### **Delivery**
 
-For a smooth delivery, it is essential that the buyer marks the order as “Delivered” using the USSD menu or the Sevi app. Once the order is confirmed as delivered, you, as the seller, will receive a delivery code. This code acts as proof of payment and can be shared with the delivery driver or agent. Additionally, you can verify that the order has been paid either through the Admin Portal or by consulting the agent.
+For a smooth delivery, it is essential that the buyer confirms the order is “Delivered”. Confirming delivery can be done by using the Sevi USSD menu or the Sevi app. Once the order is confirmed as delivered, the buyer will receive a delivery code. This code acts as proof of payment and can be shared with the delivery driver or agent. The driver can verify this delivery code throuhg the Sevi USSD menu. Additionally, you can verify that the order has been paid by entering the delivery code on the Sevi Admin Portal.
 
 ### **Receiving** payment and Credit start
 
