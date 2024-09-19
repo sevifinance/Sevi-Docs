@@ -15,8 +15,6 @@ When placing an order for a buyer who has an available **GREEN** color “Sevi P
 
 If the order is marked as “Archived,” the reserved balance will be released back to the buyer’s account. An order can be archived by the seller, an agent, the buyer, or automatically after a set period of time.
 
-note, buyers can also confirm the order delivery via the USSD menu.
-
 In the Admin Portal, buyers with an available “Sevi Pay Later” limit will be displayed as follows:
 
 ![1726514715600](image/paid/1726514715600.png)
