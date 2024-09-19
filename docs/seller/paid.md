@@ -3,10 +3,11 @@ sidebar_position: 1
 ---
 # Secure payment before dispatch
 
-When uploading orders to Sevi before dispatch you as a seller, can encounter two scenarios: 
+When uploading orders to Sevi before dispatch you as a seller, can encounter two scenarios:
+
 1) the buyer has available “Sevi Pay Later” limit.
 2) the buyer does not have available “Sevi Pay Later” limit.
-Below is a guide to help you navigate both scenarios.
+   Below is a guide to help you navigate both scenarios.
 
 ### **Buyer with available “Sevi Pay Later” limit**
 
@@ -16,10 +17,9 @@ When creating an order for a buyer who does have an available “Sevi Pay Later�
 
 ### Buyer without available “Sevi Pay Later” limit
 
-When creating an order for a buyer who does not have an available “Sevi Pay Later” limit, the order amount will not be reserved. In this case, while you can still proceed with the order, we cannot guarantee that the buyer will be able to pay upon delivery. Only when the buyer has paid off any open credit to Sevi before delivery, this buyer is able to use the Sevi payment option on delivery. In the Admin Portal, buyers with no available “Sevi Pay Later” limit will appear like this:
+When creating an order for a buyer who does not have an available “Sevi Pay Later” limit, the order amount will not be reserved. In this case, while you can still proceed with the order, we cannot guarantee upfront that the buyer will be able to pay upon delivery. If you create an order with the RED color. Make sure that order creation you wait for the buyer to pay for the remaning amount directly. Only when the buyer has paid off any open credit to Sevi before delivery, this buyer is able to use the Sevi payment option on delivery. In the Admin Portal, buyers with no available “Sevi Pay Later” limit will appear like this:
 
 ![1726513943631](image/paid/1726513943631.png)
-
 
 ### **Delivery**
 
