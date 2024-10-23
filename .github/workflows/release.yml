@@ -17,8 +17,8 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install dependencies
-        run: npm ci
+    #   - name: Install dependencies
+    #     run: npm ci
 
       - name: Clone other repositories
         env:
