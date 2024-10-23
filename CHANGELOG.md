@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/sevifinance/Sevi-Docs/compare/v1.0.0...v1.1.0) (2024-10-23)
+
+
+### Features
+
+* some docs test ([a69f5c4](https://github.com/sevifinance/Sevi-Docs/commit/a69f5c45e826abd3c1d5af103bd88b630b581b78))
+
 # 1.0.0 (2024-10-23)
 
 
