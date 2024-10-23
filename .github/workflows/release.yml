@@ -21,9 +21,11 @@ jobs:
         run: npm ci
 
       - name: Clone other repositories
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
-          git clone https://github.com/sevifinance/Sevi-Admin-g ./other-repo-1
-          git clone https://github.com/sevifinance/Sevi-Mobile ./other-repo-2
+          git clone https://${GH_PAT}@github.com/sevifinance/Sevi-Admin-g.git ./other-repo-1
+          git clone https://${GH_PAT}@github.com/sevifinance/Sevi-Mobile.git ./other-repo-2
 
       - name: Generate changelog for other-repo-1
         run: |
