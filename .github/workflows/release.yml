@@ -57,6 +57,7 @@ jobs:
             echo "No changes detected for other-repo-2" > changelog-repo-2.md
           fi
 
+          
       - name: Commit changelogs
         run: |
           git config --global user.name "github-actions[bot]"
