@@ -1,35 +1,56 @@
-name: Release
+name: Generate Changelogs from Other Repos
+
 on:
   push:
     branches:
-      - main # or main
-
-permissions:
-  contents: read # for checkout
+      - main
 
 jobs:
-  release:
-    name: Release
+  generate_changelog:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write # to be able to publish a GitHub release
-      issues: write # to be able to comment on released issues
-      pull-requests: write # to be able to comment on released pull requests
-      id-token: write # to enable use of OIDC for npm provenance
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          fetch-depth: 0
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: "20"
+          node-version: '16'
+
       - name: Install dependencies
-        run: npm install
-      - name: Verify the integrity of provenance attestations and registry signatures for installed dependencies
-        run: npm audit signatures
-      - name: Release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: npx semantic-release
+        run: npm ci
+
+      - name: Clone other repositories
+        run: |
+          git clone https://github.com/sevifinance/Sevi-Admin-g ./other-repo-1
+          git clone https://github.com/sevifinance/Sevi-Mobile ./other-repo-2
+
+      - name: Generate changelog for other-repo-1
+        run: |
+          cd ./other-repo-1
+          npm install
+          npx semantic-release --dry-run > ../changelog-other-repo-1.md
+          cd ..
+
+      - name: Generate changelog for other-repo-2
+        run: |
+          cd ./other-repo-2
+          npm install
+          npx semantic-release --dry-run > ../changelog-other-repo-2.md
+          cd ..
+
+      - name: Combine changelogs
+        run: |
+          echo "# Combined Changelog" > combined-changelog.md
+          echo "\n## Changelog for other-repo-1" >> combined-changelog.md
+          cat changelog-other-repo-1.md >> combined-changelog.md
+          echo "\n## Changelog for other-repo-2" >> combined-changelog.md
+          cat changelog-other-repo-2.md >> combined-changelog.md
+
+      - name: Commit changelogs
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add combined-changelog.md
+          git commit -m "chore: update combined changelog"
+          git push origin main
