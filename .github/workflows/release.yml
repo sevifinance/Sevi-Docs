@@ -9,8 +9,8 @@ jobs:
   generate_changelog:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+    #   - name: Checkout repository
+    #     uses: actions/checkout@v4
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -57,7 +57,7 @@ jobs:
             echo "No changes detected for other-repo-2" > changelog-repo-2.md
           fi
 
-          
+
       - name: Commit changelogs
         run: |
           git config --global user.name "github-actions[bot]"
