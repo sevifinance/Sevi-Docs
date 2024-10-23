@@ -24,8 +24,8 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
-          git clone https://${GH_PAT}@github.com/sevifinance/Sevi-Admin-g.git ./other-repo-1
-          git clone https://${GH_PAT}@github.com/sevifinance/Sevi-Mobile.git ./other-repo-2
+          git clone -b shadcn https://${GH_PAT}@github.com/sevifinance/Sevi-Admin-g.git ./other-repo-1
+          git clone -b staging https://${GH_PAT}@github.com/sevifinance/Sevi-Mobile.git ./other-repo-2
 
       - name: Generate changelog for other-repo-1
         run: |
