@@ -44,17 +44,15 @@
         "commitUrlFormat": "https://github.com/{{owner}}/{{repository}}/commit/{{hash}}",
         "compareUrlFormat": "https://github.com/{{owner}}/{{repository}}/compare/{{previousTag}}...{{currentTag}}",
         "issueUrlFormat": "https://github.com/{{owner}}/{{repository}}/issues/{{id}}",
-        "repositories": [
-            {
-                "owner": "grinono",
-                "repository": "https://github.com/sevifinance/Sevi-Admin-g",
-                "branch": "shadcn"
-            },
-            {
-                "owner": "grinono",
-                "repository": "https://github.com/sevifinance/Sevi-Mobile",
-                "branch": "staging"
-            }
-        ]
-    }
+    },
+    "repositories": [
+        {
+            "repository": "https://github.com/sevifinance/Sevi-Admin-g",
+            "branch": "shadcn"
+        },
+        {
+            "repository": "https://github.com/sevifinance/Sevi-Mobile",
+            "branch": "staging"
+        }
+    ]
 }
