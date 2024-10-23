@@ -3,7 +3,7 @@ name: documentation pages changelog
 on:
   push:
     branches:
-      - main
+      - dev
 
 permissions:
   contents: write

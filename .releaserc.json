@@ -1,0 +1,60 @@
+{
+    "branches": [
+        "main"
+    ],
+    "plugins": [
+        "@semantic-release/commit-analyzer",
+        "@semantic-release/release-notes-generator",
+        [
+            "@semantic-release/changelog",
+            {
+                "changelogFile": "CHANGELOG.md"
+            }
+        ],
+        [
+            "@semantic-release/github",
+            {
+                "assets": [
+                    "CHANGELOG.md"
+                ]
+            }
+        ],
+        "@semantic-release/npm",
+        "@semantic-release/git"
+    ],
+    "preset": "angular",
+    "releaseNotes": {
+        "preset": "angular",
+        "parserOpts": {
+            "noteKeywords": [
+                "BREAKING CHANGE",
+                "BREAKING CHANGES",
+                "BREAKING"
+            ]
+        },
+        "writerOpts": {
+            "commitsSort": [
+                "subject",
+                "scope"
+            ]
+        },
+        "linkReferences": true,
+        "linkCompare": true,
+        "includeDetails": true,
+        "commitUrlFormat": "https://github.com/{{owner}}/{{repository}}/commit/{{hash}}",
+        "compareUrlFormat": "https://github.com/{{owner}}/{{repository}}/compare/{{previousTag}}...{{currentTag}}",
+        "issueUrlFormat": "https://github.com/{{owner}}/{{repository}}/issues/{{id}}",
+        "repositories": [
+            {
+                "owner": "grinono",
+                "repository": "https://github.com/sevifinance/Sevi-Admin-g",
+                "branch": "shadcn"
+            },
+            {
+                "owner": "grinono",
+                "repository": "https://github.com/sevifinance/Sevi-Mobile",
+                "branch": "staging"
+            }
+        ]
+    }
+}
