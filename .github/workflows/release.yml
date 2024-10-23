@@ -24,15 +24,15 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
-          git clone -b shadcn https://${GH_PAT}@github.com/sevifinance/Sevi-Admin-g.git ./other-repo-1
-          git clone -b staging https://${GH_PAT}@github.com/sevifinance/Sevi-Mobile.git ./other-repo-2
+          git clone https://${GH_PAT}@github.com/sevifinance/Sevi-Admin-g.git ./other-repo-1
+          git clone https://${GH_PAT}@github.com/sevifinance/Sevi-Mobile.git ./other-repo-2
 
       - name: Generate changelog for other-repo-1
         run: |
           cd ./other-repo-1
           git fetch --all
           git checkout shadcn
-          npx semantic-release --dry-run --branches shadcn > ../changelog-other-repo-1.md || true
+          npm run semantic-release --dry-run --branches shadcn > ../changelog-other-repo-1.md || true
           cd ..
 
       - name: Generate changelog for other-repo-2
@@ -40,7 +40,7 @@ jobs:
           cd ./other-repo-2
           git fetch --all
           git checkout staging
-          npx semantic-release --dry-run --branches staging > ../changelog-other-repo-2.md || true
+          npm run semantic-release --dry-run --branches staging > ../changelog-other-repo-2.md || true
           cd ..
 
       - name: Save changelogs
