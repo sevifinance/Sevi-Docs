@@ -32,6 +32,7 @@ jobs:
           cd ./other-repo-1
           git fetch --all
           git checkout shadcn
+          npm install --legacy-peer-deps
           npm run semantic-release --dry-run --branches shadcn > ../changelog-other-repo-1.md || true
           cd ..
 
@@ -40,6 +41,7 @@ jobs:
           cd ./other-repo-2
           git fetch --all
           git checkout staging
+          npm install --legacy-peer-deps
           npm run semantic-release --dry-run --branches staging > ../changelog-other-repo-2.md || true
           cd ..
 
