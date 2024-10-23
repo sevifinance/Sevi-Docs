@@ -32,7 +32,7 @@ jobs:
           cd ./other-repo-1
           git fetch --all
           git checkout shadcn
-          npx semantic-release --dry-run --branches shadcn > ../changelog-other-repo-1.md
+          npx semantic-release --dry-run --branches shadcn > ../changelog-other-repo-1.md || true
           cd ..
 
       - name: Generate changelog for other-repo-2
@@ -40,16 +40,24 @@ jobs:
           cd ./other-repo-2
           git fetch --all
           git checkout staging
-          npx semantic-release --dry-run --branches staging > ../changelog-other-repo-2.md
+          npx semantic-release --dry-run --branches staging > ../changelog-other-repo-2.md || true
           cd ..
 
       - name: Combine changelogs
         run: |
           echo "# Combined Changelog" > combined-changelog.md
-          echo "\n## Changelog for other-repo-1" >> combined-changelog.md
-          cat changelog-other-repo-1.md >> combined-changelog.md
-          echo "\n## Changelog for other-repo-2" >> combined-changelog.md
-          cat changelog-other-repo-2.md >> combined-changelog.md
+          echo -e "\n## Changelog for other-repo-1" >> combined-changelog.md
+          if [ -s changelog-other-repo-1.md ]; then
+            cat changelog-other-repo-1.md >> combined-changelog.md
+          else
+            echo "No changes detected for other-repo-1" >> combined-changelog.md
+          fi
+          echo -e "\n## Changelog for other-repo-2" >> combined-changelog.md
+          if [ -s changelog-other-repo-2.md ]; then
+            cat changelog-other-repo-2.md >> combined-changelog.md
+          else
+            echo "No changes detected for other-repo-2" >> combined-changelog.md
+          fi
 
       - name: Commit changelogs
         run: |
