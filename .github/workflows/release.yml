@@ -43,26 +43,24 @@ jobs:
           npx semantic-release --dry-run --branches staging > ../changelog-other-repo-2.md || true
           cd ..
 
-      - name: Combine changelogs
+      - name: Save changelogs
         run: |
-          echo "# Combined Changelog" > combined-changelog.md
-          echo -e "\n## Changelog for other-repo-1" >> combined-changelog.md
           if [ -s changelog-other-repo-1.md ]; then
-            cat changelog-other-repo-1.md >> combined-changelog.md
+            mv changelog-other-repo-1.md changelog-repo-1.md
           else
-            echo "No changes detected for other-repo-1" >> combined-changelog.md
+            echo "No changes detected for other-repo-1" > changelog-repo-1.md
           fi
-          echo -e "\n## Changelog for other-repo-2" >> combined-changelog.md
+          
           if [ -s changelog-other-repo-2.md ]; then
-            cat changelog-other-repo-2.md >> combined-changelog.md
+            mv changelog-other-repo-2.md changelog-repo-2.md
           else
-            echo "No changes detected for other-repo-2" >> combined-changelog.md
+            echo "No changes detected for other-repo-2" > changelog-repo-2.md
           fi
 
       - name: Commit changelogs
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add combined-changelog.md
+          git add changelog-repo-1.md changelog-repo-2.md
           git commit -m "chore: update combined changelog"
           git push origin main
