@@ -32,8 +32,9 @@ jobs:
           cd ./other-repo-1
           git fetch --all
           git checkout shadcn
-          npm install --legacy-peer-deps
-          npm run semantic-release --dry-run --branches shadcn > ../changelog-other-repo-1.md || true
+          npx semantic-release --branches shadcn
+          npx conventional-changelog -p angular -i CHANGELOG.md -s
+          mv CHANGELOG.md ../changelog-other-repo-1.md
           cd ..
 
       - name: Generate changelog for other-repo-2
@@ -41,8 +42,9 @@ jobs:
           cd ./other-repo-2
           git fetch --all
           git checkout staging
-          npm install --legacy-peer-deps
-          npm run semantic-release --dry-run --branches staging > ../changelog-other-repo-2.md || true
+          npx semantic-release --branches staging
+          npx conventional-changelog -p angular -i CHANGELOG.md -s
+          mv CHANGELOG.md ../changelog-other-repo-2.md
           cd ..
 
       - name: Save changelogs
