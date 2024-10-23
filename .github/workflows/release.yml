@@ -30,14 +30,14 @@ jobs:
       - name: Generate changelog for other-repo-1
         run: |
           cd ./other-repo-1
-          npm install
+          npm install --legacy-peer-deps
           npx semantic-release --dry-run > ../changelog-other-repo-1.md
           cd ..
 
       - name: Generate changelog for other-repo-2
         run: |
           cd ./other-repo-2
-          npm install
+          npm install --legacy-peer-deps
           npx semantic-release --dry-run > ../changelog-other-repo-2.md
           cd ..
 
