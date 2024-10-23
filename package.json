@@ -32,6 +32,12 @@
     "styletron-react": "^6.1.0",
     "url-loader": "^4.1.1"
   },
+  "devDependencies": {
+    "@docusaurus/module-type-aliases": "3.5.2",
+    "@docusaurus/tsconfig": "3.5.2",
+    "@docusaurus/types": "3.5.2",
+    "typescript": "~5.5.2"
+  },
   "browserslist": {
     "production": [
       ">0.5%",

@@ -1,5 +1,9 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
-module.exports = {
+import { themes as prismThemes } from 'prism-react-renderer';
+import type { Config } from '@docusaurus/types';
+import type * as Preset from '@docusaurus/preset-classic';
+
+const config: Config = {
   title: 'User Guides',
   tagline: 'All you need to know about how to use Sevi',
   url: 'https://sevi.io',
@@ -30,10 +34,10 @@ module.exports = {
     },
     algolia: {
       // The application ID provided by Algolia
-      appId: 'RF4RB6DWFR',
+      appId: 'P9NV8WT9M6',
 
       // Public API key: it is safe to commit it
-      apiKey: '0fc78e089071ee0a340ca971163db62e',
+      apiKey: 'ffe7c9b48a49f91d7384987ae404d829',
 
       indexName: 'sevi',
 
@@ -77,7 +81,7 @@ module.exports = {
         src: 'img/seviS.svg',
         href: '/docs/intro',
 
-        
+
       },
       items: [
         {
@@ -115,7 +119,7 @@ module.exports = {
           to: "/termsConditionsSellers",
           label: 'Terms of Service (Sellers)',
           position: 'right',
-        },        
+        },
       ],
     },
     // footer: {
@@ -163,16 +167,16 @@ module.exports = {
     //   ],
     //   copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
     // },
-  },
+  } satisfies Preset.ThemeConfig,
+
   presets: [
     [
       'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
       {
-            googleAnalytics: {
-            trackingID: 'G-ZM57SQP4ZY',
-            anonymizeIP: false,
-    },
+        googleAnalytics: {
+          trackingID: 'G-ZM57SQP4ZY',
+          anonymizeIP: false,
+        },
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
@@ -188,7 +192,9 @@ module.exports = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-      },
+      } satisfies Preset.Options,
     ],
   ]
 };
+
+export default config;
