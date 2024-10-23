@@ -18,7 +18,7 @@ jobs:
           node-version: '20'
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
       - name: Clone other repositories
         env:
@@ -32,7 +32,7 @@ jobs:
           cd ./other-repo-1
           git fetch --all
           git checkout shadcn
-          npx conventional-changelog -i CHANGELOG.md -s
+       npx standard-changelog -i CHANGELOG.md -s
           mv CHANGELOG.md ../changelog-other-repo-1.md
           cd ..
 
