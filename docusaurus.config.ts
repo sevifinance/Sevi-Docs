@@ -80,7 +80,7 @@ const config: Config = {
         {
           to: "docs/CHANGELOG",
           position: 'right',
-          label: 'Changelog',
+          label: 'CHANGELOG',
         },
         {
           type: 'dropdown',

@@ -1,0 +1,12 @@
+{
+    "packages": {
+        "Sevi-Mobile": {
+            "release-type": "node",
+            "package-name": "Sevi-Mobile"
+        },
+        "Sevi-Admin-g": {
+            "release-type": "node",
+            "package-name": "Sevi-Admin-g"
+        }
+    }
+}
