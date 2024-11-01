@@ -70,13 +70,37 @@ module.exports = {
       {
       type: 'category',
       label: 'Step-by-step agent process',
-      collapsed: false,
+      collapsed: true,
       items: [
           'seller/register',
           'seller/orderproducts',
           'seller/paymentplan',
           'seller/delivery',
           'seller/payinstalments',
+          ],
+      },
+      {
+        type: 'category',
+        label: 'Admin portal',
+        collapsed: true,
+        items: [
+            'seller/admin/intro',
+            'seller/admin/login',
+            'seller/admin/agent',
+            'seller/admin/transaction',
+            'seller/admin/payment-request',
+            'seller/admin/order',
+            'seller/admin/customer',
+            {
+              type: 'category',
+              label: 'Settings',
+              collapsed: true,
+              items: [
+                  'seller/admin/setting/integration',
+                  'seller/admin/setting/sales',
+                  'seller/admin/setting/wallet',
+                ],
+            },
           ],
       },
       'seller/apply',
