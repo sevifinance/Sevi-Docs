@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Apply Now
+# Apply
 
 # Step 1: Register Sevi account
 
@@ -61,22 +61,21 @@ Never share your PIN with others, this will give them access to your Sevi accoun
 ## Create company account
 To register your company, you first need to create a company account.
 
-Tap on the 3 dots highlighted below, you will now see the button `Add wallet`. Press `Add new wallet` and then press `Start` on the `Company account` option. Follow the three-step process: 
+Swipe to the right from your personal acccount in the Sevi app. You will now see the button `Add new wallet`. 
+
+ <img src="/register/addwallet3.png" alt="account" width="450"/>
+
+Click `Add new wallet` and then click `Company account`. Follow the three-step process: 
 - Select currency
 - Select `Yes` if you want to become a verified Sevi Seller
 - Add your KRA pin. NB: this should be the KRA pin of your company.
 
- <img src="/seller/add-wallet.png" alt="account" width="450"/>
- <img src="/seller/add-company.png" alt="account" width="450"/>
-
-
-
 You have now created a company account. 
 
-## Get Verified
-To become a verified Sevi Seller, tap on `Verify`.
+## Get badges
+To become a verified Sevi Seller, click on `Verify company`. 
 
- <img src="/seller/verify.png" alt="account" width="200"/>
+ <img src="/register/verifycompany.png" alt="account" width="200"/>
 
 Follow the stepper to set:
 - Your location, this is the location of your company.
@@ -92,4 +91,8 @@ Follow the stepper to set:
 You have now applied to become a verified Sevi Seller. Our due diligence team will review your application and schedule a company visit to verify your information. 
 
 Once the due diligence process is successfully done, we will inform you, so you can start using the Order now, Pay later service for your customers.
+
+
+
+
 
