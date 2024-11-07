@@ -124,12 +124,14 @@ module.exports = {
     "seller/faq",
   ],
   agent: [
-    {
-      type: "category",
-      label: "Agent intro",
-      collapsed: true,
-      items: ["agent/intro"],
-    },
+    "agent/intro",
+    "agent/get-verified",
+    "agent/create-payment",
+    "agent/payments-overview",
+    "agent/manage-buyers",
+    "agent/activity",
+    "agent/refresh",
+    "agent/version",
   ],
   developer: [
     "developer/intro",

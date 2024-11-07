@@ -71,11 +71,11 @@ const config: Config = {
           position: "left",
           label: "Seller",
         },
-        // {
-        //   to: "docs/agent/intro",
-        //   position: "left",
-        //   label: "Agent",
-        // },
+        {
+          to: "docs/agent/intro",
+          position: "left",
+          label: "Agent",
+        },
         {
           to: "docs/developer/intro",
           position: "left",
