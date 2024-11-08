@@ -91,6 +91,7 @@ module.exports = {
     "seller/training",
     "seller/refresh",
     "seller/version",
+    "seller/admin-portal",
     "seller/faq",
   ],
   agent: [
