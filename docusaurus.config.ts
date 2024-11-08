@@ -1,27 +1,26 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
-import { themes as prismThemes } from 'prism-react-renderer';
-import type { Config } from '@docusaurus/types';
-import type * as Preset from '@docusaurus/preset-classic';
+import type * as Preset from "@docusaurus/preset-classic";
+import type { Config } from "@docusaurus/types";
 
 const config: Config = {
-  title: 'User Guides',
-  tagline: 'All you need to know about how to use Sevi',
-  url: 'https://sevi.io',
-  baseUrl: '/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/seviS.svg',
-  organizationName: 'Sevi', // Usually your GitHub org/user name.
-  projectName: 'Sevi', // Usually your repo name.
+  title: "User Guides",
+  tagline: "All you need to know about how to use Sevi",
+  url: "https://sevi.io",
+  baseUrl: "/",
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
+  favicon: "img/seviS.svg",
+  organizationName: "Sevi", // Usually your GitHub org/user name.
+  projectName: "Sevi", // Usually your repo name.
   plugins: [
-    require.resolve('docusaurus-plugin-image-zoom'),
-    "@chatwoot/docusaurus-plugin"
+    require.resolve("docusaurus-plugin-image-zoom"),
+    "@chatwoot/docusaurus-plugin",
   ],
   themeConfig: {
     chatwoot: {
       websiteToken: "Y9FefHJwed7PcDVbzZDzy1nD",
-      baseURL: "https://chat.sevi.io",  // optional
-      enableInDevelopment: true,  // optional
+      baseURL: "https://chat.sevi.io", // optional
+      enableInDevelopment: true, // optional
       chatwootSettings: {
         hideMessageBubble: false,
         position: "right", // This can be left or right
@@ -30,102 +29,111 @@ const config: Config = {
         darkMode: "auto", // [light, auto]
         type: "expanded_bubble",
         launcherTitle: "Chat with us",
-      }
+      },
     },
     algolia: {
-      appId: 'P9NV8WT9M6',
-      apiKey: 'ffe7c9b48a49f91d7384987ae404d829',
-      indexName: 'sevi',
+      appId: "P9NV8WT9M6",
+      apiKey: "ffe7c9b48a49f91d7384987ae404d829",
+      indexName: "sevi",
       contextualSearch: true,
     },
     zoom: {
-      selector: '.markdown :not(em) > img',
+      selector: ".markdown :not(em) > img",
       background: {
-        light: 'rgb(255, 255, 255)',
-        dark: 'rgb(50, 50, 50)'
+        light: "rgb(255, 255, 255)",
+        dark: "rgb(50, 50, 50)",
       },
       config: {
         // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
-      }
+      },
     },
     navbar: {
-      title: 'Sevi',
+      title: "Sevi",
       logo: {
-        alt: 'Sevi Logo',
-        src: 'img/seviS.svg',
-        href: '/docs/intro',
+        alt: "Sevi Logo",
+        src: "img/seviS.svg",
+        href: "/docs/intro",
       },
       items: [
         {
-          type: 'doc',
-          docId: 'intro',
-          position: 'left',
-          label: 'About',
+          type: "doc",
+          docId: "intro",
+          position: "left",
+          label: "About",
         },
         {
           to: "docs/buyer/introbuyer",
-          position: 'left',
-          label: 'Buyer',
+          position: "left",
+          label: "Buyer",
         },
         {
           to: "docs/seller/start",
-          position: 'left',
-          label: 'Seller',
+          position: "left",
+          label: "Seller",
+        },
+        {
+          to: "docs/agent/intro",
+          position: "left",
+          label: "Agent",
         },
         {
           to: "docs/developer/intro",
-          position: 'left',
-          label: 'Developer',
+          position: "left",
+          label: "Developer",
         },
         {
-          type: 'dropdown',
-          label: 'Legal',
-          position: 'right',
+          to: "docs/CHANGELOG",
+          position: "right",
+          label: "CHANGELOG",
+        },
+        {
+          type: "dropdown",
+          label: "Legal",
+          position: "right",
           items: [
             {
               to: "/privacy",
-              label: 'Privacy',
+              label: "Privacy",
             },
             {
               to: "/termsConditions",
-              label: 'Terms & Conditions (Buyers)',
+              label: "Terms & Conditions (Buyers)",
             },
             {
               to: "/termsConditionsSellers",
-              label: 'Terms of Service (Sellers)',
+              label: "Terms of Service (Sellers)",
             },
           ],
         },
       ],
-    }
+    },
   } satisfies Preset.ThemeConfig,
 
   presets: [
     [
-      'classic',
+      "classic",
       {
         googleAnalytics: {
-          trackingID: 'G-ZM57SQP4ZY',
+          trackingID: "G-ZM57SQP4ZY",
           anonymizeIP: false,
         },
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/sevifinance/Sevi-Docs/blob/main',
+          editUrl: "https://github.com/sevifinance/Sevi-Docs/blob/main",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            "https://github.com/facebook/docusaurus/edit/master/website/blog/",
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve("./src/css/custom.css"),
         },
       } satisfies Preset.Options,
     ],
-  ]
+  ],
 };
 
 export default config;

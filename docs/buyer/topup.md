@@ -9,13 +9,16 @@ Before you make any purchases or order products using Sevi, you first need to To
 
 ## Step 1: Tap on the Top-up icon 
 
-<img src="/img/taptotopup.png" alt="topup" width="200"/>
+<img src="/img/topup-btn.png" alt="topup" width="200"/>
 
 ## Step 2: Enter the amount you wish to deposit into your Sevi account
+After selecting the preferred phone number you would like to use, enter amount you would like to topup.
 
-<img src="/img/despositamount.png" alt="topup" width="200"/>
+<img src="/img/topup-screen.png" alt="topup" width="200"/>
 
-## Step 3:	Select the Top-up method you wish to use
+From the number provided, you will be prompted to enter  your PIN, so you don't have to fill out the details manually. This is the preferred option as it eliminates typo mistakes. After entering the correct PIN the funds will be deposited into your Sevi Wallet.
+
+<!-- ## Step 3:	Select the Top-up method you wish to use
 
 <img src="/topup/topupoptions.png" alt="topup" width="200"/>
 
@@ -29,11 +32,11 @@ Before you make any purchases or order products using Sevi, you first need to To
 
 <img src="/topup/topupnumber.png" alt="topup" width="200"/>
 
-When you chose manual payment, you need to follow the steps provided to manually Top-up your Sevi wallet. Go to your mobile money provider or bank and enter the payment details as provided by Sevi. 
+When you chose manual payment, you need to follow the steps provided to manually Top-up your Sevi wallet. Go to your mobile money provider or bank and enter the payment details as provided by Sevi.  -->
 
-## Step 5: Check balance
+## Step 3: Check balance
 After making payments from your mobile money or bank, your funds will reflect on your Sevi account. Depending on the payment method you used this balance is up date near instant. You can refresh the data by pulling down your screen.
 
 Congratulations! With your funds deposited in your wallet, you can proceed to order products, or make (early) instalment payments.
 
-<img src="/img/balanceamount.png" alt="topup" width="200"/>
+<img src="/img/balance.png" alt="topup" width="200"/>

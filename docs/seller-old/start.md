@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Become A Partner
+# Become a partner
 
 Sell more products by providing an ‘Order now, Pay later’ option to your customers. Let your customers order the products they want now, but pay later. It is hassle free as Sevi provides the credit line, does the KYC and follows up on payments. [Apply now!](/docs/seller/apply/)
 

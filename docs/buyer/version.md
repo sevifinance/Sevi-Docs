@@ -8,5 +8,5 @@ Always make sure you run the latest version of the app. You find your app versio
 
 
 
-<img src="/register/version.png" alt="version" width="420"/>
+<img src="/img/app-version.png" alt="version" width="420"/>
 
