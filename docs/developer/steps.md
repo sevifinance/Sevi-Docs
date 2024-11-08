@@ -8,7 +8,7 @@ This document outlines the general steps for API integration. The process is des
 
 First, you need to register as a Sevi Seller. This is an essential step to get started with the integration process.
 
-- **Action**: [Register seller account](/docs/seller/start)
+<!-- - **Action**: [Register seller account](/docs/seller/start) -->
 
 ## Step 2: Invoice Submission
 
@@ -37,7 +37,7 @@ Inform Sevi when the products are shipped and delivered to the buyer. This actio
 
 The seller will receive the order amount in their Sevi wallet.
 
-- **Action**: [Withdraw funds](/docs/seller/withdraw)
+<!-- - **Action**: [Withdraw funds](/docs/seller/withdraw) -->
   - Note: Sevi optionally settles the balance to a bank account every 24 hours.
 
 ## Overview

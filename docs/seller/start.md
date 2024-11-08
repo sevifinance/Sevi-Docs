@@ -33,12 +33,10 @@ Sevi facilitates the payment option of Order now, Pay later. You remain in contr
 ### Agent feature
 When your customer does not have a Smartphone, your sales agents are able to perform all steps on behalf of your customer. We have created a step-by-step guide for: 
 - [Customers with a Smartphone](/docs/buyer/register/)
-- [Agents](/docs/seller/register/) (when the customer does not have a Smartphone)
+- Agents (when the customer does not have a Smartphone)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/phyvPw_jyIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
 
 ## Apply
 If you want to start offering the 'Order now, Pay later' option to your customers, please download the Sevi app and apply to become a verified Sevi Seller.
 [Check out how to apply.](/docs/seller/apply/)
-
-
