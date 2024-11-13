@@ -14,7 +14,7 @@ The Customer section allows you to:
 - Set status to *'Delivered'* for a customers order
 - See history of orders per customer
 
-This [step-by-step process](/docs/seller/register/) will guide you through the process of inviting customers till delivering a product.
+This step-by-step process will guide you through the process of inviting customers till delivering a product.
 
 ## Dashboard
 
@@ -30,4 +30,3 @@ Through this dashboard you can search on individual records and see:
 - Credit statusses
 - Transactions
 - Account balance
-

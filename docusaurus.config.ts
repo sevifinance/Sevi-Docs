@@ -82,11 +82,6 @@ const config: Config = {
           label: "Developer",
         },
         {
-          to: "docs/CHANGELOG",
-          position: "right",
-          label: "CHANGELOG",
-        },
-        {
           type: "dropdown",
           label: "Legal",
           position: "right",
