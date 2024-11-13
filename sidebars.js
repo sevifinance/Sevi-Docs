@@ -67,7 +67,7 @@ module.exports = {
     {
       type: "category",
       label: "Payments",
-      collapsed: false,
+      collapsed: true,
       items: [
         "seller/payments/create-payment-request",
         "seller/payments/payments-overview",
@@ -78,10 +78,35 @@ module.exports = {
     {
       type: "category",
       label: "Account Relations",
-      collapsed: false,
+      collapsed: true,
       items: [
         "seller/account-relations/customers",
         "seller/account-relations/members",
+      ],
+    },
+    {
+      type: "category",
+      label: "Admin Dashboard",
+      collapsed: true,
+      items: [
+        "seller/admin/intro",
+        "seller/admin/login",
+        "seller/admin/agent",
+        "seller/admin/customer",
+        "seller/admin/order",
+        "seller/admin/payment-request",
+        "seller/admin/transaction",
+        {
+          type: "category",
+          label: "Settings",
+          collapsed: true,
+          items: [
+            "seller/admin/setting/integration",
+            "seller/admin/setting/sales",
+            "seller/admin/setting/wallet",
+            "seller/admin/setting/sevi-team",
+          ],
+        },
       ],
     },
     "seller/transactions-withdrawals",
