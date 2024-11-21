@@ -42,14 +42,82 @@ function HomepageHeader() {
 function SeviIntegrationSection() {
   return (
     <section className={styles.seviIntegration}>
-      <div className="container">
-        <h2>Sevi Integration</h2>
+      <div className="container text-center">
+        <h2 style={{ textAlign: 'center', marginTop: 30 }}>Sevi Integration</h2>
         <p>
           Sevi offers a user-friendly app for sales agents and customers,
           simplifying credit-based sales. Our open API seamlessly integrates
           into your ERP system or eCommerce website, complemented by a
           comprehensive dashboard for order and credit management.
         </p>
+      </div>
+    </section>
+  );
+}
+
+function DocsTypeSection() {
+  const docTypes = [
+    {
+      title: "Buyers",
+      icon: "🛍️",
+      description: "Get flexible payment terms and manage your purchases",
+      link: "/docs/buyer/introbuyer"
+    },
+    {
+      title: "Sellers",
+      icon: "🏪",
+      description: "Boost your sales with credit offerings",
+      link: "/docs/seller/start"
+    },
+    {
+      title: "Agents",
+      icon: "👥",
+      description: "Manage your sales and customer relationships",
+      link: "/docs/agent/intro"
+    },
+    {
+      title: "Developers",
+      icon: "💻",
+      description: "Integrate Sevi into your applications",
+      link: "/docs/developer/intro"
+    }
+  ];
+
+  return (
+    <section style={{ padding: '2rem 0' }}>
+      <div className="container">
+        <div style={{
+          display: 'grid',
+          gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))',
+          gap: '2rem',
+          padding: '1rem'
+        }}>
+          {docTypes.map((type, index) => (
+            <div 
+              key={index} 
+              style={{
+                padding: '2rem',
+                borderRadius: '8px',
+                boxShadow: '0 2px 8px rgba(0, 0, 0, 0.1)',
+                display: 'flex',
+                flexDirection: 'column',
+                alignItems: 'center',
+                textAlign: 'center',
+                backgroundColor: 'white'
+              }}
+            >
+              <span style={{ fontSize: '2rem', marginBottom: '1rem' }}>{type.icon}</span>
+              <h3 style={{ marginBottom: '1rem' }}>{type.title}</h3>
+              <p style={{ marginBottom: '1.5rem', flex: 1 }}>{type.description}</p>
+              <Link
+                className="button button--secondary button--md"
+                to={type.link}
+              >
+                Learn More
+              </Link>
+            </div>
+          ))}
+        </div>
       </div>
     </section>
   );
@@ -66,8 +134,8 @@ export default function Home() {
       <Head>{/* Additional Head elements can be added here */}</Head>
       <HomepageHeader />
       <main>
-        <SeviIntegrationSection />
-        {/* Additional sections can be added here */}
+        {/* <SeviIntegrationSection /> */}
+        <DocsTypeSection />
       </main>
     </Layout>
   );
