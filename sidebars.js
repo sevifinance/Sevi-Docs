@@ -105,6 +105,7 @@ module.exports = {
             "seller/admin/setting/sales",
             "seller/admin/setting/wallet",
             "seller/admin/setting/sevi-team",
+            "seller/admin/setting/reward",
           ],
         },
       ],
