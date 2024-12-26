@@ -1,68 +1,76 @@
-# Customer Retention program
+# Customer Loyalty Rewards Program
 
 ![reward](image/agent/reward.png)
 
-This configuration enables a cashback program designed to engate customers such that they are insentived to reorder. The encouraging of repeated purchases at the seller happens via a point reward system. The program can be configured and promoted in multiple ways.
+The Customer Loyalty Rewards Program is designed to increase customer retention by converting transaction fees into redeemable points. This incentivizes repeat purchases through a straightforward cashback system that benefits both buyers and sellers.
 
-- Converts credit transaction fees into reward points that can be redeemed on subsequent orders only with you as a seller.
-- Earn points on direct payments so that stimulates buyers to order again in the future.
+## Key Benefits
+
+- **For Buyers**: Transaction fees are converted into reward points for future purchases
+- **For Sellers**: Increased customer loyalty with zero additional cost
 
 ## How It Works
 
-### Fee Conversion to Rewards
+### Earning Rewards
+1. When a customer makes a purchase, the transaction fee is automatically converted into reward points
+2. Points are credited to the customer's account immediately after order completion
+3. Points are seller-specific and can only be redeemed with the original seller
 
-- When a buyer places an order, a percentage of that order amount is allocated to be used on future orders.
-- Example: On a ₱10,000 order with ₱220 in fees, the buyer receives ₱220 in reward points
-- Reward points are seller-specific and can only be used with the original seller
+### Redeeming Rewards
+- Points can be applied to any future eligible purchase
+- Customers can choose to accumulate points across multiple orders
+- Redemption is automatic through the credit configuration system
 
-### Reward Point Usage
+## Example Transaction
 
-- Reward points can be applied to the next eligible order or can be accumulated over multiple orders.
-- Rewards are deducted from the final payment amount through the credit configuration system.
+### Initial Purchase
+- Order Amount: ₱10,000
+- Transaction Fee: ₱220
+- Total Paid: ₱10,220
+- Rewards Earned: ₱220
 
-## Features
+### Subsequent Purchase Using Rewards
+- Order Amount: ₱10,000
+- Transaction Fee: ₱220
+- Rewards Applied: -₱220
+- Total Paid: ₱10,000
 
-### For Sellers
+## Program Features
 
-- Customizable reward settings through the admin panel
-- Tracking of accumulated reward points per customer
-- Detailed reporting of reward point distribution and usage
-- Integration with existing credit configuration system
+### Seller Dashboard
+- Customize reward settings
+- Track customer reward balances
+- Access detailed analytics
+- Monitor redemption patterns
 
-### For Buyers
+### Customer Experience
+- View real-time reward balance
+- See available rewards per seller
+- Automatic reward application
+- Track total earnings
 
-- Visible reward point balance in the mobile app
-- Seller-specific reward points displayed in seller search
-- Automatic application of rewards on eligible orders
-- Total earned cashpoints tracking
+## Technical Details
 
-## Implementation Details
+### Important Considerations
+- Rewards are tied to specific sellers
+- Transaction fees apply to the full order amount
+- Points are redeemed in order of acquisition
+- Sellers receive full payment minus original fees
 
-### Order Processing
+### System Integration
+- Seamless integration with existing credit system
+- Automated point calculation and tracking
+- Real-time balance updates
+- Secure reward processing
 
-1. Original Order:
+## Program Impact
 
-   - Order Value: ₱10,000
-   - Transaction Fee: ₱220
-   - Total Payment: ₱10,220
-   - Reward Points Earned: ₱220
-2. Subsequent Order with Rewards:
+1. **Customer Retention**
+   - Encourages repeat purchases
+   - Builds seller loyalty
+   - Reduces effective transaction costs
 
-   - Order Value: ₱10,000
-   - Transaction Fee: ₱220
-   - Reward Points Applied: -₱220
-   - Final Payment: ₱10,000
-
-### Important Notes
-
-- Reward points are seller-specific to encourage customer loyalty
-- Transaction fees are calculated on the full order amount before reward point application
-- Rewards are processed sequentially in the order they were earned
-- The seller receives the full order amount minus the original transaction fees
-
-## Benefits
-
-- Zero effective transaction fees for buyers
-- Increased customer loyalty through seller-specific rewards
-- Enhanced value proposition for the Sevi platform
-- Simplified reward tracking and redemption process
+2. **Business Growth**
+   - Increases transaction volume
+   - Strengthens seller-buyer relationships
+   - Enhances platform competitiveness
