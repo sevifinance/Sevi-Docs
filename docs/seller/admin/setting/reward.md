@@ -1,8 +1,8 @@
 # Customer Retention program
 
-![1730490104685](image/agent/1730490104685.png)
+![reward](image/agent/reward.png)
 
-This configuration is an innovative cashback program designed to offset transaction fees for buyers and or encouraging repeated purchases at the seller. The program ca n be configured and promoted in multiple ways.
+This configuration enables a cashback program designed to engate customers such that they are insentived to reorder. The encouraging of repeated purchases at the seller happens via a point reward system. The program can be configured and promoted in multiple ways.
 
 - Converts credit transaction fees into reward points that can be redeemed on subsequent orders only with you as a seller.
 - Earn points on direct payments so that stimulates buyers to order again in the future.
