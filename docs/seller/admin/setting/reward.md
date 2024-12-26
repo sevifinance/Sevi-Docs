@@ -1,6 +1,6 @@
 # Customer Loyalty Program
 
-![reward](image/agent/reward.png)
+![loyalty](image/agent/loyalty.png)
 
 The Customer Loyalty Rewards Program is designed to increase customer retention by converting transaction fees into redeemable points. This incentivizes repeat purchases through a straightforward cashback system that benefits both buyers and sellers.
 
