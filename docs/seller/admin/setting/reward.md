@@ -1,4 +1,4 @@
-# Customer Loyalty Rewards Program
+# Customer Loyalty Program
 
 ![reward](image/agent/reward.png)
 
@@ -10,6 +10,7 @@ The Customer Loyalty Rewards Program is designed to increase customer retention 
 - **For Sellers**: Increased customer loyalty with zero additional cost
 
 ## How It Works
+
 
 ### Earning Rewards
 1. When a customer makes a purchase, the transaction fee is automatically converted into reward points
