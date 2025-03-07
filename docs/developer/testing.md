@@ -4,7 +4,7 @@
 
 **1. Testing API on Staging Server**
 
-* **Staging Server URL** : Access the staging server for API testing at `https://test.sevi.io/graphql`.
+* **Staging Server URL** : Access the staging server for API testing at `https://sandbox.sevi.io/graphql`.
 * **Purpose** : This staging environment is ideal for testing API interactions in a controlled setting before deploying to production.
 
 **2. Registering for Mobile App Testing**
@@ -21,5 +21,5 @@
  **Note** : The staging environment is a replica of the production environment but is isolated to ensure safe and effective testing of new features and bug fixe
 
 ```
-https://test.sevi.io/graphql
+https://sandbox.sevi.io/graphql
 ```
