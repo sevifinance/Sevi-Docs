@@ -13,8 +13,7 @@ The Sevi payment links offers a convenient way for your customers to complete or
 
 **Generate a QR code and use it in your invoice.**
 
-![1679667120345](image/qr-code.png){width=200 height=200}
-
+![1679667120345](image/qr-code.png)
 
 **Benefits:**
 
