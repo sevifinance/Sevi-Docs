@@ -11,6 +11,11 @@ The Sevi payment links offers a convenient way for your customers to complete or
 3. **Customer Makes Payment:** Clicking the payment link directs the customer to a secure payment page where they can choose their preferred payment method and complete the transaction.
 4. **Payment Confirmation (Optional):**  You can include a custom URL in the payment link that directs the customer back to your website or app after payment. On this page, you can call the payment status API to confirm the payment server-side and update your order status accordingly.
 
+**Generate a QR code and use it in your invoice.**
+
+![1679667120345](image/qr-code.png){width=200 height=200}
+
+
 **Benefits:**
 
 * **Seamless Checkout:** Payment links streamline the checkout process, reducing friction and improving customer experience.
