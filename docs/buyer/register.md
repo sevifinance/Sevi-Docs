@@ -32,7 +32,7 @@ Select your country from the dropdown menu, by clicking the flag. Then fill out 
  <img src="/register/verification.png" alt="verification" width="200"/>
 
 ## Set Pin 
-Once you have successfully verified your phone number you will be required to set ypur 4-digits PIN. This PIN should be your secret and never reveal to anyone else.
+Once you have successfully verified your phone number you will be required to set your 4-digits PIN. This PIN should be your secret and never reveal to anyone else.
 
 :::tip
 This PIN will be used to log in to your Sevi App. Kindly memorize it or write it down on a piece of paper or save it on your mobile device.
@@ -43,7 +43,7 @@ Never share your PIN with others, this will give them access to your Sevi accoun
 :::
 
 ## Vefiy your account
-After setting the PIN successfully you can now login to complete verification. Tap on the `Complete` under the Missing Information section. Here you will be required to compelte all the required details for your account to be verified.
+After setting the PIN successfully you can now login to complete verification. Tap on the `Complete` under the Missing Information section. Here you will be required to complete all the required details for your account to be verified.
 <img src="/img/complete-kyc.png" alt="account" width="200"/>
 <img src="/img/kyc-details.png" alt="account" width="200"/>
 
