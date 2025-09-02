@@ -24,19 +24,21 @@
 
 2.4 You acknowledge that you may need to pay a down payment (“deposit”) either from your Sevi Account or from M-Pesa for you to use the Order now, Pay later payment option.
 
-2.5 Deposit is defined as the sum of money that you as a Buyer pay at the start of the purchase. The deposit represents a portion of the total Purchase Price. On the Sevi Platform, this deposit is described as the "Pay now" amount.
+2.5 Deposit is defined as the sum of money that you as a Buyer pay at the start of the purchase. The deposit represents a portion of the total Purchase Price. On the Sevi Platform, this deposit is described as the "Pay now" or "Pay direct" amount.
 
 2.6 Credit is defined as the sum of money that you as the Buyer pay at a later time to us, to finance the remainder of the Purchase Price. On the Sevi Platform, this is described as the "Pay later" amount. This Pay later amount is lower or equal to the Credit Limit.
 
 2.7 The Credit Limit is the total Pay later part of the purchase amount available to you for purchases with Sellers using our Order now, Pay later payment option and the available limit reduces each time when you make a purchase and increases when you repay a credit. This Credit Limit is set at the sole discretion of Sevi and will be displayed on your Sevi Account when you login onto the Sevi Platform.
 
-2.8 Once you accept the Order now, Pay later payment plan and your Sevi Account has sufficient balance to pay the Pay now amount, we will debit the Pay now amount from your Sevi account. Once the goods are delivered, we pay the Seller, on your behalf, the entire or part of the Purchase Price for the products you purchased. You agree to repay the Pay later part of the Purchase Price to us in full on the instalment dates determined in accordance with these Terms. Sevi will debit the remaining payments from your Sevi Account on the due date of each instalment, or you can pay an instalment directly through the payment link. We will send you this payment link and remind you on the due dates via electronic communication (e.g. SMS/push notification). The amount due and the instalment dates are viewable on the Sevi platform.
+2.8 Once you accept the Order now, Pay later payment plan and your Sevi Account has sufficient balance to pay the Pay now amount, we will debit the Pay now amount from your Sevi account. We pay the Seller, on your behalf, the entire or part of the Purchase Price for the products you purchased. You agree to repay the Pay later part of the Purchase Price to us in full on the instalment dates determined in accordance with these Terms. Sevi will debit the remaining payments from your Sevi Account on the due date of each instalment, or you can pay an instalment directly through the payment link. We will send you this payment link and remind you on the due dates via electronic communication (e.g. SMS/push notification). The amount due and the instalment dates are viewable on the Sevi platform.
 
-2.9 You give us the authority to debit the remaining instalment payments from your Sevi Account on and after the due dates. When you switch on the function to sweep any wallet top-up to any open credit, you give us the authority to debit the remaining instalment payments from your Sevi Account also before the due dates.
+2.9 You give us the authority to debit the remaining instalment payments from your Sevi Account on and after the due dates. Or you can choose to repay early, see 'Right to repay early'.
 
 2.10 In the event the Seller or Sellers do not charge you for your entire order at the same time, we will create a different Order now, Pay later plan for each order part. This situation may be common where a Seller does not ship all the items from your order at the same time.
 
 2.11 You will maintain an adequate credit balance on your Sevi Account to allow for payments to be taken on the due dates, if you choose not to use the provided payment link. **It is important you ensure enough funds are available to complete your payment on the due date**.
+
+2.12 You may want to pre pay your interest on a monthly basis. Pre-paying your monthly interest will allow you to process as many 'Order now, Pay later' purchases during the respective month at a fixed interest. When you opt in for this option, you allow us to debit the pre-paid interest from your Sevi Account, when the monthly interest is due. You are able to stop this pre-paid interest option at any point of time. The credit limit and additional interest on late payments remain in effect.
 
 ## 3. What do I agree to?
 
@@ -60,9 +62,11 @@
 
 3.10 You authorize us to store your ID and phone number details on our systems. We will use this information to authorize future payments under these Terms. You may manage your profile and details through the Sevi app. Data that has already been verified cannot be altered unless the new data is verified again by Sevi.
 
-3.11 If you and the Seller cancel your purchase during the Period, we will cancel any remaining payments and pay back to your Sevi Account any amounts we have taken and are refunded to us by the Seller. Any part returns and refunded to us by the Seller will reduce your outstanding balance. Any cancellation or refunds after the Period is the responsibility of the Seller and therefore between you and the Seller. In this case no interest paid to Sevi are refunded.
+3.11 If you and the Seller cancel your purchase during the Period, we will cancel any remaining payments and pay back to your Sevi Account any amounts we have taken and are refunded to us by the Seller. Any part returns and refunded to us by the Seller will reduce your outstanding balance. Any cancellation or refunds after the Period is the responsibility of the Seller and therefore between you and the Seller. In this case no interest paid to Sevi is refunded.
 
 3.12 You are responsible for being able to receive SMS messages sent by Sevi through our SMS service provider Africa’s Talking or any replacement service provider. Missed messages can never be an excuse for paying late.
+
+3.13 3.13	Depending on the agreement we have with your Seller, we might extend your credit and charge additional daily interest for the extended period. You will be informed through electronic ways in the Sevi platform and/or messaging.
 
 ## 4. Right to repay early
 
@@ -87,6 +91,8 @@
 5.8 You acknowledge that repossession of the financed goods shall not relieve you of your obligation to pay the outstanding amount, including any accrued interest. Sevi may choose to resell the repossessed goods, and any proceeds from such resale will be applied towards the outstanding balance. You shall be liable for any deficiency between the outstanding balance and the proceeds from the resale.
 
 5.9 Missing payments can have serious consequences for you. Your Sevi Credit Limit will be affected which will make it more difficult or more expensive for you to obtain credit in the future. Legal action may be taken against you to recover the debt, an application may be made to have you declared bankrupt, and it is possible that a charging order and order for sale of your property may be obtained as a means of enforcing any judgment.
+
+5.10 After 90 days late your loan is market as non-performing and we might register the non-performing loan at a licensed Credit Reference Bureau. Also, your Sevi account will be suspended so you are no longer able to use the Sevi service in the future.
 
 ## 6. Guarantee
 
@@ -191,4 +197,4 @@ and/or
 **Sevi**
 Sevi is licensed and regulated by [Central Bank of Kenya](https://www.centralbank.go.ke/wp-content/uploads/2023/01/Directory-of-Digital-Credit-Providers-January-30-2023.pdf). Sevi Innovation Ltd is incorporated under Kenyan law and is registered with the Registrar of Companies under registration number PVT-AJUVZRA. For further information about Sevi, go to: [sevi.io](https://sevi.io).
 
-Edited in Kenya on 13 September 2024.
+Edited in Kenya on 02 September 2025.
