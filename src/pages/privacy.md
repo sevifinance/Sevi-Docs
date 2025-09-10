@@ -53,6 +53,7 @@ These purposes include:
 - fraud prevention and detection
 - billing and order fulfilment
 - credit scoring and credit checking—see Credit checking below
+- debt collection purposes
 - customizing instalment proposals to your particular profile
 - customising our mobile application and its content to your particular preferences
 - to notify you of any changes to our mobile application or to our services which may affect you
