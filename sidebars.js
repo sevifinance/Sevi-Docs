@@ -123,9 +123,10 @@ module.exports = {
   agent: [
     "agent/intro",
     "agent/get-verified",
+    "agent/add-buyer",
     "agent/create-payment",
     "agent/payments-overview",
-    "agent/manage-buyers",
+    // "agent/manage-buyers",
     "agent/activity",
     "agent/refresh",
     "agent/version",
