@@ -4,7 +4,6 @@ As a Sevi Agent (Seller Rep), you can create orders on behalf of your customers.
 
 Follow these steps:
 
-
 ## 1. Open Orders
 From your **Agent Home**, tap on **`Create Payment Request`**.  
 
@@ -22,7 +21,7 @@ On the order form, complete the following fields:
 
 - **Order Amount** → The total amount requested by the buyer. *(Mandatory)*  
 - **Reference Number** → An internal or invoice reference (optional).  
-- **Payment Option** →  
+- **Payment Option**:  
   - **Pay Later** → Buyer pays later as per the credit terms (Order Now, Pay Later).  
   - **Pay Directly** → Buyer pays immediately using M-Pesa to confirm the order.  
 - **Select Buyer** → Choose the buyer for the order. *(Mandatory)*  
@@ -44,6 +43,7 @@ Once all details are filled in:
   - **Order Number**  
   - **Payment Methods**  
 
+
   <img src="/agent/018.png" alt="Buyer Home Order Confirmation" width="300"/>  
   <img src="/agent/019.png" alt="Buyer Order Pay Screen" width="300"/>  
 
@@ -63,6 +63,7 @@ Once all details are filled in:
   <img src="/agent/021.png" alt="Order Confirmation Payment Success" width="200"/>  
 <!-- </div>   -->
 
+
 **Pay Directly (M-Pesa):**  
 
   <img src="/agent/022.png" alt="Buyer Order Pay Screen with M-Pesa" width="200"/>  
@@ -70,6 +71,7 @@ Once all details are filled in:
   <img src="/agent/024.png" alt="M-Pesa STK Prompt" width="200"/>  
   <img src="/agent/021.png" alt="Order Confirmation Payment Success" width="200"/>  
  
+
 
 
 :::tip
