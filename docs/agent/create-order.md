@@ -64,8 +64,8 @@ Once all details are filled in:
 <!-- </div>   -->
 
 
-**Pay Directly (M-Pesa):**  
 
+**Pay Directly (M-Pesa):**  
   <img src="/agent/022.png" alt="Buyer Order Pay Screen with M-Pesa" width="200"/>  
   <img src="/agent/023.png" alt="Order Confirmation Payment Processing M-Pesa" width="200"/>  
   <img src="/agent/024.png" alt="M-Pesa STK Prompt" width="200"/>  
