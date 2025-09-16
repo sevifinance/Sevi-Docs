@@ -57,11 +57,9 @@ Once all details are filled in:
 ### Screens for Payment Methods
 
 **Pay Later (Sevi):**  
-<!-- <div style="display: flex; gap: 10px; flex-wrap: wrap;"> -->
   <img src="/agent/019.png" alt="Buyer Order Pay Screen with Sevi" width="200"/>  
   <img src="/agent/020.png" alt="Order Confirmation Payment Processing" width="200"/>  
   <img src="/agent/021.png" alt="Order Confirmation Payment Success" width="200"/>  
-<!-- </div>   -->
 
 
 
