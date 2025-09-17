@@ -130,7 +130,8 @@ module.exports = {
     // "agent/manage-buyers",
     "agent/activity",
     "agent/refresh",
-    "agent/version",
+    "agent/faqs",
+    // "agent/version",
   ],
   developer: [
     "developer/intro",
