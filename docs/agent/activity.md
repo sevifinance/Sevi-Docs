@@ -1,5 +1,23 @@
 # Activity
 
-On app bar, press the **`Activity`** button. The app will open the Activity screen, where all the activities happening in your account will be listed. You can also view more details about an activity by pressing a specific activity.
+The **Activity** screen helps you keep track of everything happening in your Agent account.  
 
-<img src="/agent/activity.png" alt="activity" width="450"/>
+
+## 1. Open Activity
+- From the **app bar**, tap on **`Activity`**.  
+
+<img src="/agent/activity.png" alt="Activity Screen" width="300"/>  
+
+
+## 2. View Activities
+- All recent activities in your account will be listed here.  
+- Activities may include:  
+  - Badge earned  
+  - New orders created  
+  - Payments confirmed  
+  - Customers onboarded  
+  - Incentives earned  
+
+
+## 3. See More Details
+- Tap on any specific activity to view its full details.  
