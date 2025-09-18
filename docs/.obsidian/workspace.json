@@ -164,8 +164,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "faed3ec48461c86e",
+  "active": "502cd82aee8e0f8d",
   "lastOpenFiles": [
+    "about",
     "agent/add-buyer.md",
     "agent/activity.md",
     "seller/account-relations/members.md",

@@ -56,28 +56,32 @@ const config: Config = {
       },
       items: [
         {
-          type: "doc",
-          docId: "intro",
+          type: "docSidebar",
+          sidebarId: "aboutSidebar",
           position: "left",
           label: "About",
         },
         {
-          to: "docs/buyer/introbuyer",
+          type: "docSidebar",
+          sidebarId: "buyerSidebar",
           position: "left",
           label: "Buyer",
         },
         {
-          to: "docs/seller/start",
+          type: "docSidebar",
+          sidebarId: "sellerSidebar",
           position: "left",
           label: "Seller",
         },
         {
-          to: "docs/agent/intro",
+          type: "docSidebar",
+          sidebarId: "agentSidebar",
           position: "left",
           label: "Agent",
         },
         {
-          to: "docs/developer/intro",
+          type: "docSidebar",
+          sidebarId: "developerSidebar",
           position: "left",
           label: "Developer",
         },
@@ -115,7 +119,7 @@ const config: Config = {
         docs: {
           path: "docs",
           routeBasePath: "docs",
-          // sidebarPath: require.resolve("./sidebars.js"),
+          sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           editUrl: "https://github.com/sevifinance/Sevi-Docs/blob/main",
         },
