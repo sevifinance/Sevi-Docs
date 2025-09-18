@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agent/faqs.md",
+                "file": "release.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "faqs"
+              "title": "release"
             }
           }
         ]
@@ -164,8 +164,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "502cd82aee8e0f8d",
+  "active": "faed3ec48461c86e",
   "lastOpenFiles": [
+    "agent/faqs.md",
+    "release.md",
+    "Release.md",
+    "about/why.md",
+    "about/support.md",
+    "about/intro.md",
     "about",
     "agent/add-buyer.md",
     "agent/activity.md",

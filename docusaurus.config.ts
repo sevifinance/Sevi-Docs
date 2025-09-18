@@ -86,6 +86,18 @@ const config: Config = {
           label: "Developer",
         },
         {
+          type: "docSidebar",
+          sidebarId: "vacanciesSidebar",
+          position: "left",
+          label: "Vacancies",
+        },
+        {
+          type: "docSidebar",
+          sidebarId: "releaseSidebar",
+          position: "left",
+          label: "Release",
+        },
+        {
           type: "dropdown",
           label: "Legal",
           position: "right",
