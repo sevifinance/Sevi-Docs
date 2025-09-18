@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "seller/account-relations/members.md",
+                "file": "agent/faqs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "members"
+              "title": "faqs"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -154,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -164,6 +166,9 @@
   },
   "active": "faed3ec48461c86e",
   "lastOpenFiles": [
+    "agent/add-buyer.md",
+    "agent/activity.md",
+    "seller/account-relations/members.md",
     "seller/account-relations/customers.md",
     "support.md",
     "why.md",
