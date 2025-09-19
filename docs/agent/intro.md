@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Create an Agent Account
 
 Once you already have a **Sevi Personal Account**, you can easily add an **Agent Account** to start helping others trade on Sevi.  
