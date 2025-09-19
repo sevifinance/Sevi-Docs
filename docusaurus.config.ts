@@ -52,7 +52,7 @@ const config: Config = {
       logo: {
         alt: "Sevi Logo",
         src: "img/seviS.svg",
-        href: "/docs/intro",
+        href: "/docs/about/intro",
       },
       items: [
         {

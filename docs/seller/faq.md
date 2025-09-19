@@ -12,7 +12,7 @@ There can be multiple reasons:
 - Your credit score is negative
 - We are missing some of your details
 
-The best way to finding the correct answer to this questions is contacting [support](/docs/support/).
+The best way to finding the correct answer to this questions is contacting [support](/docs/about/support).
 
 
 ### What if your customer can't pay on time?
@@ -39,10 +39,10 @@ Whether a customer qualifies for payment in installments is decided by you as a 
 - Size of the loan group (e.g. some set a minimum of 10 members)
 
 ### I don't get a verification SMS 
-Please check if you entered the phone number correctly and try again. Click the `Resend OTP` button to send a new code. Check if your customer has not blocked SMS from Sevi or its SMS provider AfricasTalking. If you still don’t receive an SMS please contact the Sevi [support](/docs/support/).
+Please check if you entered the phone number correctly and try again. Click the `Resend OTP` button to send a new code. Check if your customer has not blocked SMS from Sevi or its SMS provider AfricasTalking. If you still don’t receive an SMS please contact the Sevi [support](/docs/about/support).
 
 ### I forgot my PIN
-Please contact the Sevi helpdesk to restore your PIN. Contact Sevi [support](/docs/support/). We will require a copy of your ID, to provide you with a new PIN. You can contact us through phone or WhatsApp.
+Please contact the Sevi helpdesk to restore your PIN. Contact Sevi [support](/docs/about/support/). We will require a copy of your ID, to provide you with a new PIN. You can contact us through phone or WhatsApp.
 
 ### My device is not supported 
 The Sevi app is currently available for Android vs. 5 and higher. The app will soon become availble for iPhone and Windows as well. If you do not have a smart phone you can still join through your agent. Please contact your agent and he/she is able to perform all actions on your behalf. 
