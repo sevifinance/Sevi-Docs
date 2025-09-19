@@ -50,7 +50,7 @@ const sidebars = {
     },
   ],
   releaseSidebar: [
-   "release",
+   "releases",
   ],
 };
 
