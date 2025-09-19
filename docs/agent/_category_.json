@@ -1,6 +1,21 @@
 {
   "label": "Agent",
-  "position": 30
+  "position": 30,
+  "link": {
+    "type": "generated-index",
+    "title": "Agent Documentation",
+    "description": "Step-by-step guide for agents to onboard and manage customers"
+  },
+  "items": [
+    "agent/intro",
+    "agent/get-verified",
+    "agent/create-payment",
+    "agent/create-order",
+    "agent/manage-buyers",
+    "agent/add-buyer",
+    "agent/activity",
+    "agent/faqs",
+    "agent/version",
+    "agent/refresh"
+  ]
 }
-
-
