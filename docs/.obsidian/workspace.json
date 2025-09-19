@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Releases.md",
+                "file": "buyer/refresh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Releases"
+              "title": "refresh"
             }
           }
         ]
@@ -166,28 +166,35 @@
   },
   "active": "1f1dbd1d8f10b9b4",
   "lastOpenFiles": [
-    "Releases.md",
+    "buyer/topup.md",
+    "buyer/refresh.md",
+    "buyer/plans.md",
+    "buyer/payinstalments.md",
+    "buyer/notifications.md",
+    "buyer/faq.md",
+    "buyer/buyerProtection.md",
+    "buyer/activity.md",
+    "agent/version.md",
+    "agent/payments-overview.md",
     "agent/faqs.md",
+    "agent/activity.md",
+    "agent/add-buyer.md",
+    "agent/create-order.md",
+    "agent/create-payment.md",
+    "agent/get-verified.md",
+    "agent/intro.md",
+    "Releases.md",
     "Release.md",
     "about/why.md",
     "about/support.md",
     "about/intro.md",
     "about",
-    "agent/add-buyer.md",
-    "agent/activity.md",
     "seller/account-relations/members.md",
     "seller/account-relations/customers.md",
     "support.md",
     "why.md",
-    "legal.md",
-    "intro.md",
     "agent/_category_.json",
-    "seller/faq.md",
-    "seller/credit.md",
-    "seller/apply.md",
-    "seller/activity.md",
     "developer/API/image/customerStatus/1684154631421.png",
-    "developer/API/image/customerStatus/1684154602322.png",
-    "buyer/activity.md"
+    "developer/API/image/customerStatus/1684154602322.png"
   ]
 }
