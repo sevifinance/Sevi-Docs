@@ -24,8 +24,8 @@ Add your group members phone number. The number can be entered manually or by se
 ### Change role member
 The member will be added as a *'member'* to the Company Account. You can click on the members name in the `Members` section to change the role. After clicking the relevant name, click on `Make admin`.
 
-:::Note
-An admin has all rights to the account and can add and remove members, see all transactions, withdraw money to the Company bank account. 
+:::note
+An admin has all rights to the account and can add and remove members, see all transactions, withdraw money to the Company bank account.
 :::
 
 ### Remove member

@@ -50,7 +50,10 @@ const sidebars = {
     },
   ],
   releaseSidebar: [
-   "releases",
+    {
+      type: 'doc',
+      id: 'releases',
+    },
   ],
 };
 
