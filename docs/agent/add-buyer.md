@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 # Onboard / Invite a Customer
 
 As a verified Sevi Agent, you can onboard new buyers and start earning incentives.  

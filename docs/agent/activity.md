@@ -1,3 +1,6 @@
+---
+sidebar_position: 6
+---
 # Activity
 
 The **Activity** screen helps you keep track of everything happening in your Agent account.  

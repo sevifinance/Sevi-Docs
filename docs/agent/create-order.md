@@ -1,3 +1,6 @@
+---
+sidebar_position: 4
+---
 # Create an Order for a Buyer
 
 As a Sevi Agent (Seller Rep), you can create orders on behalf of your customers.  

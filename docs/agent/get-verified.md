@@ -1,3 +1,6 @@
+---
+sidebar_position: 2
+---
 # Get Verified as an Agent
 
 To unlock full access as a **Sevi Agent**, you need to complete verification.  

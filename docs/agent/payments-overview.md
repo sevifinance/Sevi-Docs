@@ -1,3 +1,6 @@
+---
+sidebar_position: 5
+---
 # Payments Overview
 
 From your **Agent Home**, tap on **`Payments`** to see a list of all payment requests (orders) created for your buyers.  
