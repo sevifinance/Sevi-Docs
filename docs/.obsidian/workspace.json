@@ -176,7 +176,7 @@
     "agent/get-verified.md",
     "agent/faqs.md",
     "agent/create-payment.md",
-    "agent/create-order.md",
+    "agent/create-payment-request.md",
     "releases.md",
     "Releases.md",
     "buyer/refresh.md",
