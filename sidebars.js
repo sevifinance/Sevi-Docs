@@ -52,7 +52,7 @@ const sidebars = {
   releaseSidebar: [
     {
       type: 'doc',
-      id: 'releases',
+      id: 'Releases',
     },
   ],
 };
