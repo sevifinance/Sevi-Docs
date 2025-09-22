@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agent/manage-buyers.md",
+                "file": "agent/refresh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "manage-buyers"
+              "title": "refresh"
             }
           }
         ]
@@ -166,11 +166,11 @@
   },
   "active": "1f1dbd1d8f10b9b4",
   "lastOpenFiles": [
+    "agent/manage-buyers.md",
     "agent/refresh.md",
     "agent/version.md",
     "agent/activity.md",
     "agent/add-buyer.md",
-    "agent/manage-buyers.md",
     "agent/payments-overview.md",
     "agent/intro.md",
     "agent/get-verified.md",
