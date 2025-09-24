@@ -14,7 +14,7 @@ You will receive one of the following error messages when you or your buyer reac
 This means your Seller has reached  max 'Order now, Pay later' limit. This is the sum of all open instalments of all  buyers combined. Please contact your Seller. By a positive track record on Sevi this limit will increase overtime.
 
     Buyer should first pay the open instalments
-You have open installments which are not paid before the due date. Please first pay these overdue instalments, to be able to use 'Order now, Pay later'. This can also be overdue instalments on orders at another Seller. More information on [how to pay instalments](/docs/buyer/payinstalments). 
+You have open installments which are not paid before the due date. Please first pay these overdue instalments, to be able to use 'Order now, Pay later'. This can also be overdue instalments on orders at another Seller. More information on [how to pay instalments](/docs/buyer/step-by-step-process/payinstalments). 
 
     Order amount exceeds allowed buyer personal limit
 You are making an order from your personal Sevi account or as a Sole Proprietorship. You are not able to pay for this order in instalments, because the sum of all your orders combined is too high. These orders can also be at another Seller on Sevi. Pay open instalments of other orders first, to be able to 'Order now, Pay later'. Or order from a Limited Company. 
