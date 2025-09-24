@@ -39,11 +39,11 @@ After verifying your phone number, complete the onboarding form:
 - **Business Location** → Pin your shop location on the map.  
 - **Credit Terms** → Read and agree to Sevi’s terms.  
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+
   <img src="/buyer/004.png" alt="Onboarding initial informations" width="250"/>  
   <img src="/buyer/005.png" alt="Business Location Map Screen" width="250"/>  
   <img src="/buyer/006.png" alt="Agreement Screen" width="250"/>  
-</div>  
+  
 
 📍 Once you set your location and agree to the terms, your account will move to **Waiting on Verification** status.  
 
