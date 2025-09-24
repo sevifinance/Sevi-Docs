@@ -23,4 +23,4 @@ Make sure the phone number you fill out at check-out is the same number you regi
 
 <img src="/ordering/Checkout1.png" alt="checkout" width="200"/>
 
-With your order(s) placed on your suppliers’ web-shop, you will be prompted to go to your Sevi App to select your payment plan. Proceed to the [next step](/docs/buyer/paymentplan) to select your payment plan.
+With your order(s) placed on your suppliers’ web-shop, you will be prompted to go to your Sevi App to select your payment plan. Proceed to the [next step](/docs/buyer/step-by-step-process/paymentplan) to select your payment plan.
