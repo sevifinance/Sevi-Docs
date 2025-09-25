@@ -1,5 +1,25 @@
+---
+sidebar_position: 6
+---
 # Activity
 
-On app bar, press the **`Activity`** button. The app will open the Activity screen, where all the activities happening in your account will be listed. You can also view more details about an activity by pressing a specific activity.
+The **Activity** screen helps you keep track of everything happening in your Personal account.  
 
-<img src="/seller/activity.png" alt="activity" width="450"/>
+
+## 1. Open Activity
+- From the **app bar**, tap on **`Activity`**.  
+
+<img src="/buyer/017.png" alt="Buyer Activity Screen" width="450"/> 
+<!-- <img src="/agent/activity.png" alt="Activity Screen" width="300"/>   -->
+
+
+## 2. View Activities
+- All recent activities in your account will be listed here.  
+- Activities may include:  
+  - Badge earned  
+  - New payment requests created  
+  - Payments for orders confirmed  
+
+
+## 3. See More Details
+- Tap on any specific activity to view its full details.  
