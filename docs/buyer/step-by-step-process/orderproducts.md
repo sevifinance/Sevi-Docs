@@ -19,10 +19,10 @@ If your supplier doesn’t have a web-shop:
 3. Open your Sevi app → go to the **Payments** section or under important actions.  
 4. Tap `Confirm` to Review the order details (Order Amount, Pay Later Amount, From Supplier, Order Number, Payment Option).  
 
-<img src="/buyer/013.png" alt="Payment Request Notification on dashboard" width="250"/>  
-<img src="/buyer/014.png" alt="Payments List with Confirm Request" width="250"/>  
-<img src="/buyer/015.png" alt="Order details screen 1" width="250"/>  
-<img src="/buyer/016.png" alt="Order details screen 2" width="250"/>  
+<img src="/buyer/013.png" alt="Payment Request Notification on dashboard" width="200"/>  
+<img src="/buyer/014.png" alt="Payments List with Confirm Request" width="200"/>  
+<img src="/buyer/015.png" alt="Order details screen 1" width="200"/>  
+<img src="/buyer/016.png" alt="Order details screen 2" width="200"/>  
 
 
 ## Option 2: Ordering via Supplier Web-Shop  
