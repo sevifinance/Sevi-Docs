@@ -10,7 +10,7 @@ With Sevi, you don’t have to tie up your cash in stock — simply **Order Now,
 ## 1. When Your Supplier is Verified
 If your supplier is already verified on Sevi, getting started is simple:  
 
-1. **Register** your account on Sevi. [Check Step by step process](/buyer/step-by-step-process/register)  
+1. **Register** your account on Sevi. [Check Step by step process](/docs/buyer/step-by-step-process/register)  
 2. **Place an Order** with your supplier.  
 3. **Select a Payment Plan** (Pay Later or Pay Directly).  
 
