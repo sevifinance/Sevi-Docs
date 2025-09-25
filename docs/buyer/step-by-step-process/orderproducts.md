@@ -6,8 +6,9 @@ sidebar_position: 3
 
 As a buyer, you can place an order with your supplier (seller) in two ways:  
 
-1. **Through a supplier’s online shop (integrated with Sevi API)**  
-2. **Through a manual payment request created by your agent or supplier**  
+1. **Through a manual payment request created by your agent or supplier**  
+2. **Through a supplier’s online shop (integrated with Sevi API)**  
+
 
 In both cases, the order will appear in your Sevi App for you to confirm and choose a payment plan.  
 
