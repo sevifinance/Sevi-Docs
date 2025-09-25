@@ -14,8 +14,7 @@ Sevi registration is **only available on Android**.
 - Tap **Install**, then open the app.  
 
 
-## 2. Verify Your Phone Number
-- Select your **country flag**.  
+## 2. Verify Your Phone Number  
 - Enter your **phone number** (use your main active line, Safaricom).  
 - Tap **Send Verification Code**.  
 
@@ -64,7 +63,7 @@ Your Sevi personal account has now been created.
 <img src="/buyer/008.png" alt="Buyer Dashboard" width="300"/>  
 
 What happens next:  
-- Our **due diligence team** will visit your business to complete verification.  
+- Our **verification team** will visit your business to complete verification.  
 - During the visit, they’ll capture:  
   - Your **National ID**  
   - Your **Face ID photo**  
@@ -72,5 +71,5 @@ What happens next:
 - After verification, you’ll receive a **credit limit** that lets you **Order Now, Pay Later** with verified suppliers.  
 
 :::tip
-Have your **National ID** and **last 6 months’ M-Pesa statement** ready for the verification visit.  
+Have your **National ID** and **Full last 6 months’ M-Pesa statement** ready for the verification visit.  
 :::

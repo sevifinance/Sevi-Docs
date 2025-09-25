@@ -6,7 +6,7 @@ sidebar_position: 2
 
 Once you’ve completed your Sevi registration and set your business location, your account will move into **Waiting on Verification** status.  
 
-During this stage, Sevi’s due diligence team will visit your shop to confirm your details and complete verification.  
+During this stage, Sevi’s verification team will visit your shop to confirm your details and complete verification.  
 
 <img src="/buyer/008.png" alt="Unverified Buyer Dashboard" width="450"/>  
 
@@ -16,7 +16,7 @@ Our field team will assist you to:
 
 - ✅ Upload your **National ID** (front and back).  
 - ✅ Take a **Selfie (Face ID capture)** for identity confirmation.  
-- ✅ Upload your **M-Pesa Statement** (strictly last 6 months).  
+- ✅ Upload your **M-Pesa Statement** (strictly full last 6 months).  
 
 <img src="/buyer/009.png" alt="Buyer Verification Screen" width="450"/>  
 <!-- <img src="/buyer/009.png" alt="KYC ID Upload" width="250"/>  
