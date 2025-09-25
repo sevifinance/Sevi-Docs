@@ -11,8 +11,21 @@ As a buyer, you can place an order with your supplier (seller) in two ways:
 
 In both cases, the order will appear in your Sevi App for you to confirm and choose a payment plan.  
 
+## Option 1: Ordering via Agent or Supplier (Manual Request)  
+If your supplier doesn’t have a web-shop:  
 
-## Option 1: Ordering via Supplier Web-Shop  
+1. The supplier (or their agent) will create a **Payment Request** on your behalf.  
+2. You’ll be notified via SMS and in-app notification.  
+3. Open your Sevi app → go to the **Payments** section or under important actions.  
+4. Tap `Confirm` to Review the order details (Order Amount, Pay Later Amount, From Supplier, Order Number, Payment Option).  
+
+<img src="/buyer/013.png" alt="Payment Request Notification on dashboard" width="250"/>  
+<img src="/buyer/014.png" alt="Payments List with Confirm Request" width="250"/>  
+<img src="/buyer/015.png" alt="Order details screen 1" width="250"/>  
+<img src="/buyer/016.png" alt="Order details screen 2" width="250"/>  
+
+
+## Option 2: Ordering via Supplier Web-Shop  
 If your supplier has an online shop connected to Sevi:  
 
 1. Visit the supplier’s web-shop.  
@@ -27,20 +40,6 @@ Make sure the phone number you enter at checkout is the **same one linked to you
 :::
 
 After checkout, you’ll receive a notification in your Sevi app with the order details.  
-
-
-## Option 2: Ordering via Agent or Supplier (Manual Request)  
-If your supplier doesn’t have a web-shop:  
-
-1. The supplier (or their agent) will create a **Payment Request** on your behalf.  
-2. You’ll be notified via SMS and in-app notification.  
-3. Open your Sevi app → go to the **Payments** section or under important actions.  
-4. Tap `Confirm` to Review the order details (Order Amount, Pay Later Amount, From Supplier, Order Number, Payment Option).  
-
-<img src="/buyer/013.png" alt="Payment Request Notification on dashboard" width="250"/>  
-<img src="/buyer/014.png" alt="Payments List with Confirm Request" width="250"/>  
-<img src="/buyer/015.png" alt="Order details screen 1" width="250"/>  
-<img src="/buyer/016.png" alt="Order details screen 2" width="250"/>  
 
 
 ## Next Step: Confirm & Choose Payment Plan  
