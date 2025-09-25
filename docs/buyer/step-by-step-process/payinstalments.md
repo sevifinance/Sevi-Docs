@@ -1,39 +1,55 @@
 ---
-sidebar_position: 5
+sidebar_position: 4
 ---
 
 # Step 4: Pay Order
 
-We will remind you to pay your order on time. We remind you both through text SMS as well as push notifications in the App.
-
-## Auto collection
-Payment is automatically deducted from your Sevi account on the due date of the payment. Therefore always make sure you have sufficient balance in your Sevi account. 
-
-How to Top-up your Sevi account, [`Click here`](/docs/buyer/topup)
-
-## Payment overview
-On your Sevi App tap on `Payments` to see payment overview of a specific payment. This section will give you an overview of the status of your payment. It shows the total amount of a payments.
-<img src="/img/repay-order.png" alt="instalment" width="200"/>
+Sevi makes it simple to manage and repay your orders.  
+You’ll receive **SMS reminders** and **push notifications** to ensure you pay on time.  
 
 
-## Check details
-For further details, tap on `Clear` or `Repay` to see details of your payment. This overview shows the status whether the payment has been made, the amount paid, the amount to be paid and the due date of the order (data of withdrawal).
+## Auto-Collection
+- On the due date, payments are **automatically deducted** from your Sevi wallet.  
+- Always make sure you have enough balance in your account.  
+
+👉 [How to Top Up your Sevi account](/docs/buyer/topup)  
+
+
+## Payment Overview
+1. Open the **Payments** section in your Sevi App.  
+2. Select a specific payment to view its details.  
+   - Total order amount  
+   - Status (Pending, Paid, or Overdue)  
+
+<img src="/img/repay-order.png" alt="Payments Overview" width="250"/>  
+
+
+## Check Payment Details
+Tap **Clear** or **Repay** to see full details of your order:  
+- Amount already paid  
+- Amount remaining  
+- Due date (date of automatic withdrawal)  
+
+<img src="/img/payment-details.png" alt="Payment Details Screen" width="250"/>  
 
 :::caution
-Make sure you have sufficient balance in your Sevi account before the 'date of withdrawal'.
+Ensure your Sevi account has enough balance before the **due date** to avoid failed payments.  
 :::
 
-<img src="/img/payment-details.png" alt="payearly" width="200"/>
 
-## Pay early
-You can always make your payments early. To make a payment early, simply click ‘Clear’ or `Repay` in the Payments overview.
+## Pay Early
+Want to pay off your order before the due date?  
+- Open **Payments**.  
+- Tap **Clear** or **Repay** to make an early payment.  
 
 :::tip
-Make sure you have sufficient balance in your Sevi account to Pay early.
+Paying early helps build trust and may increase your future credit limit.  
 :::
 
-## Late payment
-We charge a late fee on late payments. Also you can be excluded from using Sevi in the future and ordering from your supplier. For an  overview of our legal terms, [`Click here`](/termsConditions)
-:::
 
-<!-- <img src="/img/latepayment2.png" alt="instalment" width="200"/> -->
+## Late Payments
+- A **late fee** is charged on overdue payments.  
+- Continuous late payments can result in being **blocked from using Sevi** in the future.  
+- For full details, see our [Terms & Conditions](/termsConditions).  
+
+<!-- <img src="/img/latepayment2.png" alt="Late Payment Warning" width="200"/> -->  
