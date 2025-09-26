@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 # Steps
 
 # API Integration Steps
