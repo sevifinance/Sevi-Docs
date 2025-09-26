@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Step 4: Repay Your Payment Request  
+# Step 4: Repay Your Credit  
 
 Sevi makes it simple to manage and repay your credit.  
 You’ll receive **SMS reminders** and **push notifications** so you never miss a due date.  
