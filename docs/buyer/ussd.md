@@ -1,9 +1,15 @@
+---
+sidebar_position: 12
+---
+
 # How to Use USSD
 
 To access SEVI on USSD platform Dial **`*789*7788#`**
 
 
-## 0. New User Registration Flow
+## Steps Flow Coming Soon
+
+<!-- ## 0. New User Registration Flow
 
 - **Goal:** Register and set up security credentials.
 
@@ -71,4 +77,4 @@ If you would like to check your account balances and available limits, follow th
 3. For further assistance, contact support via:
 	- **Phone:** 0111534438
 	- **WhatsApp:** 0111534438
-4. Press **9** to return to the Main Menu.
+4. Press **9** to return to the Main Menu. -->
