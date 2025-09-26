@@ -17,7 +17,7 @@ When placing an order through Sevi, you can choose from the following payment op
 - Works the same as a cash payment.    
 
 
-### Things to Note:
+## Things to Note:
 - Your repayment plan is shown clearly before confirming your order.  
 - Late payments may attract additional fees.  
 - Consistently paying on time grows your credit limit over time.  
