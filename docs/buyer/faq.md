@@ -82,7 +82,7 @@ Invite them to join Sevi through their Contacts or their agents.
 
 
 ## 13. What if my delivery fails?
-- All orders are protected by Sevi’s [Delivery Warranty](/docs/buyer/delivery-warranty).  
+- All orders are protected by Sevi’s [Delivery Warranty](/docs/buyer/benefits-and-policies/buyerProtection).  
 - First, try resolving with your supplier.  
 - If unresolved, contact [Sevi Support](/docs/about/support).  
 
