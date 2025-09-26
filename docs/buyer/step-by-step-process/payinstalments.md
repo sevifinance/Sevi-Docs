@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Step 4: Pay Order
+# Step 4: Repay your Order
 
 Sevi makes it simple to manage and repay your orders.  
 You’ll receive **SMS reminders** and **push notifications** to ensure you pay on time.  

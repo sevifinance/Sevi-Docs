@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Step 2: Buyer Verification
+# Step 2: Get Verified
 
 Once you’ve completed your Sevi registration and set your business location, your account will move into **Waiting on Verification** status.  
 

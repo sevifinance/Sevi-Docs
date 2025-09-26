@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Step 3: Create a Payment Request (Place an Order)
+# Step 3: Place an Order
 
 As a buyer, you can place an order with your supplier (seller) in two ways:  
 

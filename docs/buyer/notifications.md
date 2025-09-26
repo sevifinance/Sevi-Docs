@@ -1,18 +1,19 @@
 ---
-sidebar_position: 20
+sidebar_position: 7
 ---
 
 # Notifications
 
-We help you by reminding you of important actions and payments be sending SMS or Push notifications. 
+Sevi keeps you updated with **important reminders** via SMS and Push Notifications. These reminders help you stay on track with your payments.  
 
-## From SmartPhone
-You receive reminders to pay your instalments
-- Click on a notification
-- Follow the prompts to top-up your Sevi account before the due date
-- On the due date the instalment is auto collected from your Sevi account
 
-## From a feature phone
-You receive SMS reminders to pay your instalments
-- Go to your Mobile Money provider and fill out the payment details from the SMS, before the due date
-- On the due date the instalment is auto collected from your Sevi account.
+## On a Smartphone  
+- You’ll receive push notifications about upcoming instalments.  
+- Tap the notification and follow the prompts to top up your Sevi account (if needed).  
+- On the due date, the instalment will be **auto-deducted** from your Sevi account.  
+
+
+## On a Feature Phone  
+- You’ll receive SMS reminders to pay your instalments.  
+- Use your Mobile Money menu to complete the payment using the details in the SMS.  
+- On the due date, the instalment will also be **auto-deducted** from your Sevi account.  
