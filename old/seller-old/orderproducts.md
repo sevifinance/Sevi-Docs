@@ -52,4 +52,4 @@ This where you now find the order you created with status “Pending order”
 You might need to refresh your data to see the order appear. Please pull down your screen or open and close the App, to refresh your data.
 :::
 
-With the order(s) created you can now proceed to the [next step](/docs/buyer/paymentplan) to select a payment plan on behalf of your customer.
+With the order(s) created you can now proceed to the [next step](/docs/buyer/step-by-step-process/paymentplan) to select a payment plan on behalf of your customer.

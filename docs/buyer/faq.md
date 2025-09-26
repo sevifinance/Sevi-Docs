@@ -1,52 +1,98 @@
 ---
-sidebar_position: 30
+sidebar_position: 11
 ---
 
-# FAQ
+# Buyer FAQs
 
-### What if I you do not see any payment plan options?  
-There can be multiple reasons:  
-
-- Your seller reached his maximum outstanding credit
-- You have an other active credit
-- Your credit score is negative
-- We are missing some of your details.
-
-The best way to finding the correct answer to this questions is contacting Sevi [support](/docs/about/support).
+Here are some common questions buyers ask while using Sevi:  
 
 
-### What if I can't pay on time?
+## 1. I didn’t receive the verification SMS (OTP). What should I do?
+- Check if you entered your **phone number correctly**.  
+- Tap **Resend OTP** — you can choose SMS or WhatsApp.  
+- Ensure you haven’t blocked SMS from Sevi or its provider (AfricasTalking).  
+- If still not working, contact [Sevi Support](/docs/about/support).  
 
-When you do not pay on time the following actions are taken:
 
-- There is a seven day grace period per instalment payment.
-- During these seven days we send frequent reminders.
-- After seven days we charge a late fee and inform your supplier, who will follow up with you.
-we will hand over your account to debt collection.
-- After ninety days you are officially at default and we will hand over your account to debt collection and you will be listed as such. An additional late fee is charged to cover the recovery cost.
+## 2. I forgot my PIN. How can I reset it?
+- Contact [Sevi Support](/docs/about/support) to restore your PIN.  
+- For your safety, never share your PIN with anyone.  
 
-See ['Terms & Conditions'](/termsConditions) for more information.
 
-If through some unforeseen event outside of your sphere of influence you are not able to repay, we suggest you inform your family, friends or saving group, so they can step up for you and repay on your behalf. They can pay into your Sevi account by the same details as provided in the [Top-up](/docs/buyer/topup) section of your app. 
+## 3. My device is not supported. Can I still use Sevi?
+- The Sevi app works on **Android 5.0 and above**.  
+- iPhone support will be available soon.  
+- If you don’t have a smartphone, your **agent** can help you create and manage orders on your behalf.  
 
-### How do I qualify for payment in installments?
 
-Whether you qualifies for payment in installments is decided by your supplier. Suppliers use different criteria such as:
+## 4. I don’t see any payment plan options when placing an order. Why?
+Possible reasons:  
+- Your seller reached their **maximum outstanding credit**.  
+- You already have another **active loan**.  
+- Your **credit score** is low or negative.  
+- Some of your account details are missing.  
 
-- Trust Score (e.g. the max amount is determined by the Trust Score )
-- Being part of a group
-- Size of the loan group (e.g. some set a minimum of 10 members)
-- CRB rating (e.g. some require no members have a negative CRB rating)
+👉 Best next step: contact [Sevi Support](/docs/about/support).  
 
-### I don't get a verification SMS 
-Please check if you entered your phone number correctly and try again. Click the `Resend OTP` button to receive a new code. Check if you have not blocked SMS from Sevi or its SMS provider AfricasTalking. If you still don’t receive an SMS please contact the Sevi [support](/docs/about/support).
 
-### I forgot my PIN
-Please contact the Sevi helpdesk to restore your PIN. Contact Sevi [support](/docs/about/support). 
+## 5. When should I confirm & pay for an order?
+- Only confirm & pay **after your delivery has arrived** at your shop.  
+- Depending on your seller, some orders may require confirmation before delivery.  
 
-### My device is not supported 
-The Sevi app is currently available for Android vs. 5 and higher. The app will soon become availble for iPhone and Windows as well. If you do not have a smart phone you can still join through your agent. Please contact your agent and he/she is able to perform all actions on your behalf. 
 
-<!-- 
-## 
-Sevi doesn’t dictate any payment conditions. You agree with your group or any other credit provider on the conditions of the credit. These conditions are communicated to you on check-out. -->
+## 6. What payment options are available?
+- **Pay Later** → Order now, pay later (credit terms).  
+- **Pay Directly** → Instant payment via M-Pesa.  
+
+
+## 7. What happens if I can’t pay on time?
+- You have a **7-day grace period** per instalment.  
+- During these 7 days, you’ll receive reminders.  
+- After 7 days, a **late fee** is applied and your supplier is notified.  
+- After **90 days**, your account is in default → handed to debt collection and may be reported to the **CRB**.  
+
+
+## 8. Can someone else repay on my behalf?
+Yes. Family, friends, or savings group members can top up your Sevi wallet using the same details as in the [Top-up guide](/docs/buyer/topup).  
+
+
+## 9. How do I qualify for instalment payments?
+Suppliers decide eligibility. They may consider:  
+- Your **Trust Score**.   
+- Your **CRB rating** (no negative listings).  
+
+
+## 10. How can I increase my credit limit?
+- Upload your latest **6-month Full M-Pesa statement**.  
+- Provide **merchant till statements** (if using one).  
+- Repay loans **on time**.  
+- Place at least **12 consecutive orders** above 10% of your current limit.  
+
+
+## 11. Can I withdraw my Sevi wallet balance?
+Yes. Set up a **Settlement Account** under Growth → Personal Info.  
+Options include:  
+- Bank account  
+- M-Pesa phone number  
+- M-Pesa Till  
+
+
+## 12. What if my supplier is not on Sevi?
+Invite them to join Sevi through their Contacts or their agents.  
+
+
+## 13. What if my delivery fails?
+- All orders are protected by Sevi’s [Delivery Warranty](/docs/buyer/benefits-and-policies/buyerProtection).  
+- First, try resolving with your supplier.  
+- If unresolved, contact [Sevi Support](/docs/about/support).  
+
+
+## 14. What is the Prepaid Plan (Subscription)?
+It’s a monthly subscription that lets you borrow multiple times within your credit limit **without paying transaction fees per loan**.  
+👉 [Learn more here](/docs/buyer/subscriptions/prepaid-plan).  
+
+
+## Need More Help?
+If your question isn’t answered here, please contact:  
+📧 **support@sevi.io**  
+📞 Sevi Call Center (available during business hours).  

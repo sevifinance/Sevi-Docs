@@ -1,19 +1,19 @@
 ---
 sidebar_position: 4
 ---
-# Create an Order for a Buyer
+# Create Payment Request for a Buyer
 
-As a Sevi Agent (Seller Rep), you can create orders on behalf of your customers.  
+As a Sevi Agent (Seller Rep), you can create payment request of orders on behalf of your customers.  
 
 Follow these steps:
 
-## 1. Open Orders
+## 1. Open Payment Request
 From your **Agent Home**, tap on **`Create Payment Request`**.  
 
 <img src="/agent/015.png" alt="Agent Home" width="300"/>  
 
 
-## 2. Start a New Order
+## 2. Start a New payment Request
 Tap **`Create Payment Request`** to open the order form.  
 
 <img src="/agent/016.png" alt="Create Order Form" width="300"/>  
@@ -53,8 +53,8 @@ Once all details are filled in:
 
 ## 5. ✅ Buyer Confirms & Pays
 - When the seller delivers the order, the buyer must tap **Confirm & Pay** in their app.  
-- If **Pay Directly** was chosen, payment will be made instantly via an M-Pesa prompt.  
-- If **Pay Later** was chosen, payment will be due as per the credit terms.  
+- If **Pay Later** was chosen, payment will be due as per the credit terms. 
+- If **Pay Directly** was chosen, payment will be made instantly via an M-Pesa prompt.    
 
 
 ### Screens for Payment Methods
@@ -65,14 +65,12 @@ Once all details are filled in:
   <img src="/agent/021.png" alt="Order Confirmation Payment Success" width="200"/>  
 
 
-
 **Pay Directly (M-Pesa):**  
   <img src="/agent/022.png" alt="Buyer Order Pay Screen with M-Pesa" width="200"/>  
   <img src="/agent/023.png" alt="Order Confirmation Payment Processing M-Pesa" width="200"/>  
   <img src="/agent/024.png" alt="M-Pesa STK Prompt" width="200"/>  
   <img src="/agent/021.png" alt="Order Confirmation Payment Success" width="200"/>  
  
-
 
 
 :::tip

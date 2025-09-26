@@ -1,42 +1,34 @@
 ---
-sidebar_position: 1
+sidebar_position: 7
 ---
 
-# Payment plans
+# Payment Plans
 
-## Options
-
-**Option 1:** `DIRECT PAY` is a payment in full from your Sevi account to your supplier, this equals to a cash payment. 
-
-**Option 2:** `WEEKLY PAY`is a payment plan with weekly instalments. 
-
-**Option 3:** `MONTHLY PAY`is a payment plan with monthly instalments.
-
-**Option 4:** `AT ONCE`is a payment plan with one instalment at the end.
-
-## Direct payment
-This options is always available. It's generally, from a financial standpoint, also the most attractive option. 
-
-## Pay in installments
-Depending on whom you buy the product from. You get a one or more appropriate proposals. 
-
-**The variables**
-
-The proposals have multiple variables based on which the total cost per proposal is calculated. Below a list of the main ones.
-
-- Deposits can be a part of this proposal.
-- The instalments can be paid per month or per week.
-- The risk fees, low risk generally means low fees.
-- Late pay fees ( for the installment or for the total loan)
-- Defaulting fees
-
-**Example**
-Take for example a loan of 3000 with no deposit and 300 risk fees.
-The installments can be paid in 3 months / 12 weeks. 
-When the last payment is not made in time, the late pay fees are 500.
-After 90 days the loanee is reported to the CRB and has to pay an extra fee for retreiving the loan.
-
-![alt text](/ordering/structure.png "Logo Title Text 1")
+When placing an order through Sevi, you can choose from the following payment options:
 
 
+## 1. Weekly Pay (Order Now, Pay Later)
+- Split your payment into **weekly instalments**.  
+- Each week, Sevi automatically collects the due amount from your Sevi account.  
+- You’ll be reminded via SMS and push notifications before every collection date.  
 
+## 2. Direct Pay
+- Pay the **full order amount immediately** from your Sevi account or via M-Pesa.  
+- Works the same as a cash payment.    
+
+
+## Things to Note:
+- Your repayment plan is shown clearly before confirming your order.  
+- Late payments may attract additional fees.  
+- Consistently paying on time grows your credit limit over time.  
+
+
+## Example
+Suppose you place an order worth **KSh 3,000** under **Weekly Pay**:  
+- Sevi may require a small risk or service fee.  
+- The balance is spread across equal weekly instalments until the full amount is cleared.  
+
+
+:::tip
+Choose the plan that best fits your cash flow. Direct Pay works best when you have enough balance, while Weekly Pay helps spread the cost of larger orders.  
+:::

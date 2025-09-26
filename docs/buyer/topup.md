@@ -1,42 +1,43 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
-# Top-up
+# Top Up Your Sevi Wallet
 
-Before you make any purchases or order products using Sevi, you first need to Top-up your Sevi account.
+Before making purchases or paying orders with Sevi, you need to **top up your Sevi wallet**.  
 
 
-## Step 1: Tap on the Top-up icon 
+## Step 1: Open Top-Up
+From your dashboard, tap on the **`Top Up`** near your wallet balance.  
 
-<img src="/img/topup-btn.png" alt="topup" width="200"/>
+<img src="/img/topup-btn.png" alt="Top-Up Button" width="300"/>  
 
-## Step 2: Enter the amount you wish to deposit into your Sevi account
-After selecting the preferred phone number you would like to use, enter amount you would like to topup.
 
-<img src="/img/topup-screen.png" alt="topup" width="200"/>
+## Step 2: Enter Amount
+- Select the **phone number** you want to use for payment.  
+- Enter the **amount** you want to top up.  
 
-From the number provided, you will be prompted to enter  your PIN, so you don't have to fill out the details manually. This is the preferred option as it eliminates typo mistakes. After entering the correct PIN the funds will be deposited into your Sevi Wallet.
+<img src="/img/topup-screen.png" alt="Top-Up Amount Entry" width="300"/>  
 
-<!-- ## Step 3:	Select the Top-up method you wish to use
+A pop-up from **M-Pesa** will appear on your phone.  
+Confirm the details and enter your **M-Pesa PIN**.  
 
-<img src="/topup/topupoptions.png" alt="topup" width="200"/>
+Funds will be deposited instantly into your Sevi wallet.  
 
-**EXPRESS PAYMENT**: will send all payment details to your mobile money provider, so you don't have to fill out the details manually. This is the preferred option as it eliminates typo mistakes. Your mobile money provider's pop-up will appear on your phone and you will be prompted to input your PIN and the funds will be deposited into your Sevi Wallet.
 
-**MANUAL PAYMENT**: gives you the payment details which you need to enter manually in your mobile money menu.
+## Step 3: Confirm Balance
+- Once the payment is complete, your new balance will reflect in your Sevi wallet.  
+- If it doesn’t show right away, simply **pull down to refresh** your app screen.  
 
-> **NOTE:** Depending on your location, Sevi offers different Top-up options.
+<img src="/img/balance.png" alt="Wallet Balance Screen" width="300"/>  
 
-## Step 4: Top-up details
 
-<img src="/topup/topupnumber.png" alt="topup" width="200"/>
+## ✅ Done!
+With funds in your wallet, you can now:  
+- Place new orders.  
+- Pay installments early.  
+- Clear outstanding balances.  
 
-When you chose manual payment, you need to follow the steps provided to manually Top-up your Sevi wallet. Go to your mobile money provider or bank and enter the payment details as provided by Sevi.  -->
-
-## Step 3: Check balance
-After making payments from your mobile money or bank, your funds will reflect on your Sevi account. Depending on the payment method you used this balance is up date near instant. You can refresh the data by pulling down your screen.
-
-Congratulations! With your funds deposited in your wallet, you can proceed to order products, or make (early) instalment payments.
-
-<img src="/img/balance.png" alt="topup" width="200"/>
+:::tip
+Always make sure your wallet has enough funds before your **order repayment due date** to avoid late fees.  
+:::
