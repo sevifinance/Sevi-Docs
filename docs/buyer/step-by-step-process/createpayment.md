@@ -18,7 +18,7 @@ If your supplier doesn’t have a web-shop:
 1. The supplier (or their agent) will create a **Payment Request** on your behalf.  
 2. You’ll be notified via SMS and in-app notification.  
 3. Open your Sevi app → go to the **Payments** section or under Important Actions.  
-4. Tap `Confirm` to review the payment details (Payment Amount, Pay Later Amount, Supplier Name, Payment Number, Payment Option).  
+4. Tap `Confirm` to review the payment details (Order Amount, Pay Later Amount, Supplier Name, Order Number, Payment Option).  
 
 <img src="/buyer/013.png" alt="Payment Request Notification on dashboard" width="200"/>  
 <img src="/buyer/014.png" alt="Payments List with Confirm Request" width="200"/>  
