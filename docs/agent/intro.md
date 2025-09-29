@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Once you already have a **Sevi Personal Account**, you can easily add an **Agent Account** to start helping others trade on Sevi.  
 
-<!---- For Initial Registration steps, A link to Buyer Get Started will be added here later---->
+For Initial Registration steps, [Check Step by step process](/docs/buyer/step-by-step-process/register)  
 
 Follow these steps:
 
