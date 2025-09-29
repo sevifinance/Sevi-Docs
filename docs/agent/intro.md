@@ -8,8 +8,7 @@ Once you already have a **Sevi Personal Account**, you can easily add an **Agent
 
 For Initial Registration steps, [Check Step by step process](/docs/buyer/step-by-step-process/register)  
 
-Follow these steps:
-
+If you have already completed the initial registration, Follow these steps:
 ## 1. **Open the Menu**  
    Tap on the three dots (**⋮**) in the top-right corner of the app.  
 
