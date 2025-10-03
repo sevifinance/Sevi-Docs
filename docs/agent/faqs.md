@@ -52,4 +52,4 @@ The Agent that completes fully the onboarding of the buyer, is the one the syste
 - If the issue continues, **close and reopen the app**.  
 - Try also, **clearing cache and data of the app** in your phone settings.
   
-- If still unresolved, contact [**Sevi Support**](https://docs.sevi.io/docs/support).  
+- If still unresolved, contact [**Sevi Support**](/docs/about/support).  
