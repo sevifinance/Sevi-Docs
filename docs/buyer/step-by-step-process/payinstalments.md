@@ -21,16 +21,17 @@ You’ll receive **SMS reminders** and **push notifications** so you never miss 
    - Total payment amount  
    - Status (Pending, Paid, or Overdue)  
 
-<img src="/img/repay-order.png" alt="Payments Overview" width="250"/>  
+<img src="/buyer/025.png" alt="Payments Overview" width="450"/>  
 
 
 ## Check Payment Details  
-Tap **Clear** or **Repay** to see the full breakdown of your repayment:  
+Tap **Pay** or **Repay** to see the full breakdown of your repayment:  
 - Amount already paid  
 - Remaining balance  
 - Due date (date of automatic withdrawal)  
 
-<img src="/img/payment-details.png" alt="Payment Details Screen" width="250"/>  
+<img src="/buyer/026.png" alt="Payment Details Screen" width="300"/>  
+<img src="/buyer/027.png" alt="Clear Payment Pay Screen" width="300"/>  
 
 :::caution
 Ensure your Sevi wallet has enough balance **before the due date** to avoid failed or late payments.  
@@ -40,7 +41,7 @@ Ensure your Sevi wallet has enough balance **before the due date** to avoid fail
 ## Pay Early  
 Want to clear your balance before the due date?  
 - Go to **Payments**.  
-- Tap **Clear** or **Repay** to make an early payment.  
+- Tap **Pay** or **Repay** to make an early payment.  
 
 :::tip
 Paying early builds trust with Sevi and can help increase your credit limit.  
