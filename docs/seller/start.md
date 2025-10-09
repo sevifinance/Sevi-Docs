@@ -1,42 +1,48 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
-# Become A Partner
+# Become a Sevi Partner
 
-Sell more products by providing an ‘Order now, Pay later’ option to your customers. Let your customers order the products they want now, but pay later. It is hassle free as Sevi provides the credit line, does the KYC and follows up on payments. [Apply now!](/docs/seller/apply/)
+Grow your business with **Sevi**, the digital credit platform that lets your customers *Order Now and Pay Later*, while you get **full payment upon delivery and buyer confirmation**.  
 
-:::tip
-“Sell on credit, get paid 80% on delivery”
-:::
+With Sevi, you can sell confidently without worrying about late or missed payments. Sevi provides the credit line, performs buyer verification (KYC), manages collections, and sends reminders — so you can focus on growing your sales.  
 
-Even though you are selling on credit, you get paid 80% of the order value on delivery. The remaining balance is settled when your customer pays the final instalment. 
 
-Sevi facilitates the payment option of Order now, Pay later. You remain in control of your products, pricing and customer relations. 
+## Why Partner with Sevi
 
-<img src="/register/infographics.png" alt="infographic" width="500"/>
+- Receive **full payment** once your buyer confirms delivery.  
+- Sevi handles **credit, KYC, and repayment** on your behalf.  
+- Reach more buyers by offering **flexible payment options**.  
+- Monitor all payments and activities using the **Sevi Seller App**.  
+- Integrate easily with your **online shop or point-of-sale system**.  
 
-## What we offer
 
-- Credit line to your customers
-- Pay on delivery
-- Additional business model (earn interest)
-- Automated KYC
-- Reminders to your customers
-- Smartphone app for your agents and customers
-- Management dashboards
-- Setting credit configurations
-- Payment integrations to Mobile Money and Bank
-- API integration
-- WooCommerce plugin
+## What You Get as a Seller
 
-### Agent feature
-When your customer does not have a Smartphone, your sales agents are able to perform all steps on behalf of your customer. We have created a step-by-step guide for: 
-- [Customers with a Smartphone](/docs/buyer/step-by-step-process/register/)
-- Agents (when the customer does not have a Smartphone)
+- Instant full payment upon delivery confirmation.  
+- Access to verified, credit-eligible buyers.  
+- Automated KYC and reminders handled by Sevi.  
+- Smart dashboards to track performance and payments.  
+- Mobile and API integrations for smooth operation.  
+- Agent support for customers without smartphones.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/phyvPw_jyIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
 
-## Apply
-If you want to start offering the 'Order now, Pay later' option to your customers, please download the Sevi app and apply to become a verified Sevi Seller.
-[Check out how to apply.](/docs/seller/apply/)
+## Agent Support
+
+If your buyers do not have smartphones, your **sales agents** can complete all steps on their behalf using the **Sevi Seller App**.  
+
+We have step-by-step guides for:  
+- [Buyers with Smartphones](/docs/buyer/step-by-step-process/register)  
+- [Agents (Onboarding Buyers)](/docs/agent/add-buyer)  
+
+
+## Apply to Join Sevi
+
+Ready to start offering **Order Now, Pay Later** to your customers?  
+Download the **Sevi App** and apply to become a verified Sevi Seller.  
+
+[Learn how to apply](/docs/seller/apply)
+
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/phyvPw_jyIM" title="Sevi Partner Overview Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe> -->
