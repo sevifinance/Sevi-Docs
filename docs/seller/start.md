@@ -40,7 +40,7 @@ We have step-by-step guides for:
 ## Apply to Join Sevi
 
 Ready to start offering **Order Now, Pay Later** to your customers?  
-Download the **Sevi App** and apply to become a verified Sevi Seller.  
+<!-- Download the **Sevi App** and apply to become a verified Sevi Seller.   -->
 
 [Learn how to apply](/docs/seller/apply)
 
