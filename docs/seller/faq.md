@@ -2,7 +2,7 @@
 sidebar_position: 30
 ---
 
-# FAQ
+# Seller FAQs
 
 ### What if you do not see any payment plan options?  
 There can be multiple reasons:  

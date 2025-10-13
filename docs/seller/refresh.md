@@ -1,13 +1,15 @@
 ---
-sidebar_position: 10
+sidebar_position: 20
 ---
+# Refresh Data
 
-# Refresh data
+Sometimes, after you perform an action, you may not immediately see the changes on your screen. Don’t worry — you can refresh the data in two ways:
 
-When you performed an action in the app and you don't see the data on your screen change, you can always refresh the data. There are two ways to do this:
+## 1. Pull Down to Refresh
+- Tap and hold anywhere on the screen.  
+- Drag down until you see a rotating arrow.  
+- Release to refresh and load the latest data.  
 
-## Pull down screen
-Press you screen anywhere and pull down your screen. This will show you a rotating arrow in your screen, meaning the data is being refreshed.
-
-## Close app
-If this function isn't working on your phone, you can close the app and open it again. This will fetch the latest data for you.
+## 2. Restart the App
+- If pull-to-refresh doesn’t work on your device, close the app completely and reopen it.  
+- This will fetch the latest updates for you.  
