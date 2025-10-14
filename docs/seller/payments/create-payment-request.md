@@ -9,8 +9,8 @@ This allows you to receive payments either **instantly (Pay Directly)** or throu
 
 
 ## 1. Open “Payments” Section
-- From your Seller Home Dashboard, tap `**+ Create Payment Request**`.
-- Or tap **Payments** → then tap `**+ Create Payment Request**`.
+- From your Seller Home Dashboard, tap **`+ Create Payment Request`**.
+- Or tap **Payments** → then tap **`+ Create Payment Request`**.
 
 <img src="/seller/001.png" alt="Create Payment Request on Seller Home" width="300"/>
 <img src="/seller/002.png" alt="Create Payment Request on Payments" width="300"/>
@@ -39,11 +39,10 @@ This ensures the request appears correctly on their end.
 
 ## 3. Send Payment Request
 Once all details are confirmed:
-- Tap `**Create Payment Request**`.  
+- Tap **`Create Payment Request`**.  
 - The buyer will receive an **SMS and in-app notification**.  
 - The payment request will appear in your **Payments List** with a status of **Pending**.
 
-<img src="/seller/005.png" alt="Payments List with Pending" width="300"/>
 
 
 ## 4. Payment Confirmation
@@ -53,6 +52,7 @@ Once the buyer confirms and selects their payment option:
 
 You can track payment status under **Payments**.
 
+<img src="/seller/005.png" alt="Payments List with Pending" width="300"/>
 
 :::tip
 Always confirm the buyer has received their goods before sending or approving the payment request.  
