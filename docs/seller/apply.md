@@ -11,7 +11,7 @@ Becoming a Sevi Seller is quick and straightforward. You can now apply directly 
 
 To start, send a message to our Sevi Support team with the following details:  
 
-**Via WhatsApp:** [+254 715 904 630](https://wa.me/254715904630)  
+**Via WhatsApp:** [+254 111 534438](https://wa.me/+254111534438)  
 **Or Email:** [support@sevi.io](mailto:support@sevi.io)  
 
 Include the following information:
@@ -55,5 +55,5 @@ After approval, you can:
 ## Need Help?
 
 If you have any questions during the application process, contact:  
-📞 **Sevi Support (WhatsApp):** [+254 715 904 630](https://wa.me/254715904630)  
+📞 **Sevi Support (WhatsApp):** [+254 111 534438](https://wa.me/+254111534438)  
 📧 **Email:** [support@sevi.io](mailto:support@sevi.io)
