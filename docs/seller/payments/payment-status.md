@@ -1,25 +1,22 @@
-# Payments Status
+---
+sidebar_position: 3
+---
 
-### All Order statusses explained per status:
-### 1. **PENDING**
+# Payment Status
 
-- **Meaning**: The order has been placed and is awaiting further action on processing.
-- **Next Steps**: This status means the order is under review, and it hasn't yet been prepared for awaiting shipment. The next step is for the order to be processed and confirmed by either the buyer or the seller.
+Each payment request on Sevi goes through specific statuses from creation to completion.  
+Here’s what each status means and what actions you can take:
 
-### 2. **AWAITING_SHIPMENT**
+| **Status** | **Meaning** | **Next Steps** |
+|-------------|-------------|----------------|
+| **Pending** | The payment request has been created and is awaiting buyer confirmation. | The buyer needs to review and confirm. You can still **edit** or **cancel** the request at this stage. |
+| **Awaiting Shipment** | The buyer has confirmed the payment request, and the goods are ready for delivery. | Deliver the goods as agreed. Once confirmed by the buyer, Sevi releases your full payment. |
+| **Delivered** | The goods have been successfully delivered to the buyer. | Sevi releases full payment to your seller wallet after buyer confirmation. The buyer then repays Sevi per their plan. |
+| **Refunded** | The payment request has been cancelled or reversed, and the buyer’s funds have been reimbursed. | Review the reason for the refund. Contact **Sevi Support** if you need clarification. |
+| **Archived** | The payment request is closed and removed from the active list. | This can happen if the buyer has reached their limit, has unpaid orders, or the request was rejected. Contact **Sevi Support** if unsure. |
 
-- **Meaning**: The order has been processed and is on its way to be delivered
-- **Next Steps**: This status means the buyer confirmed the order, and is awaiting shipment to be delivered
 
-### 3. **DELIVERED**
-
-- **Meaning**: The order has successfully reached the customer’s delivery address.
-- **Next Steps**: This status generally closes the active fulfillment of the delivery of the order. The buyer now needs to pay the credit they have confirmed in an earlier stage.
-
-### 4. **REFUNDED**
-
-- **Meaning**: The order has been canceled or returned, and the payment has been reimbursed to the buyer.
-
-### 5. **ARCHIVED**
-
-- **Meaning**: The order has been completed and filed away. This can be for an number of reasons including not enough on their limit, an other order that the buyer has still uncompleted that makes his used limit to high for an new order and an penalty on an order not fully paid by the customer. If you are unsure about the reason for the archived order you can reach out to the support 
+:::tip
+Only **Pending** payment requests can be **edited or cancelled**.  
+Once moved to **Awaiting Shipment**, the request is locked for processing.
+:::
