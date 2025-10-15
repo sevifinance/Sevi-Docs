@@ -1,35 +1,68 @@
-# Transactions and Withdrawals
+---
+sidebar_position: 6
+---
 
-## Transactions
-On the home screen, press the "Transactions" button. The app will open the Transactions screen, where your transactions for the current account will be displayed. When you press the "Filter by Date" calendar icon, you can select a date range to view only the transactions within that range. You can also select a single day by pressing on a specific date to view only the transactions for that day.
+# Transactions & Withdrawals
+
+This section helps you **view all your transactions** and **withdraw funds** from your Sevi wallet to your preferred settlement account (M-Pesa or bank).  
 
 
-<img src="/seller/transactions-btn.png" alt="transactions" width="200"/>
+## View Transactions
 
-<img src="/seller/transactions.png" alt="transactions" width="200"/>
+1. From your Seller Home screen, tap **`Transactions`**.  
+2. The **Transactions screen** displays all activities for your current account, including payments received and withdrawals made. You can tap on any payment to see more details. 
+3. To refine your view:  
+   - Tap the **calendar icon** to **filter by date range**.  
+   - Or tap a **specific date** to view transactions for that day only.  
 
-<img src="/seller/calendar-filter.png" alt="transactions" width="200"/>
+<img src="/seller/014.png" alt="Transactions Button" width="300"/>  
+<img src="/seller/012.png" alt="Transactions Screen" width="300"/>  
+<img src="/seller/013.png" alt="Calendar Filter" width="300"/>  
 
-## How to Withdraw
+:::tip
+Filtering helps you track your daily, weekly, or monthly performance easily.
+:::
 
-When a payment is made to your Sevi account, you might want to withdraw your balance to your M-Pesa or bank account. Here is a step-by-step guide on how to withdraw your balance.
 
-**Step 1:** On your home screen, you will see your "Account Balance." Tap on the "Send" button.
+## Withdraw Funds
 
-<img src="/seller/send-btn.png" alt="transactions" width="200"/>
+When you receive payments to your Sevi account, you can withdraw your balance directly to **M-Pesa** or your **bank account**.
 
-**Step 2:** If you have not added a settlement method, tap on Add Settlement. Choose your desired method, fill in your information, and add the settlement method.
+### Step 1: Open the Send Option
+From your Seller Home, tap the **`Send`** button next to your account balance.  
 
-<img src="/seller/add-settlement.png" alt="transactions" width="200"/>
 
-<img src="/seller/settlement-methods.png" alt="transactions" width="200"/>
+### Step 2: Add or Choose a Settlement Method
 
-**Step 3:** If you already have settlement methods, ensure the desired method is selected.
+- If you **don’t have any settlement methods** yet:  
+  1. Tap **`Add Settlement`**.  
+  2. Choose your preferred option: **M-Pesa** or **Bank Account**.  
+  3. Enter your details and save.  
 
-<img src="/seller/settlement-selection.png" alt="settlement" width="200"/>
+<img src="/seller/add-settlement.png" alt="Add Settlement" width="300"/>  
+<img src="/seller/settlement-methods.png" alt="Settlement Methods" width="300"/>
 
-**Step 4:** Enter the amount you would like to withdraw and add a description. The amount should be at least 20 KES. Then, press *Send Money*.
-- _Refer to the screenshot in step 3_
+- If you already have one:  
+  Ensure the **desired method** is selected before proceeding.  
 
-**Step 5:** Your money is now on the way to the selected settlement method. If you experience any issues during the withdrawal, please contact support.
+<img src="/seller/settlement-selection.png" alt="Settlement Selection" width="300"/>
 
+
+### Step 3: Enter Withdrawal Details
+
+1. Enter the **amount** you wish to withdraw (minimum **KES 20**).  
+2. Add a short **description** (optional).  
+3. Tap **`Send Money`** to confirm.  
+
+The withdrawal will be processed and sent to your selected settlement method.  
+
+
+### Step 4: Confirmation
+
+Once processed, your withdrawal will appear under your **Transactions** list.  
+If you encounter any delays or errors, please contact **Sevi Support** for assistance.
+
+
+:::tip
+For smooth withdrawals, ensure your settlement details are up to date and match your business registration name.
+:::
