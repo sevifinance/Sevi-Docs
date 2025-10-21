@@ -39,4 +39,4 @@ If you’re unable to log in:
 - Refresh the QR code and try again.  
 - If the issue persists, contact [Sevi Support](/docs/about/support).
 
-
+Next: [Dashboard Overview](/docs/seller/admin/dashboard)
