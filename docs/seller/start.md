@@ -42,7 +42,7 @@ We have step-by-step guides for:
 Ready to start offering **Order Now, Pay Later** to your customers?  
 <!-- Download the **Sevi App** and apply to become a verified Sevi Seller.   -->
 
-[Checkout how to apply](/docs/seller/apply)
+[Checkout how to join](/docs/seller/apply)
 
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/phyvPw_jyIM" title="Sevi Partner Overview Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe> -->
