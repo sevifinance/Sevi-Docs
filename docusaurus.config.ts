@@ -69,16 +69,17 @@ const config: Config = {
         },
         {
           type: "docSidebar",
-          sidebarId: "sellerSidebar",
-          position: "left",
-          label: "Seller",
-        },
-        {
-          type: "docSidebar",
           sidebarId: "agentSidebar",
           position: "left",
           label: "Agent",
         },
+        {
+          type: "docSidebar",
+          sidebarId: "sellerSidebar",
+          position: "left",
+          label: "Seller",
+        },
+        
         {
           type: "docSidebar",
           sidebarId: "developerSidebar",
@@ -87,16 +88,17 @@ const config: Config = {
         },
         {
           type: "docSidebar",
-          sidebarId: "vacanciesSidebar",
-          position: "left",
-          label: "Vacancies",
-        },
-        {
-          type: "docSidebar",
           sidebarId: "releaseSidebar",
           position: "left",
           label: "Release",
         },
+        {
+          type: "docSidebar",
+          sidebarId: "vacanciesSidebar",
+          position: "left",
+          label: "Vacancies",
+        },
+        
         {
           type: "dropdown",
           label: "Legal",
