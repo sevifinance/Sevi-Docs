@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Seller Admin Portal Overview
+# Introduction
 
 The **Seller Admin Portal** is a web-based dashboard that allows Sevi Sellers to manage their business activities, monitor performance, and access important financial and customer data.  
 
