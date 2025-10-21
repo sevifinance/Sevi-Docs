@@ -51,7 +51,7 @@ From your Seller Home, tap the **`Send`** button next to your account balance.
 ### Step 3: Enter Withdrawal Details
 
 1. Enter the **amount** you wish to withdraw (minimum **KES 20**).  
-2. Add a short **description** (optional).  
+2. Add a short **description**.  
 3. Tap **`Send Money`** to confirm.  
 
 The withdrawal will be processed and sent to your selected settlement method.  
