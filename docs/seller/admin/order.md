@@ -1,48 +1,61 @@
-# Orders
+---
+sidebar_position: 4
+---
 
-The Orders page provides a comprehensive view of all customer orders in the system. This interface allows sellers to track and manage orders efficiently.
+# Orders Overview
 
-## Page Elements
+The **Orders** page in the Seller Admin Portal provides a full view of all your customer orders — helping you track progress, payment status, and delivery updates in one place.
 
 
-![Orders](./image/order/1730489763152.png)
-### Search and Filter
+## What You Can Do
 
-- A search bar in the top-right corner allows quick lookup of orders
-- A "Filter" button enables advanced filtering of orders
+- View all customer orders made through your Sevi account.  
+- Filter and search for specific orders quickly.  
+- Check payment and fulfillment status.  
+- Create new payment requests directly from the same page.  
 
-### Order Table
 
-The main table displays key order information with the following columns:
+## Orders Dashboard Layout
 
-1. **Name** - Customer's name
-2. **Order Ref** - Unique order reference number
-3. **Shared Reference** - Additional reference field (marked with 's')
-4. **Payment Status** - Shows either:
-   - PAID (green)
-   - PENDING (orange)
-5. **Total** - Order amount
-6. **Created At** - Order creation date
-7. **Fulfillment** - Order status:
-   - DELIVERED (green)
-   - PENDING (yellow)
-8. **Phone Number** - Customer's contact number
+![Orders Page Overview](/seller/admin/007.png)
 
-### Actions
+### 1. Search and Filter
+Use the **Search Bar** at the top-right to find orders by customer name, reference number, or phone number.  
+You can also use the **Filter** option to narrow results by date range or fulfillment status.
 
-- A "Create Payment Request" button is available at the bottom of the page
-- Additional options can be accessed through the menu (⋮) button in the top-right corner
+### 2. Orders Table
+The main table displays key information for every order:
 
-## Navigation
+| **Column** | **Description** |
+|-------------|-----------------|
+| **Name** | Buyer’s full name. |
+| **Order Ref** | Unique order reference number. |
+| **Shared Reference** | An additional reference tag for tracking (marked with ‘s’). |
+| **Payment Status** | Shows order payment progress (e.g., *Paid*, *Pending*). |
+| **Total** | The total order value. |
+| **Created At** | Date when the order was created. |
+| **Fulfillment** | Delivery status — *Delivered* or *Pending*. |
+| **Phone Number** | Buyer’s contact number. |
 
-The left sidebar provides quick access to related sections:
+and many more which you can view by clicking the (**⋮**) and then columns.
 
-- Dashboard
-- Orders
-- Transactions
-- Customers
-- Sales Reps
-- Payment Request
-- Invoice
-- Monitor
-- Settings
+### 3. Actions
+- Click **+** to initiate a new request of payment for orders.  
+- Use the **(⋮)** menu on the top-right for additional admin actions or quick shortcuts.  
+
+
+## Navigation Tips
+
+Use the **left sidebar menu** to quickly move between key areas of the portal:
+- **Dashboard** – View sales performance and summaries.  
+- **Orders** – Track and manage all customer orders.  
+- **Transactions** – Review payment histories and withdrawals.  
+- **Customers** – Manage your buyer list.  
+- **Sales Reps** – Oversee your agent activities.  
+- **Settings** – Configure wallet, sales, or integration preferences.  
+- **Profile** – Manage company business details and other info.  
+- **Get Help** – Check our Docs.  
+
+
+
+The Orders page gives sellers a centralized, organized way to monitor customer activity and payment progress — ensuring every sale and delivery is tracked smoothly.
