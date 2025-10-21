@@ -20,6 +20,7 @@ The **Sevi Admin Portal** uses a secure **QR-based login system** that connects 
 <img src="/seller/admin/002.png" alt="Select login method" width="250"/>  
 <img src="/seller/admin/003.png" alt="Scan QR code screen" width="250"/>  
 
+---
 <img src="/seller/admin/login.png" alt="Sevi Admin Portal QR login screen" width="400"/>
 
 
