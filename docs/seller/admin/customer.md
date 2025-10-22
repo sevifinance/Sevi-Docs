@@ -1,8 +1,12 @@
+---
+sidebar_position: 7
+---
+
 # Customers
 
 The Customers page allows you to manage and view all your customer information in one place. This interface provides essential tools for customer relationship management.
 
-![Customer Management Interface](image/customer/1730488589366.png)
+![Customer Management Interface](/seller/admin/016.png)
 
 ## Key Features
 
@@ -22,10 +26,12 @@ The customer list displays the following information in columns:
 - **Tags**: Custom tags for customer categorization
 - **Action**: Additional actions menu
 
+and many more via the columns menu.
+
 ### Customer Management
 
-- Add tags to customers using the "+" button
-- Access additional options through the action menu (⋮)
+- Add tags to customers using the "+" button beneath the tags
+- Access additional columns options through the action menu (⋮)
 - View detailed customer information by clicking on a customer row
 
 ## Navigation
