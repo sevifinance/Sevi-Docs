@@ -1,52 +1,64 @@
-# Payment Request
+---
+sidebar_position: 5
+---
 
-The Payment Request page allows sellers to create and manage payment requests for customers. This page provides a comprehensive interface for setting up flexible payment terms and configurations.
+# Create a Payment Request (Admin Portal)
 
-## Key Components
+The **Payment Request** section in the Seller Admin Portal allows sellers to create and send payment requests to their buyers.  
+This feature enables you to receive payments through **Sevi Credit (Pay Later)** or **Direct Pay** options selected by buyers.
 
-![Payment Request](./image/payment-request/1730491023056.png)
-### 1. Amount
 
-- Enter the total amount for the payment request
-- The system displays the amount in the order summary on the right
-- Use the "Add Amount" button to confirm the entered value
+## How to Create a Payment Request
 
-### 2. Customer Selection
+### 1. Open the Orders Page
+From your Admin Portal menu, go to **Orders** and click the **`+`** button at the top-right.  
+This will open a pop-up window titled **“Add New Payment Request(s)”**.
 
-- Select a customer from the dropdown menu
-- A "+" button is available to add new customers if needed
-- The system will validate if the selected customer is eligible for payment terms
+![Orders Page Overview with add payment button](/seller/admin/008.png)
 
-### 3. Payment Configuration
+![add payment request modal](/seller/admin/009.png)
 
-The payment configuration section allows you to set up "Buy now, pay later" terms:
+### 2. Fill in the Payment Details
+In the modal window, complete the following fields:
 
-#### Key Settings:
+| **Field** | **Description** |
+|------------|-----------------|
+| **Invoice** | The invoice or order reference number. *(Required)* |
+| **Customer** | Type the buyer’s name or phone number to select them. *(Required)* |
+| **Value (KES)** | The total amount for this order or invoice. *(Required)* |
+| **Payment** | Auto-calculated based on buyer eligibility and Sevi credit settings. |
+| **Sales Rep** | (Optional) Assign the sales representative handling this order. You can search by name or phone number. |
 
-- **Customer Eligibility**: Shows if the selected customer is allowed to use payment terms
-- **Pay Now Amount**: The upfront payment required (if any)
-- **Pay Later Amount**: The total amount to be paid in installments
-- **Weekly Payment Amount**: The calculated amount per installment
-- **Payment Interval**: How often payments should be made (e.g., WEEKLY)
-- **Number of Intervals**: Total number of installment periods
+click **`Add`** to load the payment request into the list.
 
-### 4. Reference Number
+![Added payment request in modal](/seller/admin/010.png)
 
-- Enter a unique reference number for the payment request
-- This can be any value that helps you track the order/invoice
-- The reference number is for your internal tracking purposes
 
-## Creating a Payment Request
+### 3. Add More Requests (Optional)
+If you need to create multiple requests at once:
+- Repeat the above steps and click **`Add`** after each entry.  
+- Each added request will appear in a summarized list within the modal.
 
-1. Enter the total amount
-2. Select the customer
-3. Review and adjust payment configuration if needed
-4. Add a reference number
-5. Click "Create Payment Request" at the bottom of the page
 
-## Important Notes
+### 4. Submit the Requests
+Once all requests are ready and verified:
+- Click **`Add Requests`** at the bottom of the modal.  
+- The buyer(s) will receive **SMS notification** prompting them to confirm and choose their payment option in their Sevi App.
 
-- The system automatically calculates installment amounts based on the total sum and number of intervals
-- Ensure the customer is eligible for payment terms before proceeding
-- All amounts are displayed in KES (Kenyan Shillings)
-- Weekly payment amounts are automatically calculated for even distribution across the payment period
+
+## What Happens Next
+- The created requests will appear under the **Orders** or **Payments** list with the status **Pending**.  
+- Once the buyer confirms and selects their payment plan, the request will automatically update to **Approved** or **Paid** depending on the payment type.
+
+![Orders Page Overview with the pending](/seller/admin/011.png)
+
+---
+
+## Tips
+- Always ensure the buyer’s phone number matches their Sevi account to avoid delivery errors.  
+- Double-check all values before submitting — payment requests cannot be edited after they are sent and confirmed.  
+- For multiple orders, review the summary carefully to confirm all invoice numbers and amounts.
+
+---
+
+The **Payment Request** feature gives sellers a fast, reliable way to bill customers directly from the Admin Portal — streamlining transactions and ensuring buyers receive real-time Sevi payment notifications.
