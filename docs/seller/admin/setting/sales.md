@@ -1,9 +1,13 @@
+---
+sidebar_position: 3
+---
+
 # Historical Sales Upload
 
 The sales section allows you to upload historical sales data through an Excel file upload interface. This feature enables Sevi to calculate customer limits and initiate the onboarding process.
 
 
-![1730488054399](image/sales/1730488054399.png)
+![1730488054399](/seller/admin/017.png)
 
 ## Historical Orders - Excel Upload
 
