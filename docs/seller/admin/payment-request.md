@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Create a Payment Request (Admin Portal)
+# Add Payment Request(s)
 
 The **Payment Request** section in the Seller Admin Portal allows sellers to create and send payment requests to their buyers.  
 This feature enables you to receive payments through **Sevi Credit (Pay Later)** or **Direct Pay** options selected by buyers.
