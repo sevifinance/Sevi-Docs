@@ -1,54 +1,56 @@
+---
+sidebar_position: 6
+---
+
 # Transactions
 
-The Transactions page provides a comprehensive view of all financial transactions in your seller account. This section allows you to monitor, search, and export transaction data.
+The **Transactions** page in the Seller Admin Portal provides a full overview of all financial activities linked to your Sevi account — including payments, withdrawals, and settlements.  
 
+This section helps you monitor business performance, export records, and filter transactions by specific dates or criteria.  
 
-![1730490322379](image/transaction/1730490322379.png)
 
 ## Overview
 
-The main transactions screen displays:
+![Admin Portal Transactions Overview](/seller/admin/012.png)
 
-- A list of all transactions (when available)
-- Search functionality
-- Export capabilities
-- Date filtering options
+On this page, you can:
+- View a list of all completed and refunded transactions  
+- Search by transaction id  
+- Filter transactions by date range  
+- Export transaction data to Excel for reporting or accounting use  
 
-## Features
 
-### Search Transactions
+## Key Features
 
-Use the search bar to filter transactions by specific terms or criteria. This helps you quickly locate particular transactions.
+### 1. Search Transactions
+Use the search bar at the top to quickly find transactions by:
+- **Transaction reference Id**  
 
-### Export to Excel
+This helps you locate and review specific payments efficiently.  
 
-1. Click the "Export to Excel" button
-2. Select the date range for the transactions you want to export
-3. (Optional) Add search terms to filter the export
-4. Click "Export transactions" to download the Excel file
 
-### Date Selection
+### 2. Export Transactions
+Easily export transaction data for accounting or analysis:  
+1. Click **Export to Excel**.  
+2. Select your desired **date range**.  
+3. (Optional) Apply search term filters before exporting.  
+4. Click **Export Transactions** to download your Excel file.  
 
-- Use the calendar interface to select specific dates or date ranges
-- Navigate between months using the arrow buttons
-- Click on dates to select them
-- Selected dates will be highlighted in blue
+![Admin Portal Export Transactions Overview](/seller/admin/013.png)
 
-### No Transactions State
 
-If no transactions are found, you'll see a "No transactions found" message. This can occur if:
+### 4. No Transactions Found
+If the page shows “No transactions found,” this may mean:
+- You haven’t processed any payments yet  
+- The current filters or search terms don’t match any data  
+- The selected date range contains no records  
 
-- You haven't processed any transactions yet
-- No transactions match your current search criteria
-- The selected date range contains no transactions
-
-## Creating New Transactions
-
-To initiate a new transaction, use the "Create Payment Request" button located at the bottom of the page.
 
 ## Related Features
-
 - Orders
 - Invoices
 - Payment Requests
-- Wallet
+- Wallet 
+
+
+The **Transactions** page gives you full visibility and control over your financial activity — helping you keep track of all movement in and out of your Sevi Seller account with ease.
