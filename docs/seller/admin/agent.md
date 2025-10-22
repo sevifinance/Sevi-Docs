@@ -1,54 +1,67 @@
 ---
-sidebar_position: 10
+sidebar_position: 7
 ---
+
 # Agent Management
 
-Agents (also called Representatives) in the Sevi platform are responsible for managing orders and deliveries. They can set their own commission rates for each order.
+The **Sales Reps** section in the Seller Admin Portal allows you to add, edit, and manage all your sales representatives (agents) who help onboard buyers, process payments, and handle field activities.  
 
-![Agent Management](./image/agent/1730490104685.png)
+This page helps you organize your sales network, monitor active agents, and manage their access to Sevi services.  
 
 
-## Adding New Agents
+## Overview
 
-To set up a new agent under your account:
+![Agent Management Dashboard](/seller/admin/014.png)
 
-1. Click the "Add Agent" button in the Representatives section
-2. Fill in the required agent details:
-   - Name
-   - Reference number
-   - Contact information
-3. Set the agent's status to "Verified" to activate their account
-4. Assign relevant tags to the agent
+The agent table displays the following key details:
 
-Once verified, agents can access both the admin portal and mobile app to begin their work.
+| **Column** | **Description** |
+|-------------|-----------------|
+| **Avatar** | Profile image of the agent. |
+| **Name** | The full name of the agent. |
+| **Phone Number** | The registered mobile number linked to their Sevi account. |
+| **Mapping Tags** | Tags used to link agents with specific buyers, regions, or sales zones. |
+| **Actions** | Options to mark an agent as **Active**, **Inactive**, or **Remove** them from your list. |
+
+
+## Adding a New Agent
+
+To add a new agent under your company:
+
+1. On the **Sales Reps** page, click the **`+`** button at the top-right corner.  
+2. Fill in the following fields in the pop-up window:
+   - **Name** – Agent’s full name *(required)*  
+   - **Phone Number** – Agent’s registered number *(required)*  
+3. Click **`Create Agent`** to save.
+
+![Add Agent window](/seller/admin/015.png)
+
+Once added, the agent will appear in your list with the status **Inactive** until activated for them to be able to withdraw their incentives.
+
 
 ## Managing Agents
 
-The Representatives dashboard allows you to:
+From the Agents table, you can:
+- **Activate / Deactivate** an agent based on their current role.  
+- **Edit** agent details such as name, phone number, or mapping tags.  
+- **Remove** an agent if they no longer represent your company.  
+- **Search** for agents by name or phone number.  
+- **Export** your full agent list to Excel for record keeping or reporting.  
 
-- View all agents and their current status
-- Track which agents are able to trade
-- Manage agent tags
-- Search for specific agents
-- Customize visible columns including:
-  - Avatar
-  - Name
-  - Able To Trade status
-  - Reference number
-  - Tags
-  - Status
 
-## Agent-Buyer Mapping
+## Mapping Tags
 
-Use the tagging system to map agents to specific buyers:
+Mapping tags help you organize your agent network efficiently.  
+They can represent **regions**, **buyer groups**, or **sales territories**.  
 
-1. Create appropriate tags for different regions, buyer groups, or categories
-2. Assign these tags to agents
-3. Link buyers to the same tags
-4. Agents will then be able to service buyers with matching tags
-
-This ensures efficient territory management and proper agent-buyer relationships.
+By assigning matching tags:
+- Agents can only manage buyers linked to the same tag.
+- It ensures clear accountability and organized field coverage.  
 
 :::tip
-Make effective use of tags to organize your agent network and streamline order management.
+Use mapping tags consistently to streamline your team structure and improve tracking of agent performance.
 :::
+
+
+
+The **Agent Management** feature gives you a simple yet powerful way to manage your sales team — from adding and updating agents to assigning responsibilities and monitoring activity in one centralized place.
