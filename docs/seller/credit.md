@@ -29,8 +29,8 @@ Providing complete and accurate order information helps Sevi set appropriate and
 
 You can share or integrate buyer order data with Sevi in two ways:
 
-### a) Excel Upload  
-Manually upload your order history using this [Excel template](https://docs.google.com/spreadsheets/d/1BZK89VK8gNXYV0-RtY8sKykLYa8vEHpH/edit?gid=486363753#gid=486363753).
+### a) Excel Upload via the admin portal
+Manually upload your order history using this [Excel template](https://docs.google.com/spreadsheets/d/1BZK89VK8gNXYV0-RtY8sKykLYa8vEHpH/edit?gid=486363753#gid=486363753). or checkout [Historical Sales Upload Guide](/docs/seller/admin/setting/sales)
 
 ### b) API Integration  
 Automate the process through Sevi’s API.  
