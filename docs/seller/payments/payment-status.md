@@ -13,7 +13,7 @@ Here’s what each status means and what actions you can take:
 | **Awaiting Shipment** | The buyer has confirmed the payment request, and the goods are ready for delivery. | Deliver the goods as agreed. Once confirmed by the buyer, Sevi releases your full payment. |
 | **Delivered** | The goods have been successfully delivered to the buyer. | Sevi releases full payment to your seller wallet after buyer confirmation. The buyer then repays Sevi per their plan. |
 | **Refunded** | The payment request has been cancelled or reversed, and the buyer’s funds have been reimbursed. | Review the reason for the refund. Contact **Sevi Support** if you need clarification. |
-| **Archived** | The payment request is closed and removed from the active list. | This can happen if the buyer has reached their limit, has unpaid orders, or the request was rejected. Contact **Sevi Support** if unsure. |
+| **Archived** | The payment request is deleted. | This can happen if the payment request has stayed for more than 3 days without confirmation. Contact **Sevi Support** if unsure. |
 
 
 :::tip

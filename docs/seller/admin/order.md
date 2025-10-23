@@ -34,7 +34,7 @@ The main table displays key information for every order:
 | **Payment Status** | Shows order payment progress (e.g., *Paid*, *Pending*). |
 | **Total** | The total order value. |
 | **Created At** | Date when the order was created. |
-| **Fulfillment** | Delivery status — *Delivered* or *Pending*. |
+| **Fulfillment** | Order statuses |
 | **Phone Number** | Buyer’s contact number. |
 
 and many more which you can view by clicking the (**⋮**) and then columns.

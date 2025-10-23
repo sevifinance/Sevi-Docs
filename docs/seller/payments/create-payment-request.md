@@ -5,7 +5,7 @@ sidebar_position: 1
 # Create a Payment Request
 
 As a seller, you can create and send a **Payment Request** for the orders to your buyers directly through the Sevi App.  
-This allows you to receive payments either **instantly (Pay Directly)** or through **Sevi Credit (Pay Later)**.
+
 
 
 ## 1. Open “Payments” Section
@@ -21,7 +21,7 @@ On the order form, complete the following fields:
 
 - **Order Amount** → The total amount of the order. *(Mandatory)*  
 - **Reference Number** → An internal or invoice reference for your order tracking.  
-- **Payment Option**:  
+- **Payment Option**: *(Mandatory)*  
   - **Pay Later** → Buyer pays later as per the credit terms (Order Now, Pay Later).  
   - **Pay Directly** → Buyer pays immediately using M-Pesa to confirm the order.  
 - **Select Buyer** → Choose the buyer for the order. *(Mandatory)*   
