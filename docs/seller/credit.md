@@ -18,9 +18,9 @@ These limits are automatically calculated by Sevi based on both:
 ## 2. How Buyer Limits Are Determined
 
 Sevi evaluates multiple data points to assign fair and flexible limits to your buyers, including:
-- **Buyer’s purchase and repayment history.**
+- **Buyer’s purchase history**
 - **Your relationship and trade history** with the buyer.
-- **Verification data** such as ID, location, and business details.
+- **Verification data** such as ID, location, and business statement details of the buyer.
 
 Providing complete and accurate order information helps Sevi set appropriate and higher limits for your buyers.
 
