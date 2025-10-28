@@ -92,12 +92,12 @@ const config: Config = {
           position: "left",
           label: "Release",
         },
-        {
-          type: "docSidebar",
-          sidebarId: "vacanciesSidebar",
-          position: "left",
-          label: "Vacancies",
-        },
+        // {
+        //   type: "docSidebar",
+        //   sidebarId: "vacanciesSidebar",
+        //   position: "left",
+        //   label: "Vacancies",
+        // },
         
         {
           type: "dropdown",
