@@ -4,33 +4,36 @@ sidebar_position: 1
 
 # Become a Sevi Partner
 
-Grow your business with **Sevi**, the digital credit platform that lets your customers *Order Now and Pay Later*, while you get **full payment upon delivery and buyer confirmation**.  
+Grow your business with **Sevi**, the digital payment and credit platform that lets your customers *Order Now and Pay Later*, while you get **full payment upon delivery**.  
 
-With Sevi, you can sell confidently without worrying about late or missed payments. Sevi provides the credit line, performs buyer verification (KYC), manages collections, and sends reminders — so you can focus on growing your sales.  
+With Sevi, you can sell confidently without worrying about late or missed payments. Sevi provides the credit line, performs buyer verification (KYC), manages collections, and sends reminders — so you can focus on growing your sales. Our recent study shows that customers using Sevi for 12 months, have grown over **300%**.
 
 
 ## Why Partner with Sevi
 
-- Receive **full payment** once your buyer confirms delivery.  
-- Sevi handles **credit, KYC, and repayment** on your behalf.  
+- Receive **full payment** upon confirmation of delivery.  
+- Sevi handles **order payments, credit, KYC, and repayment** on your behalf.  
 - Reach more buyers by offering **flexible payment options**.  
 - Monitor all payments and activities using the **Sevi Seller App**.  
-- Integrate easily with your **online shop or point-of-sale system**.  
+- **Automated reconciliation** by mapping payments to your orders/customers.
+- Integrate easily with your **ERP, online shop or point-of-sale system**.  
 
 
 ## What You Get as a Seller
 
-- Instant full payment upon delivery confirmation.  
+- Instant full payment guaranteed upon delivery.  
+- Single payment channel for all your order payments.  
+- Ability to offer 'Order now, Pay later' to your customers without the hassle or risk.
 - Access to verified, credit-eligible buyers.  
-- Automated KYC and reminders handled by Sevi.  
+- Automated KYC of your customers and credit rating is handled by Sevi. We request data directly from the customer, so no need to share customer data.  
 - Smart dashboards to track performance and payments.  
 - Mobile and API integrations for smooth operation.  
-- Agent support for customers without smartphones.  
+- Agent support and USSD for customers without smartphones.  
 
 
 ## Agent Support
 
-If your buyers do not have smartphones, your **sales agents** can complete all steps on their behalf using the **Sevi Seller App**.  
+If your buyers do not have smartphones, your **sales agents** can complete all steps on their behalf using the **Sevi Seller App**. Also the customers are able to use USSD to process order payments.  
 
 We have step-by-step guides for:  
 - [Buyers with Smartphones](/docs/buyer/step-by-step-process/register)  
