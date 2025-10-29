@@ -47,3 +47,6 @@ From the Members screen, you can:
 :::tip
 Keep your roles organized — assigning the right access helps protect your wallet and ensures smooth team operations.
 :::
+
+> **NOTE:**These are only visible and editable by the Admin of the account.
+
