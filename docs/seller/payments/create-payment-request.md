@@ -54,9 +54,6 @@ You can track payment status under **Payments**.
 
 <img src="/seller/005.png" alt="Payments List with Pending" width="300"/>
 
-:::tip
-Always confirm the buyer has received their goods before sending or approving the payment request.  
-:::
 
 
 **Next:** Learn how to [Cancel or Edit a Payment Request](/docs/seller/payments/cancel-payment).  

@@ -46,7 +46,7 @@ Once cancelled:
 ## 4. Track Payment Status
 After editing or cancelling, you can always check:
 - **Pending** – Awaiting buyer confirmation.  
-- **Awaiting Shipment** – Buyer confirmed the order and awaiting shipment.  
+- **Awaiting Shipment** – Buyer confirmed payment request, you can now deliver the order.  
 - **Cancelled** – Request cancelled before confirmation.  
 
 
