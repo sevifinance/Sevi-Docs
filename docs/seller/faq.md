@@ -19,21 +19,22 @@ Possible reasons:
 
 ## 2. My customer can’t pay on time — what happens next?
 When a buyer fails to pay on time:
-- They have a **7-day grace period** per installment.  
-- During these days, Sevi sends regular **reminder messages**.  
-- After 7 days, a **late fee** is applied and you’ll be notified through the dashboard.  
-- After **90 days**, the account is marked as **default**, handed over to debt collection, and may be reported to the CRB.  
+- They have a **3-day grace period** per installment.  
+- During these days, Sevi sends regular **reminder messages** and additional interest is charged.  
+- After 3 days, a **late fee** is applied and you’ll be notified through the dashboard.  
+- Our tele-collection and field collection team will follow up with the Buyer to pay the overdue amount.  
+- After **90 days**, the account is marked as **default** and may be reported to the CRB.  
 - If too many of your customers default, your company may **temporarily lose access to Sevi credit services**.  
 
 See [Terms & Conditions](/termsConditions) for full details.  
 
 
-## 3. How does a buyer qualify for payment in installments?
-As a seller, you determine who qualifies based on:
-- **Trust relationship** and repayment discipline.  
-- **Buying and payment history** with your business.  
-- **Membership in a trading or loan group**.  
-- **Group size or credibility** (some sellers require a minimum group size).  
+## 3. How does a buyer qualify for Order now, Pay later?
+Sevi determines who qualifies based on:
+- Buyer’s **purchase history**.  
+- Buyer’s overall **shop performance**.  
+- Your **relationship and trade history** with the buyer.  
+- **Verification data** such as ID, location, and business statement details of the buyer. 
 
 
 ## 4. I or my buyer didn’t receive the verification SMS (OTP). What should I do?
@@ -55,13 +56,9 @@ As a seller, you determine who qualifies based on:
 
 
 ## 7. What do the different order statuses mean?
-Here’s what each order status represents:
+Kindly [Checkout Statuses and their meaning](/docs/seller/payments/payment-status.md)
 
-| **Status** | **Meaning** |
-|-------------|-------------|
-| **Pending** | The payment request has been created but not yet confirmed by the buyer. |
-| **Purchased** | The buyer has selected a payment plan and paid any required deposit. |
-| **Delivered** | The order has been delivered to the buyer. Sevi releases payment to you upon buyer confirmation. |
+
 
 👉 You can also view status updates from the **Payments** tab in your Sevi app or admin portal.  
 
@@ -71,12 +68,12 @@ If your company details (e.g., KRA PIN, bank info, contact email) are missing or
 Contact [Sevi Support](/docs/about/support) to update your details safely.  
 
 
-## 9. How can I increase my company’s credit limit?
+## 9. How can I increase my company’s limit?
 Maintain a positive record:
 - Encourage buyers to **repay on time**.  
 - Keep your **seller wallet active**.  
 - Avoid high default rates among your buyers.  
-Over time, Sevi automatically adjusts your credit limit based on performance.  
+Over time, Sevi automatically adjusts your limit based on performance.  
 
 
 ## Need More Help?
