@@ -66,3 +66,7 @@ If you encounter any delays or errors, please contact **Sevi Support** for assis
 :::tip
 For smooth withdrawals, ensure your settlement details are up to date and match your business registration name.
 :::
+
+:::tip
+You can also request support for auto settlement, to receive the money to your preferred method on each midnight.
+:::
