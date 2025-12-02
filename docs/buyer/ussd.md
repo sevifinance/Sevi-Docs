@@ -25,7 +25,7 @@ If you have unpaid orders, you will immediately see:
 > e. selling company - 3402 KES - PAID - 07/04/2025
 
 > 5. Other options
-> ```
+```
 
 Select an order → confirm payment method either `Sevi account`from your sevi wallet, `Mpesa` or `Bank Details` →  if sevi account enter your Sevi PIN → payment completes.
 
@@ -42,7 +42,7 @@ If you have no active orders, you will see the Main Menu:
 > 3. My account
 > 4. Support
 > 5. Transactions
-> ```
+```
 
 ---
 
@@ -79,7 +79,7 @@ If you have orders you will see:
 > e. selling company - 3402 KES - PAID - 07/04/2025
 
 > 5. Other options
-> ```
+```
 
 If no orders you will see:
 
@@ -88,7 +88,7 @@ If no orders you will see:
 > ```
 > You have no orders to pay.
 > 9. Main Menu
-> ```
+```
 
 ---
 
@@ -100,7 +100,7 @@ Check if your payment went through.
 > ```
 > Please enter the invoice number, order ID, or transaction ID:
 
-> ```
+```
 
 Enter the invoice number, order number or transaction ID to view the status.
 
@@ -117,7 +117,7 @@ If you are new and not completed the initial steps of registration you will see:
 > 2. Accept Terms & Conditions
 
 > 9. Main menu
-> ```
+```
 
 If you have completed the initial steps of registration you will see:
 
@@ -135,7 +135,7 @@ If you have completed the initial steps of registration you will see:
 > 4. Wallet topup
 
 > 9. Main menu
-> ```
+```
 
 ---
 
@@ -151,7 +151,7 @@ If you have completed the initial steps of registration you will see:
 > For assistance with your account, orders, or payments, our support team is available to help you.
 
 > 9. Main menu
-> ```
+```
 
 ---
 
@@ -165,7 +165,7 @@ See your latest transactions of either topups, withdrawals or deductions:
 
 > 8. Back to account
 > 9. Main menu
-> ```
+```
 
 ---
 
