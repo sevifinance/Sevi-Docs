@@ -14,17 +14,15 @@ The menu you see depends on your account status.
 ### **A. Credit Customers (With Active Orders)**
 If you have unpaid orders, you will immediately see:
 
-```md
-> **USSD Menu**
-> ```
-> Pay orders
-> a. selling company - 2000 KES - PENDING - 06/26/2025
-> b. selling company - 1500 KES - PENDING - 06/26/2025
-> c. selling company - 2200 KES - DUE - 06/26/2025
-> d. selling company - 2200 KES - LATE - 06/26/2025
-> e. selling company - 3402 KES - PAID - 07/04/2025
+```text
+Pay orders
+a. selling company - 2000 KES - PENDING - 06/26/2025
+b. selling company - 1500 KES - PENDING - 06/26/2025
+c. selling company - 2200 KES - DUE - 06/26/2025
+d. selling company - 2200 KES - LATE - 06/26/2025
+e. selling company - 3402 KES - PAID - 07/04/2025
 
-> 5. Other options
+5. Other options
 ```
 
 Select an order → confirm payment method either `Sevi account`from your sevi wallet, `Mpesa` or `Bank Details` →  if sevi account enter your Sevi PIN → payment completes.
@@ -173,4 +171,5 @@ See your latest transactions of either topups, withdrawals or deductions:
 - USSD works only from your registered Sevi phone number.  
 - Payments update instantly in the app.  
 - The screen you see depends on whether you have pending orders or direct-pay requests.
+- Always keep your Sevi PIN secure.
 - Terms and conditions apply. Standard USSD charges may apply.
