@@ -4,77 +4,153 @@ sidebar_position: 12
 
 # How to Use USSD
 
-To access SEVI on USSD platform Dial **`*789*7788#`**
+You can access Sevi services without the app by dialing **`*789*7788#`**.  
+The menu you see depends on your account status.
 
+---
 
-## Steps Flow Coming Soon
+## 1. What You See When You Dial
 
-<!-- ## 0. New User Registration Flow
+### **A. Credit Customers (With Active Orders)**
+If you have unpaid orders, you will immediately see:
 
-- **Goal:** Register and set up security credentials.
+:::info
+    Pay orders
+    a. selling company - 2000 KES - PENDING - 06/26/2025
+    b. selling company - 1500 KES - PENDING - 06/26/2025
+    c. selling company - 2200 KES - DUE - 06/26/2025
+    d. selling company - 2200 KES - LATE - 06/26/2025
+    e. selling company - 3402 KES - PAID - 07/04/2025
 
-**Steps:**
+    5. Other options
+:::
 
-1. **Set PIN**
-    - Enter a 4-digit PIN when prompted to secure your account.
-2. **Set Name**
-    - Input your full name, exactly as listed on your ID (must be at least 5 characters).
-3. **Set Document**
-    - Choose to complete your onboarding via the app or with an authorized agent.
+Select an order → confirm payment method either `Sevi account`from your sevi wallet, `Mpesa` or `Bank Details` →  if sevi account enter your Sevi PIN → payment completes.
 
+---
 
-## 1. Pay Order Flow
-- To access SEVI on USSD platform Dial **`*789*7788#`**.
-- **Select 1:** to make a payment for an existing and new order.
+### **B. Verified / Non-Verified Customers With No Orders**
+If you have no active orders, you will see the Main Menu:
 
-**Payment for Existing Orders**
+:::info
+1. Pay orders  
+2. Verify Payment
+3. My account
+4. Support
+5. Transactions
+:::
 
-- If you have existing orders, upto 4 orders will be listed here. 
-- Choose the order you wish to pay by selecting the corresponding number (1-4).
-- Alternatively, select **8** to create a new order, or **9** to return to the Main Menu.
-- After selecting the order you wish to pay, enter your **SEVI PIN** to authorize payment.
-- You will see the total amount due before payment is processed.
+---
 
-**Payment for New Orders**
+### **C. Non-Verified Customers With Pending Direct Pay**
+If a seller or agent sents you a direct-pay request:
 
-- **Enter 8** to create a new order, you will be presented with a list of available sellers.
-- Select the seller you wish to buy from.
-- Enter the amount you wish to pay for this new order
-- Enter an invoice number or a description for the order.
-- Review your order details: total amount, pay now amount, pay later amount, and seller name.
-- Select:
-	- **1** to confirm payment,
-	- **2** to cancel the transaction,
-- Press **9** if you wish to return to the Main Menu at any given step.
+:::info
+M-pesa payment prompt
+a. selling company - 2000 KES - PENDING 
+b. selling company - 2000 KES - PENDING 
 
-## 2. Credit Management
-To access SEVI on USSD platform Dial **`*789*7788#`**.
+5. Other options
+:::
 
-- Select `Activie Credits` by **Entering 2** to manage and pay for open credit installments.
-- Choose the installment you wish to pay by selecting the corresponding number (1-4).
-- Enter your **SEVI PIN** to authorize and process the payment for the selected installment.
-- Press **9** if you wish to return to the Main Menu at any given step.
+Choosing **a** or **b** triggers an M-Pesa STK prompt where now you will enter your Mpesa PIN and Send.
 
-## 3. Account Information
+---
 
-If you would like to check your account balances and available limits, follow the steps listed below.
+# 2. Main Menu Options
 
-**Steps:**
+## **1. Pay Order**
+If you have orders you will see:
 
-1. Select **Account** from the Main Menu.
-2. Your credit balance (amount due), limit balance (available for new orders), and wallet balance will be displayed.
-3. Press **9** to navigate back to the Main Menu.
+:::info
+Pay orders
+a. selling company - 2000 KES - PENDING - 06/26/2025
+b. selling company - 1500 KES - PENDING - 06/26/2025
+c. selling company - 2200 KES - DUE - 06/26/2025
+d. selling company - 2200 KES - LATE - 06/26/2025
+e. selling company - 3402 KES - PAID - 07/04/2025
 
+5. Other options
+:::
 
-## 4. Help Section
+If no orders you will see:
 
-- To get help or contact customer support, follow these steps
+:::info
+You have no orders to pay.
+9. Main Menu
+:::
 
-**Steps:**
+---
 
-1. Select **Help** from the Main Menu.
-2. Type in your question to receive automated assistance.
-3. For further assistance, contact support via:
-	- **Phone:** 0111534438
-	- **WhatsApp:** 0111534438
-4. Press **9** to return to the Main Menu. -->
+## **2. Verify Payment**
+Check if your payment went through.
+
+:::info
+Please enter the invoice number, order ID, or transaction ID:
+
+:::
+
+Enter the invoice number, order number or transaction ID to view the status.
+
+---
+
+## **3. My Account**
+If you are new and not completed the initial steps of registration you will see:
+
+:::info
+Welcome to Sevi! To access your account, please complete the setup:
+1. Set PIN
+2. Accept Terms & Conditions
+
+9. Main menu
+:::
+
+If you have completed the initial steps of registration you will see:
+
+:::info
+Wallet balance: 0 KES
+Available Pay Later balance: 2500 KES
+Open balance (what to pay): 0 KES
+Status: No available credit limit, onboard via app required
+
+1. PIN Recovery
+2. Transactions
+3. Orders
+4. Wallet topup
+
+9. Main menu
+:::
+
+---
+
+## **4. Support**
+
+:::info
+Call us: 0709924424
+WhatsApp: 0111534438
+Email: support@sevi.io
+
+For assistance with your account, orders, or payments, our support team is available to help you.
+
+9. Main menu
+:::
+
+---
+
+## **5. Transactions**
+See your latest transactions of either topups, withdrawals or deductions:
+
+:::info
+Last 5 Transactions
+
+8. Back to account
+9. Main menu
+:::
+
+---
+
+# Important Notes
+- USSD works only from your registered Sevi phone number.  
+- Payments update instantly in the app.  
+- The screen you see depends on whether you have pending orders or direct-pay requests.
+- Terms and conditions apply. Standard USSD charges may apply.
