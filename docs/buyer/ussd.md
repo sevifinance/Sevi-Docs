@@ -25,21 +25,20 @@ e. selling company - 3402 KES - PAID - 07/04/2025
 5. Other options
 ```
 
-Select an order → confirm payment method either `Sevi account`from your sevi wallet, `Mpesa` or `Bank Details` →  if sevi account enter your Sevi PIN → payment completes.
+Select an order → choose payment method (`Sevi Account`, `M-Pesa`, or `Bank`) →  
+If paying via Sevi Account: enter your Sevi PIN → payment completes.
 
 ---
 
 ### **B. Verified / Non-Verified Customers With No Orders**
 If you have no active orders, you will see the Main Menu:
 
-```md
-> **USSD Menu**
-> ```
-> 1. Pay orders  
-> 2. Verify Payment
-> 3. My account
-> 4. Support
-> 5. Transactions
+```text
+1. Pay orders  
+2. Verify Payment
+3. My account
+4. Support
+5. Transactions
 ```
 
 ---
@@ -47,14 +46,12 @@ If you have no active orders, you will see the Main Menu:
 ### **C. Non-Verified Customers With Pending Direct Pay**
 If a seller or agent sents you a direct-pay request:
 
-```md
-> **USSD Menu**
-> ```
-> M-pesa payment prompt
-> a. selling company - 2000 KES - PENDING 
-> b. selling company - 2000 KES - PENDING 
+```text
+M-pesa payment prompt
+a. selling company - 2000 KES - PENDING 
+b. selling company - 2000 KES - PENDING 
 
-> 5. Other options
+5. Other options
 ```
 
 Choosing **a** or **b** triggers an M-Pesa STK prompt where now you will enter your Mpesa PIN and Send.
@@ -66,26 +63,22 @@ Choosing **a** or **b** triggers an M-Pesa STK prompt where now you will enter y
 ## **1. Pay Order**
 If you have orders you will see:
 
-```md
-> **USSD Menu**
-> ```
-> Pay orders
-> a. selling company - 2000 KES - PENDING - 06/26/2025
-> b. selling company - 1500 KES - PENDING - 06/26/2025
-> c. selling company - 2200 KES - DUE - 06/26/2025
-> d. selling company - 2200 KES - LATE - 06/26/2025
-> e. selling company - 3402 KES - PAID - 07/04/2025
+```text
+Pay orders
+a. selling company - 2000 KES - PENDING - 06/26/2025
+b. selling company - 1500 KES - PENDING - 06/26/2025
+c. selling company - 2200 KES - DUE - 06/26/2025
+d. selling company - 2200 KES - LATE - 06/26/2025
+e. selling company - 3402 KES - PAID - 07/04/2025
 
-> 5. Other options
+5. Other options
 ```
 
 If no orders you will see:
 
-```md
-> **USSD Menu**
-> ```
-> You have no orders to pay.
-> 9. Main Menu
+```text
+You have no orders to pay.
+9. Main Menu
 ```
 
 ---
@@ -93,10 +86,8 @@ If no orders you will see:
 ## **2. Verify Payment**
 Check if your payment went through.
 
-```md
-> **USSD Menu**
-> ```
-> Please enter the invoice number, order ID, or transaction ID:
+```text
+Please enter the invoice number, order ID, or transaction ID:
 
 ```
 
@@ -107,62 +98,54 @@ Enter the invoice number, order number or transaction ID to view the status.
 ## **3. My Account**
 If you are new and not completed the initial steps of registration you will see:
 
-```md
-> **USSD Menu**
-> ```
-> Welcome to Sevi! To access your account, please complete the setup:
-> 1. Set PIN
-> 2. Accept Terms & Conditions
+```text
+Welcome to Sevi! To access your account, please complete the setup:
+1. Set PIN
+2. Accept Terms & Conditions
 
-> 9. Main menu
+9. Main menu
 ```
 
-If you have completed the initial steps of registration you will see:
+If you have completed the initial steps of onboarding you will see:
 
-```md
-> **USSD Menu**
-> ```
-> Wallet balance: 0 KES
-> Available Pay Later balance: 2500 KES
-> Open balance (what to pay): 0 KES
-> Status: No available credit limit, onboard via app required
+```text
+Wallet balance: 0 KES
+Available Pay Later balance: 2500 KES
+Open balance (what to pay): 0 KES
+Status: No available credit limit, onboard via app required
 
-> 1. PIN Recovery
-> 2. Transactions
-> 3. Orders
-> 4. Wallet topup
+1. PIN Recovery
+2. Transactions
+3. Orders
+4. Wallet topup
 
-> 9. Main menu
+9. Main menu
 ```
 
 ---
 
 ## **4. Support**
 
-```md
-> **USSD Menu**
-> ```
-> Call us: 0709924424
-> WhatsApp: 0111534438
-> Email: support@sevi.io
+```text
+Call us: 0709924424
+WhatsApp: 0111534438
+Email: support@sevi.io
 
-> For assistance with your account, orders, or payments, our support team is available to help you.
+For assistance with your account, orders, or payments, our support team is available to help you.
 
-> 9. Main menu
+9. Main menu
 ```
 
 ---
 
 ## **5. Transactions**
-See your latest transactions of either topups, withdrawals or deductions:
+See your latest activities (top-ups, withdrawals, or deductions):
 
-```md
-> **USSD Menu**
-> ```
-> Last 5 Transactions
+```text
+Last 5 Transactions
 
-> 8. Back to account
-> 9. Main menu
+8. Back to account
+9. Main menu
 ```
 
 ---
