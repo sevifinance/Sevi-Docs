@@ -12,13 +12,13 @@ This feature enables you to receive payments through **Sevi Credit (Pay Later)**
 
 ### 1. Open the Orders Page
 From your Admin Portal menu, go to **Orders** and click the **`+`** button at the top-right.  
-This will open a pop-up window titled **“Add New Payment Request(s)”**.
+This will open a right side window titled **“Add New Order”**.
 
 ![Orders Page Overview with add payment button](/seller/admin/008.png)
 
-![add payment request modal](/seller/admin/009.png)
+![add payment request modal](/seller/admin/019.png)
 
-### 2. Fill in the Payment Details
+### 2. Fill in the Order Details
 In the modal window, complete the following fields:
 
 | **Field** | **Description** |
@@ -29,26 +29,20 @@ In the modal window, complete the following fields:
 | **Payment** | Auto-calculated based on buyer eligibility and Sevi credit settings. |
 | **Sales Rep** | (Optional) Assign the sales representative handling this order. You can search by name or phone number. |
 
-click **`Add`** to load the payment request into the list.
-
-![Added payment request in modal](/seller/admin/010.png)
+click **`Add`** to load the payment request into the orders list.
 
 
 ### 3. Add More Requests (Optional)
 If you need to create multiple requests at once:
-- Repeat the above steps and click **`Add`** after each entry.  
-- Each added request will appear in a summarized list within the modal.
+- Repeat the above steps and click **`Add & New`** after each entry.  
+- Each added order will appear in the orders list.
 
-
-### 4. Submit the Requests
-Once all requests are ready and verified:
-- Click **`Add Requests`** at the bottom of the modal.  
 - The buyer(s) will receive **SMS notification** prompting them to confirm and choose their payment option in their Sevi App.
 
 
 ## What Happens Next
 - The created requests will appear under the **Orders** or **Payments** list with the status **Pending**.  
-- Once the buyer confirms and selects their payment plan, the request will automatically update to **Approved** or **Paid** depending on the payment type.
+- Once the buyer confirms and selects their payment plan, the request will automatically update to **Approved** or **Paid** depending on the payment type and fullfillment status will update to **Awaiting Shipment**.
 
 ![Orders Page Overview with the pending](/seller/admin/011.png)
 
