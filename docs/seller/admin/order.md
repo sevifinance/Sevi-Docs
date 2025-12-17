@@ -43,6 +43,13 @@ and many more which you can view by clicking the (**⋮**) and then columns.
 - Click **+** to initiate a new request of payment for orders.  
 - Use the **(⋮)** menu on the top-right for additional admin actions or quick shortcuts.  
 
+### 4. Prompt Customers for Direct M-Pesa Payment
+- Click the specific customer and a right window will popup.
+- You can click Pay Now option and ensure the phone number is correct.
+- Click `Confirm Payment` and the customer will receive a prompt to enter their Mpesa Pin to finalize the order payment process.
+
+![Orders Page Mpesa Prompt](/seller/admin/020.png)
+
 
 ## Navigation Tips
 
