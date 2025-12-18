@@ -7,7 +7,7 @@ sidebar_position: 3
 ## In-app chat
 The best way to reach our support team is through WhatsApp chat. 
 Go to your profile tab in the Sevi app and click `Whatsapp support`
-Or click [here](http://wa.me/+254111534438) 
+Or click [+254111534438](http://wa.me/+254111534438)
 
 ## Web chat
 You can also reach our support chat through [www.sevi.io](https://www.sevi.io). Click the Chat icon in the bottom right corner.

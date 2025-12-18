@@ -14,26 +14,26 @@ const config: Config = {
   projectName: "Sevi", // Usually your repo name.
   plugins: [
     require.resolve("docusaurus-plugin-image-zoom"),
-    "@chatwoot/docusaurus-plugin",
+    // "@chatwoot/docusaurus-plugin",
   ],
   themeConfig: {
-    chatwoot: {
-      websiteToken: "Y9FefHJwed7PcDVbzZDzy1nD",
-      baseURL: "https://chat.sevi.io", // optional
-      enableInDevelopment: true, // optional
-      chatwootSettings: {
-        hideMessageBubble: false,
-        position: "right", // This can be left or right
-        locale: "en", // Language to be set
-        useBrowserLanguage: false, // Set widget language from user's browser
-        darkMode: "auto", // [light, auto]
-        type: "expanded_bubble",
-        launcherTitle: "Chat with us",
-      },
-    },
+    // chatwoot: {
+    //   websiteToken: "Y9FefHJwed7PcDVbzZDzy1nD",
+    //   baseURL: "https://chat.sevi.io", // optional
+    //   enableInDevelopment: true, // optional
+    //   chatwootSettings: {
+    //     hideMessageBubble: false,
+    //     position: "right", // This can be left or right
+    //     locale: "en", // Language to be set
+    //     useBrowserLanguage: false, // Set widget language from user's browser
+    //     darkMode: "auto", // [light, auto]
+    //     type: "expanded_bubble",
+    //     launcherTitle: "Chat with us",
+    //   },
+    // },
     algolia: {
-      appId: "P9NV8WT9M6",
-      apiKey: "ffe7c9b48a49f91d7384987ae404d829",
+      appId: "RF4RB6DWFR",
+      apiKey: "f6f6acda78f9440ad0b6cd1dea6a0c31",
       indexName: "sevi",
       contextualSearch: true,
     },
