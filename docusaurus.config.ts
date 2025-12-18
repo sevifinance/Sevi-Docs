@@ -16,6 +16,7 @@ const config: Config = {
     require.resolve("docusaurus-plugin-image-zoom"),
     // "@chatwoot/docusaurus-plugin",
   ],
+ 
   themeConfig: {
     // chatwoot: {
     //   websiteToken: "Y9FefHJwed7PcDVbzZDzy1nD",
@@ -148,6 +149,17 @@ const config: Config = {
         },
       } satisfies Preset.Options,
     ],
+  ],
+
+   scripts: [
+    {
+      src: "https://smile.sevi.io/assets/chat/chat-no-jquery.min.js",
+      async: false,
+    },
+    {
+      src: "/js/zammad-init.js",
+      async: true,
+    },
   ],
 };
 
