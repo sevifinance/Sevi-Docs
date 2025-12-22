@@ -30,5 +30,5 @@
 }
 
 .zammad-chat { 
-  display: block !important; /* force the widget to be visible */ 
+  display: flex !important; /* force the widget to be visible */ 
 }
