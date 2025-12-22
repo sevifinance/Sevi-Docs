@@ -151,16 +151,16 @@ const config: Config = {
     ],
   ],
 
-   scripts: [
-    {
-      src: "https://smile.sevi.io/assets/chat/chat-no-jquery.min.js",
-      async: false,
-    },
-    {
-      src: "/js/zammad-init.js",
-      async: true,
-    },
-  ],
+  //  scripts: [
+  //   {
+  //     src: "https://smile.sevi.io/assets/chat/chat-no-jquery.min.js",
+  //     async: false,
+  //   },
+  //   {
+  //     src: "/js/zammad-init.js",
+  //     async: true,
+  //   },
+  // ],
 };
 
 export default config;

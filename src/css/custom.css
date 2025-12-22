@@ -28,3 +28,7 @@
 .button {
   background-color: 'green';
 }
+
+.zammad-chat { 
+  display: block !important; /* force the widget to be visible */ 
+}
