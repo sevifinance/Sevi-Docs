@@ -39,6 +39,11 @@ If you need to create multiple requests at once:
 
 - The buyer(s) will receive **SMS notification** prompting them to confirm and choose their payment option in their Sevi App.
 
+### 4. Navigate to Payment Options  
+If you need to navigate to payment option to choose for the buyer:
+- After entry click **`Add & Pay`** to be navigated to payment options.  
+- Choose either Pay Later (Sevi) or Pay Now (Mpesa).
+
 
 ## What Happens Next
 - The created requests will appear under the **Orders** or **Payments** list with the status **Pending**.  
