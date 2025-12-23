@@ -8,9 +8,9 @@
 
 ### Profile
 
-You can now add a company profile including, logo, products and where you ship your products.
+You can now add a company profile including, logo, products and where you ship your products all under Settings then Profile.
 
-  ![[Screenshot 2025-09-26 at 11.05.33.png]]
+ ![Admin Profile Settings Page](/seller/admin/021.png)
 
 
 ## 0.0.3 - Admin - December 17 2025
