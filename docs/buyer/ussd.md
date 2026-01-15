@@ -22,11 +22,11 @@ c. selling company - 2200 KES - DUE - 06/26/2025
 d. selling company - 2200 KES - LATE - 06/26/2025
 e. selling company - 3402 KES - PAID - 07/04/2025
 
-5. Other options
+9. Other options
 ```
 
-Select an order → choose payment method (`Sevi Account`, `M-Pesa`, or `Bank`) →  
-If paying via Sevi Account: enter your Sevi PIN → payment completes.
+Select an order → choose payment method (`M-Pesa`, `Sevi Wallet`, or `Sevi Credit`) →  
+If paying via Sevi Wallet or Sevi Credit: enter your Sevi PIN → payment completes.
 
 ---
 
@@ -38,7 +38,6 @@ If you have no active orders, you will see the Main Menu:
 2. Verify Payment
 3. My account
 4. Support
-5. Transactions
 ```
 
 ---
@@ -61,7 +60,7 @@ Choosing **a** or **b** triggers an M-Pesa STK prompt where now you will enter y
 # 2. Main Menu Options
 
 ## **1. Pay Order**
-If you have orders you will see:
+If you have orders you will see maximum 5 latest orders:
 
 ```text
 Pay orders
@@ -71,7 +70,7 @@ c. selling company - 2200 KES - DUE - 06/26/2025
 d. selling company - 2200 KES - LATE - 06/26/2025
 e. selling company - 3402 KES - PAID - 07/04/2025
 
-5. Other options
+
 ```
 
 If no orders you will see:
@@ -112,7 +111,7 @@ If you have completed the initial steps of onboarding you will see:
 Wallet balance: 0 KES
 Available Pay Later balance: 2500 KES
 Open balance (what to pay): 0 KES
-Status: No available credit limit, onboard via app required
+Status: Account is able to trade on credit
 
 1. PIN Recovery
 2. Transactions
@@ -121,7 +120,7 @@ Status: No available credit limit, onboard via app required
 
 9. Main menu
 ```
-
+So Status will show "No available credit limit, onboard via app required" if there is no limit set
 ---
 
 ## **4. Support**
