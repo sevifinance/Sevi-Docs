@@ -120,7 +120,7 @@ Status: Account is able to trade on credit
 
 9. Main menu
 ```
-So Status will show "No available credit limit, onboard via app required" if there is no limit set
+
 ---
 
 ## **4. Support**
