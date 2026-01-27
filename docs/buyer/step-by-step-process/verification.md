@@ -8,7 +8,7 @@ Once you’ve completed your Sevi registration and set your business location, y
 
 During this stage, Sevi’s verification team will visit your shop to confirm your details and complete verification.  
 
-<img src="/buyer/008.png" alt="Unverified Buyer Dashboard" width="450"/>  
+<img src="/buyer/V0.71.95/005.png" alt="Unverified Buyer Dashboard" width="450"/>  
 
 
 ## What Happens During Verification
@@ -38,5 +38,5 @@ Once verification is successful:
 - A **credit limit** will be assigned to your account.  
 - You can now start **placing orders** with verified suppliers and enjoy **Order Now, Pay Later** Sevi option.  
 
-<img src="/buyer/012.png" alt="Verified Buyer Dashboard" width="450"/>  
+<img src="/buyer/V0.71.95/006.png" alt="Verified Buyer Dashboard" width="450"/>  
 
