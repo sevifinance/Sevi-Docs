@@ -8,37 +8,51 @@ As a verified Sevi Agent, you can onboard new buyers and start earning incentive
 Follow these steps:
 
 ## 1. Open Customer Management
-From your **Agent Home**, tap on **`Customers`**.  
+From your **Agent Accounts**, tap on **`Customers`**.  
 
 <!-- <div style="display: flex; gap: 10px; flex-wrap: wrap;"> -->
-  <img src="/agent/009.png" alt="Agent Home" width="300"/>  
-  <img src="/agent/010.png" alt="Customers List" width="300"/>  
+  <img src="/agent/V0.71.95/009.png" alt="Agent Home" width="300"/>  
+
 <!-- </div> -->
+
+On the first instance  it will showcase request for location access to display Buyers Near you on your route if you maybe need them:
+
+<img src="/agent/V0.71.95/010.png" alt="Agent Customers Buyer Near You Location access" width="250"/>  
+<img src="/agent/V0.71.95/011.png" alt="Location access request" width="250"/>  
+<img src="/agent/V0.71.95/012.png" alt="Agent Customers Buyers Near You" width="250"/>  
+
+You can switch to view **All Buyers** list if you want to view all customers you have onboarded as shown below.
+
+<img src="/agent/V0.71.95/013.png" alt="Agent Customers Buyer Near You Location access" width="250"/>  
+<img src="/agent/V0.71.95/014.png" alt="Agent All buyers list" width="250"/> 
 
 
 ## 2. Add a New Buyer
-On the **Customers** screen, tap **`Add New Buyer`**.  
+On the **Customers** screen, tap **`Add New Buyer`** a Modal will slide up.  
 
 Fill in the buyer’s details:  
 - **Shop Name** → The name the shop is commonly known by.  
 - **Phone Number** → The main phone number used for the business.  
+- **Select Seller** → The seller who will fullfill the orders.  
 
-<img src="/agent/011.png" alt="Add Buyer Form" width="300"/>  
+<img src="/agent/V0.71.95/015.png" alt="Add Buyer Form" width="300"/>  
+<img src="/agent/V0.71.95/017.png" alt="Select Seller Modal" width="300"/>  
+ 
 
 
 ## 3. Send Invitation
-Tap **`Onboard New Buyer`** to complete.  
+Tap **`Start Onboarding`** to complete.  
 
 - The buyer will receive an **SMS invitation** with a link to download and join Sevi.  
 
-<img src="/agent/012.png" alt="Onboard New Buyer" width="300"/>  
+<img src="/agent/V0.71.95/016.png" alt="Add Buyer Form Filled" width="300"/>  
 
 
 ## 4. Complete Buyer Account Setup
 After sending the invitation, you’ll be taken to the **Account Verification** screen.  
 Here, help the buyer complete their details:  
 
-<img src="/agent/013.png" alt="Verfiy Buyer Form" width="300"/>  
+<img src="/agent/V0.71.95/018.png" alt="Verfiy Buyer Form" width="300"/>  
 
 - ✅ **Phone Number** → Already captured.  
 - ✅ **Business Name** → Already captured.  
@@ -55,7 +69,8 @@ Here, help the buyer complete their details:
 - Once initial details are complete, the buyer will appear in your **Customer List** as **WAITING ON**.  
 - Our **due diligence team** will visit the buyer to verify the business.  
 
-<img src="/agent/014.png" alt="Customer List Status" width="300"/>  
+<img src="/agent/V0.71.95/019.png" alt="Customer All Buyers List Status" width="300"/>  
+<img src="/agent/V0.71.95/020.png" alt="Customer All Buyers List Status 2" width="300"/>  
 
 ## 6. ✅ Incentive Earned
 After successful verification:  
