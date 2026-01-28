@@ -14,21 +14,21 @@ If you have already completed the initial registration, Follow these steps:
 
    <!--- updated screenshot view arranged in 001 as step by step ---->
 
-   <img src="/agent/001.png" alt="menu" width="450"/>  
+   <img src="/agent/V0.71.95/001.png" alt="menu" width="450"/>  
 
 ## 2. **Add New Account**  
    Select **`Add New Account`** from the menu options. 
 
-   <img src="/agent/002.png" alt="menu option" width="450"/>  
+   <img src="/agent/V0.71.95/002.png" alt="menu option" width="450"/>  
 
 
 ## 3. **Choose Agent Account**  
    From the account type options, select **Agent Account** which is option **A** and Enter your name.  
 
-   <img src="/agent/003.png" alt="account type" width="450"/>  
+   <img src="/agent/V0.71.95/003.png" alt="account type" width="450"/>  
 
 
 ## 4. ✅ **All Done!**  
-   Press **`Create New Account`** and Your **Agent Account** is now linked to your personal account. You can start managing agent activities like creating payment, inviting customers and tracking transactions.  
+   Press **`Create New Account`** and Your **Agent Account** is now linked to your personal account. You can start managing agent activities like creating payments, inviting customers and tracking transactions.  
 
-   <img src="/agent/004.png" alt="success agent account" width="450"/>  
+   <img src="/agent/V0.71.95/004.png" alt="success agent account" width="450"/>  
