@@ -16,22 +16,25 @@ You’ll receive **SMS reminders** and **push notifications** so you never miss 
 
 
 ## Payment Overview  
-1. Open the **Payments** section in your Sevi App.  
-2. Select a specific payment request to view its details:  
-   - Total payment amount  
+1. On the **Payments** section in your Sevi App.  
+2. Select a specific payment request credit to view its details:  
+   - Total payment amount with Fees
    - Status (Pending, Paid, or Overdue)  
 
-<img src="/buyer/025.png" alt="Payments Overview" width="450"/>  
+   <img src="/buyer/V0.71.95/015.png" alt="Payments Overview" width="450"/>  
 
 
-## Check Payment Details  
-Tap **Pay** or **Repay** to see the full breakdown of your repayment:  
+## Check Credit Details  
+Tap **Repay** to see the full breakdown of your repayment credit:  
 - Amount already paid  
+- Fees charged  
 - Remaining balance  
 - Due date (date of automatic withdrawal)  
 
-<img src="/buyer/026.png" alt="Payment Details Screen" width="300"/>  
-<img src="/buyer/027.png" alt="Clear Payment Pay Screen" width="300"/>  
+   <img src="/buyer/V0.71.95/016.png" alt="Payment Details Screen" width="300"/>  
+   <img src="/buyer/V0.71.95/017.png" alt="Clear Payment Options Screen" width="300"/>  
+   <img src="/buyer/V0.71.95/018.png" alt="Clear Payment Mpesa Option Screen" width="300"/>  
+   <img src="/buyer/V0.71.95/019.png" alt="Clear Payment Mpesa Prompt Screen" width="300"/>  
 
 :::caution
 Ensure your Sevi wallet has enough balance **before the due date** to avoid failed or late payments.  
