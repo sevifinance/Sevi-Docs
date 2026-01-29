@@ -3,7 +3,7 @@ sidebar_position: 5
 ---
 # Payments Overview
 
-From your **Agent Home**, tap on **`Payments`** to see a list of all payment requests created for your buyers.  
+From your **Agent Accounts**, tap on **`Payments`** to see a list of all payment requests created for your buyers.  
 
 
 ## 1. View All Payments
@@ -15,9 +15,8 @@ From your **Agent Home**, tap on **`Payments`** to see a list of all payment req
   - **Seller Name**  
   - **Order Status**  
   - **Order Number**  
-
-<img src="/agent/025.png" alt="Agent Home Payments Tab" width="300"/>  
-<img src="/agent/026.png" alt="Payments List" width="300"/>  
+ 
+<img src="/agent/V0.71.95/027.png" alt="Payments List" width="300"/>  
 
 
 ## 2. Filter Payments
@@ -27,11 +26,12 @@ Use the **Filter** button at the top of the Payments screen to view specific pay
 - **Quote** (Pending) → Payment request that have been created but not yet confirmed.  
 - **Awaiting Shipment** → Payment request confirmed but orders not yet delivered.  
 - **Delivered** → Orders delivered to the buyer (awaiting payment if Pay Later).  
+- **Archived** → Orders cancelled/Deleted or stayed too long to be confirmed.  
 
-<img src="/agent/027.png" alt="Payments Filter" width="300"/>  
+<img src="/agent/V0.71.95/028.png" alt="Payments Filter" width="300"/>  
 
 
-## 3. Open Payment Details
+<!-- ## 3. Open Payment Details
 - Tap on any payment request in the list to view full details.  
 - The details screen includes:  
   - **Order Value**  
@@ -57,5 +57,5 @@ If the buyer still hasn’t confirmed payment and they want to pay directly:
 - Tap **Request Payment**.  
 - The buyer will receive an **M-Pesa prompt** on their phone to complete the payment instantly.  
 
-<img src="/agent/031.png" alt="Request Payment" width="300"/>  
+<img src="/agent/031.png" alt="Request Payment" width="300"/>    -->
 
