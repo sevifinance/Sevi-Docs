@@ -56,6 +56,7 @@ Here, help the buyer complete their details:
 
 - ✅ **Phone Number** → Already captured.  
 - ✅ **Business Name** → Already captured.  
+- ✅ **Seller Account** → Already captured.  
 - 🔑 **Set Access PIN** → Ask the buyer to set their PIN either via:  
     - USSD: `*789*7788#`  
     - The Sevi app.  
