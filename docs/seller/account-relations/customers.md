@@ -7,7 +7,7 @@ sidebar_position: 1
 The **Customers** section allows you to view and manage all buyers linked to your Sevi Seller account.
 
 ## Viewing Your Buyers
-1. From your Seller App, open the **Account Relations** section.  
+1. From your Seller App, open the **Relations** section.  
 2. Tap **Customers** to see a list of all buyers connected to your store.  
 3. Each buyer entry displays:
    - **Buyer Name**
@@ -15,13 +15,13 @@ The **Customers** section allows you to view and manage all buyers linked to you
    - **Status** (Pending, Waiting On, Active, or Inactive)
    - **Credit Limit** (if already verified)
 
-<img src="/seller/009.png" alt="Customers List Screen" width="300"/>
+<img src="/seller/V0.71.95/008.png" alt="Customers List Screen" width="300"/>
 
 
 ## Buyer Status Explained
 | **Status** | **Meaning** |
 |-------------|-------------|
-| **Pending** | Buyer has been invited but hasn’t completed registration. |
+| **Pending** | Buyer has been invited but hasn’t completed registration steps. |
 | **Waiting On** | Buyer completed initial registration and is awaiting verification. |
 | **Active** | Buyer has been verified by Sevi’s due diligence team and is eligible for credit. |
 | **Inactive** | Buyer has stopped transacting or was deactivated due to inactivity or default. |
@@ -45,8 +45,6 @@ When viewing a buyer’s profile, you can:
 - Create a **Payment Request** of orders for them.  
 - See all **payments history**.  
  
-
-<img src="/seller/010.png" alt="Buyer Details Screen" width="300"/>
 
 
 :::tip
