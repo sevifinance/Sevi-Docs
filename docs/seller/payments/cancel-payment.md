@@ -8,7 +8,7 @@ You can only **edit** or **cancel** a payment request **when its status is still
 Once the buyer confirms or pays, the request can no longer be changed.
 
 
-## 1. Open Payments Section
+<!-- ## 1. Open Payments Section
 - Go to your **Payments** tab.  
 - Tap on the payment request you want to manage.  
 - You’ll see the order details and available actions at the bottom of the screen.
@@ -56,4 +56,4 @@ You cannot edit or cancel a payment request once it has been confirmed or paid b
 
 
 
-**Next:** View [Payment Statuses and Meanings](/docs/seller/payments/payment-status)
+**Next:** View [Payment Statuses and Meanings](/docs/seller/payments/payment-status) -->
