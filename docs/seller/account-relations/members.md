@@ -10,14 +10,14 @@ Each member added is assigned a **role** that defines what actions they can perf
 
 
 ## Accessing the Members Section
-1. From your Seller App, go to **Account Relations → Members**.  
+1. From your Seller App, go to **Relations → Members**.  
 2. You’ll see a list of all users under your seller account.  
 3. Each entry shows:  
    - **Full Name**  
    - **Phone Number**  
    - **Role** (Admin, Member, or Agent)
 
-<img src="/seller/011.png" alt="Seller Members List" width="300"/>
+<img src="/seller/V0.71.95/009.png" alt="Seller Members List" width="300"/>
 
 
 ## Member Roles Explained
