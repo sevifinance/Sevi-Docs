@@ -2,21 +2,21 @@
 sidebar_position: 6
 ---
 
-# Transactions & Withdrawals
+# Statements & Withdrawals
 
-This section helps you **view all your transactions** and **withdraw funds** from your Sevi wallet to your preferred settlement account (M-Pesa or bank).  
+This section helps you **view all your statements** and **withdraw funds** from your Sevi wallet to your preferred settlement account (M-Pesa or bank).  
 
 
 ## View Transactions
 
-1. From your Seller Home screen, tap **`Transactions`**.  
-2. The **Transactions screen** displays all activities for your current account, including payments received and withdrawals made. You can tap on any payment to see more details. 
+1. From your Seller Accounts screen, tap **`Statements`**.  
+2. The **Statements screen** displays all activities for your current account, including payments received and withdrawals made. You can tap on any payment to see more details. 
 3. To refine your view:  
    - Tap the **calendar icon** to **filter by date range**.  
    - Or tap a **specific date** to view transactions for that day only.  
 
-<img src="/seller/014.png" alt="Transactions Button" width="300"/>  
-<img src="/seller/012.png" alt="Transactions Screen" width="300"/>  
+<img src="/seller/V0.71.95/010.png" alt="Statements Button" width="300"/>  
+<img src="/seller/V0.71.95/011.png" alt="Statements Screen" width="300"/>  
 <img src="/seller/013.png" alt="Calendar Filter" width="300"/>  
 
 :::tip
@@ -29,7 +29,7 @@ Filtering helps you track your daily, weekly, or monthly performance easily.
 When you receive payments to your Sevi account, you can withdraw your balance directly to **M-Pesa** or your **bank account**.
 
 ### Step 1: Open the Send Option
-From your Seller Home, tap the **`Send`** button next to your account balance.  
+From your Seller Accounts, tap the **`Send`** button next to your account balance.  
 
 
 ### Step 2: Add or Choose a Settlement Method
@@ -45,7 +45,7 @@ From your Seller Home, tap the **`Send`** button next to your account balance.
 - If you already have one:  
   Ensure the **desired method** is selected before proceeding.  
 
-<img src="/seller/settlement-selection.png" alt="Settlement Selection" width="300"/>
+<img src="/seller/V0.71.95/012.png" alt="Settlement Selection" width="300"/>
 
 
 ### Step 3: Enter Withdrawal Details
@@ -59,7 +59,7 @@ The withdrawal will be processed and sent to your selected settlement method.
 
 ### Step 4: Confirmation
 
-Once processed, your withdrawal will appear under your **Transactions** list.  
+Once processed, your withdrawal will appear under your **Statements** list.  
 If you encounter any delays or errors, please contact **Sevi Support** for assistance.
 
 
