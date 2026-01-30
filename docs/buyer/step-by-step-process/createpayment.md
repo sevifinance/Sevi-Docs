@@ -45,11 +45,11 @@ After checkout, you’ll receive a notification in your Sevi app with the paymen
 
 ## Next Step: Confirm & Choose Payment Option  
 Once your payment request appears in Sevi (from either method), you must confirm and select how to pay:  
-- **Pay Later** (Order Now, Pay Later on credit).  
-- **Pay Directly** (instant payment via M-Pesa).  
+- **Pay Later** (Order Now, Pay Later on credit by switching on `use Full Credit` if it sustains).  
+- **Pay Now** (instant payment if credit available cannot sustain, next step pay via M-Pesa Prompt or Sevi Wallet).  
 
 :::caution
-Kindly tap `Confirm & Pay` once your goods have been delivered by the supplier. (Depending on your Supplier Terms)  
+Kindly tap `Confirm Payment` once your goods have been delivered by the supplier. (Depending on your Supplier Terms)  
 :::  
 
 
