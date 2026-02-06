@@ -44,7 +44,7 @@ Ensure your Sevi wallet has enough balance **before the due date** to avoid fail
 ## Pay Early  
 Want to clear your balance before the due date?  
 - Go to **Payments**.  
-- Tap **Pay** or **Repay** to make an early payment.  
+- Tap **Repay** to make an early payment.  
 
 :::tip
 Paying early builds trust with Sevi and can help increase your credit limit.  
