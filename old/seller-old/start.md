@@ -28,7 +28,6 @@ Sevi facilitates the payment option of Order now, Pay later. You remain in contr
 - Setting credit configurations
 - Payment integrations to Mobile Money and Bank
 - API integration
-- WooCommerce plugin
 
 ### Agent feature
 When your customer does not have a Smartphone, your sales agents are able to perform all steps on behalf of your customer. We have created a step-by-step guide for: 

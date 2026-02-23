@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c906d6350a1864d3",
+        "id": "4aa40e673b461af9",
         "type": "tabs",
         "children": [
           {
-            "id": "8d80ac5d05011978",
+            "id": "92dfe5b43b2c1764",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "releases.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "releases"
+              "title": "New tab"
             }
           }
         ]
@@ -164,8 +160,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d80ac5d05011978",
+  "active": "502cd82aee8e0f8d",
   "lastOpenFiles": [
+    "seller/payments/_category_.json",
+    "seller/download-launch-plan/seller-launch.md",
+    "seller/download-launch-plan/_category_.json",
+    "seller/download-launch-plan",
+    "seller/admin/setting/_category_.json",
+    "seller/admin/dashboard.md",
+    "seller/admin/_category_.json",
+    "seller/account-relations/_category_.json",
+    "buyer/step-by-step-process/createpayment.md",
+    "agent/download-pdf-handout/product-training.md",
+    "agent/download-pdf-handout/_category_.json",
+    "agent/download-pdf-handout",
+    "Releases.md",
+    "Untitled.md",
     "Screenshot 2025-09-26 at 11.05.33.png",
     "developer/paymentLink.md",
     "buyer/subscriptions/prepaid-plan.md",
@@ -176,30 +186,18 @@
     "buyer/step-by-step-process/payinstalments.md",
     "buyer/step-by-step-process/orderproducts.md",
     "buyer/step-by-step-process/_category_.json",
-    "buyer/step-by-step-process",
     "buyer/growth.md",
     "buyer/benefits-and-policies/creditlimit.md",
     "buyer/benefits-and-policies/cashback.md",
     "buyer/benefits-and-policies/buyerProtection.md",
-    "buyer/benefits-and-policies/_category_.json",
-    "buyer/benefits-and-policies",
     "agent/create-payment-request.md",
     "developer/returnURL.md",
     "developer/steps.md",
     "developer/testing.md",
     "developer/authentication.md",
-    "developer/WooCommerce.md",
     "developer/intro.md",
     "developer/mobile.md",
     "developer/webhook/whitelist.md",
-    "developer/webhook/transactions.md",
-    "developer/webhook/orderPayment.md",
-    "developer/webhook/intro.md",
-    "agent/refresh.md",
-    "agent/manage-buyers.md",
-    "agent/version.md",
-    "about",
-    "agent/_category_.json",
     "developer/API/image/customerStatus/1684154631421.png",
     "developer/API/image/customerStatus/1684154602322.png"
   ]

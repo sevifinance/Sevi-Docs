@@ -21,7 +21,6 @@ Let your customers easy checkout with "buy now, pay later" payment option. You c
 ## Supported integrations
 
 Sync your online orders with Sevi with:
-- Woocommerce
 - Joomla
 - Shopify
 - WIX
