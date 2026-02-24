@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4aa40e673b461af9",
+        "id": "95e51fa16399fc3f",
         "type": "tabs",
         "children": [
           {
-            "id": "92dfe5b43b2c1764",
+            "id": "65806a76ab9361e5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -160,7 +160,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "502cd82aee8e0f8d",
+  "active": "65806a76ab9361e5",
   "lastOpenFiles": [
     "seller/payments/_category_.json",
     "seller/download-launch-plan/seller-launch.md",
