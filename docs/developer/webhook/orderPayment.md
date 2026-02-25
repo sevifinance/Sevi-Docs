@@ -27,12 +27,12 @@ When a payment for an order is received, our system triggers a webhook event. Th
 
 ## Payload Reference
 
-The webhook sends a JSON body with two top-level keys: `order` and `customerVendor`.
+The webhook sends a JSON body with two top-level keys: `order` and `customer`.
 
 ```json
 {
   "order":  { ... },
-  "customerVendor":  { ... }
+  "customer":  { ... }
 }
 ```
 
@@ -116,7 +116,7 @@ Billing address. `null` if not provided.
 | `email` | `string \| null` | Email |
 | `phoneNumber` | `string \| null` | Phone number |
 
-### `customerVendor`
+### `customer`
 
 Customer details as known by the vendor. `null` if the customer/vendor relationship is not found.
 
@@ -205,7 +205,7 @@ Customer details as known by the vendor. `null` if the customer/vendor relations
       "phoneNumber": "+254712345678"
     }
   },
-  "customerVendor": {
+  "customer": {
     "name": "John Doe",
     "email": "john@example.com",
     "reference": "CUS018082",

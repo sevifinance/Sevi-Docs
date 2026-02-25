@@ -57,7 +57,7 @@ Present when the transaction is linked to an order (`orderId` is not null). Cont
 | `shipping` | `object \| null` | Shipping address (see [Order Payment](./orderPayment.md) docs) |
 | `billing` | `object \| null` | Billing address (see [Order Payment](./orderPayment.md) docs) |
 
-#### `order.customerVendor`
+#### `order.customer`
 
 Customer details as known by the vendor. `null` if not available.
 
@@ -107,7 +107,7 @@ Customer details as known by the vendor. `null` if not available.
       }
     ],
     "createdAt": "2025-01-15T09:00:00.000Z",
-    "customerVendor": {
+    "customer": {
       "name": "John Doe",
       "email": "john@example.com",
       "reference": "CUS018082",
