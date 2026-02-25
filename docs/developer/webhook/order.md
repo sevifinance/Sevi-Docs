@@ -1,6 +1,6 @@
 # Order
 
-## Handling Order Payment Webhook Events
+## Handling Order Webhook Events
 
 ### Overview
 
@@ -16,6 +16,7 @@ When a update for an order is received, our system triggers a webhook event. Thi
 * **PAID**: The payment from the customer has been successfully processed. 
 * **PENDING**: The payment has not yet been completed. Implement appropriate logic to handle incomplete or failed payments.
 
+note: having a payment status of PAID does not always mean you the seller also got paid. Payment happends when order is marked as delivered in the Sevi system. 
 ### Best Practices
 
 * **Logging**: Keep logs of the webhook events for troubleshooting and auditing purposes.
