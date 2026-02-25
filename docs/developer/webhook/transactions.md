@@ -4,7 +4,7 @@
 
 ### Overview
 
-The transaction webhook fires for every transaction that occurs on your wallet. This includes order payments, settlements, and other wallet operations. The webhook sends an HTTP POST request with the transaction details and optionally the related order.
+The transaction webhook fires for every transaction that occurs on your wallet. This includes order payments, settlements, and other wallet operations. The webhook sends an HTTP POST request with the transaction details and optionally the related order and customer.
 
 ### Webhook Event Details
 
@@ -16,7 +16,7 @@ The transaction webhook fires for every transaction that occurs on your wallet. 
 
 ## Payload Reference
 
-The webhook sends a JSON body with the transaction fields at the top level, plus an optional `order` object.
+The webhook sends a JSON body with the transaction fields at the top level, plus optional `order` and `customer` objects.
 
 ### Transaction Fields
 
@@ -39,7 +39,7 @@ The webhook sends a JSON body with the transaction fields at the top level, plus
 
 ### `order` (optional)
 
-Present when the transaction is linked to an order (`orderId` is not null). Contains the order information along with shipping, billing and customer details.
+Present when the transaction is linked to an order (`orderId` is not null). Contains the order information along with shipping and billing details.
 
 | Field | Type | Description |
 |---|---|---|
@@ -57,9 +57,9 @@ Present when the transaction is linked to an order (`orderId` is not null). Cont
 | `shipping` | `object \| null` | Shipping address (see [Order Payment](./orderPayment.md) docs) |
 | `billing` | `object \| null` | Billing address (see [Order Payment](./orderPayment.md) docs) |
 
-#### `order.customer`
+### `customer` (optional)
 
-Customer details as known by the vendor. `null` if not available.
+Present when the transaction is linked to an order that has a customer/vendor relationship. Customer details as known by the vendor.
 
 | Field | Type | Description |
 |---|---|---|
@@ -107,12 +107,6 @@ Customer details as known by the vendor. `null` if not available.
       }
     ],
     "createdAt": "2025-01-15T09:00:00.000Z",
-    "customer": {
-      "name": "John Doe",
-      "email": "john@example.com",
-      "reference": "CUS018082",
-      "phoneNumbers": ["+254712345678"]
-    },
     "shipping": {
       "id": "01234567-abcd-...",
       "firstName": "John",
@@ -148,10 +142,16 @@ Customer details as known by the vendor. `null` if not available.
       "email": "john@example.com",
       "phoneNumber": "+254712345678"
     }
+  },
+  "customer": {
+    "name": "John Doe",
+    "email": "john@example.com",
+    "reference": "CUS018082",
+    "phoneNumbers": ["+254712345678"]
   }
 }
 ```
 
 :::note
-The `order` field is only present when the transaction is linked to an order. For standalone transactions (e.g. settlements, top-ups), this field will not be included.
+The `order` and `customer` fields are only present when the transaction is linked to an order. For standalone transactions (e.g. settlements, top-ups), these fields will not be included.
 :::
