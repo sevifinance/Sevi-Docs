@@ -39,7 +39,7 @@ The webhook sends a JSON body with the transaction fields at the top level, plus
 
 ### `order` (optional)
 
-Present when the transaction is linked to an order (`orderId` is not null). Contains a subset of order information.
+Present when the transaction is linked to an order (`orderId` is not null). Contains the order information along with shipping, billing and customer details.
 
 | Field | Type | Description |
 |---|---|---|
@@ -54,9 +54,19 @@ Present when the transaction is linked to an order (`orderId` is not null). Cont
 | `phoneNumber` | `string \| null` | Customer phone number |
 | `items` | `json \| null` | Order line items |
 | `createdAt` | `datetime` | Order creation timestamp |
-| `user` | `object \| null` | `{ "name": "string \| null" }` |
 | `shipping` | `object \| null` | Shipping address (see [Order Payment](./orderPayment.md) docs) |
 | `billing` | `object \| null` | Billing address (see [Order Payment](./orderPayment.md) docs) |
+
+#### `order.customerVendor`
+
+Customer details as known by the vendor. `null` if not available.
+
+| Field | Type | Description |
+|---|---|---|
+| `name` | `string \| null` | Customer name |
+| `email` | `string \| null` | Customer email |
+| `reference` | `string \| null` | Customer reference in the vendor's system |
+| `phoneNumbers` | `string[]` | Customer phone numbers |
 
 ---
 
@@ -97,8 +107,11 @@ Present when the transaction is linked to an order (`orderId` is not null). Cont
       }
     ],
     "createdAt": "2025-01-15T09:00:00.000Z",
-    "user": {
-      "name": "John Doe"
+    "customerVendor": {
+      "name": "John Doe",
+      "email": "john@example.com",
+      "reference": "CUS018082",
+      "phoneNumbers": ["+254712345678"]
     },
     "shipping": {
       "id": "01234567-abcd-...",

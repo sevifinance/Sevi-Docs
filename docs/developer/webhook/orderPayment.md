@@ -27,12 +27,12 @@ When a payment for an order is received, our system triggers a webhook event. Th
 
 ## Payload Reference
 
-The webhook sends a JSON body with two top-level keys: `order` and `users`.
+The webhook sends a JSON body with two top-level keys: `order` and `customerVendor`.
 
 ```json
 {
   "order":  { ... },
-  "users":  [ ... ]
+  "customerVendor":  { ... }
 }
 ```
 
@@ -70,39 +70,6 @@ Always present. Contains the order details and related information.
 | `createdByCustomer` | `boolean \| null` | Whether order was created by the customer |
 | `createdAt` | `datetime` | Creation timestamp |
 | `approvedByVendor` | `datetime \| null` | When approved by vendor |
-
-#### `order.vendorWallet`
-
-The seller's wallet information. `null` if not available.
-
-| Field | Type | Description |
-|---|---|---|
-| `name` | `string \| null` | Wallet / store name |
-| `account` | `string` | Wallet account identifier |
-| `category` | `string \| null` | Business category |
-| `status` | `string \| null` | `ACTIVE`, `IN_ACTIVE`, etc. |
-| `type` | `string` | `BUSINESS`, `PERSONAL`, etc. |
-| `currency` | `string \| null` | Wallet currency |
-| `picture` | `string \| null` | Wallet profile picture URL |
-| `tags` | `string[]` | Tags assigned to the wallet |
-
-#### `order.customer`
-
-The buyer's wallet information. Same shape as `vendorWallet`. `null` if not available.
-
-#### `order.user`
-
-The buyer's user profile. `null` if not available.
-
-| Field | Type | Description |
-|---|---|---|
-| `name` | `string \| null` | Full name |
-| `phoneNumber` | `string \| null` | Primary phone number |
-| `email` | `string \| null` | Email address |
-| `countryCode` | `string \| null` | `KE`, `UG`, etc. |
-| `userPhoto` | `string \| null` | Profile picture URL |
-| `companyName` | `string \| null` | Company name |
-| `documentId` | `string \| null` | National ID number |
 
 #### `order.shipping`
 
@@ -149,18 +116,16 @@ Billing address. `null` if not provided.
 | `email` | `string \| null` | Email |
 | `phoneNumber` | `string \| null` | Phone number |
 
-### `users`
+### `customerVendor`
 
-Array of admin users linked to the customer's wallet. Empty array if no customer or no admin users.
-
-Each entry has:
+Customer details as known by the vendor. `null` if the customer/vendor relationship is not found.
 
 | Field | Type | Description |
 |---|---|---|
-| `userId` | `string` | User ID |
-| `walletId` | `string` | Wallet account |
-| `role` | `string` | Always `ADMIN` |
-| `user` | `object` | User profile (same shape as `order.user`) |
+| `name` | `string \| null` | Customer name |
+| `email` | `string \| null` | Customer email |
+| `reference` | `string \| null` | Customer reference in the vendor's system |
+| `phoneNumbers` | `string[]` | Customer phone numbers |
 
 ---
 
@@ -204,35 +169,6 @@ Each entry has:
     "createdByCustomer": false,
     "createdAt": "2025-01-15T09:00:00.000Z",
     "approvedByVendor": "2025-01-15T09:05:00.000Z",
-    "vendorWallet": {
-      "name": "Acme Store",
-      "account": "WAL-vendor-...",
-      "category": "retail",
-      "status": "ACTIVE",
-      "type": "BUSINESS",
-      "currency": "KES",
-      "picture": "https://...",
-      "tags": []
-    },
-    "customer": {
-      "name": "John's Account",
-      "account": "WAL-buyer-...",
-      "category": null,
-      "status": "ACTIVE",
-      "type": "PERSONAL",
-      "currency": "KES",
-      "picture": null,
-      "tags": []
-    },
-    "user": {
-      "name": "John Doe",
-      "phoneNumber": "+254712345678",
-      "email": "john@example.com",
-      "countryCode": "KE",
-      "userPhoto": "https://...",
-      "companyName": null,
-      "documentId": "12345678"
-    },
     "shipping": {
       "id": "01234567-abcd-...",
       "firstName": "John",
@@ -269,21 +205,11 @@ Each entry has:
       "phoneNumber": "+254712345678"
     }
   },
-  "users": [
-    {
-      "userId": "01234567-abcd-...",
-      "walletId": "WAL-buyer-...",
-      "role": "ADMIN",
-      "user": {
-        "name": "John Doe",
-        "phoneNumber": "+254712345678",
-        "email": "john@example.com",
-        "countryCode": "KE",
-        "userPhoto": "https://...",
-        "companyName": null,
-        "documentId": "12345678"
-      }
-    }
-  ]
+  "customerVendor": {
+    "name": "John Doe",
+    "email": "john@example.com",
+    "reference": "CUS018082",
+    "phoneNumbers": ["+254712345678"]
+  }
 }
 ```
