@@ -1,5 +1,5 @@
 # Whitelist IP's
 
-You can expect webhook traffic comming from any of the following IP's. Please whitelist these
+You can expect webhook traffic comming from the following IP. 
 
 78.47.73.35
