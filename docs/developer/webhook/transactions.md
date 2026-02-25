@@ -54,8 +54,8 @@ Present when the transaction is linked to an order (`orderId` is not null). Cont
 | `phoneNumber` | `string \| null` | Customer phone number |
 | `items` | `json \| null` | Order line items |
 | `createdAt` | `datetime` | Order creation timestamp |
-| `shipping` | `object \| null` | Shipping address (see [Order Payment](./orderPayment.md) docs) |
-| `billing` | `object \| null` | Billing address (see [Order Payment](./orderPayment.md) docs) |
+| `shipping` | `object \| null` | Shipping address (see [Order Payment](developer/webhook/order.md) docs) |
+| `billing` | `object \| null` | Billing address (see [Order Payment](developer/webhook/order.md) docs) |
 
 ### `customer` (optional)
 

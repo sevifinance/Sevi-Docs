@@ -1,10 +1,10 @@
-# Order Payment
+# Order
 
 ## Handling Order Payment Webhook Events
 
 ### Overview
 
-When a payment for an order is received, our system triggers a webhook event. This event is sent as an HTTP POST request to the endpoint you have specified in the admin dashboard.
+When a update for an order is received, our system triggers a webhook event. This event is sent as an HTTP POST request to the endpoint you have specified in the admin dashboard.
 
 ### Setting Up the Webhook Endpoint
 
@@ -13,7 +13,7 @@ When a payment for an order is received, our system triggers a webhook event. Th
 
 ### Handling the `paymentStatus`
 
-* **PAID**: The payment has been completed successfully. You can safely update the order to a 'Delivered' state in your system.
+* **PAID**: The payment from the customer has been successfully processed. 
 * **PENDING**: The payment has not yet been completed. Implement appropriate logic to handle incomplete or failed payments.
 
 ### Best Practices

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "developer/webhook/whitelist.md",
+                "file": "developer/webhook/order.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "whitelist"
+              "title": "order"
             }
           }
         ]
@@ -166,6 +166,7 @@
   },
   "active": "65806a76ab9361e5",
   "lastOpenFiles": [
+    "developer/webhook/whitelist.md",
     "seller/payments/_category_.json",
     "seller/download-launch-plan/seller-launch.md",
     "seller/download-launch-plan/_category_.json",
@@ -189,7 +190,6 @@
     "buyer/step-by-step-process/register.md",
     "buyer/step-by-step-process/payinstalments.md",
     "buyer/step-by-step-process/orderproducts.md",
-    "buyer/step-by-step-process/_category_.json",
     "buyer/growth.md",
     "buyer/benefits-and-policies/creditlimit.md",
     "buyer/benefits-and-policies/cashback.md",
@@ -201,7 +201,6 @@
     "developer/authentication.md",
     "developer/intro.md",
     "developer/mobile.md",
-    "developer/webhook/whitelist.md",
     "developer/API/image/customerStatus/1684154631421.png",
     "developer/API/image/customerStatus/1684154602322.png"
   ]
