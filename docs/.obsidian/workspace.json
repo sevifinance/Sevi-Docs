@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "developer/webhook/order.md",
+                "file": "developer/webhook/whitelist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "order"
+              "title": "whitelist"
             }
           }
         ]
@@ -166,6 +166,7 @@
   },
   "active": "65806a76ab9361e5",
   "lastOpenFiles": [
+    "developer/webhook/order.md",
     "developer/webhook/whitelist.md",
     "seller/payments/_category_.json",
     "seller/download-launch-plan/seller-launch.md",
