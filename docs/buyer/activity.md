@@ -3,13 +3,13 @@ sidebar_position: 5
 ---
 # Activity
 
-The **Activity** screen helps you keep track of everything happening in your Personal account.  
+The **Activity** screen helps you keep track of everything happening in your Personal account. All notifications are also shown here.  
 
 
 ## 1. Open Activity
-- From the **app bar**, tap on **`Activity`**.  
+- From the **app tabs**, tap on **`Activity`**.  
 
-<img src="/buyer/017.png" alt="Buyer Activity Screen" width="450"/> 
+<img src="/buyer/V0.71.109/activity.png" alt="activity screen" width="450" style={{marginRight: '12px', marginBottom: '12px'}} />  
 <!-- <img src="/agent/activity.png" alt="Activity Screen" width="300"/>   -->
 
 
@@ -18,7 +18,8 @@ The **Activity** screen helps you keep track of everything happening in your Per
 - Activities may include:  
   - Badge earned  
   - New payment requests created  
-  - Payments for orders confirmed  
+  - Payments for orders confirmed
+  - Credits Penalties and etc  
 
 
 ## 3. See More Details
