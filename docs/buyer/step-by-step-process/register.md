@@ -20,12 +20,12 @@ Sevi registration is **only available on Android**.
 - Enter your **phone number** (use your main active line, Safaricom).  
 - Tap **Continue** to send a Verification Code.  
 
-  <img src="/buyer/V0.71.95/001.png" alt="Welcome Screen" width="300"/>  
-  <img src="/buyer/V0.71.95/002.png" alt="Phone number verification onboarding" width="300"/>  
+  <img src="/buyer/V0.71.109/001.png" alt="Welcome Screen" width="300"/>  
+  <img src="/buyer/V0.71.109/002.png" alt="Phone number verification onboarding" width="300"/>  
 
 You’ll receive a **One-Time Password (OTP)** by SMS. Enter the OTP to confirm your number.  
 
-  <img src="/buyer/V0.71.95/003.png" alt="OTP Verification onboarding" width="300"/>  
+  <img src="/buyer/V0.71.109/003.png" alt="OTP Verification onboarding" width="300"/>  
 
 
 :::tip
@@ -43,10 +43,10 @@ After verifying your phone number, complete the onboarding form:
 - **Credit Terms** → Read and agree to Sevi’s terms.  
 
 
-  <img src="/buyer//V0.71.95/004.png" alt="Onboarding initial informations" width="250"/>  
+  <img src="/buyer/V0.71.109/004.png" alt="Onboarding initial informations" width="250"/>  
   <img src="/buyer/005.png" alt="Business Location Map Screen" width="250"/>  
-  <!-- <img src="/buyer/006.png" alt="Agreement Screen" width="250"/>   -->
-  
+  <img src="/buyer/V0.71.109/agree.png" alt="Agreement Screen" width="250"/>  
+   
 
 📍 Once you set your location and agree to the terms, your account will move to **Waiting on Verification** status.  
 
@@ -64,7 +64,7 @@ Never share your PIN with anyone. Sevi will never ask for it.
 ## 4. ✅ All Done (Next Steps)
 Your Sevi personal account has now been created.  
 
-<img src="/buyer/V0.71.95/005.png" alt="Buyer Dashboard" width="300"/>  
+<img src="/buyer/V0.71.109/005.png" alt="Buyer Dashboard" width="300"/>  
 
 What happens next:  
 - Our **verification team** will visit your business to complete verification.  
