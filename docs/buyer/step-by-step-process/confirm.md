@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Step 3: Confirm Payments
+# Step 4: Confirm Payments
 
 Once your payment request appears in Sevi, you must confirm and select how to pay:  
 - **Lipa na Sevi** (Pay with your Sevi credit limit) - This is a full credit option if your limit sustains the full order amount. 
