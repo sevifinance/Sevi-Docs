@@ -8,9 +8,9 @@ Before making payments or repaying your credit with Sevi, you need to **top up y
 
 
 ## Step 1: Open Top-Up  
-From your Accounts, tap on **`Top Up`** near your wallet balance.  
+From your Accounts screen, tap on **`Top Up`** near your wallet balance.  
 
-<img src="/buyer/V0.71.95/021.png" alt="Top-Up Button Accounts screen" width="300"/> 
+<img src="/buyer/V0.71.109/021.png" alt="Top-Up Button Accounts screen" width="300"/> 
  
 
 
@@ -18,8 +18,8 @@ From your Accounts, tap on **`Top Up`** near your wallet balance.
 - Select the **phone number** you want to use for payment.  
 - Enter the **amount** you want to top up should be more than 20KES.  
 
-    <img src="/buyer/V0.71.95/022.png" alt="Top-Up Amount Entry" width="300"/>  
-    <img src="/buyer/V0.71.95/023.png" alt="Top-Up Mpesa Prompt Screen" width="300"/>  
+    <img src="/buyer/V0.71.109/022.png" alt="Top-Up Amount Entry" width="300"/>  
+    <img src="/buyer/V0.71.109/013.png" alt="Top-Up Mpesa Prompt Screen" width="300"/>  
 
 An **M-Pesa pop-up** will appear on your phone.  
 Confirm the details and enter your **M-Pesa PIN**.  
