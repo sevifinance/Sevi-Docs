@@ -7,6 +7,14 @@ sidebar_position: 4
 Your credit limit with Sevi grows as you build trust and demonstrate consistent business activity.  
 Here’s how you can improve and expand your limit.  
 
+Go to your Accounts Screen and Tap `Increase` near Your Credit Limit, to be taken to Growth Screen.
+
+<div align="left">
+
+<img src="/buyer/V0.71.109/growth1.png" alt="accounts screen to growth screen" width="250" style={{marginRight: '12px', marginBottom: '12px'}} />
+<img src="/buyer/V0.71.109/growth2.png" alt="growth screen" width="250" style={{marginRight: '12px', marginBottom: '12px'}} />
+
+</div>
 
 ## 1. Upload Updated Statements
 To strengthen your profile, upload financial documents directly in the **Growth** screen:  
@@ -24,18 +32,28 @@ Regular business orders show reliability.
 - Placing **12 orders in a row** that are **10% above your current credit limit** will automatically trigger a credit review.  
 - If consistent, your **limit will grow step by step**.  
 
-<img src="/buyer/018.png" alt="Growth Progress Screen" width="450"/>  
+<img src="/buyer/V0.71.109/growth2.png" alt="growth screen" width="450" style={{marginRight: '12px', marginBottom: '12px'}} />  
 
 
 ## 3. Update Personal Information
 At the bottom of the Growth screen, you can update important personal and account details:  
 
-<img src="/buyer/019.png" alt="Personal Information Growth Screen" width="300"/>  
+<img src="/buyer/V0.71.109/growth3.png" alt="growth screen" width="300" style={{marginRight: '12px', marginBottom: '12px'}} /> 
 
 
 ### Email Address  
 - Add a valid email for notifications and support.  
-<img src="/buyer/020.png" alt="Buyer Email Screen" width="300"/>  
+<img src="/buyer/V0.71.109/growth4.png" alt="growth screen" width="300" style={{marginRight: '12px', marginBottom: '12px'}} />  
+
+
+### Next of Kin  
+- Add a trusted contact person.  
+- Provide their **Name** and **Phone Number**.  
+
+<img src="/buyer/V0.71.109/growth5.png" alt="growth screen" width="300" style={{marginRight: '12px', marginBottom: '12px'}} />   
+
+This ensures your account has a secondary contact in case of emergencies. 
+
 
 ### Settlement Account  
 When you withdraw funds from your Sevi wallet (using the **Send** button on your dashboard), the payout will be sent to your chosen settlement account.  
@@ -47,14 +65,6 @@ You can set:
 <img src="/buyer/021.png" alt="Settlement Account Bank Option" width="250"/>  
 <img src="/buyer/022.png" alt="Settlement Account Mpesa Option" width="250"/>  
 <img src="/buyer/023.png" alt="Settlement Account Till Option" width="250"/>  
-
-### Next of Kin  
-- Add a trusted contact person.  
-- Provide their **Name** and **Phone Number**.  
-
-<img src="/buyer/024.png" alt="Buyer Next of Kin Screen" width="250"/>  
-
-This ensures your account has a secondary contact in case of emergencies.  
 
 
 ## ✅ Best Practices to Grow Faster
