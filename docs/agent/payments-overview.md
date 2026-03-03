@@ -16,7 +16,7 @@ From your **Agent Accounts**, tap on **`Payments`** to see a list of all payment
   - **Order Status**  
   - **Order Number**  
  
-<img src="/agent/V0.71.95/027.png" alt="Payments List" width="300"/>  
+<img src="/agent/V0.71.109/027.png" alt="Payments List" width="300"/>  
 
 
 ## 2. Filter Payments
@@ -25,10 +25,30 @@ Use the **Filter** button at the top of the Payments screen to view specific pay
 - **Show All** → Displays every payment request.  
 - **Quote** (Pending) → Payment request that have been created but not yet confirmed.  
 - **Awaiting Shipment** → Payment request confirmed but orders not yet delivered.  
-- **Delivered** → Orders delivered to the buyer (awaiting payment if Pay Later).  
+- **Delivered** → Orders delivered to the buyer.  
 - **Archived** → Orders cancelled/Deleted or stayed too long to be confirmed.  
 
-<img src="/agent/V0.71.95/028.png" alt="Payments Filter" width="300"/>  
+<img src="/agent/V0.71.109/028.png" alt="Payments Filter" width="300"/>  
+
+
+## 3. Open Payment Details
+- Tap on any payment request in the list to view full details.  
+- The details screen includes:  
+  - **Order Value**  
+  - **Seller Name**  
+  - **Buyer Name**  
+  - **Created Date**  
+
+<img src="/agent/V0.71.109/027.png" alt="Payment Details" width="300"/>  
+
+
+## 4. Manage a Payment Request
+From the payment details screen, you can:  
+- ✏️ **Edit Payment** → Update order amount if needed or make correction.  
+
+<img src="/agent/V0.71.109/029.png" alt="Payment Edit Action" width="300"/>  
+<img src="/agent/V0.71.109/030.png" alt="Payment Edit Action 1" width="300"/>  
+<!-- <img src="/agent/V0.71.109/031.png" alt="Payment Edited" width="300"/>   -->
 
 
 <!-- ## 3. Open Payment Details
