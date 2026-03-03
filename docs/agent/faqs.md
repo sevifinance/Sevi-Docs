@@ -36,15 +36,12 @@ The Agent that completes fully the onboarding of the buyer, is the one the syste
 ## 5. Can I edit or cancel payment request after creating it?
 - Yes. From the **Payments → More Details** screen, you can:  
   - ✏️ Edit Payment  
-  - ❌ Cancel Payment  
-  - 📲 Request Payment  
+  
   
 > **NOTE**: Only when the status is **PENDING**
 
 ## 6. What should I remind buyers when paying?
-- Buyers should **only confirm & pay** once they have received their delivery. (Depending on the Seller, it can be Before Delivery)  
-- For Pay Directly orders, an **M-Pesa prompt** will appear on their phone.  
-- For Pay Later orders, payment is due as per Sevi credit terms.  
+- Buyers should **only confirm payment** once they have received their delivery. (Depending on the Seller, it can be Before Delivery)  
 
 
 ## 7. What if my app keeps crashing or freezing?
