@@ -8,15 +8,15 @@ As a Sevi Agent (Seller Rep), you can create payment request of orders on behalf
 Follow these steps:
 
 ## 1. Open Payment Request
-From your **Agent Accounts**, tap on **`Request Payment`**.  
+From the first intance you will be shown the payment request screen or tap on **New** the **`+`** sign.  
 
-  <img src="/agent/V0.71.95/021.png" alt="Agent Home" width="300"/>  
+  <img src="/agent/V0.71.109/021.png" alt="Agent Home" width="300"/>  
 
 
 ## 2. Start a New payment Request
-Tap **`Request Payment`** to open the order form.  
+Tap **`+`** to open the order form.  
 
-  <img src="/agent//V0.71.95/022.png" alt="Create Order Form" width="300"/>  
+  <img src="/agent//V0.71.109/022.png" alt="Create Order Form" width="300"/>  
 
 
 ## 3. Fill in Order Details
@@ -30,20 +30,22 @@ On the order form, complete the following fields:
   - **Pay Later** → Buyer pays later as per the credit terms (Order Now, Pay Later).  
   - **Pay Directly** → Buyer pays immediately using M-Pesa to confirm the order.   -->
  
+- **Order Amount** → The total amount requested by the buyer on the order. *(Mandatory)* 
 - **Invoice Upload** → Attach invoice or supporting documents (optional). 
-- **Order Amount** → The total amount requested by the buyer on the order. *(Mandatory)*  
 
 
-<img src="/agent//V0.71.95/023.png" alt="Order Details" width="300"/>  
+<img src="/agent//V0.71.109/023.png" alt="Order Details" width="300"/>  
 
 
 ## 4. Create Payment Request
 Once all details are filled in:  
-- Tap **`Continue`** whereby a modal will appear you can either slide down the modal, click Next Step for buyer to pay upfront cash or Confirm Payment for Full Credit buyer as shown below respectively.
+- Tap **`Create Order`** whereby a modal will slide up for you to select the buyer payment methods as shown below example of Lipa Na Sevi, a Full Credit Option.
 
-<img src="/agent//V0.71.95/024.png" alt="Order Details Modal request payment 1" width="300"/>  
-<img src="/agent//V0.71.95/026.png" alt="Order Details Modal request payment 1" width="300"/>
-
+<div align="left">
+<img src="/agent//V0.71.109/024.png" alt="Order Details Modal request payment options" width="300" style={{marginRight: '12px', marginBottom: '12px'}}/>  
+<img src="/agent//V0.71.109/025.png" alt="Order Details Modal request payment option 1" width="300" style={{marginRight: '12px', marginBottom: '12px'}}/>
+<img src="/agent//V0.71.109/026.png" alt="Order Details Modal request payment option 1 final screen" width="300" style={{marginRight: '12px', marginBottom: '12px'}}/>
+</div>
 
 
 - The buyer will get a **notification** in their Sevi app Payments section under **Important Action** with a confirm button.  
@@ -54,31 +56,75 @@ Once all details are filled in:
   - **Payment Methods**   
 
 
-## 5. ✅ Buyer Confirms & Pays
-- When the seller delivers the order, the buyer must tap **Confirm & Pay** in their app.  
-- If **Pay Later** was chosen, payment will be due as per the credit terms. 
-- If **Pay Now** was chosen, payment will be made instantly via an M-Pesa prompt or Sevi Wallet option.    
+## 5. ✅ Buyer Confirms the Payment
 
-
-### Sample Screens for Split Payment Options
-
-#### **1. Pay Later Full Credit (Sevi):**  
+When the seller delivers the order, the buyer must tap **Confirm** in their app.  
   
-  <img src="/buyer/V0.71.95/007.png" alt="Payment Request Notification on payment" width="200"/>
-  <img src="/buyer/V0.71.95/008.png" alt="Confirm Payment Screen Full Credit option 1" width="200"/>  
-  <img src="/buyer/V0.71.95/009.png" alt="Confirm Payment Screen Full Credit option 2" width="200"/>  
-  <!-- <img src="/agent/020.png" alt="Payment Processing Pay Later" wisdth="200"/>   -->
-  <img src="/agent/021.png" alt="Payment Success Pay Later" width="200"/>  
+- **Lipa na Sevi** (Pay with your Sevi credit limit) - This is a full credit option if buyer limit sustains the full order amount. 
+- **Split Pay** (Pay a bit now and the rest later) - This is an option whereby if the order amount exceeds buyer's available credit limit, so they can pay the topup via M-pesa or Sevi Wallet and the rest will be paid by Sevi using the available credit limit. 
+- **Lipa Direct** (Pay with M-pesa or your Wallet balance) - This is Same as Cash payment.   
 
-#### **2. Pay Now Directly (M-Pesa/Sevi Wallet):**  
-  <img src="/buyer/V0.71.95/010.png" alt="Confirm Payment Screen Pay Now option 1" width="200"/>  
-  <img src="/buyer/V0.71.95/011.png" alt="Confirm Payment Screen Pay Now option 2" width="200"/> 
-  <img src="/buyer/V0.71.95/012.png" alt="Confirm Payment Screen Pay Now option Mpesa" width="200"/> 
-  <img src="/buyer/V0.71.95/013.png" alt="Confirm Payment Screen Pay Now option Prompt Screen" width="200"/>
-  <img src="/buyer/V0.71.95/014.png" alt="Confirm Payment Screen Pay Now option Mpesa Prompt" width="200"/>  
-  <img src="/agent/021.png" alt="Payment Success M-Pesa" width="200"/>  
 
+# Sample Screens for Buyer Confirming Payment Methods
+
+## 1. Lipa na Sevi
+
+<div align="left">
+
+<img src="/buyer/V0.71.109/007.png" alt="Payment request notification screen" width="200" style={{marginRight: '12px', marginBottom: '12px'}} />
+
+<img src="/buyer/V0.71.109/008.png" alt="Confirm payment options screen" width="200" style={{marginRight: '12px', marginBottom: '12px'}} />
+
+<img src="/buyer/V0.71.109/009.png" alt="Full credit payment selected screen" width="200" style={{marginRight: '12px', marginBottom: '12px'}} />
+
+<img src="/buyer/V0.71.109/010.png" alt="Enter Sevi PIN confirmation screen" width="200" style={{marginRight: '12px', marginBottom: '12px'}} />
+
+<img src="/agent/021.png" alt="Payment success confirmation screen" width="200" style={{marginRight: '12px', marginBottom: '12px'}} />
+
+</div>
+
+---
+
+## 2. Split Pay
+
+<div align="left">
+
+<img src="/buyer/V0.71.109/split1.png" alt="Split pay option initial screen" width="200" style={{marginRight: '12px', marginBottom: '12px'}} />
+
+<img src="/buyer/V0.71.109/split2.png" alt="Split pay payment amount adjustment screen" width="200" style={{marginRight: '12px', marginBottom: '12px'}} />
+
+<img src="/buyer/V0.71.109/split3.png" alt="Split pay amount selection screen" width="200" style={{marginRight: '12px', marginBottom: '12px'}} />
+
+<img src="/buyer/V0.71.109/split4.png" alt="Split pay M-Pesa payment initiation screen" width="200" style={{marginRight: '12px', marginBottom: '12px'}} />
+
+<img src="/buyer/V0.71.109/split5.png" alt="Split pay confirmation screen" width="200" style={{marginRight: '12px', marginBottom: '12px'}} />
+
+<img src="/buyer/V0.71.109/013.png" alt="M-Pesa STK push confirmation screen" width="200" style={{marginRight: '12px', marginBottom: '12px'}} />
+
+<img src="/agent/021.png" alt="Split pay success screen" width="200" style={{marginRight: '12px', marginBottom: '12px'}} />
+
+</div>
+
+---
+
+## 3. Lipa Direct
+
+<div align="left">
+
+<img src="/buyer/V0.71.109/007.png" alt="Payment request notification screen" width="200" style={{marginRight: '12px', marginBottom: '12px'}} />
+
+<img src="/buyer/V0.71.109/008.png" alt="Confirm payment options screen" width="200" style={{marginRight: '12px', marginBottom: '12px'}} />
+
+<img src="/buyer/V0.71.109/011.png" alt="Lipa direct option selected screen" width="200" style={{marginRight: '12px', marginBottom: '12px'}} />
+
+<img src="/buyer/V0.71.109/012.png" alt="M-Pesa payment initiation screen" width="200" style={{marginRight: '12px', marginBottom: '12px'}} />
+
+<img src="/buyer/V0.71.109/013.png" alt="M-Pesa STK push confirmation screen" width="200" style={{marginRight: '12px', marginBottom: '12px'}} />
+
+<img src="/agent/021.png" alt="Payment success confirmation screen" width="200" style={{marginRight: '12px', marginBottom: '12px'}} />
+
+</div>
 
 :::tip
-Remind the buyer to **only confirm & pay** the order once delivery has been fulfilled by the seller.  
+Remind the buyer to **only confirm payment** of the order once delivery has been fulfilled by the seller. (Depending on the seller terms) 
 :::
