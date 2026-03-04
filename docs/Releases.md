@@ -1,22 +1,54 @@
-
 # Latest Releases
 
-  
 ---
 
-## 0.0.1 - Admin - September 19
+## 📱0.71.109 — Mobile  
+**Released: February 20, 2026**
 
-### Profile
+### Simplified Payment Methods & Improved UI Flows
 
-You can now add a company profile including, logo, products and where you ship your products all under Settings then Profile.
+We’ve streamlined the payment experience across the Sevi App for **Buyers, Agents, and Sellers**.
 
- ![Admin Profile Settings Page](/seller/admin/021.png)
+#### What’s Improved:
+- Clearer and simplified payment method selection  
+- Improved confirmation flow when approving payment requests  
+- Better user experience when creating payment requests  
+- More intuitive Split Pay and Full Credit options  
 
+👉 Learn more: [Checkout Guide](/docs/agent/create-payment-request)
 
-## 0.0.3 - Admin - December 17 2025
+---
 
-### Orders
+## 🖥️ 0.0.3 — Admin  
+**Released: December 17, 2025**
 
-You can now be able to send an M-Pesa Prompt to customers who want to pay on cash either the full order payment or partial payment. [Checkout Guide](/docs/seller/admin/order.md)
+### Orders – M-Pesa Prompt Support
 
-![Orders Page Mpesa Prompt](/seller/admin/020.png)
+You can now send an **M-Pesa Prompt** directly to customers who want to pay:
+
+- Full order amount (Cash payment)  
+- Partial payment  
+
+This makes it easier to collect payments instantly from customers.
+
+👉 Learn more: [Checkout Guide](/docs/seller/admin/order.md)
+
+![Orders Page M-Pesa Prompt](/seller/admin/020.png)
+
+---
+
+## 🖥️ 0.0.1 — Admin  
+**Released: September 19, 2025**
+
+### Company Profile Setup
+
+You can now configure your company profile under:
+
+**Settings → Profile**
+
+Sellers can:
+- Upload a company logo  
+- Add products  
+- Specify shipping locations  
+
+![Admin Profile Settings Page](/seller/admin/021.png)
