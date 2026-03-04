@@ -15,9 +15,11 @@ This section helps you **view all your statements** and **withdraw funds** from 
    - Tap the **calendar icon** to **filter by date range**.  
    - Or tap a **specific date** to view transactions for that day only.  
 
-<img src="/seller/V0.71.95/010.png" alt="Statements Button" width="300"/>  
-<img src="/seller/V0.71.95/011.png" alt="Statements Screen" width="300"/>  
-<img src="/seller/013.png" alt="Calendar Filter" width="300"/>  
+<div align="left">
+<img src="/seller/V0.71.109/014.png" alt="Statements Button" width="300" style={{marginRight: '12px', marginBottom: '12px'}} />  
+<img src="/seller/V0.71.109/015.png" alt="Statements Screen" width="300" style={{marginRight: '12px', marginBottom: '12px'}} />  
+<img src="/seller/013.png" alt="Calendar Filter" width="300" style={{marginRight: '12px', marginBottom: '12px'}} />  
+</div>
 
 :::tip
 Filtering helps you track your daily, weekly, or monthly performance easily.
