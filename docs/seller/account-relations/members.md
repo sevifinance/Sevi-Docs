@@ -17,7 +17,7 @@ Each member added is assigned a **role** that defines what actions they can perf
    - **Phone Number**  
    - **Role** (Admin, Member, or Agent)
 
-<img src="/seller/V0.71.95/009.png" alt="Seller Members List" width="300"/>
+<img src="/seller/V0.71.109/012.png" alt="Seller Members List" width="300"/>
 
 
 ## Member Roles Explained

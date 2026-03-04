@@ -15,7 +15,7 @@ The **Customers** section allows you to view and manage all buyers linked to you
    - **Status** (Pending, Waiting On, Active, or Inactive)
    - **Credit Limit** (if already verified)
 
-<img src="/seller/V0.71.95/008.png" alt="Customers List Screen" width="300"/>
+<img src="/seller/V0.71.109/011.png" alt="Customers List Screen" width="300"/>
 
 
 ## Buyer Status Explained
@@ -34,7 +34,10 @@ If you want to onboard a new customer:
 3. Fill in their business details:  
    - Shop Name  
    - Phone Number  
-4. Tap **`Add Customer`** to send them an SMS invitation with a link to download Sevi.
+4. Tap **`Start Onboarding`** to send them an SMS invitation with a link to download Sevi.
+
+<img src="/seller/V0.71.109/013.png" alt="Customers Inviting" width="300"/>
+
 
 Once the buyer completes registration and verification, they’ll appear as **Active** in your list.
 
