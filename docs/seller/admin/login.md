@@ -16,10 +16,11 @@ The **Sevi Admin Portal** uses a secure **QR-based login system** that connects 
 5. **Scan the QR code** displayed on the web page using your phone.  
 6. You’ll be automatically logged into your **Admin Portal Dashboard**.
 
-<img src="/seller/admin/001.png" alt="Login to admin portal from Sevi app" width="250"/>  
-<img src="/seller/admin/002.png" alt="Select login method" width="250"/>  
-<img src="/seller/admin/003.png" alt="Scan QR code screen" width="250"/>  
-
+<div align="left">
+<img src="/seller/admin/001.png" alt="Login to admin portal from Sevi app" width="250" style={{marginRight: '12px', marginBottom: '12px'}} />  
+<img src="/seller/admin/002.png" alt="Select login method" width="250" style={{marginRight: '12px', marginBottom: '12px'}} />  
+<img src="/seller/admin/003.png" alt="Scan QR code screen" width="250" style={{marginRight: '12px', marginBottom: '12px'}} />  
+</div>
 ---
 <!-- <img src="/seller/admin/login.png" alt="Sevi Admin Portal QR login screen" width="400"/> -->
 ![Sevi Admin Portal QR login screen](/seller/admin/login.png)
