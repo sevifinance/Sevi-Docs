@@ -36,8 +36,10 @@ With Sevi, you can sell confidently without worrying about late or missed paymen
 If your buyers do not have smartphones, your **sales agents** can complete all steps on their behalf using the **Sevi Seller App**. Also the customers are able to use USSD to process order payments.  
 
 We have step-by-step guides for:  
-- [Buyers with Smartphones](/docs/buyer/step-by-step-process/register)  
+- [Buyers with Smartphones](/docs/buyer/step-by-step-process/register)
+- [Buyers using USSD](/docs/buyer/ussd)  
 - [Agents (Onboarding Buyers)](/docs/agent/add-buyer)  
+  
 
 
 ## Apply to Join Sevi
