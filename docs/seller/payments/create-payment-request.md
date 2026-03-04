@@ -56,6 +56,6 @@ You can track payment status under **Payments**.
 <img src="/seller/V0.71.109/005.png" alt="Payments List with Pending" width="300"/>
 
 
-**Next:** Learn [Payment Statuses Meaning](/docs/seller/payments/payment-status). 
+<!-- **Next:** Learn [Payment Statuses Meaning](/docs/seller/payments/payment-status).  -->
 
 <!-- **Next:** Learn how to [Cancel or Edit a Payment Request](/docs/seller/payments/cancel-payment).   -->
