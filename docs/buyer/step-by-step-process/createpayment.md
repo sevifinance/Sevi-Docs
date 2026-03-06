@@ -8,6 +8,7 @@ As a buyer, you can make payments to your supplier (seller) in two ways:
 
 1. **Through a manual payment request created by your agent or supplier**  
 2. **Through a supplier’s online shop (integrated with Sevi API)**  
+3. **Through your own Sevi App**  
 
 In both cases, the **Payment Request** will appear in your Sevi App for you to review and confirm.  
 
@@ -42,6 +43,11 @@ Make sure the phone number you enter at checkout is the **same one linked to you
 :::  
 
 After checkout, you’ll receive a notification in your Sevi app with the payment details.  
+
+
+## Option 3: Through your own Sevi App
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/HuLi5wR_z_A?si=zvEDpdxQ9VGgNGqk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Next Step: Confirm & Choose Payment Methods  

@@ -4,6 +4,8 @@ sidebar_position: 5
 
 # Step 5: Repay Your Credit  
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/WJPuh3hTPYE?si=dwbQJGCCv1h2cdZJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Sevi makes it simple to manage and repay your credit.  
 You’ll receive **SMS reminders** and **push notifications** so you never miss a due date.  
 

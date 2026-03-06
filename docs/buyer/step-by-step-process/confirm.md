@@ -4,6 +4,9 @@ sidebar_position: 4
 
 # Step 4: Confirm Payments
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/td6nL8I-PNw?si=__5m754TuzCfytS5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 Once your payment request appears in Sevi, you must confirm and select how to pay:  
 - **Lipa na Sevi** (Pay with your Sevi credit limit) - This is a full credit option if your limit sustains the full order amount. 
 - **Split Pay** (Pay a bit now and the rest later) - This is an option whereby if your order amount exceeds your available credit limit, so you can pay the topup via M-pesa or Sevi Wallet and the rest will be paid by Sevi using the available credit limit. 

@@ -4,6 +4,10 @@ sidebar_position: 1
 
 # Create an Agent Account
 
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Wxv0kdgOY_k?si=EVH84P12Waxjb8Zw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 Once you already have a **Sevi Personal Account**, you can easily add an **Agent Account** to start helping others trade on Sevi.  
 
 For Initial Registration steps, [Check Step by step process](/docs/buyer/step-by-step-process/register)  
